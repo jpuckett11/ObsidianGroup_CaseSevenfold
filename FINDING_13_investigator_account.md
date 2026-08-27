@@ -172,3 +172,25 @@ requires the document to be citable.
 > Contemporaneous toxicology was positive for mitragynine and THC and negative
 > for all other opioids. Documentation is retained by the account holder and
 > available for verification.
+
+
+---
+
+## FILING RECORD
+
+Where this account has been submitted, and its status. Update on each filing.
+
+| Destination | Docket / ref | Status | Date |
+|---|---|---|---|
+| Public repository | github.com/jpuckett11/ObsidianGroup_CaseSevenfold | **PUBLISHED** | 2026-08-27 |
+| HHS OASH comment docket | HHS-OASH-2026-0232, section 5 of the OWG comment | **DRAFTED, NOT YET FILED** | deadline 2026-09-10 |
+| Senate Finance Cttee (Wyden inquiry) | firsthand account paragraph of the OWG submission | **DRAFTED, NOT YET SENT** — awaiting a staff address | response date 2026-08-31 |
+
+**Filing note.** The regulations.gov API refuses comment submission on a standard
+key (HTTP 403, "not authorized to access the given service"); POST access is
+restricted to registered bulk submitters. The OASH comment must be filed through
+the web form at regulations.gov under docket **HHS-OASH-2026-0232**.
+
+**On each filing, record here:** the confirmation or tracking number, the date, and
+the exact text submitted. A submission whose own provenance is not recorded is
+worth less later, and this case turns on provenance discipline throughout.
