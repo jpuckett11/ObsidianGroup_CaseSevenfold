@@ -157,6 +157,8 @@ dependence. He had no prior opioid dependence.
   - Withdrawal was medically managed with prescribed buprenorphine, a partial
     mu-opioid agonist indicated for opioid withdrawal. A licensed prescriber
     assessed the presentation and treated it as opioid withdrawal.
+  - The dose was 8 mg tablets, 3.75 tablets in total, a cumulative 30 mg of
+    buprenorphine across the withdrawal course.
   - Contemporaneous toxicology was positive for mitragynine and for THC, and
     negative for all other opioids.
 
@@ -187,6 +189,10 @@ LIMITATIONS, STATED PLAINLY
      opioid withdrawal and is not treated with buprenorphine, and we do not
      contend it is a confound for the finding above.
   4. The subject is the author of this comment and is not a disinterested party.
+  5. The cumulative buprenorphine dose was modest. Routine opioid use disorder
+     maintenance commonly runs 8 to 24 mg per day; 30 mg across an entire
+     withdrawal course is consistent with a short taper following limited-duration
+     dependence rather than with an established opioid habit.
 
 REQUESTED ACTION: The Department has stated that no human abuse potential study
 for these substances exists. We ask that it either commission one before this

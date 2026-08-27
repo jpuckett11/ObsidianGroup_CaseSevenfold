@@ -117,8 +117,9 @@ Added at the account holder's direction.
 a contemporaneous drug screen.** He states:
 
 - Withdrawal was **medically managed with prescribed buprenorphine**.
-- It took **3.75 tablets** to complete withdrawal. Tablet strength was not stated
-  and **no milligram figure is recorded or implied**.
+- Dose: **8 mg tablets**. It took **3.75 tablets**, a cumulative
+  **30 mg of buprenorphine** across the withdrawal course. Whether the product was
+  buprenorphine monoproduct or buprenorphine/naloxone is **not specified**.
 - The screen was **positive only for mitragynine and THC**, and therefore
   **negative for all other opioids**.
 - His THC use is **legal hemp-derived product**, volunteered openly rather than
@@ -152,8 +153,14 @@ characteristic of classical opioids."
    establishes the product; the lab result does not.**
 2. **Still n=1.** Does not establish a population rate, and does not support the
    "100%" formulation. Section 4 above stands unchanged.
-3. **A tablet count is not a dose.** 3.75 tablets of unstated strength must never
-   be presented as a severity measure.
+3. **The cumulative dose is modest, and that matters in our favour.** 30 mg total
+   buprenorphine across an entire withdrawal course is small relative to routine
+   opioid use disorder treatment, where daily maintenance commonly runs 8 to 24 mg
+   **per day**. This is the profile of a short taper for limited-duration
+   dependence, **not** of an established opioid habit. It is consistent with the
+   account as given: one week of exposure in a person with no prior opioid
+   dependence. We are not clinicians and offer no clinical opinion beyond the
+   arithmetic.
 4. **The THC must be disclosed wherever this is used.** It does not cause opioid
    withdrawal and is not treated with buprenorphine, so it is not a genuine
    confound. Omitting it and having it surface later would discredit the account.
