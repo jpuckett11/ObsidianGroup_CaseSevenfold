@@ -142,7 +142,59 @@ labeling of alkaloid content, dosing information, and disclosure of dependence a
 withdrawal risk.
 
 
-5. CONSUMER WARNING INFORMATION REMOVED DURING THIS PERIOD
+5. FIRSTHAND ACCOUNT: DEPENDENCE ONSET AND MEDICALLY MANAGED WITHDRAWAL
+
+The Department's own assessment states that "a well-designed human abuse potential
+study has not been conducted that would show whether kratom, mitragynine, or 7-OH
+produce rewarding effects." This Request for Information is therefore the
+appropriate place to submit direct user experience, and we offer one account.
+
+The undersigned took a commercially available 7-OH product deliberately, over
+approximately one week, in order to test the claim that these products produce
+dependence. He had no prior opioid dependence.
+
+  - Physical dependence developed within approximately one week.
+  - Withdrawal was medically managed with prescribed buprenorphine, a partial
+    mu-opioid agonist indicated for opioid withdrawal. A licensed prescriber
+    assessed the presentation and treated it as opioid withdrawal.
+  - Contemporaneous toxicology was positive for mitragynine and for THC, and
+    negative for all other opioids.
+
+Prescription and laboratory documentation is retained and is available to the
+Department for verification on request.
+
+WHY WE SUBMIT THIS
+
+The routine response to kratom-related harm data is that it reflects
+polysubstance use. That response has substantial empirical support: reporting
+based on Florida medical examiner records found other substances present in
+approximately 96 percent of kratom-involved decedents. It does not apply here.
+This account involves no other opioid, and the withdrawal was severe enough to
+require a prescription medication indicated for opioid withdrawal.
+
+This is directly responsive to the Department's stated evidentiary gap. It speaks
+to onset interval and to dependence liability in a person with no prior opioid
+exposure, which is the population the existing record says least about.
+
+LIMITATIONS, STATED PLAINLY
+
+  1. This is a single case. It cannot establish a population rate and we do not
+     offer it as one.
+  2. Toxicology cannot distinguish a 7-OH product from leaf kratom, because 7-OH
+     is both a minor plant constituent and a human metabolite of mitragynine. The
+     product identity rests on what was taken, not on the assay.
+  3. THC was present and is disclosed here for completeness. THC does not produce
+     opioid withdrawal and is not treated with buprenorphine, and we do not
+     contend it is a confound for the finding above.
+  4. The subject is the author of this comment and is not a disinterested party.
+
+REQUESTED ACTION: The Department has stated that no human abuse potential study
+for these substances exists. We ask that it either commission one before this
+threshold is finalized, or state on the record what evidence it relies upon
+regarding dependence liability in users with no prior opioid exposure.
+
+
+6. CONSUMER WARNING INFORMATION REMOVED DURING THIS PERIOD
 
 It has been reported, and not denied by the Department, that kratom harm
 information was removed from FDA web pages during 2025 following requests from a
@@ -160,7 +212,7 @@ January 2025 to date, the requests that prompted each change, and the scientific
 basis relied upon.
 
 
-6. PROCESS TRANSPARENCY
+7. PROCESS TRANSPARENCY
 
 The notice extending this comment period states that the extension was granted "in
 response to a request for an extension." The requesting party is not identified.
