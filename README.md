@@ -28,6 +28,10 @@ deletion by an official holding a stake in them. The links came down.
 
 Start with **[REPORT.md](REPORT.md)**.
 
+**Filed:** a public comment is on federal docket **HHS-OASH-2026-0232**, tracking
+number **`mtc-56yj-nmij`**, submitted 2026-08-27. See **[FILINGS.md](FILINGS.md)**
+for what it asks the Department to answer and what else is outstanding.
+
 ## How to read this
 
 Every claim carries a provenance tag. **They are not decoration.**
