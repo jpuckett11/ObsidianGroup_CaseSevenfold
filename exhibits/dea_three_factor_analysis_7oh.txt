@@ -1,0 +1,683 @@
+                         U.S. Department of Justice
+                      Drug Enforcement Administration
+
+
+
+
+Temporary Placement of 7-Hydroxymitragynine Above a Specified Threshold into
+                                Schedule I
+                      Background, Data, and Analysis:
+                   Three Factors Determinative of Control
+                 and Findings Pursuant to 21 U.S.C 811(h)(3)
+
+
+
+
+                                Prepared by
+                    Drug and Chemical Evaluation Section
+         Diversion Control Division, Drug Enforcement Administration
+                           Washington, DC 20537
+
+
+                                  July 2026
+Introduction
+        7-Hydroxymitragynine 1 is a psychoactive alkaloid found in Mitragyna speciosa (M.
+speciosa) plant, a tropical evergreen tree indigenous to Southeast Asia. While the use of the
+plant was once geographically limited to Southeast Asian countries such as Thailand and
+Malaysia, the use of M. speciosa has since extended to the United States and other global
+markets. Among the numerous alkaloids identified in M. speciosa, the indole alkaloids
+mitragynine (major) and 7-hydroxymitragynine (minor) are primarily responsible for the
+plant’s psychoactive effects. In its natural botanical form, 7-hydroxymitragynine makes up
+less than two percent of the total alkaloid content or occurs in trace amount in M. speciosa.
+However, 7-hydroxymitragynine can be synthesized from mitragynine through a one-step
+step chemical reaction and it also exists as an active oxidized metabolite of mitragynine in
+vivo. Despite their different origins, the chemical structures of synthetic and naturally
+occurring 7-hydroxymitragynine are identical (see Figure 1). Consequently, the intrinsic
+pharmacological profile, receptor affinity, and mechanism of action of 7-
+hydroxymitragynine molecule remain unchanged regardless of its source. While consumers
+of raw plant matrix may experience a modified or attenuated physiological effect due to the
+competitive, co-occurring alkaloids inherent to M.speciosa, isolated or semi-synthetically
+derived formulations deliver unattenuated, high-potency effects of the target alkaloid
+directly, representing a distinct public safety profile when concentrated above the proposed
+threshold.
+
+                                       O
+                                        HO
+                                                      N
+                                          N
+                                              H
+                                                  O        O
+
+                                                      O
+
+
+
+
+Figure 1: Chemical Structure of 7-hydroxymitragynine
+        Recently, the United States has seen a proliferation of 7-hydroxymitragynine
+products. Evidence suggests that commercially available products, including extracts and
+synthetic formulations, contain a significantly higher concentration of 7-
+hydroxymitragynine than what is found in botanical M.speciosa. These products are
+commonly sold on the Internet and in retail outlets, such as gas stations and smoke shops.
+They are distributed as individual dosage units, including pressed tablets, capsules,
+chewable, and gummies and, or as single retail containers, such as concentrated liquid
+bottles, vials, pouches, vape cartridges, and small extract jars. To date, the safety profile of
+
+1
+  Chemically known as methyl (E)-2-((2S,3S,7aS,12bS)-3-ethyl-7a-hydroxy-8-methoxy-1,2,3,4,6,7,7a,12b-
+octahydroindolo[2,3-a]quinolizin-2-yl)-3-methoxyacrylate (also known as: (αE,2S,3S,7aS,12bS)-3-ethyl-
+l,2,3,4,6,7,7a,12b-octahydro-7a-hydroxy-8-methoxy-a-( methoxymethylene )-indolo [2,3-a] quino lizine-2-
+acetic acid methyl ester)
+                                                      2
+these concentrated products in humans remains unknown because no controlled clinical
+trials have been conducted to establish safe consumption limits or standardized dosing
+        7-Hydroxymitragynine has opioidergic activity, sharing a similar pharmacological
+profile to schedule II opioids like morphine. Preclinical data indicates that 7-
+hydroxymitragynine carries a high abuse potential, with safety risks-including tolerance,
+dependence, and respiratory depression, which are comparable to those of classic opioid
+analgesics. The United States has recently seen an emergence of products containing 7-
+hydroxymitragynine, which are often characterized by ambiguous dosages and misleading
+marketing, frequently being labeled as “natural M.speciosa extracts.” While sellers
+promote these products for their psychoactive and opioidergic effects of only 7-
+hydroxymitragynine, evidence demonstrates these products may also contain other opioid
+alkaloids, such as mitragynine pseudoindoxyl. These combinations, coupled with a lack of
+regulatory oversight, pose significant safety risk to unsuspecting consumers by exposing
+them to high doses of opioids. The absence of clinical evidence to support vendor health
+claims is deeply concerning. Consequently, 7-hydroxymitragynine products pose
+significant health risks, as essential information regarding their purity, identity, quantity and
+long-term safety remain unknown.
+       7-Hydroxymitragynine does not meet the U.S. Food and Drug Administration’s
+(FDA) safety standard for drug, dietary supplements or dietary ingredients, and has not
+been proven safe or effective for any drug use. FDA has issued warning letters to
+companies clarifying that 7-hydroxymitragyine is not an FDA-approved drug product and
+no food additive regulation has authorized the use of 7-hydroxymitragynine in food supply.
+Furthermore, FDA has warned consumers against using products labeled as 7-
+hydroxymitragynine, as they have not been proven safe or effective for any use. 2 Fatal
+overdoses involving 7-hydroxymitragynine have been reported, making its wide availability
+and unknown safety profile a significant threat to public health, which is particularly
+concerning in the midst of an opioid crisis.
+Background
+       By letter dated July 28, 2025, pursuant to 21 U.S.C. 811(b) and (c), HHS provided
+to DEA a scientific and medical evaluation entitled “Basis for the Recommendation to
+Control 7-Hydroxymitragynine and its Salts, As Present in excess of the Specified
+Threshold Limit Described Herein, in Schedule I of the Controlled Substances Act,” and
+recommended that 7-hydroxymitragynine as described below be permanently controlled in
+Schedule I of the CSA.
+       In a letter to HHS dated February 24, 2026, the Administrator of DEA notified the
+Assistant Secretary for Health (Assistant Secretary) of his intention to publish in the
+
+2
+ FDA Issues Warning Letters to Firms Marketing Products Containing 7-Hydroxymitragynine | FDA,
+available at https://www.fda.gov/news-events/press-announcements/fda-issues-warning-letters-firms-
+marketing-products-containing-7
+hydroxymitragynine#:~:text=FDA%20Issues%20Warning%20Letters%20to%20Firms%20Marketing%20Pro
+ducts%20Containing%207%2DHydroxymitragynine,-
+Alkaloid%20known%20as&text=The%20U.S.%20Food%20and%20Drug,also%20known%20as%207%2DO
+H,
+                                                3
+Federal Register a Notice of Intent to temporarily place 7-hydroxymitragynine above a
+specified threshold (derived from HHS’s July 2025 scheduling recommendation) 3 in
+schedule I of the CSA pursuant to the temporary scheduling provision of the CSA, 21
+U.S.C. 811(h). The Assistant Secretary responded to this notice by letter dated March 6,
+2026, and advised that based on a review by FDA, there are no approved new drug
+applications or investigational new drug applications for 7-hydroxymitragynine. The
+Assistant Secretary also stated that HHS has no objection to the temporary placement of 7-
+hydroxymitragynine above the specified threshold into schedule I of the CSA.
+        In light of the opioid pharmacological profile, false marketing claims, and
+associated risk with the misuse of 7-hydroxymitragynine, DEA reviewed the available
+scientific, medical, law enforcement, and all other relevant data on 7-hydroxymitragynine.
+With no approved medical use, the misuse of 7-hydroxymitragynine products underscores
+the public health threat posed by this substance. Thus, to protect public health and to avoid
+an imminent hazard to public safety, DEA intends to temporarily place 7-
+hydroxymitragynine above a specified threshold in schedule I of the CSA. The data
+presented in this document supports the determination by DEA to control this substance
+under the temporary scheduling provision of the CSA. 21 U.S.C. 811(h)(1). With respect to
+finding that control of this substance is necessary to avoid an imminent hazard to public
+safety, DEA has considered the three factors required under the CSA for the temporary
+scheduling of 7-hydroxymitragynine above a specified threshold. 21 U.S.C. 811(c)(4)–(6)
+and (h)(90).
+Factor 4. Its history and current pattern of abuse
+        7-Hydroxymitragynine is most commonly marketed in isolated form or as
+component of M. speciosa. Historically, M. speciosa has been used for a variety of
+purposes including as an opium substitute and a treatment of various opioid withdrawal
+symptoms, such as pain, cough, anxiety, diarrhea, and intestinal difficulty (Cinosi et al.,
+2015; Dorman et al., 2015; Swogger et al., 2015; Garcia-Romeu et al., 2020; Heywood et
+al., 2024; Alsobrook et al., 2025; Grundmann et al., 2025). While the use of the plant was
+once geographically limited to Southeast Asia, the marketing in the United States of 7-
+hydroxymitragynine products has been aggressive and often indistinguishable from the sale
+of M. speciosa (Smith et al., 2025). In recent years, 7-hydroxymitragynine has been
+
+3
+ The specified threshold for 7-hydroxymitragynine was adapted from the definition used by HHS, which is
+described as follows:
+         (A) Any botanical material of the plant Mitragyna speciosa, also known as kratom, and contains
+               more than 0.050 percentage of 7-hydroxymitragynine on a dry weight basis, or
+         (B) Any alternative article or material to that described in (A), that is:
+                  i. Resulting from synthetic methods and containing 7-hydroxymitragynine present in
+                      amounts greater than 0.050 percentage weight/weight, weight/volume, or volume/volume
+                      or greater than 1.00 milligram of 7-hydroxymitragynine in the article, or
+                  ii. Material derived from Mitragyna speciosa and further processed to manufacture
+                      alternative dosage forms such as extracts, concentrates, processed edibles, or pressed
+                      pills, and which may have materials that have been exposed to chemical, thermal, or
+                      other methods leading to chemical transformations that result in 7-hydroxymitragynine
+                      present in amounts greater than 0.050 percentage weight/weight, weight/volume, or
+                      volume/volume, or greater than 1.00 milligram of 7-OH in the article.
+                                                     4
+unlawfully marketed as a natural extract or dietary supplement 4 despite failing to meet
+FDA’s safety standard for dietary supplements or dietary ingredients. Anecdotal
+information from users who post on social media indicates that many users are self-treating
+chronic pain with unregulated 7-hydroxymitragynine products (NDEWS, 2025).
+Product Formulation and Marketing Claims
+        7-Hydroxymitragynine products are readily obtained from smoke shops, gas
+stations, and online vendors in various forms, including tablets, liquid oral beverages
+(shots), capsules, powder, syrup, vapes, sublingual pouch/strips, nasal spray, chewable, and
+liquid extracts (Grundmann et al., 2025; Heywood et al., 2024; Hill et al., 2025; Ogozalek
+2023; Sharma, et al., 2024; Smith et al., 2025). These products are commonly sold with
+names such as “7 Ohmz”, “7-hydroxy”, and “7-OH” and they are presented in colorful
+packages. An investigation by Hill et al (2025) identified 250 products sold between
+September 2024 through February 2025, noting that chewable/sublingual tablets were the
+most common formulation. Sellers claim these products can be used for general wellbeing
+and increased focus. Specific marketing language for these chewable formats often
+emphasizes the ease of use:
+        “The chewable format is designed for convenience, allowing you to simply chew a
+tablet and savor the berry flavor. This eliminates the need for mixing or preparation… The
+compact size of each tablet makes them portable and perfect for on-the-go use, so you can
+carry them in your bag or pocket and take them whenever needed.”
+Dosing and Cost Analysis
+        The Hill et al., investigation further highlighted the concerns regarding standardized
+dosing and cost. The concentration of 7-hydroxymitragynine products varied significantly,
+ranging from 1 mg - 700 mg in a single dose or serving. One example of a dosing
+recommendation states: “Every pouch includes four expertly pressed classic extract tablets.
+These tablets are scored down the center for easy dosing and contain two servings total.
+Each serving is 7.5mg of pure 7-OH extract, for 15mg total per tablet.” The average cost
+per dose across most products containing 7-hydroxymitragynine was about $3.97 (Hill et
+al., 2025).
+Table 1: Dosage and Cost of Some 7-hydroxymitragnine Products Sold Online
+    Characteristics                       Minimum                   Maximum                         Mean
+    Total package (mg)                       2                        7000                          120.48
+    Single Dose/Serving (mg)                 2                         750                           36.41
+    Recommended Dose/Serving                 1                         700                           21.92
+    (mg)
+    Cost of Package ($)                       3.95                    139.95                        21.97
+    Cost/recommended                          1.14                     17.99                         4.04
+    Dose/Serving ($)
+
+4
+  FDA issued warning letters to firms marketing products containing 7-hydroxymitragynine stating it is not a
+lawful dietary supplement, food additive, or ingredient in any approved drug”. FDA Issues Warning Letters to
+Firms Marketing Products Containing 7-Hydroxymitragynine | FDA
+                                                     5
+        Anecdotal information synthesized from user-contributed reports and subsequently
+analyzed by clinical educators between 2024 and early 2025 provide additional information
+on abuse patterns of kratom products. Users consistently report a transition from traditional
+kratom leaf to 7-hydroxymitragynine tablets (e.g., 7OHMZ, Press’d, Hydroxie). 7-
+Hydroxymitragynine was described as the “cleanest and most euphoric high” that lacks
+“ceiling effect of nausea” of the plain leaf. A dominant theme is the short-lived nature of
+the 7-hydroxymitragynine high. Users report the urge to redose frequently.
+        The National Drug Early Warning System (NDEWS) conducted web monitoring on
+reddit mentions of kratom and its derivates. In the report, information provided by reddit
+discussants surrounding kratom and 7-hydroxymitragynine shows that users often compare
+7-hydroxymitragynine effects to prescription opioids like oxycodone and hydrocodone,
+with users expressing worry on how such potent products are legally available at smoke
+shops. Discussants also mentioned the ease and convenience of buying products at gas
+stations and noted how this can be a concern for impulse use due to its ease of accessibility.
+Further, discussions on prices found that 7-hydroxymitragynine and kratom products ranged
+from $15-40 per retail unit (NDEWS, 2025).
+       In summary, 7-hydroxymitragynine products are available in different forms and
+can be purchased easily via several avenues, predominantly via the Internet. This is a shift
+from traditional botanical use to aggressive marketing of highly concentrated products in
+the United States.
+Factor 5: The scope, duration, and significance of abuse
+        The abuse of 7-hydroxymitragynine is increasing and widespread. Given its
+pharmacological profile as an opioid agonist with high abuse potential, the marketing of 7-
+hydroxymitragynine products to consumers as botanical supplements constitutes a
+significant public health risk.
+        Hill et al (2025) note that 7-hydroxymitragynine, a potent opioid, presents overdose
+risk and toxicity to users because its chemical manufacturing process is inconsistent and
+does not adhere to good manufacturing practices. This lack of oversight may lead to
+variation in doses and composition in final products. Further, 7-hydroxymitragynine is sold
+as sublingual pouch/tablet, a formulation known to deliver drugs rapidly into the systemic
+circulation. This rapid delivery, coupled with 7-hydroxymitragynine’s known
+pharmacokinetic profile presents a significance of abuse (Hill et al., 2025; Maxwell et al.,
+2021; Sharma et al., 2025).
+        7-hydroxymitragynine sellers make claims of its opioidergic effects (Hill et al.,
+2025). Preclinical data indicates that 7-hydroxymitragynine carries a high abuse potential,
+with risks-including tolerance, dependence, and respiratory depression-comparable to those
+of classic opioid analgesics. Evidence demonstrates that 7-hydroxymitragynine products
+have been identified to contain other opioid alkaloids such as mitragynine pseudoindoxyl. 5
+
+
+
+5
+    7-Hydroxy_Mitragynine_NPS_Discovery_033125.pdf
+                                                6
+These combinations and practice pose significant safety risk to unsuspecting consumers by
+exposing them to high doses of opioids.
+       Hence, 7-hydroxymitragynine products sold as unregulated dietary supplements
+pose significant health risks to users because information on their purity, identity, quantity
+and safety is unknown.
+Law Enforcement Encounters
+        The number of seizures for 7-hydroxymitragynine as reported in law enforcement
+systems is currently limited, primarily because forensic chemists often prioritize the
+identification of mitragynine, the major alkaloid in M. speciosa, rather than extending
+analysis to the identification minor alkaloids such as 7-hydroxymitragynine. Furthermore,
+because 7-hydroxymitragynine is not federally controlled under the CSA, additional
+forensic identification may be limited. For example, some forensic laboratories may not
+place emphasis on analyzing or tracking the encounters of non-controlled substances,
+making it unlikely to be fully reported to forensic laboratories databases. Nonetheless,
+available data from the National Forensic Laboratory Information System, 6 shows that there
+has been a total of 86 reports of 7-hydroxymitagynine from 17 states (see Table 2). In
+addition, according to the data report from the Department of Homeland Security (DHS)
+office of field operations, seizures of M. speciosa (identified as either mitragynine or 7-
+hydroxymitragynine) at ports of entry have fluctuated over the last decade, 27.18 kg in
+2017, 0.52 kg in 2018, and 2,675.22 kg in 2019 (see Table 3). 7 These law enforcement data
+collectively illustrate the widespread and increasing availability of products containing 7-
+hydroxymitragynine within the domestic kratom drug market.
+Table 2: Summary of State Encounter of 7-hydroxymitragynine within NFLIS-Drug
+    State                               2025*                                   2026*
+    Arkansas                            12                                      4
+    California                          1                                       0
+    Florida                             6                                       10
+    Illinois                            1                                       0
+    Indiana                             6                                       1
+    Iowa                                5                                       5
+    Louisiana                           5                                       0
+    Maryland                            0                                       1
+    Missouri                            1                                       1
+    Nebraska                            4                                       0
+    New York                            1                                       0
+
+
+6
+  The National Forensic Laboratory Information System (NFLIS) represents an important resource in
+monitoring illicit drug trafficking, including the diversion of legally manufactured pharmaceuticals into illegal
+markets. NFLIS is a comprehensive information system that includes data from forensic laboratories that
+handle more than 96% of an estimated 1.0 million distinct annual State and local drug analysis cases. NFLIS
+includes drug chemistry results from completed analyses only. While NFLIS data is not direct evidence of
+abuse, it can lead to an inference that a drug has been diverted and abused. See 76 FR 77330, 77332, Dec. 12,
+2011. NFLIS data were queried May 21, 2026.
+7
+  Department of Homeland Security Border Security Metrics Report: 2021. Accessed 08/01/2025
+                                                       7
+    North Carolina                    1                                     1
+    Ohio                              5                                     1
+    South Carolina                    7                                     0
+    Tennessee                         2                                     0
+    Texas                             0                                     2
+    Washington                        0                                     1
+    Wyoming                           1                                     1
+    Total                             58                                    28
+*Reports to NFLIS-Drug are still pending for 2025 and 2026
+
+Table 3: DHS Office of Field Operation on Drug Seizures at Port of Entry 2017-2019
+                                            2017              2018                2019
+    M.speciosa (Mitragynine/7-              27.18 kg          0.52 kg             2,675.22 kg
+    hydroxymitragynine)
+
+
+FDA Warning Letters
+        Between June and July 2025, FDA issued seven warning letters 8 to marketers and
+distributors for the unlawful use of 7-hydroxymitragynine as a drug, dietary supplements, or
+added to conventional food. The warning letters explicitly stated that 7-hydroxymitragyine
+is not an FDA-approved drug product and that no food additive regulation has authorized
+the use of 7-hydroxymitragynine in food. Instead, FDA classified 7-hydroxymitragynine as
+a “new dietary ingredient” under section 413(d) of the FD&C Act, 21 U.S.C. 350b(d))
+because there is no evidence demonstrating it was marketed as a dietary ingredient in the
+United States before October 15, 1994. Some letters noted that as a new dietary
+supplement, 7-hydroxymitraghynine is considered adulterated under section 402(f)(l)(B) of
+the FD&C Act, 21 U.S.C. 342(f)(l)(B)). This is because there is inadequate information
+providing reasonable assurance that the ingredient, 7-hydroxymitragynine, does not present
+a significant or unreasonable risk of illness or injury. Of note was FDA’s warning letter
+issued on June 25, 2025, to a company 9 selling “7OHMZ 7-Hydroxymitragynine
+Gummies.” FDA cautioned that such products maybe appealing to children due to their
+packaging. Other warning letters targeted the illegal sale of unapproved 7-
+8
+  Warning Letters | FDAFDA Issues Warning Letters to Firms Marketing Products Containing 7-
+Hydroxymitragynine | FDA https://www.fda.gov/news-events/press-announcements/fda-issues-warning-
+letters-firms-marketing-products-containing-7-hydroxymitragynine ; 7Tabz Retail, LLC - 709546 -
+06/25/2025 | FDA. https://www.fda.gov/inspections-compliance-enforcement-and-criminal-
+investigations/warning-letters/7tabz-retail-llc-709546-06252025; https://www.fda.gov/inspections-
+compliance-enforcement-and-criminal-investigations/warning-letters/hydroxie-llc-709661-06252025;
+https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-
+letters/shaman-botanicals-llc-709622-06252025; https://www.fda.gov/inspections-compliance-enforcement-
+and-criminal-investigations/warning-letters/royal-diamond-imports-inc-709540-06252025;
+https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/thang-
+botanicals-inc-dba-7ohmz-7-ohmz-or-7ohmz-710190-06252025; https://www.fda.gov/inspections-
+compliance-enforcement-and-criminal-investigations/warning-letters/relax-relief-rejuvenate-trading-llc-dba-
+rrr-trading-or-edp-kratom-709475-06252025; https://www.fda.gov/inspections-compliance-enforcement-and-
+criminal-investigations/warning-letters/relax-relief-rejuvenate-trading-llc-dba-rrr-trading-or-edp-kratom-
+709475-06252025.
+9
+  Thang Botanicals, Inc. d/b/a 7ΩHMZ, 7-OHMZ, or 7OHMZMARCS-CMS 710190. June 25, 2025
+                                                     8
+hydroxymitragynine products marketed for the treatment of pain, relaxation, mood
+enhancement, and other medical conditions. Companies utilized websites and social media
+pages to make unproven medical claims for 7-hydroxymitragynine such as describing
+tablets as “expertly formulated to provide a potent dose” or promising “intense relaxation
+and a feeling of pure bliss.”
+State Regulations and Controls
+        Due to concerns over its abuse, several states have regulated or banned the
+consumption of 7-hydroxymitragynine or M. speciosa. 10 Currently, seven states (Alabama,
+Arkansas, Connecticut, Indiana, Louisiana, Vermont, and Wisconsin.) have prohibited 7-
+hydroxymitragynine consumption. Additionally, some states such as Arizona, Colorado,
+South Carolina, Texas have set restrictions on the limits of 7-hydroxymitragynine (not to
+exceed a specified percent of total alkaloid content). Furthermore, 19 states have enacted
+model legislation known as the “kratom consumer protection Act (KCPA),” which requires
+that M.speciosa, mitragynine, or 7-hydroxymitragynine be manufactured safely, labeled
+accurately, and distributed appropriately to protect consumers under a certain age. These
+states are Arizona, Colorado, Florida, Georgia, Kentucky, Oklahoma, Maryland,
+Mississippi, Nebraska, Nevada, New York, Oregon, Rhode Island, South Carolina, South
+Dakota, Texas, Utah, Virginia, and West Virginia. Other states like Illinois, New
+Hampshire, North Carolina, and Tennessee have bans in some localities. 11 Of note, the
+state of Mississippi has set the limit per weight basis to one percent of total alkaloid content
+of 7-hydroxymitragynine or 0.5 mg per container.
+Poison Control Center Data (National Poison Data System)
+         The significance of 7-hydroxymitragynine abuse is demonstrated by an increasing
+volume of calls to poison control centers. Reporting for 7-hydroxymitragynine was
+historically limited within the national poison data system (NPDS); however, specific data
+codes for this substance were recently implemented between February and May 2025.
+During the initial tracking period from February 2025 to April 2025, NPDS recorded a total
+of 53 case reports involving 7-hydroxymitragynine. Of these exposure calls, 37 cases
+involved single-substance exposure of 7-hydroxymitragynine alone, and 24 cases were
+classified as abuse involving other substances in combination with 7-hydroxymitragynine.
+Among the single-substance exposure calls, 16 cases were categorized as intentional abuse,
+while 13 calls involved moderate medical outcomes where the patients exhibited
+pronounced and prolonged systemic symptoms. Expanded data from U.S poison centers 12
+indicates a rapid escalation in reported incidents of 7-hydroxymitragynine. From January 1
+through July 31, 2025, there were 165 exposure cases involving 7-hydroxymitragynine. Of
+those reporting exposures to 7-hydroxymitragynine alone, 35 percent of these cases resulted
+in serious health problems and 67 percent of individuals were treated at a healthcare
+facility. Patients exposed to 7-hydroxymitragynine frequently exhibit a range of severe
+physiological and neurological symptoms, including: gastrointestinal (nausea and
+
+10
+   Kratom Summary of State Laws. Accessed 08/08/2025
+11
+   AKA In Your State. Accessed 02/26/2026
+12
+   America's Poison Centers - Health Advisory: Serious Illnesses Associated with 7-OH Use. Accessed
+08/26/2025
+                                                    9
+vomiting), neurological (agitation, confusion, loss of consciousness, and seizure),
+cardiovascular (sweating, tachycardia, and hypertension) and respiratory (difficulty
+breathing). According to HHS’s review, users report several reasons for tusing 7-
+hydroxymitragynine, including:
+                    Desired Effects: euphoria and an opioid-like “buzz”/high as motivation for
+                     using 7-hydroxymitragynine.
+                    Product Appeal: The availability of “candy-like” formulations of some 7-
+                     hydroxymitragynine tablets, which some users acknowledge as carrying
+                     health risk due to possibility of overconsumption.
+                    Self-Treatment: Claim of 7-hydroxymitragynine therapeutic value in self-
+                     treating pain and anxiety
+                    Risk Awareness: There is an acknowledgement among users of products
+                     containing 7-hydroxymitragynine that these products can lead to addiction,
+                     withdrawal symptoms, overdose and other serious health outcomes,
+                     including death (HHS review, 2025).
+       A study conducted a retrospective review of NPDS to identify additional exposures
+to 7-hydroxymitragynine that may not have been captured under its assigned product code
+from January 1, 2023, through July 31, 2025. The review showed that there were 186
+exposure calls related to 7-hydroxymitragynine during that time period. Of those, 149 calls
+were associated with 7-hydroxymitragynine product code, and 37 exposure calls identified
+7-hydroxymintragunine by substance verbatim.
+         In summary, the abuse of 7-hydroxymitragynine in the United States is fueled by its
+pharmacological similarities to opioid analgesics, a lack of regulatory controls, and the
+relative ease of obtaining 7-hydroxymitragynine products via smoke shops and the
+Internet. 13 Furthermore, the consumption of 7-hydroxymitragynine along with other mind-
+altering substances may exacerbate the potential acute and long-term hazards and risks, like
+drug dependence, to the user. FDA responded to the increase in sales of 7-
+hydroxymitragynine products and unsubstantiated medical claims by issuing warning letters
+to companies to protect public safety. Available information from published literature and
+poison control centers suggests that 7-hydroxymitragynine is used by a diverse population
+for the self-treatment of various health conditions. The ingestion of 7-hydroxymitragynine,
+a potent opioid, alone or co-ingestion with other substances, commonly a CNS depressant,
+is of serious concern. The poison control center data and popularity of 7-
+hydroxymitragynine-products collectively underscores the severity and significance of
+abuse of 7-hydroxymitragynine in the United States.
+Factor 6. What, if Any, Risk There Is to the Public Health
+        7-hydroxymitragynine has opioidergic and addictive properties. Available
+preclinical data demonstrates that 7-hydroxymitragynine has an abuse potential similar to
+that of schedule I and II opioids such as heroin, morphine, and fentanyl (Hemby et al.,
+13
+     Internet sellers advertise, market, and provide false medical claims.
+                                                         10
+2019; Heustis et al., 2024; Kruegel et al., 2016; Matsumoto et al., 2005; Obeng et al.,
+2021). The abuse of 7-hydroxymitragynine presents severe risks to public health, including
+tolerance, dependence and addiction, respiratory depression, and death. Public health
+assessment of 7-hydroxymitragynine is further complicated because 7-hydroxymitragynine
+is a known metabolite of mitragynine, making it difficult to distinguish between the
+ingestion of M. speciosa and other isolated 7-hydroxymitragynine products.
+        As demonstrated below, data from programs that collect overdose or death events
+indicates that individuals are using product containing 7-hydroxymitragynine and
+experiencing harm.
+FDA- Adverse Event Reporting Monitoring System (AEMS)
+        Data from AEMS shows an exponential increase in incidents involving 7-
+hydroxymitragynine. While only 3 cases were reported between 2023 and 2024, a DEA
+query on February 27, 2026, revealed that the 2025 case count had surged to 66. As of the
+most recent query on May 7, 2026, the cumulative total has reached 104 cases. The clinical
+severity of these reports is exceptionally high; 97 of the 104 cases are classified as serious,
+including 12 confirmed deaths. Data indicates that these adverse events are primarily
+driven by drug dependence and several withdrawal syndromes.
+DEA Toxicology Testing Program (DEA TOX)
+        DEA TOX program, which investigates the presence of new psychoactive
+substances in biological samples from drug overdose, has identified 7-hydroxymitragynine
+in 85 cases since 2019. Of these, 55 were fatal and 30 were non-fatal cases. These cases
+involved both males and females with a median age of 36. The average concentration of 7-
+hydroxymitragynine detected in biological samples was 463.23 ng/mL. Samples often
+contained other related alkaloids (mitragynine and mitragynine pseudoindoxyl) or other
+drug classes, such as opioids (e.g. fentanyl), benzodiazepines (e.g. bromazolam), and
+ketamine. As shown below (see Table 4), between 2020 and 2026 there has been a
+significant increase in the positive identification of 7-hydroxymitragynine in fatal overdose
+cases.
+Table 4: 7-hydroxymitragynine identification in DEA TOX Program (2019–present)
+                         Case Type       2019        2020   2021   2022   2023   2024   2025      2026*
+ 7-hydroxymitragynine    Fatal           0           1      2      3      9      13     16        11
+
+
+                         Nonfatal        3           0      10     2      8      3      4         0
+
+ Total                   Overdoses       3           1      12     5      17     16     20        11
+                         (fatal +
+                         nonfatal)
+*2026 cases are still pending. As of March 2026.
+Case Reports Involving 7-Hydroxymitragynine
+
+                                                11
+      In 2025, California, 14 Pennsylvania, 15 and Texas health authorities linked 7-
+hydroxymitragynine and concentrated extracts to several illness and overdose cases. 16
+        Broul et al (2025) report follows a 31-year-old male who presented to the
+emergency department (ED) with catastrophic self-mutilation. The patient had used a sharp
+tool to amputate both of his ears and penis. He also presented with multiple lacerations on
+his forearms and frostbite on his toes. Toxicological analysis and patient history confirmed
+the presence of cannabinoids, mitragynine, morphine, and 7-hydroxymitragynine. Upon
+evaluation, the patient exhibited classic signs of acute substance-induce psychosis,
+including paranoia, psychomotor agitation, and inappropriate emotional responses (Broul et
+al., 2025).
+         Karinen et al (2014) reported a case of middle-aged decedent with a history of
+substance abuse and psychiatric disorder, who was found dead in his bed. Toxicological
+analysis conducted on the decedent revealed the presence of mitragynine (1.06 mg/L) and
+7-hydroxymitragynine (0.15 mg/L) in the blood after a more comprehensive analysis.
+Routine toxicological screening detected the presence of zopiclone, citalopram, and
+lamotrigine in post-mortem whole blood. In the urine, mitragynine (3.47 mg/L) and 7-
+hydroxymitragynine (2.20 mg/L) were detected. The authors noted that due to 7-
+hydroxymitragynine’s high opioid potency than mitragynine, it is likely it played a major
+part in the cause of death (Karinen et al, 2014).
+        Hendler et al (2026) published a case report involving a 30-year-old-male with
+opioid use disorder. He was hospitalized and treated with methadone 50 mg over 36-hour
+and later started on buprenorphine 16 mg/day.
+        Pullman et al (2026) report details the case of a 29-year-old male who suffered
+cardiopulmonary arrest after ingesting about 190 mg of 7-hydroxymitragynine tablets. The
+patient was found unresponsive and was revived with naloxone. The patient also disclosed
+habitual use where he consumed 90 mg daily, experiencing shaking and intense withdrawal
+symptoms only hours after his last dose (Pullman et al, 2026).
+       Wightman and Hu (2025) report on a case of a 38-year-old male with a history of
+opioid use disorder who transitioned from high-dose kratom capsules to over the counter 7-
+hydroxymitragynine tablets. Within a short period, his use escalated to about 240 mg/day.
+When he attempted to stop, he developed severe withdrawal syndrome including anxiety,
+insomnia, abdominal pain, and chills. His Clinical Opiate Withdrawal Scale score COWS
+
+
+14
+   LISTING OF DEPARTMENT OF PUBLIC HEALTH PRESS RELEASES.
+http://publichealth.lacounty.gov/phcommon/public/media/mediapubhpdetail.cfm?prid=5156. October 10,
+2025.
+15
+   Increased Volume of Calls Related to Kratom/Mitragynine and 7-hydroxymitragynine (7-OH) to
+Pennsylvania's Poison Centers. https://www.pa.gov/content/dam/copapwp-
+pagov/en/health/documents/topics/documents/2025%20HAN/2025-802-%208-4-%20Kratom.pdf. August 4,
+2025
+16
+   Serious Illnesses Associated with 7-OH Use | Texas DSHS; LISTING OF DEPARTMENT OF PUBLIC
+HEALTH PRESS RELEASES. https://www.dshs.texas.gov/news-alerts/serious-illnesses-associated-7-oh-use.
+September 2, 2025
+                                                12
+peaked at 14, indicating moderate-to-severe withdrawal comparable to classical opioids.
+Buprenorphine was initiated when his COWS exceeded 13. (Wightman and Hu, 2025).
+         These 7-hydroxymitragynine products are obtained through unknown sources,
+where the identity, purity, and concentration of active ingredients are often unknown,
+uncertain and inconsistent; thus, posing significant adverse health risks to users. Analyses
+of certain products have shown elevated concentrations of 7-hydroxymitragynine (Lydecker
+et al., 2016; CFSRE, 2025). Furthermore, some products are misleadingly marketed and
+sold as M.speciosa, leaving a user to unknowingly ingest a product containing a potent
+opioid, 7-hydroxymitragynine (Hill et al., 2025).
+        In summary, the abuse of 7-hydroxymitragynine poses a substantial hazard to public
+safety. 7-hydroxymitragynine is being abused for its opioid-like effects and shares health
+risks similar to other mu-opioid receptor agonists, such as morphine (schedule II). With no
+approved medical use, the positive identification of 7-hydroxymitragynine in non-fatal and
+fatal overdose cases poses threat to public safety. 7-Hydroxymitragyninee products are
+obtained through unknown sources (commonly through the Internet); the identity, purity,
+and quantity of these substances are uncertain and inconsistent, thus posing significant
+adverse health risks to users.
+Conclusion of 3-Factor Analysis
+       After a careful review of the scientific literature, scientific and medical evaluation
+and scheduling recommendation provided by HHS, Factors 4, 5, and 6, it is evident that the
+abuse of 7-hydroxymitragynine poses an imminent hazard to public safety. DEA has
+considered the three factors for temporary placement of a substance under schedule I of the
+CSA (21 U.S.C. 812). Available data indicate that 7-hydroxymitragynine above a specified
+threshold, including its isomers, esters, ethers, salts, and salts of isomers, esters and ethers,
+whenever the existence of such isomers, esters, ethers and salts is possible, poses an
+imminent hazard to public safety, has no currently accepted medical use in treatment in the
+United States, and lack accepted safety for use under medical supervision. Further, the
+misuse of this opioid poses a high risk for overdose and life-threatening events.
+
+
+
+
+                                               13
+References
+Alsbrook, S., Pro, G., & Koturbash, I. (2025). From kratom to 7-hydroxymitragynine:
+evolution of a natural remedy into a public-health threat. Pharmaceutical biology, 63(1),
+896–911.
+Broul, M., Rudenko, X., Bajus, A., Král, J., Kyenge, D. M., Staňková, Z., & Albrecht, J.
+(2025). Case Report: Cannabis and kratom-induced self-amputation of ears and
+penis. Frontiers in psychiatry, 16, 1479863.
+Cinosi, E., Martinotti, G., Simonato, P., Singh, D., Demetrovics, Z., Roman-Urrestarazu,
+A., Bersani, F. S., Vicknasingam, B., Piazzon, G., Li, J. H., Yu, W. J., Kapitány-Fövény,
+M., Farkas, J., Di Giannantonio, M., & Corazza, O. (2015). Following "the Roots" of
+Kratom (Mitragyna speciosa): The Evolution of an Enhancer from a Traditional Use to
+Increase Work and Productivity in Southeast Asia to a Recreational Psychoactive Drug in
+Western Countries. BioMed research international, 2015, 968786.
+Department of Health and Human Services. (2025). Basis for the Recommendation to
+Control 7-hydroxymitragynine and its Salts, As Present in excess of the Specified
+Threshold Limit Described Herein in Schedule I of the Controlled Substances Act. July 28,
+2025.
+Dorman C., Wong M., Khan A. (2015). Cholestatic hepatitis from prolonged kratom use: a
+case report. Hepatology, 61,1086–1087.
+Garcia-Romeu, A., Cox, D. J., Smith, K. E., Dunn, K. E., & Griffiths, R. R. (2020). Kratom
+(Mitragyna speciosa): User demographics, use patterns, and implications for the opioid
+epidemic. Drug and alcohol dependence, 208, 107849.
+Grundmann, O., Green, M., Berthold, E., Yoon, S. L., & Ray, D. (2025). Prevalence and
+Use Patterns of Kratom (Mitragyna speciosa Korth.) in a US Nationally Representative
+Sample. Journal of psychoactive drugs, 1–9. Advance online publication.
+Hemby, S. E., McIntosh, S., Leon, F., Cutler, S. J., & McCurdy, C. R. (2019). Abuse
+liability and therapeutic potential of the Mitragyna speciosa (kratom) alkaloids mitragynine
+and 7-hydroxymitragynine. Addiction biology, 24(5), 874–885.
+Hendler, R., Karavolis, Z., Kim, J., & Gonzalez, G. (2026). A Case of 7-
+Hydroxymitragynine Use Disorder Treated With Buprenorphine. Journal of addiction
+medicine, 10.1097/ADM.000000000000168.
+Hill, K., Boyer, E. W., Grundmann, O., & Smith, K. E. (2025). De facto opioids:
+Characterization of novel 7-hydroxymitragynine and mitragynine pseudoindoxyl product
+marketing. Drug and alcohol dependence, 272, 112701.
+Karinen R., Posen J.T., Rogde S., Vindenes V. (2014). An accidental poisoning with
+mitragynine. Forensic Science International, 245, 29-32.
+
+
+
+                                             14
+Kruegel A.C., Gassaway M.M., Kapoor A., Varadi A., Majumdar S., Filizola M., Javitch
+J.A., Sames D. (2016). Synthetic and receptor signaling explorations of the Mitragyna
+alkaloids: mitragynine as an atypical molecular framework for opioid receptor modulators.
+Journal of American Chemical Society. 138,6754-6764.
+Leonard, J. B., Brown, K., & Colvin, J. M. (2026). Enhancing U.S. poison center
+surveillance with verbatim substance upload. Clinical toxicology (Philadelphia, Pa.), 64(4),
+243–246.
+Lydecker A.G., Sharma A., McCurdy C.R., Avery B.A., Babu K.M., Boyer E.W. (2016).
+Suspected Adulteration of Commercial Kratom Products with 7-Hydroxymitragynine.
+Journal of Medical Toxicology. 12(4), 341-349.
+Matsumoto K., Horie S., Takayama H., Ishikawa H., Aimi N., Ponglux D,. Murayama T.,
+Watanabe K. (2005). Antinociception, tolerance and withdrawal symptoms induced by 7-
+hydroxymitragynine, an alkaloid from the Thai medicinal herb Mitragyna speciosa. Life
+Sciences. 78(1), 2-7.
+Matsumoto K, Ratori Y, Murayama T, Tashima K, Wongseripipatana S, Misawa K,
+Kitajima M, Takayama R, Rorie S (2006). Involvement of mu-opioid receptors in
+aminociception and inhibition of gastrointestinal transit induced by 7- hydroxymitragynine,
+isolated from Thai herbal medicine Mitragyna speciosa. European Journal of Pharmacology
+549:63-70.
+Maxwell, E. A., King, T. I., Kamble, S. H., Raju, K. S. R., Berthold, E. C., León, F.,
+Hampson, A., McMahon, L. R., McCurdy, C. R., & Sharma, A. (2021). Oral
+Pharmacokinetics in Beagle Dogs of the Mitragynine Metabolite, 7-
+Hydroxymitragynine. European journal of drug metabolism and pharmacokinetics, 46(3),
+459–463.
+McIntyre I.M., Trochta A., Stolberg S., Campman S.C. (2015). Mitragynine 'kratom' related
+fatality: a case report with postmortem concentrations. Journal of Analytical Toxicology.
+39(2),152-155.
+National Drug Early Warning System (NDEWS). (2025). Alert from the NDEWS Web
+Monitoring Team: Online mentions of Kratom and Derivatives (May 30, 2025). Retrieved
+from ndews.org
+Obeng, S., Wilkerson, J. L., León, F., Reeves, M. E., Restrepo, L. F., Gamez-Jimenez, L.
+R., Patel, A., Pennington, A. E., Taylor, V. A., Ho, N. P., Braun, T., Fortner, J. D.,
+Crowley, M. L., Williamson, M. R., Pallares, V. L. C., Mottinelli, M., Lopera-Londoño, C.,
+McCurdy, C. R., McMahon, L. R., & Hiranita, T. (2021). Pharmacological Comparison of
+Mitragynine and 7-Hydroxymitragynine: In Vitro Affinity and Efficacy for μ-Opioid
+Receptor and Opioid-Like Behavioral Effects in Rats. The Journal of pharmacology and
+experimental therapeutics, 376(3), 410–427.
+Ogozalek, Sam. “The Tampa Bay Times tested 20 kratom products. Here’s what we found.”
+Tampa Bay Times, 9 Dec. 2023,
+
+                                             15
+https://www.tampabay.com/investigations/2023/12/09/tampa-bay-times-tested-20-kratom-
+products-heres-what-we-found. Accessed 4 Sept. 2025.
+Pullman M.K., Raju Kanumuri S.R., Leon J.F., Cutler S.F., McCurdy C.R., Sharma. A.
+(2026). Cardio-pulmonary arrest in a patient revived with naloxone following reported use
+of 7-hydroxymitragynine. Clinical Toxicology, 64:1, 65-66.
+Sharma, A., Smith, K. E., Kuntz, M. A., Berthold, E. C., Elashkar, O. I., Guadagnoli, N.,
+Kanumuri, S. R. R., Mukhopadhyay, S., Panlilio, L. V., Epstein, D. H., & McCurdy, C. R.
+(2025). Chemical Analysis and Alkaloid Intake for Kratom Products Available in the
+United States. Drug testing and analysis, 10.1002/dta.3906. Advance online publication.
+Singh D., Narayanan S., Vicknasingam B., Corazza O., Santacroce R., Roman-Urrestarazu
+A. (2017). Changing trends in the use of kratom (Mitragyna speciosa) in Southeast Asia.
+Human Psychopharmacology: Clinical and Experimental. 32(3), e2582.
+Smith, K. E., Boyer, E. W., Grundmann, O., McCurdy, C. R., & Sharma, A. (2025). The
+rise of novel, semi-synthetic 7-hydroxymitragnine products. Addiction (Abingdon,
+England), 120(2), 387–388.
+Swogger M.T., Hart E., Erowid F., Erowid E., Trabold N., Yee K., Parkhurst K.A., Priddy
+B.M., Walsh Z. (2015) Experiences of kratom users: a qualitative analysis. Journal of
+Psychoactive Drugs. 47(5), 360-367.
+University of Connecticut School of Pharmacy and Pharmaceutical Sciences. (2025),
+Kratom and Knock Offs, Should You Leaf Them Alone: You Asked for It!.
+https://pharmacy.uconn.edu/course/kratom/
+Váradi A., Marrone G.F., Palmer T.C., Narayan A., Szabó M.R., Le Rouzic V., Grinnell
+S.G. et al. (2016). Mitragynine/Corynantheidine Pseudoindoxyls As Opioid Analgesics with
+Mu Agonism and Delta Antagonism, Which Do Not Recruit β-Arrestin-2. Journal of
+Medicinal Chemistry. 59(18), 8381-97.
+Warner M.L., Kaufman N.C., Grundmann O. (2016). The pharmacology and toxicology of
+kratom: from traditional herb to drug of abuse. International Journal of Legal Medicine.
+130,127–138.
+Wightman, R. S., & Hu, D. (2025). A Case of 7-OH Mitragynine Use Requiring Inpatient
+Medically Managed Withdrawal. Journal of addiction medicine,
+10.1097/ADM.0000000000001558. Advance online publication.
+
+
+
+
+                                            16
+

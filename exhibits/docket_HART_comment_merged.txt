@@ -1,0 +1,1225 @@
+Response to the Request for Information Regarding the Temporary Placement of 7-
+         Hydroxymitragynine Above a Specified Threshold in Schedule I
+
+                            Docket No. HHS-OASH-2026-0232
+                                      Executive Summary
+The Holistic Alternative Recovery Trust ("HART") was formed in 2023 to provide education to
+consumers about the safety and efficacy of holistic alternative recovery solutions and to advocate
+before Congress and state legislatures to promote responsible regulations of plant-based recovery
+products.
+We respectfully submit these comments in response to the Department of Health and Human
+Services' ("HHS") Request for Information regarding the proposed threshold for the temporary
+placement of 7-hydroxymitragynine ("7-OH") above a specified threshold in Schedule I of the
+Controlled Substances Act.
+HART supports science-based regulation of botanical products and recognizes the government's
+legitimate interest in preventing the manufacture and sale of unsafe, adulterated, or deceptively
+marketed products.
+The question presented by this Request for Information, however, is not whether products
+containing 7-OH should be regulated. Rather, HHS seeks scientific evidence identifying a
+threshold above which such products present an “imminent hazard to public safety” sufficient to
+justify temporary placement into Schedule I, which is reserved for those substances classified
+under the U.S. Controlled Substances Act (CSA) as having:
+   •   High potential for abuse
+   •   No currently accepted medical use in the United States
+   •   Lack of accepted safety under medical supervision
+
+The available scientific evidence does not presently identify such a threshold.
+Across pharmacology, toxicology, human clinical experience, and nationwide public-health
+surveillance, the current record consistently demonstrates that risk associated with orally
+consumed 7-OH products is determined by multiple interacting factors - including administered
+dose, oral bioavailability, metabolism, formulation, route of administration, and concomitant
+substance use - not by concentration alone. (Oral ingestion is the only known route of
+consumption for 7-OH products.)
+
+Although 7-OH is a pharmacologically active compound and, like other bioactive substances,
+warrants appropriate regulatory oversight, no published pharmacological, toxicological,
+epidemiological, or clinical evidence identifies either the proposed 0.050 percent concentration
+
+
+                                                1
+threshold or the proposed one-milligram-per-article threshold as a biologically meaningful
+breakpoint associated with a measurable increase in serious adverse outcomes.
+That conclusion has been reached independently by experts approaching the issue from different
+scientific disciplines. A review of the medical literature and multiple national surveillance
+systems by Dr. Edward W. Boyer, Professor of Emergency Medicine and Medical Toxicology at
+The Ohio State University, found no epidemiological signal of overdose mortality or widespread
+serious toxicity attributable to orally consumed 7-OH. Dr. Kirsten E. Smith, Assistant Professor
+of Psychiatry and Behavioral Sciences at Johns Hopkins University (2023-2026), similarly
+concluded that existing evidence does not demonstrate a significant or unreasonable risk of
+illness or injury, and instead supports continued research coupled with responsible regulation.
+Independent reviews by Drs. Michael Levine, Dr. Jackob Moskovitz, and Dr. Andrew Monte
+likewise found no evidence that currently available preclinical or surveillance data identify an
+imminent public-health emergency requiring the proposed numerical thresholds. And Dr. Steven
+B. Bird concluded that neither proposed threshold reflects established pharmacological risk and
+recommends a finished-product threshold of five (5) mg per dosage unit.
+These scientific conclusions are reinforced by real-world public-health surveillance. Federal
+monitoring systems - including the National Poison Data System (NPDS), the National Drug
+Early Warning System (NDEWS), and FDA's Adverse Event Reporting System (FAERS) - exist
+specifically to detect emerging drug threats. Historically, substances presenting imminent
+hazards rapidly generate recognizable patterns of poison-center reports, emergency department
+presentations, published case reports, forensic findings, and overdose surveillance signals.
+Despite billions of servings of commercially available oral 7-OH products consumed in the
+United States, no comparable pattern has emerged. The absence of a consistent epidemiological
+signal across multiple independent surveillance systems is itself scientifically significant.
+Accordingly, these comments reach three principal conclusions.
+First, the current scientific record does not support either of the proposed numerical
+thresholds. While the available evidence confirms that 7-OH is pharmacologically active and
+merits continued study and appropriate regulation, it does not identify either the proposed
+concentration threshold or the proposed one-milligram threshold as scientifically established
+points at which products begin presenting an imminent hazard to public safety.
+Second, if HHS nevertheless determines that a numerical threshold should be
+recommended as a matter of regulatory policy, that threshold should be based on actual
+consumer exposure rather than an easily-gamed standard like percentage concentration.
+Milligram-per-serving limits more accurately reveal pharmacological risk, are consistent with
+established toxicological principles, best reflect the way Americans understand consumer
+product potency, and mirror Congress's recent approach to regulating comparable products.
+Finally, any threshold framework should be revised to ensure it is scientifically coherent,
+administrable, and directed toward products presenting the greatest potential public-
+health concern. Specifically, DEA should clarify that thresholds apply only to finished
+consumer products, define "article" as a finished single-serving dosage form, eliminate the
+percentage-concentration trigger, and increase the finished-product threshold from 1 mg to 5 mg
+per dosage unit. These revisions would preserve DEA's ability to address genuinely high-potency
+
+
+
+                                               2
+products while better aligning the temporary scheduling framework with the available scientific
+evidence and modern regulatory practice.
+I. The Scientific Record Does Not Support the Proposed Thresholds
+The Request for Information poses a straightforward scientific question: does the available
+evidence identify a concentration or dosage threshold above which products containing 7-
+hydroxymitragynine ("7-OH") present an imminent hazard to the public safety?
+The current scientific record does not answer that question in the affirmative.
+The available evidence demonstrates that 7-OH is a pharmacologically active compound that
+warrants continued scientific study and appropriate regulatory oversight. However, it does not
+identify either the proposed 0.050 percent concentration threshold or the proposed one-
+milligram-per-article threshold as scientifically established breakpoints associated with a
+measurable increase in serious adverse outcomes. Rather, the evidence consistently demonstrates
+that risk is determined by multiple interacting pharmacological, toxicological, and clinical
+variables that cannot be reduced to concentration alone.
+Importantly, this conclusion is not derived from a single study, researcher, or even discipline.
+Independent experts in pharmacology, medical toxicology, emergency medicine, behavioral
+science, poison surveillance, and clinical research - including Drs. Steven Bird, Edward Boyer,
+Kirsten Smith, Michael Levine, Jackob Moskovitz, and Andrew Monte - reviewed different
+portions of the available evidence and nevertheless reached remarkably consistent conclusions.
+Although they approached the issue from the perspective of different scientific disciplines, none
+identified evidence supporting DEA's proposed numerical thresholds as biologically meaningful
+indicators of imminent public-health risk.
+A. Pharmacology Does Not Identify a Scientifically Meaningful Breakpoint
+The fact that 7-OH exhibits pharmacological activity does not itself establish an appropriate
+regulatory threshold. Modern pharmacology distinguishes among pharmacological potency,
+systemic exposure, and actual clinical risk. While 7-OH functions as a partial agonist at the μ-
+opioid receptor, receptor binding alone does not predict toxicity. Instead, clinical effects depend
+upon the amount of drug that ultimately reaches systemic circulation and target tissues following
+oral administration.
+The pharmacology of 7-OH further illustrates why receptor affinity alone is an incomplete
+measure of public-health risk. Although 7-OH binds with high affinity to the μ-opioid receptor, it
+is a G protein-biased partial agonist that exhibits relatively low intrinsic efficacy, more closely
+resembling buprenorphine than full μ-opioid agonists. (Kruegel, 2016; Obeng, 2021; Todd,
+2020; Varadi, 2016; WHO, 2021). As a partial agonist, 7-OH does not fully activate the receptor
+even when receptor occupancy increases, producing a pharmacological ceiling on opioid-like
+effects that distinguishes it from conventional opioids.
+This distinction is particularly important because public discussions of 7-OH frequently conflate
+potency with intrinsic efficacy. While 7-OH demonstrates higher receptor potency than morphine
+in certain laboratory assays involving guinea pigs (and not humans), potency reflects the amount
+of drug required to produce a given effect—not the maximum effect the drug is capable of
+producing. Because 7-OH is a partial agonist with comparatively low intrinsic efficacy,
+
+
+                                                 3
+statements that it is "more potent than morphine" do not establish that it produces morphine-like
+toxicity or overdose risk in humans.
+Consistent with this pharmacological profile, experimental studies further demonstrate that 7-OH
+produces substantially reduced β-arrestin-2 recruitment compared with conventional opioid
+agonists. This signaling pathway has been associated with respiratory depression and other dose-
+limiting adverse effects of classical opioids. (Todd, 2020; Samways, 2024). More importantly,
+federally funded research conducted at Memorial Sloan Kettering Cancer Center identified that
+7-OH does not induce respiratory depression (DoD award number W81XWH-17-1-0256, “Safer
+nonaddicting and nonabusable analgesics....;” Majumda).
+While β-arrestin signaling alone cannot predict clinical outcomes, these findings provide a
+biologically plausible explanation for why the available preclinical, clinical, and epidemiological
+evidence has not demonstrated the pattern of severe respiratory toxicity typically associated with
+full μ-opioid agonists.
+These mechanistic differences are further amplified by 7-OH's pharmacokinetics. Orally
+administered 7-OH exhibits extremely poor oral bioavailability - approximately 2.7 percent -
+meaning that only a small fraction of an ingested dose survives first-pass metabolism and reaches
+systemic circulation. (Chiang et al., 2025). Accordingly, receptor potency analyses tend to
+substantially overstate exposure experienced following oral consumption of commercially
+available products.
+As Dr. Steven B. Bird explains in his independent toxicological review, a finished dosage unit
+containing up to 5 mg of 7-OH would be expected to produce plasma concentrations
+approximately fifteen times lower than those observed in published human kratom studies that
+reported no signal of serious toxicity or respiratory depression. These findings undergird Dr.
+Bird’s recommendation of a 5mg dosage limit per article, and the aforementioned
+pharmacokinetic characteristics substantially limit systemic exposure and refute the scientific
+premise that either the proposed concentration threshold or the proposed one-milligram limit
+corresponds to a meaningful increase in pharmacological risk.
+Dr. Edward Boyer's 2025 review reached the same conclusion from a different perspective.
+Evaluating FDA's 2025 scientific assessment, Dr. Boyer explained that the agency places undue
+emphasis on receptor affinity while giving insufficient consideration to exposure-response
+relationships – the very principle that FDA has long recognized as central to evaluating drug
+safety. As FDA's own guidance explains, "exposure-response information is at the heart of any
+determination of safety." In Dr. Boyer's view, pharmacological potency, standing alone, is an
+inadequate predictor of toxicity because it fails to account for the pharmacokinetic factors that
+determine actual human exposure.
+Dr. Boyer noted that the compound exhibits poor oral bioavailability, short residence time within
+the body, and limited penetration into the central nervous system. Collectively, these
+characteristics substantially reduce systemic exposure following oral consumption and help
+explain why the expected epidemiological signal associated with highly toxic opioid agonists has
+not emerged despite widespread consumer use.
+These principles carry important regulatory implications. Products containing identical
+concentrations of 7-OH may produce materially different systemic exposures depending upon
+
+
+                                                 4
+formulation, dosage form, absorption characteristics, metabolism, and route of administration.
+Conversely, products with substantially different concentration percentages may expose
+consumers to similar amounts of active compound. Put simply, concentration is not synonymous
+with exposure, and exposure – not nominal concentration – is the relevant determinant of
+pharmacological risk.
+For this reason, neither Dr. Bird nor Dr. Boyer identifies the proposed 0.050 percent
+concentration threshold or the proposed one-milligram-per-article threshold as scientifically
+meaningful pharmacological breakpoints. Instead, both conclude that actual consumer exposure
+provides the more scientifically appropriate framework for evaluating risk.
+Finally, and perhaps most consequentially, the relative innocuousness of 7-OH was seemingly
+confirmed by FDA-affiliated researchers, who led a 2026 randomized control trial on kratom in
+which no serious adverse events (SAEs) occurred among human subjects. Investigators
+administered increasing doses of kratom powder at levels of 1.5% mitragynine, up to 12,000mg
+(12g). Since the human liver converts approximately 25% of mitragynine into 7-OH, study
+participants received up to 45mg of 7-OH (12,000 * .015 *.25 – a higher dosage than most
+consumers use, according to industry surveys. Quoting directly from the recently-published
+study: “No deaths or serious adverse events occurred.”
+Accordingly, the available pharmacological evidence does not establish that products abruptly
+transition from presenting ordinary pharmacological activity to constituting an imminent hazard
+to public safety at either of DEA's proposed numerical thresholds. Rather, the evidence
+demonstrates that pharmacological risk exists along a continuum governed by exposure, dose,
+formulation, metabolism, and route of administration. To the extent HHS ultimately recommends
+a numerical threshold as a matter of regulatory policy, that threshold should therefore be
+understood as a policy judgment informed by science – not a value uniquely dictated by the
+current scientific record.
+B. Preclinical Toxicology Does Not Identify an Imminent Hazard or Support the Proposed
+Thresholds
+The available preclinical toxicology likewise does not identify a scientifically meaningful
+concentration or dosage threshold supporting DEA's proposed framework.
+Animal and in vitro studies are an essential component of safety assessment because they help
+identify potential toxicological concerns before widespread human exposure occurs. At the same
+time, toxicology has long recognized that preclinical findings must ultimately be interpreted
+alongside pharmacokinetics, clinical experience, and real-world epidemiological data. Animal
+models are designed to identify potential hazards - not to establish the precise regulatory
+thresholds at which products present an imminent public-health emergency for humans.
+The currently available preclinical evidence regarding orally administered 7-OH does not
+demonstrate the type of toxicological profile ordinarily associated with emergency regulatory
+intervention. Independent reviews conducted by Dr. Michael Levine, Professor of Emergency
+Medicine and Co-Chief of the Division of Medical Toxicology at UCLA, and Dr. Jackob
+Moskovitz, Associate Professor of Pharmacology and Toxicology at the University of Kansas
+School of Pharmacy, reached substantially similar conclusions despite evaluating different
+aspects of the available evidence. Both concluded that existing preclinical studies support
+
+
+                                                5
+continued scientific investigation but do not identify evidence of serious toxicity sufficient to
+characterize currently marketed oral 7-OH products as presenting an imminent public-health
+hazard.
+Dr. Levine reviewed both a rodent toxicity study and a canine safety study, focusing specifically
+on the types of adverse effects that would ordinarily be expected from a compound acting at the
+μ-opioid receptor - particularly central nervous system depression and respiratory depression.
+His review found that no animals exhibited serious clinical toxicity during the course of either
+study. While minor findings such as transient drooling and gastrointestinal abnormalities were
+observed in some animals, similar findings also occurred in control animals, making a causal
+relationship to 7-OH difficult to establish. Dr. Levine ultimately concluded that the available
+preclinical evidence demonstrated no serious toxicological signal and supported further
+investigation through appropriately designed human studies rather than suggesting an imminent
+safety concern.
+Dr. Moskovitz independently evaluated the available in vitro, rodent, and canine studies and
+reached remarkably similar conclusions. His review found that 7-OH demonstrated no clinically
+significant evidence of cardiac, hepatic, or renal toxicity in cell-based assays and that no
+meaningful in-life toxicity was observed in the animal models. Indeed, he concluded that the
+available evidence suggests that the safety profile of 7-OH is comparable to - or in certain
+respects more favorable than - that of the related naturally occurring kratom alkaloid
+mitragynine, which will remain legal under this scheduling order. Based upon the totality of the
+available laboratory and animal evidence, Dr. Moskovitz concluded that the data do not support
+the conclusion that 7-OH presents a significant or serious safety concern.
+These conclusions are notable not because they establish that 7-OH is entirely without risk – no
+pharmacologically active compound is – but because they demonstrate what the current evidence
+does not show: a toxicological breakpoint corresponding to either DEA's proposed 0.050 percent
+concentration threshold or its proposed one-milligram-per-article threshold. Nor does it
+demonstrate the severe respiratory depression, persistent neurological impairment, target-organ
+toxicity, or other serious adverse effects that ordinarily precede emergency scheduling actions
+involving newly emerging substances.
+Dr. Steven Bird likewise observed that the available pharmacological and toxicological data do
+not support the proposition that products containing up to 5 mg of orally administered 7-OH
+present an imminent public-health hazard. Instead, his analysis concludes that a 5 mg finished-
+product threshold remains conservative when considered alongside the compound's limited oral
+bioavailability and the absence of corresponding evidence of serious toxicity in the available
+preclinical literature.
+Taken together, the available animal, in vitro, and pharmacokinetic evidence supports a
+consistent conclusion. The existing preclinical record identifies the need for continued research -
+as would be expected for any relatively new bioactive compound - but it does not identify either
+of DEA's proposed numerical thresholds as scientifically established toxicological breakpoints.
+Instead, the evidence supports continued investigation, appropriate manufacturing controls, and
+ongoing surveillance while human clinical data continue to develop.
+C. Human Experience Does Not Demonstrate Widespread Serious Harm or Identify a
+Scientifically Meaningful Threshold
+
+
+                                                  6
+Ultimately, the most probative evidence of public-health risk is real-world human experience.
+While pharmacological and preclinical studies provide important information regarding
+biological activity and potential toxicity, they cannot substitute for evidence demonstrating how
+a substance actually performs following widespread human use. Here, the available human
+evidence weighs strongly against the conclusion that 7-OH products present an imminent hazard
+to public safety or that either of DEA's proposed numerical thresholds corresponds to a
+measurable increase in serious adverse outcomes.
+This conclusion is particularly significant because commercially available 7-OH products have
+now been consumed on an extraordinary scale. By conservative estimates, more than one million
+Americans have consumed billions of servings of these products, nearly all in dosages vastly
+exceeding the proposed 1 mg threshold. Had currently marketed oral 7-OH products been
+producing the type of severe toxicity ordinarily associated with an emerging public-health crisis,
+one would reasonably expect to observe a corresponding increase in published case reports,
+poison-center alerts, emergency department presentations, overdose investigations, and forensic
+findings. That pattern has not emerged.
+To HART's knowledge, after reviewing published case reports, FDA adverse-event reports,
+poison-center data, and the expert analyses submitted in this proceeding, there is no confirmed
+fatality in which orally consumed 7-OH ingested in isolation has been established as the cause of
+death - despite billions of servings consumed. Fatalities reported in surveillance systems almost
+invariably involve significant polysubstance exposure (often alongside heroin, fentanyl, or other
+substances known to cause death), or other substantial confounding factors, and several cases
+cited in public discussions predate the commercial introduction of modern 7-OH products
+altogether. Although the absence of confirmed isolated fatalities does not by itself establish
+safety, it is highly probative when considered alongside the compound's pharmacology, the
+available toxicological evidence, and the absence of a broader epidemiological signal.
+Dr. Edward W. Boyer’s comprehensive review of the published literature, poison-center
+surveillance, adverse-event reports, forensic data, and federal monitoring systems found no
+published case reports documenting acute poisoning or overdose deaths directly attributable to 7-
+OH products.
+Medical toxicologists have historically identified emerging public-health threats with remarkable
+speed, including outbreaks involving synthetic cannabinoids and tianeptine. According to Dr.
+Boyer, when a substance is producing significant overdose morbidity or mortality, multiple cases
+rapidly generate recognizable epidemiological signals. In the case of 7-OH, however, no such
+signal has emerged.
+Dr. Boyer further concluded that the absence of overdose reports is not simply the product of
+underreporting or unfamiliarity with the compound. Rather, it reflects the fact that nationwide
+surveillance systems specifically designed to detect emerging toxicological threats have not
+identified evidence of widespread serious harm associated with 7-OH. As he explains, "multiple
+overdoses generate signals," yet no comparable signal has appeared despite years of increasing
+consumer exposure. This observation is particularly significant because the same surveillance
+infrastructure has successfully identified numerous emerging substances posing genuine public-
+health concerns long before they became widely recognized.
+
+
+
+
+                                                7
+Dr. Kirsten E. Smith, one of the nation's leading researchers on kratom and its alkaloids,
+independently reached substantially similar conclusions after reviewing preclinical evidence,
+clinical literature, poison-center data, adverse-event reporting systems, and her own ongoing
+research involving U.S. consumers. Her assessment is particularly valuable because it combines
+traditional toxicological evidence with direct observational research involving individuals who
+regularly consume 7-OH products.
+Dr. Smith concluded that existing evidence is inadequate to support the claim that 7-OH products
+present a significant or unreasonable risk of illness or injury. While acknowledging that physical
+dependence and substance use disorder are possible - as they are with many pharmacologically
+active substances - she found no evidence that severe illness, widespread addiction, or
+population-level harm has emerged among current consumers. Her research, including surveys
+and qualitative interviews with individuals using commercially available 7-OH products, instead
+suggests that many consumers report meaningful therapeutic or quality-of-life benefits while
+experiencing few serious adverse effects.
+Importantly, Dr. Smith also evaluated one of the principal concerns often raised regarding
+compounds acting at the μ-opioid receptor: respiratory depression. After reviewing both the
+preclinical and clinical evidence, she concluded that currently available human data do not
+demonstrate widespread or clinically significant respiratory depression associated with orally
+consumed 7-OH. Although very high experimental doses in animal models – administered, in at
+least one case, intravenously – have produced transient respiratory effects, these findings have
+not translated into a recognizable pattern of respiratory failure or fatal overdose among human
+consumers using commercially available oral products.
+Neither expert suggests that 7-OH is entirely without risk. To the contrary, both acknowledge
+that continued scientific investigation remains appropriate and that products containing 7-OH
+should be manufactured, labeled, and marketed responsibly. Their conclusions instead reflect a
+more limited – but critically important – scientific proposition: the currently available human
+evidence does not identify either DEA's proposed 0.050 percent concentration threshold or its
+proposed one-milligram-per-article threshold as scientifically meaningful points at which
+products begin presenting an imminent hazard to public safety.
+This distinction is critical because the question before HHS is not whether products containing 7-
+OH should be subject to appropriate regulatory safeguards. Rather, it is whether the available
+scientific evidence supports identifying a specific numerical threshold that poses an imminent
+threat to public health. At this time, the published literature, clinical experience, adverse-event
+data, and observational research do not support that conclusion.
+Accordingly, the existing human evidence supports continued surveillance, additional clinical
+research, appropriate manufacturing standards, and responsible product regulation. It does not
+support the conclusion that either of the proposed numerical thresholds is uniquely established
+by the current scientific record.
+D. Public Health Surveillance Does Not Demonstrate an Emerging Public Health
+Emergency
+Independent public-health surveillance provides perhaps the strongest test of whether a substance
+presents an imminent hazard to public safety. Unlike preclinical research or isolated case reports,
+
+
+                                                8
+surveillance systems evaluate population-level outcomes across millions of real-world exposures.
+They are specifically designed to identify emerging patterns of overdose, poisoning,
+hospitalization, and death that may warrant rapid public-health or regulatory intervention.
+Historically, substances posing genuine and immediate public-health threats generate
+recognizable epidemiological signals shortly after widespread availability. Synthetic
+cannabinoids, synthetic cathinones, fentanyl analogues, and tianeptine all produced significant
+increases in poison-center calls, emergency department presentations, forensic toxicology
+findings, published case reports, and overdose fatalities that were rapidly detected through
+national surveillance systems. Those signals formed an important part of the scientific basis for
+subsequent regulatory action.
+The available evidence concerning commercially available 7-OH products presents a markedly
+different picture.
+As Dr. Edward Boyer explained, the United States maintains multiple complementary
+surveillance systems capable of identifying emerging toxicological threats, including the
+National Poison Data System ("NPDS"), DEA TOX, the National Drug Early Warning System
+("NDEWS"), FDA's Adverse Event Reporting System ("FAERS"), published medical case
+reports, and forensic toxicology reporting. Collectively, these systems monitor poison-center
+consultations, emergency department encounters, toxicological investigations, adverse-event
+reporting, overdose deaths, and trends in illicit drug markets. According to Dr. Boyer's review,
+none of these independent surveillance systems has identified a pattern of widespread serious
+toxicity attributable to 7-OH products.
+This absence of a consistent epidemiological signal is scientifically significant. Surveillance
+systems are inherently imperfect, and isolated adverse events may go unreported. However, the
+purpose of these systems is not to capture every individual incident; rather, they are designed to
+detect meaningful population-level trends. When a substance produces substantial morbidity or
+mortality across large numbers of users, those trends ordinarily become visible across multiple
+independent datasets. As Dr. Boyer observed, there is a “lack of [a] public health signal of
+adverse effects from 7OH.” The failure of multiple surveillance systems to identify such a signal
+despite extensive consumer exposure weighs against the conclusion that currently marketed oral
+7-OH products present an imminent public-health emergency.
+Dr. Kirsten Smith independently reviewed many of the same surveillance datasets and reached
+substantially similar conclusions. Her assessment found no evidence of widespread illness,
+injury, or overdose sufficient to support the conclusion that oral 7-OH products present a
+significant or unreasonable risk to the public. Although adverse events have been reported - as
+would be expected with virtually any pharmacologically active product - the available data do
+not reveal the type of consistent, reproducible pattern ordinarily associated with an emerging
+national health crisis. Instead, the existing evidence supports continued monitoring while
+additional clinical and epidemiological data are developed.
+Dr. Andrew Monte, Professor of Emergency Medicine and Medical Toxicology at the University
+of Colorado School of Medicine and a principal investigator with the RADARS® System,
+likewise concluded that the available surveillance evidence does not suggest an unreasonable risk
+to public health. Dr. Monte's review is particularly informative because RADARS® was
+specifically developed to identify emerging patterns of misuse, abuse, diversion, overdose, and
+
+
+                                                9
+other adverse outcomes associated with prescription and non-prescription substances. Based on
+the currently available evidence, Dr. Monte concluded that continued surveillance remains
+appropriate but that existing data do not support the conclusion that commercially available 7-
+OH products are producing a level of harm warranting the proposed numerical thresholds.
+These conclusions are further reinforced by the scale of consumer exposure. According to
+independent market analyses, more than one million Americans have consumed, per industry
+estimates, billions of commercially available 7-OH products since their introduction to the
+marketplace in 2023. While widespread utilization alone cannot establish safety, it substantially
+increases the likelihood that meaningful safety concerns would become apparent through the
+very surveillance systems designed to detect them. The absence of a consistent signal across
+multiple independent surveillance programs after such extensive exposure is therefore an
+important component of the overall scientific record.
+Importantly, this does not mean that surveillance should cease or that regulation is unnecessary.
+On the contrary, continued monitoring through NPDS, NDEWS, DEA TOX, RADARS®,
+FAERS, and other established public-health systems remains essential as consumer use evolves
+and additional research becomes available. Surveillance is most valuable when it informs
+evidence-based regulatory decision-making over time rather than being viewed as a one-time
+exercise.
+Taken together, the pharmacological evidence, preclinical toxicology, human clinical experience,
+and nationwide surveillance data lead to the same conclusion. The current scientific record
+supports continued research, ongoing surveillance, responsible manufacturing standards, and
+appropriate regulatory oversight. It does not identify either the proposed 0.050 percent
+concentration threshold or the proposed one-milligram-per-article threshold as scientifically
+established points at which products begin presenting an imminent hazard to public safety.
+Accordingly, if HHS determines that numerical thresholds remain appropriate as a matter of
+regulatory policy, those thresholds should be understood as policy judgments informed by the
+available science - not as values uniquely dictated by the current scientific record. The following
+recommendations in Part III of this response are offered with that distinction in mind.
+
+II. Emergency Scheduling Should Be Reserved for Demonstrable Public Health
+Emergencies
+
+Congress vested the temporary scheduling authority in the Controlled Substances Act to enable
+the federal government to respond rapidly to extraordinary and emergent threats to public health.
+By design, it is an exceptional regulatory mechanism that permits expedited action before the
+completion of the ordinary rulemaking process. That authority is therefore most appropriately
+reserved for circumstances in which the available scientific evidence demonstrates an imminent
+hazard requiring immediate intervention.
+
+The scientific record summarized above does not present that circumstance.
+
+The evidence confirms that 7-OH is a pharmacologically active compound that warrants
+continued study and appropriate regulatory oversight. However, across pharmacology,
+toxicology, human experience, and nationwide surveillance, the current record does not identify
+
+
+                                                10
+the hallmarks of an emerging public-health emergency. Independent experts reviewing different
+aspects of the available evidence consistently conclude that the proposed numerical thresholds
+are not scientifically established breakpoints associated with a measurable increase in serious
+harm. Likewise, the national surveillance systems specifically designed to detect emerging drug
+threats have not identified the type of consistent epidemiological signal that has historically
+preceded emergency regulatory action against newly emerging substances.
+
+The absence of evidence supporting emergency scheduling does not imply that regulation is
+unnecessary. Agencies routinely regulate products presenting varying degrees of risk through
+ordinary administrative processes informed by evolving scientific evidence. Temporary
+scheduling, however, occupies a different place within the statutory framework. Because it
+authorizes immediate and sweeping regulatory consequences, it should be reserved for situations
+in which the scientific record demonstrates an imminent threat that cannot reasonably await the
+ordinary deliberative process.
+
+Nothing in these comments should be understood as discouraging HHS from recommending
+appropriate safeguards for products containing 7-OH. To the contrary, HART supports
+reasonable manufacturing standards, age restrictions, product testing, labeling requirements, and
+continued surveillance to ensure consumer safety. The question presented by this Request for
+Information, however, is considerably narrower: whether the current scientific evidence supports
+the extraordinary remedy of temporary Schedule I placement through DEA's emergency
+scheduling authority.
+
+Based on the record presently before the Agency, it does not.
+
+Accordingly, if HHS concludes that additional federal controls are warranted, it should
+recommend that DEA proceed through the ordinary scheduling process established by the
+Controlled Substances Act. That process is specifically designed to permit comprehensive
+scientific evaluation, robust public participation, and reasoned administrative decision-making
+before imposing the substantial legal consequences associated with permanent scheduling. By
+contrast, temporary scheduling is an extraordinary authority intended to address imminent
+hazards to public safety. The current scientific record does not demonstrate the type of
+immediate public-health emergency that justifies bypassing the ordinary scheduling process
+Congress established.
+
+III. Improving the Proposed Threshold Framework
+Although the scientific record discussed above does not support either the proposed 0.050
+percent concentration threshold or the proposed one-milligram-per-article threshold as
+scientifically established indicators of an imminent hazard to public safety, HART recognizes
+that HHS and DEA may conclude, as a matter of regulatory policy, that numerical thresholds are
+appropriate to distinguish between products presenting materially different levels of potential
+risk.
+If so, those thresholds should be structured in a manner that reflects established toxicological
+principles, can be implemented consistently by regulated manufacturers, and directs enforcement
+resources toward products presenting the greatest potential public-health concern. Several
+
+
+
+                                               11
+targeted revisions would substantially improve the proposed framework while remaining faithful
+to the scientific record.
+A. Clarify That Thresholds Apply Only to Finished Consumer Products
+The proposed rule repeatedly refers to an "article" containing more than one milligram of 7-OH
+but does not define that term with sufficient precision. This ambiguity creates unnecessary
+uncertainty for manufacturers, laboratories, distributors, and enforcement personnel.
+For purposes of temporary scheduling, DEA should expressly define an "article" as a finished
+consumer dosage unit intended for retail sale or consumption, such as a tablet, capsule, beverage,
+gummy, or other single-serving product.
+Applying thresholds to intermediate manufacturing materials, bulk ingredients, or works-in-
+progress would create significant compliance difficulties without advancing the Agency's stated
+public-health objectives. Concentrated intermediate materials are routinely used during lawful
+manufacturing processes before dilution into finished products. Regulating those materials under
+a finished-product threshold could inadvertently criminalize ordinary manufacturing practices
+that never result in consumer exposure.
+Limiting the threshold to finished consumer products would more accurately align regulatory
+oversight with actual public health risk while providing regulated entities with a clear and
+administrable compliance standard.
+B. Eliminate the Percentage Concentration Threshold
+Among the two proposed numerical thresholds, the percentage concentration limit is the least
+scientifically defensible.
+As discussed in Part I, pharmacological risk is determined by systemic exposure, not
+concentration expressed as a percentage of product weight. Two products containing identical
+concentration percentages may produce dramatically different consumer exposures depending
+upon serving size, dosage form, oral bioavailability, and formulation. Conversely, products with
+substantially different concentration percentages may deliver nearly identical amounts of active
+compound.
+Dr. Steven Bird specifically concludes that concentration-based regulation does not accurately
+reflect pharmacological risk because concentration alone fails to measure the quantity of 7-OH
+actually consumed. Dr. Edward Boyer likewise emphasizes that toxicological risk depends upon
+exposure-response relationships rather than receptor affinity or nominal concentration.
+These conclusions are consistent with longstanding toxicological principles. Hazard is not
+determined simply by the proportion of active ingredient within a product, but by the amount
+ultimately absorbed by the consumer under real-world conditions of use.
+For these reasons, HHS should recommend that DEA eliminate the proposed 0.050 percent
+concentration threshold and instead regulate finished products using a single exposure-based
+standard.
+C. Increase the Finished-Product Threshold to 5 mg Per Dosage Unit
+
+
+
+
+                                               12
+If HHS concludes that a finished-product threshold remains appropriate, the scientific record
+supports increasing that threshold from one milligram to five milligrams per finished dosage
+unit.
+Dr. Steven Bird's pharmacokinetic analysis demonstrates that a five-milligram oral dosage would
+still produce systemic exposure substantially below plasma concentrations observed in published
+human kratom studies that reported no serious toxicity. Because oral bioavailability remains
+approximately 2.7 percent, only a small fraction of an ingested dose reaches systemic circulation.
+Importantly, no published pharmacological, toxicological, clinical, or epidemiological evidence
+identifies one milligram as a biologically meaningful threshold. Rather, the proposed limit
+appears to represent a conservative judgment rather than a value derived from experimentally
+observed changes in human risk.
+A five-milligram threshold would therefore remain protective while better reflecting the
+available scientific evidence. It would also distinguish lower-exposure finished products from
+significantly higher-potency formulations without unnecessarily encompassing products for
+which the current record does not demonstrate an imminent public-health hazard.
+Such an approach appropriately balances consumer safety, regulatory clarity, and scientific
+integrity.
+D. Continue Surveillance and Encourage Additional Research
+Finally, HHS should recommend that DEA continue to evaluate emerging evidence as additional
+clinical and epidemiological data become available.
+The experts whose analyses are discussed throughout these comments consistently recognize that
+the scientific literature concerning 7-OH continues to evolve. Continued monitoring through
+NPDS, DEA TOX, NDEWS, RADARS®, FAERS, and other established surveillance systems
+will provide regulators with increasingly robust information regarding patterns of use, adverse
+events, misuse, and long-term outcomes.
+Similarly, additional human pharmacokinetic studies, controlled clinical investigations, and
+epidemiological research will further refine understanding of dose-response relationships and
+product-specific risk.
+Regulatory frameworks governing emerging substances should evolve alongside the evidence.
+Continued surveillance and research will allow HHS and DEA to reassess future policy decisions
+based upon increasingly comprehensive scientific data while ensuring that regulatory actions
+remain proportional to demonstrated public-health risk.
+IV. Conclusion
+HHS requested scientific evidence to inform whether products containing 7-hydroxymitragynine
+above specified thresholds should be recommended for temporary placement in Schedule I. The
+available record provides an increasingly robust understanding of the pharmacology and
+toxicology of 7-OH. It does not, however, identify either the proposed 0.050 percent
+concentration threshold or the proposed one-milligram-per-article threshold as scientifically
+established indicators of an imminent hazard to public safety.
+
+
+
+                                               13
+Across multiple independent disciplines, the evidence points to the same conclusion.
+Pharmacological research demonstrates that systemic exposure - not concentration alone -
+determines risk. Preclinical toxicology has not identified severe toxicity corresponding to the
+proposed numerical thresholds. Human clinical experience has not demonstrated widespread
+serious harm associated with commercially available oral products. National surveillance
+systems designed specifically to detect emerging drug threats likewise have not identified the
+epidemiological patterns ordinarily associated with substances presenting an imminent public-
+health emergency.
+Importantly, these conclusions are not based upon a single study or individual expert.
+Independent reviews conducted by Drs. Steven Bird, Edward Boyer, Kirsten Smith, Michael
+Levine, Jackob Moskovitz, and Andrew Monte – approaching the issue from pharmacological,
+toxicological, emergency medical, psychiatric, and public-health surveillance perspectives –
+consistently conclude that the current scientific record does not establish the proposed thresholds
+as biologically meaningful indicators of risk. While each recognizes the importance of continued
+research and appropriate regulatory oversight, none concludes that the available evidence
+supports the specific numerical limits proposed by DEA.
+HART likewise recognizes that products containing pharmacologically active compounds should
+be manufactured responsibly and regulated appropriately. These comments should not be
+interpreted as opposing reasonable safeguards designed to protect consumers or ensure product
+quality. Rather, they urge HHS to ensure that any recommendation to DEA accurately reflects
+what the science presently demonstrates - and, equally important, what it does not.
+Accordingly, HART respectfully recommends that HHS:
+
+   1. Conclude that the current scientific record does not support either the proposed 0.050
+      percent concentration threshold or the proposed one-milligram-per-article threshold as
+      scientifically established indicators of an imminent hazard to public safety;
+   2. Recommend elimination of the proposed percentage-concentration threshold in favor of a
+      finished-product standard based upon actual consumer exposure;
+   3. Recommend increasing the finished-product threshold to 5 mg of 7-OH per dosage unit,
+      consistent with Dr. Steven Bird's pharmacokinetic analysis;
+   4. Clarify that any threshold applies only to finished consumer dosage units; and
+   5. Encourage continued clinical research and public-health surveillance so that future
+      regulatory decisions may be informed by an increasingly comprehensive scientific record.
+
+The Controlled Substances Act entrusts HHS with an essential scientific advisory role. That role
+is not simply to identify potential hazards, but to distinguish between what has been
+demonstrated by evidence and what remains uncertain. Here, the evidence supports continued
+study, continued surveillance, and appropriately tailored regulation. It does not establish that
+DEA's proposed numerical thresholds are themselves grounded in the current scientific record.
+For these reasons, HART respectfully urges HHS to recommend that DEA hold its temporary
+scheduling recommendation in abeyance and revise the proposed framework in a manner that
+more accurately reflects the available scientific evidence.
+Additionally, HART respectfully urges HHS to recommend that any further evaluation of 7-OH
+proceed through the Act's ordinary scheduling process, where the scientific evidence can
+
+
+
+                                                14
+continue to develop and the Agency can build a complete administrative record before
+determining whether permanent scheduling is warranted.
+
+
+                                          Sincerely,
+
+
+                                       Jeff Smith, Ph.D
+                                      Executive Director
+                             Holistic Alternative Recovery Trust
+                                   jeff@hartsupporter.com
+
+
+
+
+                                              15
+                                          Sources Cited
+   I.      Independent Experts
+Dr. Steven B. Bird, MD, FACMT, FACEP, is a nationally recognized emergency physician,
+board-certified medical toxicologist, and Professor of Emergency Medicine at UMass Chan
+Medical School, where he serves as Division Director of Medical Toxicology. A graduate of
+Yale University and Northwestern University Feinberg School of Medicine, Dr. Bird completed
+his emergency medicine residency and medical toxicology fellowship at UMass following
+service as a U.S. Navy Flight Surgeon with the Marine Corps. He is a past president of the
+Society for Academic Emergency Medicine and has authored more than 90 peer-reviewed
+publications on toxicology, poisoning, pharmacology, and emergency medicine. Widely
+regarded as one of the nation's leading experts in clinical toxicology and the health effects of
+drugs and chemical exposures, Dr. Bird has frequently served as an expert witness in complex
+litigation and regulatory matters, translating scientific evidence into practical public health and
+medical policy.
+Edward W. Boyer, M.D., Ph.D. Dr. Boyer is a board-certified emergency physician and
+medical toxicologist with over 25 years of clinical experience in treating adverse drug events,
+toxicities, and substance use disorders. He is a Professor with Tenure at The Ohio State
+University and serves on the staff of the Central Ohio Poison Control Center. He has published
+extensively on kratom and its alkaloids, has served as an NIH-funded researcher, and is
+recognized for his expertise in opioid pharmacology, medical toxicology, and public health
+surveillance of emerging substances.
+Michael Levine, M.D. Dr. Levine is a Professor of Emergency Medicine and Co- chief of the
+Division of Medical Toxicology at the University of California, Los Angeles (“UCLA”). He
+completed his medical toxicology fellowship at Banner University Medical Center and has held
+leadership roles at both the University of Southern California and UCLA. He has authored over
+130 peer-reviewed articles on drug toxicity, has served on multiple hospital and academic
+committees related to medication safety, and is an experienced clinical and preclinical researcher
+in the field of toxicology.
+Andrew A. Monte, M.D., Ph.D. Dr. Monte is a board-certified physician and pharmacologist
+with dual doctoral degrees in medicine and pharmacology. Dr. Monte is currently a Professor of
+Pharmacology and Medicine at a leading academic medical center, where his research focuses on
+the pharmacodynamics and toxicology of opioid and non-opioid analgesics, including kratom
+alkaloids. He has authored numerous peer-reviewed publications on the safety and efficacy of
+emerging psychoactive substances and has served as a consultant to federal agencies on issues
+related to drug safety, abuse potential, and regulatory policy. His expertise encompasses both
+preclinical and clinical evaluation of novel compounds, and he is widely recognized for his
+contributions to the field of substance use research.
+Jackob Moskovitz, Ph.D. Dr. Moskovitz is an Associate Professor with tenure in the
+Department of Pharmacology and Toxicology at the University of Kansas School of Pharmacy.
+He earned his Ph.D. in Medical Sciences from the Technion-Israel Institute of Technology and
+has held research fellowships at the National Institutes of Health (“NIH”) and Roche Institute.
+His research focuses on neuropharmacology, oxidative stress, and drug safety, and he has
+
+
+
+                                                16
+published extensively in peer-reviewed journals, served as a grant reviewer for major funding
+agencies, and holds several patents in biomedical research.
+Kirsten E. Smith, Ph.D. Dr. Smith served as Assistant Professor in the Department of
+Psychiatry and Behavioral Sciences at the Johns Hopkins University School of Medicine,
+specializing in behavioral pharmacology and substance use research. She holds a Ph.D. in social
+work with a focus on drug use and has extensive experience conducting clinical and survey
+research on kratom, MG, 7-OH, and related compounds. She is a recognized expert in kratom
+science, has published widely in peer-reviewed journals, and led the Kratom Research Unit at
+Johns Hopkins, with multiple NIH-funded projects and advisory roles for public health and
+regulatory bodies.
+
+
+
+
+                                               17
+                              7-Hydroxymitragynine Science Update
+
+Introduction: Kratom is a plant native to Malaysia, Indonesia, and Thailand that has been used for
+centuries as a remedy for a large number of ailments; the predominant alkaloid in kratom is
+mitragynine. A metabolite, 7-hydroxymitragynine, is formed naturally in leaf products and in the
+human body. Commercial formulations of 7-hydroxymitragynine are made from mitragynine using
+the identical chemical transformation, known as oxidation, that happens naturally. Mitragynine and
+7-hydroxymitragynine (“7OH”) bind to the mu-opioid receptors but in a way that is fundamentally
+different than traditional opioids such as morphine.
+Kratom and 7-Hydroxymitragynine products are used widely in the United States by people who
+seek autonomy over their healthcare, do not want the risk of overdose death from prescription
+opioids, nor the expense of prescription pharmaceuticals. Based upon manufacturer estimates,
+over 1.4 billion servings of 7OH have been dispensed in the US to as many as 3 million daily
+consumers; reasons for use include management of chronic pain; depression and anxiety; and as a
+remedy for opioid dependence; among other uses. The US Food and Drug Administration (FDA)
+has indicated that the US Drug Enforcement Administration (DEA) should consider scheduling 7OH
+and kratom as controlled substances.
+
+
+Deaths from overdose.
+Summary: There are no confirmed cases of fatalities from 7-OH alone despite years of commercial
+use.
+America’s Poison Centers (formerly the National Poisoning Data System, or NPDS) have not
+reported any cases of fatalities from 7-hydroxymitragynine.1 No cases of overdose death have
+been published in the peer-reviewed literature; there are no confirmed cases of fatalities from 7-OH
+alone despite years of commercial use. Furthermore, the 2026 abstracts at the Scientific Assembly
+of the American College of Medical Toxicology presented no overdose deaths. Nonetheless, two
+cases are notable:
+    A single case contained in the America’s Poison Centers database involved a hospice patient
+    who suffered a blood clot in the lungs; this person had severe complications of treatment of the
+    blood clot. Because this individual died six days after entering the hospital, acute 7OH toxicity
+    could not have been the cause of death.
+    A young male with acute overdose was reported in Journal of Toxicology/Clinical Toxicology
+    2025. The patient, with a history of fentanyl dependence treated with Suboxone that he stopped
+    because of prohibitive cost, had been fired from a menial job. After being fired, he drank
+    excessive alcohol and was found not breathing and comatose by family members who called
+    911. Paramedics administered an extraordinary amount of naloxone (the antidote for opioid
+    toxicity). He was transported to a hospital where he was admitted for a 72 hr suicide hold. The
+
+1
+ This is not because medical toxicologists are unaware of 7OH; on February 15, 2025, poison control centers
+added 7OH as a specific substance for data collection purposes. No deaths have been reported since that time.
+Moreover, poison center data does not show a spike in cases related to kratom since commercial sales of 7OH
+began in 2023. Even if 7OH use was misattributed as kratom use, a signal of overdose risk still does not exist.
+    clinicians never proved ingestion of 7OH nor disproved use of fentanyl despite the massive
+    doses of naloxone needed for reversal; the publication did, however, demonstrate the presence
+    of 7OH in commercial products found in his home.
+Press releases describing 7OH overdose death generated by the Los Angeles County Medical
+Examiner Office lack scientific rigor. In none of the cases did the medical examiner measure the
+concentration of 7OH at autopsy.2 Second, one-third of cases did not have an internal examination
+that may have identified an alternative cause of death. Third, none of the cases considered
+decedents’ previous medical histories that may have contributed to death. Finally, none of these
+cases have been published in the peer-reviewed literature. Science by press release is not a typical
+approach to expanding the body of knowledge.
+Overdose and toxicity: An increase in poison center calls reported in a 2026 Morbidity and Mortality
+Weekly Report conflated kratom and 7-hydroxymitragynine exposures—and incorrectly attributed
+the rise solely to commercial sales of 7OH, even though 7OH products had been in the marketplace
+for nearly two years prior to the dataset used in the publication.
+Pediatric considerations: Pediatric exposure to 7OH is rare. Exposures are sporadic and wide
+geographic distribution. Some major centers (e.g., the children’s hospital in Columbus, OH;
+Harvard’s pediatric hospital, and major pediatric centers in Los Angeles have not seen a single
+pediatric case.
+Evidence of outbreaks of multiple poisonings. No outbreaks of multiple poisonings have been
+reported. Calls to poison centers demonstrate that cases are sporadic and not tied to a
+geographical location as would be expected from severe toxicity that arises in multiple consumers.
+For comparison, substances such as fentanyl analogues, tianeptine, and isonitazenes produced
+clear surges in deaths and enforcement activity—conditions not currently seen with 7-
+hydroxymitragynine. In other words, substances such as fentanyl, tianeptine, and isonitazines
+posed a clear and "imminent hazard" to public safety, indicating a rapidly escalating threat that is
+absent with 7OH.
+
+
+Substance Use Disorder
+Summary: The severity of substance use disorder from 7-hydroxymitragynine and the intensity of
+withdrawal may be less than that from comparable substances.
+Laboratory research in animal models has demonstrated place preference for 7OH, a finding that
+suggests the possibility of abuse potential. Human data may be different. Emerging studies in a
+nationwide sample of drug treatment facilities performed at Johns Hopkins University has found that
+individuals seeking treatment for substance use disorder from 7OH is uncommon; in fact, among
+persons with substance use disorder from kratom-related products, 7OH is fourth on the list of
+substance classes despite months of commercial sales. In addition, the medical literature suggests
+that if buprenorphine is needed to ameliorate opioid withdrawal (and it is not always is required), the
+
+2
+  The ratio of mitragynine to 7OH in forensic examinations is critically important. Kratom ingestion leads to
+formation of 7OH as a metabolite of mitragynine, but only in a small amount; in deaths following kratom use,
+therefore, the ratio of mitragynine:7OH would be very high, such as greater than 20 parts mitragynine to 1 part
+7OH. Use of 7OH commercial products would lead to the reverse where a very high ratio of 7OH:mitragynine
+occurs.
+dose needed to control 7OH withdrawal symptoms is less than that needed for treatment of
+withdrawal from classical opioids.
+
+
+Pharmacology
+Summary: 7-Hydroxymitragynine has pharmacology that limits its biological effects, toxicity, and
+overdose risk.
+The basic science of 7OH partly explains the lack of public health signal of adverse effects from
+7OH. Chiang (European Journal of Drug Metabolism and Pharmacokinetics, 2025) demonstrates
+that the first-pass metabolism (i.e., the amount of a dose that survives the liver) of orally
+administered 7OH is extremely low at 2.7-3%. Half of the surviving 7-hydroxymitragynine distributes
+into red blood cells and the remainder is subjected to additional degradation in the blood stream.
+Detoxifying molecules prevent entry of 7-hydroxymitragynine into the brain where it resides for only
+a brief time. 7-Hydroxymitragynine is rapidly eliminated from the body.
+Even more importantly, federally funded research conducted at Memorial Sloan-Kettering Cancer
+Center identified that 7-hydroxymitragynine does not induce respiratory (DoD award number
+W81XWH-17-1-0256, “Safer nonaddicting and nonabusable analgesics….; Majumdar, PI).3
+An explanation for the lack of respiratory depression is also found in basic pharmacology research.
+In 2021, Obeng (Journal of Pharmacology and Experimental Therapeutics, 2021) demonstrated that
+the binding-activity curve at the mu-opioid receptor for 7OH is nearly identical to that of
+buprenorphine, a molecule used in the treatment of opioid dependence and as an antidote for acute
+opioid poisoning. Thus, multiple lines of evidence funded by independent federal agencies or
+produced before the appearance of commercial 7OH products have indicated lack of respiratory
+effects from 7OH use.
+
+
+
+Prepared by Edward W Boyer MD PhD
+
+
+
+
+3
+  A separate study (Zuarth-Gonzales, Journal of Pharmacology and Experimental Therapeutics 2025) found 7OH
+could induce respiratory depression depending on study conditions. Several features of this research are
+noteworthy. First, 7OH was administered intravenously, a route never used by consumers. Second, the study
+used respiratory rate and minutes ventilation as a surrogate for respiratory depression, when the FDA-indicated
+measure for opioid respiratory effects is the ventilatory response to hypercapnia. Third, a commercial competitor
+to 7OH products has heavily funded that research group, a fact not revealed in conflict of interest statements.
+                                Steven B. Bird, MD FACMT FACEP
+                                        6 Laurel Ridge Ln
+                                      Shrewsbury MA 01545
+
+                                            July 17, 2026
+
+
+Jeffrey K. Shapiro
+King & Spalding, LLP
+1700 Pennsylvania, NW Suite 900
+Washington, D.C. 20006
+
+
+Dear Mr. Shapiro,
+
+I am a medical toxicologist with 31 years of clinical experience. I am a Professor at UMass Chan
+Medical School and the director of our Division of Medical Toxicology (likely the largest such
+Division in the United States). In my clinical practice I have treated thousands of patients with
+overdoses of various substances. I have been asked by you to consider and opine upon the
+following topics related to 7-hydroxymitragynine (7-OH).
+
+   1. Whether the available human clinical data support Drug Enforcement Administration
+      (DEA) publication of a temporary order scheduling an article containing greater than 1 mg
+      of 7-OH in schedule I of the Controlled Substances Act.
+   2. Whether the DEA’s proposed 1 mg-per-article threshold is scientifically justified in light of
+      available human pharmacokinetic (PK), safety, and tolerability data.
+   3. Whether a higher threshold, including one informed by observed in vivo conversion of
+      mitragynine to 7-OH, is scientifically more appropriate.
+   4. Whether the DEA’s proposal for both a “greater than 0.050 percentage by weight/weight,
+      weight/volume, or volume/volume” per article concentration standard and a “greater than
+      1.00 milligram” per article standard creates scientific and regulatory ambiguity, and
+      whether the 0.050% standard should be deleted in favor of a single threshold expressed
+      in milligrams per article.
+   5. Any assumptions, methodological limitations, or safety caveats that should accompany
+      your opinion.
+
+To accomplish this, I performed literature searches and reviews in PubMed and Google Scholar;
+reviewed relevant scientific articles; and reviewed relevant citations from those identified scientific
+articles. I then synthesized these various informative sources to answer the above questions.
+
+Before answering the above-listed five questions for you, it is worth considering the critical
+medical and toxicological questions at issue. To me, those critical questions are:
+
+   1. As 7-OH is formed from in vivo conversion of mitragynine (MTG), are there PK data
+      regarding the rapidity and maximum concentration of 7-OH after mitragynine use?
+   2. Are there PK data regarding 7-OH when used alone (that is, without mitragynine)?
+   3. Can we estimate what a serum concentration of 7-OH would be under various
+      assumptions?
+   4. Has a serum/blood concentration for 7-OH been identified at or above which a health risk
+      (namely, respiratory depression) may occur? That is, is there an established
+      pharmacodynamic effect at a defined concentration level?
+I will begin by discussing these four medical/toxicological points.
+
+I.   Pharmacokinetic data of in vivo 7-OH formation from mitragynine
+
+The serum/blood concentrations and duration of 7-OH are dictated by the rate at which MTG is
+metabolized. In humans, MTG is converted into 7-OH primarily through CYP3A4-mediated
+metabolism in the liver. While CYP3A4 is the major driver, enzymes such as CYP2C19 and
+CYP2D6 contribute to this conversion to a lesser extent.
+
+Both the formation and clearance of 7-OH are CYP3A-dependent. Ketoconazole (a CYP3A
+inhibitor) increased systemic exposure to 7-OH by 130% in rats and increased its
+pharmacodynamic potency 4- to 10-fold, confirming that CYP3A is the principal clearance
+pathway for 7-OH itself, not just its formation from MTG. In humans, women generally exhibit
+higher CYP3A4 activity, which would lead to lower 7-OH concentrations compared to men. 7-OH
+undergoes further oxidative metabolism to at least two identified products:
+
+     •   Mitragynine pseudoindoxyl — formed via a CYP3A-mediated skeletal rearrangement. This
+         metabolite is a multifunctional μ-agonist/δ-κ antagonist with >2-fold μ-opioid receptor-
+         biased agonism relative to its precursors, and it exhibits reinforcing properties and
+         gastrointestinal (GI) transit inhibition (Chakraborty 2021; Avula 2026).
+     •   3-Dehydromitragynine — formed through a non-CYP oxidation pathway. This metabolite
+         is also generated when 7-OH degrades under simulated gastric conditions (up to 27%
+         degradation in simulated gastric fluid) (Manda 2014; Chakraborty 2021; Avula 2026).
+
+The most detailed human data regarding 7-OH come from the study by Huestis et al. (Huestis
+MA. Ther Drug Monit 2026;00:1–11), which characterized plasma PK of both mitragynine and 7-
+OH-MTG after oral kratom extract (39.5% mitragynine) at escalating doses.
+
+     •   After single doses of 9.9, 29.6, and 59.2 mg mitragynine, mean 7-OH Cmax values were
+         6.8, 13.7, and 30.5 ng/mL, respectively, with a median Tmax of 1.3–1.7 h.
+     •   After 15 daily doses at the same escalating levels, mean 7-OH Cmax values were 5.4, 16.6,
+         and 33.9 ng/mL with Tmax of 1.7–2.3 hours.
+     •   Cmax and AUC increased approximately dose-proportionally (less than 1.4 x greater than
+         expected based on strict dose proportionality).
+     •   Higher 7-OH to mitragynine ratios were observed after multiple doses compared to single
+         doses, and at lower compared to higher doses, suggesting possible CYP3A enzyme
+         saturation at higher doses.
+
+Because 7-OH formation is rate-limited, its elimination half-life when formed as a metabolite is
+parallel to that of MTG, approximately 4.7 to 24.7 hours in human subjects depending on the study
+and dose.
+
+II. Pharmacokinetic data regarding 7-OH when used alone
+
+After exhaustive literature review, I could find no data regarding the PK (or pharmacodynamics)
+of 7-OH when ingested alone in humans. In their absence, I have used fundamental PK principles
+to estimate human 7-OH concentrations.
+
+Several factors suggest that absolute oral bioavailability of 7-OH is likely modest:
+   •   Gastric instability: 7-OH degrades up to 27% in simulated gastric fluid, with approximately
+       23% converting back to mitragynine and additional degradation to 3-dehydromitragynine.
+       Only 6% degradation occurs in simulated intestinal fluid (Manda 2014).
+   •   Rapid hepatic metabolism: 7-OH has a microsomal half-life of only 24 minutes in human
+       liver microsomes, indicating extensive first-pass metabolism (Manda 2014).
+   •   CYP3A-dependent clearance.
+
+PK studies in rodents have been performed. Chiang et al. (Chiang 2025), performed oral and IV
+PK studies of 7-OH in male rats. The volume of distribution was 2.7 ± 0.4 L/kg and the clearance
+was 4.0 ± 0.3 L/h/kg after IV administration. Notably, the volume of distribution of MTG in humans
+and rodents show 97% agreement. It is expected that the volume of distribution in humans would
+also be low. After 5 mg/kg oral dosing, a Cmax of 28.5 ± 5.0 ng/ml and Tmax of 0.3 ± 0.1 h were
+observed. Mitragynine pseudoindoxyl (MGPI), the metabolite of 7-OH that is a more potent μ-
+opioid agonist than 7-OH, had a parent-to-metabolite ratio for MGPI following IV 7-OH of 0.5 ±
+0.1%, indicating very limited systemic exposure to MGPI.
+
+Further PK data from rats are also informative. 7-OH exhibits >90% plasma protein binding by
+equilibrium dialysis, similar to mitragynine (Manda 2014). Such high binding limits the free fraction
+available for tissue distribution and receptor engagement. Furthermore, Yusof et al. (Yusof 2019)
+determined that 7-OH has lower blood-brain-barrier (BBB) permeability than mitragynine (that is,
+7-OH does not as readily cross into the brain); 7-OH shows a tendency toward P-gp-mediated
+efflux (efflux ratio 1.39); and less than 10% of unbound 7-OH in plasma crosses the BBB (Kp,uu
+< 0.1), indicating extensive efflux.
+
+So, despite the limitations of data in humans, all available evidence supports my conclusions.
+
+III. Estimating the serum concentration of 7-OH under various assumptions
+
+Another way to look at the 7-OH PK issue is by taking a hypothetical 1 mg dose of 7-OH and
+calculating its apparent serum concentration given PK principles.
+
+For an adult male (averaging 70 to 75 mL of blood per kg): An 80 kg male has a total blood volume
+of roughly 5,600 to 6,000 mL.
+
+   •   At 6,000 mL: 1 mg / 6,000 mL ≈ 0.000167 mg/mL (167 ng/mL)
+
+For an adult female (averaging 65 mL of blood per kg): A 70 kg female has a total blood volume
+of roughly 4,550 mL.
+
+   •   At 4,550 mL: 1 mg / 4,550 mL ≈ 0.000220 mg/mL (220 ng/mL)
+
+However, the distribution of 7-OH out of the bloodstream and into extravascular tissues (fat,
+muscle, etc) must be considered. The actual concentration in the blood is dictated by the drug’s
+apparent Volume of Distribution (𝑉𝑑 ), using this formula:
+
+                                               Dose
+                                       𝐶=
+                                            𝑉𝑑 × Weight
+
+If the rat 𝑉𝑑 of 7-OH, (𝑉𝑑 = 2.7 L/kg; NB: the rat and human volumes of distribution for MTG agree
+with each other by 97%) is used, then the calculation is as follows:
+
+   •   An 80 kg person has a distribution volume of 216 L (216,000 mL).
+   •   Blood concentration: 1 mg / 216,000 mL ≈ 0.0000046 mg/mL (4.6 ng/mL)
+
+This 4.6 ng/mL assumes instantaneous and complete absorption of the 1 mg 7-OH dose.
+
+Protein binding of 7-OH also must be considered. Studies by Manda and Obeng (Obeng 2019)
+have demonstrated the 7-OH and related MTG metabolites are extensively protein bound (~90%).
+However, only the unbound fraction is free to interact with receptors and cross cellular
+membranes.
+
+                                         𝐶𝑓𝑟𝑒𝑒 = 𝐶𝑡𝑜𝑡𝑎𝑙 × 𝑓𝑢
+                             𝐶𝑓𝑟𝑒𝑒 = 4.63 ng/mL × 0.10 = 0.463 ng/mL
+
+Thus, in under these assumptions, a single 1 mg dose of 7-OH would result in an approximate
+serum concentration of just 0.46 ng/mL, well below the measured serum concentrations in studies
+by Huestis. By extension, a 10 mg dose of 7-OH would yield an estimated concentration of 4.6
+ng/mL (again, roughly 7 times lower than the 7-OH concentration measured in Huestis’ highest
+dose).
+
+IV. The 7-OH serum/blood concentration at or above which a health risk (namely,
+    respiratory depression) may occur
+
+Given 7-OH’s ability to bind to the μ-opiate receptor, the greatest concern regarding overdose of
+7-OH is respiratory depression.
+
+There is no scientifically established serum/blood concentration of 7-OH at or above which
+respiratory depression is likely to occur. Aside from the lack of clinical data, the most compelling
+reason for this lack of respiratory effect threshold is that 7-OH exhibits atypical opioid
+pharmacology. 7-OH is a potent partial agonist at the -opioid receptor. Unlike full agonists (such
+as morphine or fentanyl), partial agonists often demonstrate a “ceiling effect” for respiratory
+depression in preclinical models. While 7-OH has a much higher binding affinity and potency at
+the -opioid receptor than mitragynine, its G-protein-biased signaling complicates setting a linear
+concentration-to-risk threshold. These facts (and others), make the likelihood of respiratory
+depression less likely with 7-OH.
+
+Given this lack of clinical data on respiratory effects, perhaps the best and most voluminous data
+on the safety of 7-OH comes from a review of Poison Center and other data (e.g., DEA) and the
+manufacturers of 7-OH.
+
+Reports of 7-OH toxicity and deaths potentially linked to 7-OH in the realm of medicine and
+medical toxicology are generally rare. However, the real-world use of 7-OH products (in which the
+most common 7-OH dose sold in the U.S. is the 50 mg tablet) is tremendous, with more than
+93,381,000 tablets sold in the U.S. (which is likely an underestimate of the true consumption of
+7-OH). Reconciling the large use of 7-OH products with the relative dearth of reports of 7-OH
+toxicity resulting in significant adverse health effects can only lead to the conclusion that 7-OH is
+relatively safe, even at large doses such as 50 mg or more.
+
+While it is hard to prove a negative, I believe that data related to total production of 7-OH products
+provides a compelling argument for 7-OH’s safety when used at reasonable doses.
+
+V. My answers to the questions posed to me
+
+Q1.    Whether the available human clinical data support DEA publication of a temporary order
+       scheduling an article containing greater than 1 mg of 7-OH in schedule I of the Controlled
+       Substances Act.
+
+Available human and animal studies do not support a 7-OH threshold/dose that low. Available
+human and animal studies support establishment of a 7-OH threshold/dose higher than 1 mg per
+article. Evidence for this opinion is found in the human PK data by Huestis et al. which showed
+that 7-OH Cmax from mitragynine doses up to 59.2 mg were well-tolerated. Additionally, we have
+real-world use of millions of 50 mg tablets without proportionate adverse events. It is also worth
+mentioning that I could find no rationale or justification for DEA’s 1 mg limit recommendation.
+
+Q2.    Whether the DEA’s proposed 1 mg-per-article threshold is scientifically justified in light of
+       available human PK, safety, and tolerability data.
+
+It is my opinion that the 1 mg-per-article threshold is overly conservative based upon pre-clinical
+and clinical science. Such a limit also lacks validity given what is known about 7-OH use in the
+United States.
+
+Q3.    Whether a higher threshold, including one informed by observed in vivo conversion of
+       mitragynine to 7-OH, is scientifically more appropriate.
+
+It is my opinion that a 5 mg per article dose is safe and does not present an imminent hazard to
+the public safety. Support for this opinion is found in the Huestis human PK studies, in which a
+high 7-OH Cmax of 30.5 ng/mL was found after mitragynine dosing. Furthermore, the partial
+agonist/ceiling effect of 7-OH lends another pharmacodynamic level of safety to the chemical. In
+fact, given all of the data that I have reviewed, it would also be my opinion that a 10 mg dose is
+safe.
+
+Q4.    Whether the DEA’s proposal for both a “greater than 0.050 percentage by weight/weight,
+       weight/volume, or volume/volume” per article concentration standard and a “greater than
+       1.00 milligram” per article standard creates scientific and regulatory ambiguity, and
+       whether the 0.050% standard should be deleted in favor of a single threshold expressed
+       in milligrams per article.
+
+It is my opinion that the DEA’s use of both a 0.050% concentration standard and a 1 mg-per-
+article standard is not necessary and is unduly complicated. It is not the concentration
+(weight/weight) that is important, but rather the milligrams of 7-OH per dose. Requiring just a
+milligram-based standard allows for much clearer dosing guidance across products of varying
+size and formulation.
+
+Q5.    Any assumptions, methodological limitations, or safety caveats that should accompany
+       your opinion.
+
+My opinions are based upon available data. Ideally, PK studies of 7-OH would be performed.
+Such studies would eliminate some of the extrapolations being relied upon for my opinion (e.g.,
+7-OH metabolite data from Huestis; rodent PK data; and protein binding estimates). Due to the
+lack of human PK data for 7-OH, the most appropriate safe dosage is deemed to be 5 mg per
+article.
+
+
+
+
+Steven B. Bird, MD FACMT FACEP
+FOR IMMEDIATE RELEASE
+August 21, 2025
+Contact: media@hartsupporter.com
+
+  LEADING RESEARCHERS REJECT FDA’S POSITION, FIND NO EVIDENCE OF
+   HARM FROM 7-OH IN RESPONSE FROM SHAMAN BOTANICALS TO FDA
+
+[WASHINGTON, DC] Shaman Botanicals has issued a formal response to the FDA’s recent
+warning letter on its 7-Hydroxymitragynine (7-OH) products, backed by reports from leading
+researchers at Johns Hopkins, Harvard, UCLA, and other institutions. The company argues
+that current scientific evidence supports the safety of 7-OH, directly countering FDA’s claims.
+Experts consulted—including those previously cited by FDA—stress that 7-OH should not be
+considered a public health crisis and that available data shows no evidence of overdose deaths,
+respiratory depression, or widespread dependence.
+The experts also emphasize that 7-OH is a naturally occurring kratom-derived compound,
+not synthetic, and that preclinical studies commissioned by Shaman found no serious
+toxicity. Collectively, the findings point toward a favorable safety profile and call for continued
+study rather than scheduling. Shaman Botanicals maintains its commitment to scientific
+transparency and consumer safety, urging FDA to follow the science.
+Key Points:
+   1. Experts previously cited by the FDA now disagree with its recommendation to schedule
+      7-OH. They argue the agency’s position is not supported by the latest scientific evidence.
+   2. No deaths or confirmed cases of respiratory depression have been linked to 7-OH.
+      Researchers clam this is significant given millions of adults are estimated to have tried it.
+   3. Researchers say that 7-OH has “no unreasonable risk of overdose deaths” based on
+      reviews of nationwide databases. Poison control and toxicology centers across the U.S.
+      confirm no evidence of widespread harm.
+   4. Scientists confirm that 7-OH is a natural metabolite of kratom, not a synthetic
+      substance. It is produced both by the plant itself and through metabolism in the human
+      body.
+See the full Shaman Botanicals, LLC Response Below:
+Shaman Botanicals, LLC Responds to FDA Warning Letter with Scientific Reports by
+Renowned Experts
+
+Shaman Botanicals, LLC, a leading innovator in botanical wellness, has formally responded to a
+recent warning letter from the U.S. Food and Drug Administration (FDA) regarding its 7-
+Hydroxymitragynine (7-OH) products. In support of its mission and to defend its products,
+attorneys for Shaman Botanicals have assembled an interdisciplinary team of renowned
+researchers, scientists, and clinicians to prepare reports that directly address the FDA’s claims
+concerning 7-OH.
+"The FDA asserts that there is insufficient information about the safety of our 7-OH products.
+However, the scientists consulted by our legal team have found that the evidence to date supports
+the safety of our products,” stated Stephen “Vince” Sanders, II, founder of Shaman Botanicals.
+
+Scientists Cited by the FDA Express Concerns About the Scheduling of 7-OH
+Scientific reviews were provided by Dr. Kirsten Smith, PhD, widely regarded as the leading
+clinical researcher on Kratom in the United States and an Assistant Professor at Johns Hopkins
+University, and Dr. Edward Boyer, MD, PhD, a Harvard-educated medical toxicologist with
+extensive experience in Kratom research.
+
+The support for further study and regulation of 7-OH products by Drs. Smith and Boyer reflects
+a growing and dynamic shift in the scientific community’s perspective on 7-OH. Work by Drs.
+Smith and Boyer was cited by the FDA in their recent report recommending the scheduling of 7-
+OH. Both Drs. Smith and Boyer are currently leading projects to better understand 7-OH use
+patterns in the United States. But, having looked at the latest data, they do not agree with FDA’s
+position.
+
+Other scientists cited in Shaman’s response to the FDA include Dr. Michael Levine, MD, a
+medical toxicologist educated at Chicago Medical School and an associate professor at the
+University of California-Los Angeles, recognized for his research in botanical toxicology, and
+Dr. Jackob Moskovitz, D.Sc., a Technion-Israel Institute of Technology-trained biochemist and
+internationally recognized expert in molecular biology. Drs. Levine and Moskovitz were
+provided with three preclinical studies commissioned by Shaman and asked to comment on
+them. Shaman’s response also cited Dr. Glenn Prestwich, PhD, a Stanford-educated chemist
+and internationally recognized authority on natural products chemistry and chemical biology, and
+Dr. Andrew Monte, MD, PhD, the Associate Director of the Rocky Mountain Poison & Drug
+Center in Denver, Colorado, and an expert in nationwide monitoring for adverse events from
+opioids.
+
+7-OH Should Not be Considered a Public Health Crisis
+Dr. Smith strongly disagrees with the FDA’s recent recommendation to schedule 7-OH.
+According to Dr. Smith, the use of 7-OH does not constitute a public health crisis. Furthermore,
+Dr. Smith asserts that, much like kratom, 7-OH currently offers a net benefit to its users.
+
+According to Dr. Smith, who estimates that at least 4 million adults have tried 7-OH, there are no
+confirmed human cases of respiratory depression caused by 7-OH. Additionally, reports of
+physical dependence or substance use disorder related to 7-OH are even rarer than those
+associated with kratom.
+
+7-OH Is Not Causing Widespread Illness or Injury
+Dr. Boyer reviewed nationwide toxicology databases, including poison center data, and found
+limited evidence of acute overdose risk from 7-hydroxymitragynine. No deaths have been
+attributed to 7-hydroxymitragynine, a finding confirmed by America’s Poison Center in their
+August 12, 2025 report.
+As Dr. Boyer stated, “A signal arising from overdose death from 7-hydroxymitragynine is
+absent. Based upon data available at this time, given the degree of population exposure, the lack
+of findings suggests that 7-hydroxymitragynine carries no unreasonable risk of overdose death.”
+
+Dr. Monte arrived at the same conclusion as Dr. Boyer, that there is currently no evidence of a
+safety signal regarding 7-OH as reported by independent poison control and toxicology centers
+across the United States.
+
+Dr. Boyer also disagreed with the FDA’s report regarding the putative safety or danger of 7-OH.
+According to Dr. Boyer, the FDA assessment relies on animal studies receiving intravenous 7-
+hydroxymitragynine (a route of administration never used in humans) and overlooks existing
+data indicating low bioavailability, rapid clearance, and poor brain penetration characteristic of
+oral 7-hydroxymitragynine.
+
+7-OH is a Natural Product; Not Synthetic
+Opponents of 7-OH often mistakenly label these kratom-derived products as “synthetic.”
+According to Dr. Prestwich, “7-OH is not manufactured synthetically.” Instead, 7-OH is a
+naturally occurring selective oxidation product of mitragynine, already present among the indole
+alkaloids in kratom plant extract. These products contain 7-OH that is chemically identical to the
+natural metabolite of mitragynine produced by the kratom plant and through metabolism in the
+human body. Thus, 7-OH is a natural product.
+
+Pre-Clinical Data Conducted by Shaman Botanicals Supports the Favorable Safety Profile
+of 7-OH
+Drs. Levine and Moskovitz each reviewed three preclinical studies commissioned by Shaman:
+(1) “Acute Toxicity Assessment of 7-Hydroxymitragynine in Rodents,” (2) “Pilot Safety Study
+of Escalating Doses of 7-Hydroxymitragynine and Mitragynine Pseudoindoxyl Administered
+Daily for 7-day Intervals to Mature Dogs,” and (3) “An In-Vitro Pre-Clinical Safety Comparison
+of Mitragynine and its Oxidative Metabolites: 7-Hydroxymitragynine and Mitragynine
+Pseudoindoxyl.” In the two animal studies, no serious clinical toxicity or adverse events were
+observed.
+Dr. Levine stated these studies support initial safety and warrant further evaluation. Dr.
+Moskovitz concluded, “Based on all the obtained data (i.e., in vitro studies, mice and dogs’
+models), it seems that the therapeutic potency and safety profile of 7HMG are either the same or
+better compared to mitragynine.”
+
+Current Science Supports a Reasonable Basis of Safety and Recommends Continued
+Study, Not Scheduling
+Full copies of each expert report have been provided to the FDA. “The FDA pledged to follow
+the science. The aforementioned experts, some of the top scientists in the world, maintain the
+science supports a reasonable basis of safety in our 7-OH products” Sanders said.
+
+Commitment to Transparency and Consumer Safety
+Shaman Botanicals remains deeply committed to transparency, scientific rigor, and consumer
+welfare. The company welcomes continued dialogue.
+
