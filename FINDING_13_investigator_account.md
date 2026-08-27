@@ -190,7 +190,7 @@ Where this account has been submitted, and its status. Update on each filing.
 | Destination | Docket / ref | Status | Date |
 |---|---|---|---|
 | Public repository | github.com/jpuckett11/ObsidianGroup_CaseSevenfold | **PUBLISHED** | 2026-08-27 |
-| HHS OASH comment docket | HHS-OASH-2026-0232, section 5 of the OWG comment | **DRAFTED, NOT YET FILED** | deadline 2026-09-10 |
+| HHS OASH comment docket | HHS-OASH-2026-0232, section 5 of the OWG comment | **FILED. Tracking number `mtc-56yj-nmij`.** Status: submitted, awaiting agency review and posting. | **2026-08-27** |
 | Senate Finance Cttee (Wyden inquiry) | firsthand account paragraph of the OWG submission | **DRAFTED, NOT YET SENT** — awaiting a staff address | response date 2026-08-31 |
 
 **Filing note.** The regulations.gov API refuses comment submission on a standard

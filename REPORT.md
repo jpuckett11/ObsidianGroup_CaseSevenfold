@@ -3,7 +3,7 @@
 ### How a defensible drug rule got made by the people it pays
 
 **Obsidian Watch Group** · CASE SEVENFOLD · draft of 2026-08-27
-**Published record. Provenance-tagged throughout; read the key before citing anything.**
+**Status: INTERNAL. Not cleared for publication.**
 
 ---
 
@@ -405,3 +405,25 @@ and when.
 *Case file, exhibits and hashes: `case_sevenfold/`. 89+ artifacts, chain of custody*
 *in `exhibits/SHA256SUMS.txt`. Every claim in this report is traceable to a finding*
 *document and from there to a primary.*
+
+---
+
+## Filed
+
+**27 August 2026.** The comment described in this report was filed to federal
+docket **HHS-OASH-2026-0232**, the Department of Health and Human Services
+Request for Information on the 7-OH scheduling threshold.
+
+**Comment Tracking Number: mtc-56yj-nmij.**
+
+Eight sections. It supports the scheduling of 7-OH and asks the Department to
+resolve a citation in its own assessment that does not appear in its own
+bibliography, to state the analytical basis for the 0.05% threshold, to say
+whether it assessed the cited literature for industry funding, to say what
+protects consumers of the products this action does not reach, to place on the
+docket a record of what kratom safety information was altered on its web
+properties during 2025 and at whose request, to name the party that obtained the
+comment period extension, and to say whether marketing a chemically converted
+compound as a natural botanical is lawful.
+
+The comment period closes 10 September 2026.

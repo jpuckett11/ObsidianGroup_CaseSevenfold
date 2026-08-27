@@ -225,6 +225,14 @@ Written down deliberately, so we test it instead of confirming it.
 
 ---
 
+## FILED
+
+**2026-08-27 — Public comment filed to docket HHS-OASH-2026-0232** (HHS OASH,
+Request for Information on the 7-OH scheduling threshold).
+**Comment Tracking Number: `mtc-56yj-nmij`.** Eight sections, 2,268 words,
+submitted as `OWG_Comment_HHS-OASH-2026-0232.pdf`. Status: submitted, pending
+agency review and posting. Comment period closes 2026-09-10.
+
 ## 10. Next actions
 
 - [ ] Obtain Mullin's **OGE Form 278e and ethics agreement** (OGE / Senate HSGAC nomination record)
