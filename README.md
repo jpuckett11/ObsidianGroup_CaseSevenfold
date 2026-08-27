@@ -60,6 +60,7 @@ established. Do not cite it as fact. We have marked those deliberately.**
 | [FINDING_12](FINDING_12_corrected_corpus.md) | Lobbying is **$7,397,500**, not the $4.96M we first reported | CONFIRMED |
 | [FINDING_13](FINDING_13_investigator_account.md) | Investigator firsthand account of physical dependence within one week | direct firsthand |
 | [FINDING_14](FINDING_14_bbhw.md) | A $980,000 vehicle lobbying DEA and DOJ with **no disclosed funder** | CONFIRMED; funder unknown |
+| [FINDING_15](FINDING_15_threads_worked.md) | Three threads worked out: the $22.57M investors are not publicly discoverable; LD-203 cannot attribute; two FOIAs drafted | CONFIRMED limits |
 
 ## What we got wrong, on the record
 

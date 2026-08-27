@@ -1,0 +1,85 @@
+FREEDOM OF INFORMATION ACT REQUEST
+
+To:   U.S. Food and Drug Administration, Division of Freedom of Information
+      Also submitted to: U.S. Department of Health and Human Services,
+      Office of the Assistant Secretary for Health (OASH)
+
+From: Jay Puckett, Principal Security Researcher
+      Obsidian Watch Group
+      obsidianinvestigations@pm.me
+
+Date: [DATE]
+
+Re:   Records concerning alterations to FDA kratom consumer information, and
+      the 7-OH scheduling record
+
+---
+
+This is a request under the Freedom of Information Act, 5 U.S.C. Section 552.
+
+RECORDS REQUESTED
+
+For the period 1 January 2025 to the present:
+
+1. All records reflecting any addition, removal, alteration, or proposed
+   alteration to content on FDA web properties concerning kratom, mitragynine, or
+   7-hydroxymitragynine. This includes the page currently at
+   fda.gov/news-events/public-health-focus/fda-and-kratom. For each change,
+   please provide the prior and revised content, the date, the person or office
+   requesting it, and the scientific or policy basis relied upon.
+
+2. All communications between FDA or HHS personnel and any Member of Congress,
+   Congressional staff, or official of another federal department concerning
+   kratom consumer-facing content on FDA web properties. This request expressly
+   includes communications with the office of Senator Markwayne Mullin and with
+   the Office of the Secretary of Homeland Security.
+
+3. All records reflecting a decision to decline any requested change to kratom
+   content, including any record of a determination to retain the warning
+   regarding liver toxicity, seizures, and substance use disorder.
+
+4. Concerning the FDA assessment titled "7-Hydroxymitragynine (7-OH): An
+   Assessment of the Scientific Data and Toxicological Concerns Around an
+   Emerging Opioid Threat":
+
+   a. Records identifying the source intended by the in-text citation
+      "(Kruegel et al., 2019)" appearing in the discussion of 7-OH content by
+      weight. No such reference appears in the document's reference list.
+
+   b. Records reflecting any review of funding sources, sponsorship, or author
+      conflicts of interest for the literature cited in that assessment,
+      including but not limited to Huestis, Brett, Bothmer and Atallah (2024),
+      Molecules 29(5), a study disclosed as funded by Johnson Foods LLC and
+      authored by that company's paid consultants.
+
+   c. The analytical methodology, sampling basis, and measurement uncertainty
+      underlying the proposed 0.05 percent by dry weight threshold.
+
+5. Concerning docket HHS-OASH-2026-0232: all records identifying the party or
+   parties who requested the extension of the comment period granted on
+   26 August 2026 (91 FR, document 2026-17409), and all communications concerning
+   that request.
+
+FEE WAIVER AND EXPEDITED PROCESSING
+
+A fee waiver is requested under 5 U.S.C. Section 552(a)(4)(A)(iii), and expedited
+processing under 5 U.S.C. Section 552(a)(6)(E). The Department's own comment period
+on the threshold closes 10 September 2026. Records concerning the evidentiary basis
+for that threshold, and concerning contemporaneous alterations to consumer safety
+information about the product category the rule does not reach, are directly
+material to that open proceeding and to a pending Senate Finance Committee inquiry.
+
+Obsidian Watch Group is an independent investigative organization with no
+commercial interest in kratom or 7-hydroxymitragynine and no funding from any
+party to this proceeding. Records will be disseminated publicly at no charge.
+
+FORMAT
+
+Electronic records in native format. Please identify each withholding with the
+specific exemption claimed and provide a Vaughn index.
+
+Respectfully,
+
+Jay Puckett
+Principal Security Researcher
+Obsidian Watch Group
