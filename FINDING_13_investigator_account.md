@@ -12,7 +12,7 @@
 
 The investigator states that he took 7-OH **deliberately, in order to test the
 claim** that it produces dependence, and that he became **physically dependent
-within one week**. He further states that he knows other people currently going
+within one week**. **Total use ran approximately three weeks.** He further states that he knows other people currently going
 through it, and describes the withdrawal as severe.
 
 He draws an explicit distinction, in his own words: **he is not an addict; he was
@@ -201,3 +201,79 @@ the web form at regulations.gov under docket **HHS-OASH-2026-0232**.
 **On each filing, record here:** the confirmation or tracking number, the date, and
 the exact text submitted. A submission whose own provenance is not recorded is
 worth less later, and this case turns on provenance discipline throughout.
+
+
+---
+
+## ADDENDUM 2, 2026-08-27: product identification and exposure
+
+**CORRECTION TO THE RECORD.** Earlier versions of this finding described
+"approximately one week of deliberate use." That understates exposure.
+**Dependence developed within one week; total use ran approximately three weeks.**
+All derivative documents have been corrected.
+
+### The product
+
+**Limitless Black Edition 7-Hydroxymitragynine chewable tablets.**
+
+| | |
+|---|---|
+| 7-OH per tablet | **50 mg** |
+| Bottle | 10 tablets, **500 mg per bottle** |
+| **Labeled serving size** | **one quarter tablet = 12.5 mg** |
+| Flavors marketed | Original, Cherry, Blue Razz, Mango, Strawberry |
+| Label warning carried | "FDA has not approved 7OH for therapeutic uses" |
+
+### The exposure, as arithmetic anyone can check
+
+| | |
+|---|---|
+| Total 7-OH consumed | **6,000 mg** |
+| Tablets | **120** |
+| Bottles | **12** |
+| Period | ~21 days |
+| Daily average | **~286 mg/day** = ~5.7 tablets/day |
+| **In labeled servings** | **480 servings, ~23 per day** |
+| Time to physical dependence | **within 7 days** |
+
+**[I] The escalation is the finding.** A product whose own label sets a serving at
+12.5 mg was being consumed at roughly twenty-three servings a day inside three
+weeks. That trajectory, in a person with no prior opioid dependence, is what
+dependence looks like from the inside, and it is consistent with the mu-opioid
+pharmacology FDA describes.
+
+**[I] It also reframes the buprenorphine figure.** 30 mg total buprenorphine
+resolved withdrawal from 6,000 mg of a compound FDA characterises as more potent
+than morphine. That is a small intervention against a large exposure, which is
+consistent with dependence of short duration rather than an entrenched habit.
+
+### This product is in FDA's own adverse event system
+
+Independent of this account, FDA's CFSAN Adverse Event Reporting System contains
+**four reports naming Limitless 7-OH products**, two of them Black Edition:
+
+- BLACK EDITION LIMITLESS 7 HYDROXYMITRAGYNINE
+- LIMITLESS 7 HYDROXYMITRAGYNINE CHERRY BLACK EDITION
+- LIMITLESS 50MG 7 HYDROXYMITRAGYNINE KRATOM
+- LIMITLESS OPIA 7-HYDROXYMITRAGYNINE 7-OH CHEWABLE TABLETS KRATOM
+
+**Outcomes:** 3 "Other Serious or Important Medical Event", **1 Disability**.
+**Reactions include withdrawal syndrome**, restless legs syndrome, hyperhidrosis,
+insomnia, anxiety, dehydration, nausea, asthenia. Ages reported: 23, 37, 56, 69.
+
+**[I] That symptom cluster is opioid withdrawal.** Restless legs, sweating,
+insomnia, anxiety and GI disturbance together are the classic presentation. These
+are other people, reporting independently, to the government.
+
+### And FDA has not acted against it
+
+FDA's warning letters of 2025-07-15 went to seven firms: Shaman Botanicals,
+My Smoke Wholesale, Relax Relief Rejuvenate Trading, Thang Botanicals (7OHMZ),
+Royal Diamond Imports, Hydroxie, and 7Tabz Retail.
+
+**Limitless is not among them.** A 50 mg-per-tablet 7-OH product carrying a
+disability outcome in FDA's own reporting system received no warning letter and
+remains on the market.
+
+**[I] This is a finding independent of the investigator entirely, and it belongs in
+the docket comment on its own merits.**
