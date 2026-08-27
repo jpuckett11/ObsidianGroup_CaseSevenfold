@@ -19,15 +19,31 @@ Smith, PhD, Executive Director, HART**, addressed to **Admiral Brian Christine,
 Assistant Secretary for Health.** Held at
 `exhibits/docket_HART_extension_request.pdf`.
 
-**[I] This answer exonerates rather than implicates, and we record it that way.**
+**[I] CORRECTED 2026-08-27. Our first characterisation of this was wrong and is
+withdrawn.**
 
-We had flagged an unnamed party obtaining a procedural accommodation on a
-threshold worth a market. The requester turns out to be the **$15,000
-organisation** — the only organised defender of 7-OH, outspent in this sector by
-roughly 490 to 1. This is the underfunded side asking for more time to assemble
-evidence, not a powerful interest working the process.
+We initially called this answer "exonerating" and described HART as "the
+underfunded side asking for more time." **That framing let a spending disparity do
+the work of a moral distinction, and it should not have.**
 
-They asked for **60 days**, to 2026-09-29. They received **41**, to 2026-09-10.
+HART is a **501(c)(4) industry organisation**. Its constituency is companies that
+sell 7-OH. A longer comment period is additional months of lawful sales for those
+companies. That is a trade association protecting member revenue through a
+separate legal entity, which is structurally identical to what Botanic Tonics does
+through Stop Gas Station Heroin, the Global Kratom Coalition and the Kratom Trade
+Association, and to what an unnamed funder does through Botanicals for Better
+Health and Wellness.
+
+**The correct reading: every organised actor in this docket is an industry vehicle.
+The leaf side has seven of them and $7.4M. The 7-OH side has one and $15,000. The
+asymmetry is real and it is about capacity, not virtue.** Neither side is the
+consumer's representative.
+
+What the answer does establish is narrower and still worth having: the extension
+was **not** obtained by the leaf incumbents, and the Department granted less than
+half of what was asked.
+
+They requested **60 days**, to 2026-09-29. They received **41**, to 2026-09-10.
 **The Department granted less than half of what was requested.**
 
 ### 2. Their argument is substantially our argument

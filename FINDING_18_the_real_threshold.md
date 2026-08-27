@@ -127,7 +127,22 @@ originate the temporary scheduling; DEA notified HHS on 2026-02-24 and HHS
 declined to object on 2026-03-06, referencing its own earlier July 2025
 recommendation.
 
-**[I] That sequence matters for how this case is characterised.** The temporary
-scheduling was initiated by **DEA**, not by HHS, and not by the Secretary who
-appeared at the 2025 press conference. Any account implying HHS drove the
-scheduling action should be corrected against this letter.
+**[I] CORRECTED. Our first note on this overstated what the sequence shows.**
+
+The letter establishes which agency **signed** at which point: DEA notified HHS on
+2026-02-24 and HHS declined to object on 2026-03-06. **It does not establish who
+wanted the action.**
+
+Treating "DEA initiated it" as exculpatory would be a category error in this case
+specifically, because the entire architecture here runs through intermediaries.
+Botanic Tonics does not lobby as Botanic Tonics. Johnson Foods' science arrives as
+an independent journal article. **And a $980,000 vehicle with no disclosed funder
+was lobbying DEA and the Department of Justice directly** (Finding 14).
+
+**What the letter supports:** HHS did not originate the temporary scheduling and
+its formal role was to decline to object, referencing its own July 2025
+recommendation.
+
+**What it does not support:** any claim about whose interests drove the action.
+Correct accounts that say HHS drove the scheduling. Do not replace them with an
+account that says nobody did.
