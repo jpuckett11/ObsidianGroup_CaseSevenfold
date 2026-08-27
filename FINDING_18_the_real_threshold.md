@@ -110,8 +110,12 @@ derivatives, and finished dosage forms" and "what analytical methodologies are
 capable of accurately measuring compliance." **They were right to ask, and the
 letter shows why.**
 
-**RECOMMENDED: file a supplemental comment before 2026-09-10.** The docket is
-open. The point is narrow, checkable, and appears nowhere in the public record.
+**FILED 2026-08-27. Comment tracking number `mtc-6i56-o6pm`**, supplementing
+`mtc-56yj-nmij` on the same docket. Attachment:
+`OWG_Supplemental_HHS-OASH-2026-0232.pdf`, 4 pages.
+
+**[I] As far as we can determine this is the only filing in the docket, from any
+party on either side, that addresses the absolute 1.00 mg limit.**
 
 ### 7. Two further items from the letter
 

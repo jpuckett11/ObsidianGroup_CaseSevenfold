@@ -42,20 +42,35 @@ comment is not posted within a reasonable period, ask why.
 
 ---
 
-### 1a. HHS OASH **supplemental** comment — READY, NOT FILED
+### 2. HHS OASH **supplemental** comment — **FILED 2026-08-27**
 
-Same docket **HHS-OASH-2026-0232**, supplementing `mtc-56yj-nmij`.
-`deliverables/OWG_Supplemental_HHS-OASH-2026-0232.pdf`, 4 pages.
+| | |
+|---|---|
+| **Docket** | **HHS-OASH-2026-0232** |
+| **Comment Tracking Number** | **`mtc-6i56-o6pm`** |
+| Supplements | `mtc-56yj-nmij` |
+| Submitted | 2026-08-27 |
+| Status | Submitted. Awaiting agency review and posting. |
+| Attachment | `OWG_Supplemental_HHS-OASH-2026-0232.pdf`, 4 pages |
 
-Subject: the operative definition transmitted to DEA on 2026-03-06 contains an
-**absolute limit of 1.00 mg of 7-OH per article** alongside the 0.05% figure. The
-absolute limit appears in no public account of this action, including our own
-first comment. For ordinary serving sizes it binds well before the percentage
-does. Asks the Department to state whether unenhanced botanical dosage forms fall
-within subsection (B)(ii), to give the basis for the 1.00 mg figure, to define
-"article," and to publish the definition in full.
+**Subject: the threshold is not solely a percentage.** The operative definition
+transmitted to DEA on 2026-03-06 by Admiral Brian Christine carries an absolute
+limit of **1.00 milligram of 7-OH per article** alongside the 0.05% figure, in
+subsections (B)(i) and (B)(ii), whichever is exceeded first. **That limit appears
+in no public account of this action, including our own first comment.**
 
-**Deadline 2026-09-10. File it.**
+For ordinary serving sizes the absolute limit binds well before the percentage: a
+5 g serving reaches 1.00 mg at 0.02% 7-OH, one fifth of the threshold and inside
+the naturally occurring range FDA documents.
+
+**Asks the Department to:** state whether (B)(i) and (B)(ii) reach unenhanced
+botanical dosage forms; state the basis for the 1.00 mg figure, which does not
+appear in the supporting scientific assessment; define "article" and the
+measurement uncertainty at that quantity; and publish the operative definition in
+full, with both limits, in any subsequent notice.
+
+**[I] This is the only filing in the docket, on either side, that addresses the
+absolute limit.** Neither AKA, GKC nor HART raised it.
 
 ---
 

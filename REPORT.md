@@ -427,3 +427,15 @@ comment period extension, and to say whether marketing a chemically converted
 compound as a natural botanical is lawful.
 
 The comment period closes 10 September 2026.
+
+**Supplemented 27 August 2026.** Comment tracking number **mtc-6i56-o6pm**.
+
+After filing, we obtained and OCR'd the Department's letter of 6 March 2026 to
+DEA. It shows the threshold is not solely the 0.05 percent figure that every
+public account of this action, including our own comment, had described. It also
+carries an absolute limit of one milligram of 7-hydroxymitragynine per article.
+For ordinary serving sizes that absolute limit binds first, and whether it reaches
+unenhanced botanical products is not resolved by the text.
+
+No other filing in that docket, from any party on either side of the fight,
+appears to have raised it.
