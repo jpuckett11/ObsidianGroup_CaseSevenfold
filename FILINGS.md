@@ -42,6 +42,23 @@ comment is not posted within a reasonable period, ask why.
 
 ---
 
+### 1a. HHS OASH **supplemental** comment — READY, NOT FILED
+
+Same docket **HHS-OASH-2026-0232**, supplementing `mtc-56yj-nmij`.
+`deliverables/OWG_Supplemental_HHS-OASH-2026-0232.pdf`, 4 pages.
+
+Subject: the operative definition transmitted to DEA on 2026-03-06 contains an
+**absolute limit of 1.00 mg of 7-OH per article** alongside the 0.05% figure. The
+absolute limit appears in no public account of this action, including our own
+first comment. For ordinary serving sizes it binds well before the percentage
+does. Asks the Department to state whether unenhanced botanical dosage forms fall
+within subsection (B)(ii), to give the basis for the 1.00 mg figure, to define
+"article," and to publish the definition in full.
+
+**Deadline 2026-09-10. File it.**
+
+---
+
 ## READY, NOT SENT
 
 ### 2. Senate Finance Committee — Wyden inquiry

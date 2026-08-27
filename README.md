@@ -66,6 +66,9 @@ established. Do not cite it as fact. We have marked those deliberately.**
 | [FINDING_14](FINDING_14_bbhw.md) | A $980,000 vehicle lobbying DEA and DOJ with **no disclosed funder** | CONFIRMED; funder unknown |
 | [FINDING_15](FINDING_15_threads_worked.md) | Three threads worked out: the $22.57M investors are not publicly discoverable; LD-203 cannot attribute; two FOIAs drafted | CONFIRMED limits |
 
+| [FINDING_17](FINDING_17_docket_record.md) | 26,882 comments; the extension was requested by HART, the most outspent party | CONFIRMED |
+| [FINDING_18](FINDING_18_the_real_threshold.md) | **The threshold is not only 0.05%. There is an unreported absolute limit of 1.00 mg per article.** | CONFIRMED, from the HHS letter |
+
 ## What we got wrong, on the record
 
 We keep our own corrections in the file rather than quietly editing them out.

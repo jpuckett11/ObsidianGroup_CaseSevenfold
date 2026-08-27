@@ -1,0 +1,123 @@
+Supplemental Comment of the Obsidian Watch Group
+
+Docket: HHS-OASH-2026-0232
+Supplements comment tracking number: mtc-56yj-nmij (submitted 27 August 2026)
+Submitted by: Jay Puckett, Principal Security Researcher, Obsidian Watch Group
+
+---
+
+WHY WE ARE SUPPLEMENTING
+
+After filing our comment we obtained and examined the Department's letter of
+6 March 2026 from Admiral Brian Christine, Assistant Secretary for Health, to
+Administrator Terrance C. Cole of the Drug Enforcement Administration, posted to
+the DEA docket as DEA-2026-1190-0002.
+
+That letter sets out the operative definition of the threshold. It contains an
+element that does not appear in the Request for Information, in the Federal
+Register notices, or in any public account of this action that we have located,
+including our own earlier comment.
+
+We raise it because a criminal prohibition should not take effect while a
+material term of its scope is absent from public discussion.
+
+THE THRESHOLD IS NOT SOLELY A PERCENTAGE
+
+The definition transmitted to DEA reads, in relevant part:
+
+  (A) Any botanical material of the plant Mitragyna speciosa ... and contains
+      more than 0.050 percentage of 7-hydroxymitragynine on a dry weight basis, or
+
+  (B) Any alternative article to that described in (A), that is:
+      i.  Resulting from synthetic methods and containing 7-hydroxymitragynine
+          present in amounts greater than 0.05 percentage weight/weight,
+          weight/volume, or volume/volume OR GREATER THAN 1.00 MILLIGRAM OF
+          7-HYDROXYMITRAGYNINE IN THE ARTICLE, or
+      ii. Material derived from Mitragyna speciosa and further processed to
+          manufacture alternative dosage forms such as extracts, concentrates,
+          processed edibles, or pressed pills, and which may have materials that
+          have been exposed to chemical, thermal, or other methods leading to
+          chemical transformations that result in 7-hydroxymitragynine present in
+          amounts greater than 0.05 percentage ... OR GREATER THAN 1.00 MILLIGRAM
+          OF 7-HYDROXYMITRAGYNINE IN THE ARTICLE
+
+Subsection (A), raw botanical material, is governed by concentration alone.
+Subsections (B)(i) and (B)(ii) are governed by concentration OR by an absolute
+quantity of 1.00 milligram per article, whichever is exceeded first.
+
+Public discussion of this action, including the Department's own Request for
+Information, has proceeded almost entirely on the basis of a 0.05 percent
+threshold. The absolute limit has not been part of that discussion.
+
+FOR ORDINARY SERVING SIZES, THE ABSOLUTE LIMIT BINDS FIRST
+
+Using the Department's own figures. FDA's assessment reports leaf
+7-hydroxymitragynine content at a mean of 0.01 percent with a maximum of 0.21
+percent across 341 consumer-supplied samples (Sharma et al. 2025), and 0.01 to
+0.04 percent across commercial products (Kikura-Hanajiri et al. 2009). It reports
+typical consumption of 1 to 3 grams for 49 percent of users and 4 to 6 grams for
+33 percent (Garcia-Romeu et al. 2020).
+
+At those serving sizes, 1.00 milligram is reached at the following
+concentrations:
+
+      1 gram   ...  0.1000 percent
+      3 grams  ...  0.0333 percent
+      5 grams  ...  0.0200 percent
+      6 grams  ...  0.0167 percent
+
+A five gram serving reaches the absolute limit at 0.02 percent
+7-hydroxymitragynine, which is one fifth of the percentage threshold and within
+the naturally occurring range the Department itself documents.
+
+THE QUESTION WE CANNOT ANSWER FROM THE TEXT
+
+Subsection (B)(ii) reaches material "further processed to manufacture alternative
+dosage forms such as extracts, concentrates, processed edibles, or pressed
+pills." It then adds "and which may have materials that have been exposed to
+chemical, thermal, or other methods leading to chemical transformations."
+
+Whether that clause is a condition limiting (B)(ii) to chemically altered
+material, or a description of what such articles may contain, is not clear on the
+face of the text.
+
+If it is a condition, ordinary leaf capsules and unenhanced extracts remain
+outside (B)(ii) and are judged under (A) on concentration alone.
+
+If it is a description, ordinary leaf capsules, tablets and extracts fall within
+(B)(ii), the 1.00 milligram absolute limit applies to them, and a substantial
+share of unenhanced botanical product at ordinary serving sizes would exceed it.
+
+We do not assert that leaf products are captured. We assert that the text does
+not resolve the question, and that the difference between those two readings is
+the difference between a targeted restriction on manufactured concentrates and a
+general prohibition on kratom.
+
+REQUESTED ACTIONS
+
+1. State on the record whether subsections (B)(i) and (B)(ii) apply to
+   unenhanced botanical dosage forms, including plain leaf capsules, tablets and
+   water or ethanol extracts prepared without chemical modification.
+
+2. State the basis for the 1.00 milligram absolute limit, which does not appear
+   in the scientific assessment supporting the percentage figure, and identify
+   the data or reasoning from which it derives.
+
+3. State how the absolute limit is to be measured and enforced with respect to an
+   "article," including whether "article" means a single dosage unit, a container,
+   or a labeled serving, and the measurement uncertainty of the analytical method
+   at that quantity.
+
+4. Publish the operative definition in full, with both limits, in any subsequent
+   notice, so that the public comment process addresses the rule as written rather
+   than a partial description of it.
+
+Respectfully submitted,
+
+Jay Puckett
+Principal Security Researcher
+Obsidian Watch Group
+obsidianinvestigations@pm.me
+
+Supporting documents, including the OCR'd 6 March 2026 letter:
+github.com/jpuckett11/ObsidianGroup_CaseSevenfold
