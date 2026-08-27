@@ -106,3 +106,69 @@ input on.
 
 Gathering and structuring such accounts, with consent and without exposing the
 investigator, is the highest-value collection task remaining in this case.
+
+---
+
+## ADDENDUM, 2026-08-27: clinical corroboration
+
+Added at the account holder's direction.
+
+**The account holder holds documentary images of a buprenorphine prescription and
+a contemporaneous drug screen.** He states:
+
+- Withdrawal was **medically managed with prescribed buprenorphine**.
+- It took **3.75 tablets** to complete withdrawal. Tablet strength was not stated
+  and **no milligram figure is recorded or implied**.
+- The screen was **positive only for mitragynine and THC**, and therefore
+  **negative for all other opioids**.
+- His THC use is **legal hemp-derived product**, volunteered openly rather than
+  asked for.
+
+### Why the toxicology is the significant part
+
+**[I] This is the strongest evidentiary element in the case, for a reason that has
+nothing to do with the subject's credibility.**
+
+The industry's standard answer to every kratom harm claim is polysubstance use.
+The Tampa Bay Times found other substances present in **96% of Florida kratom
+decedents**, and that statistic is used to attribute harm to the user rather than
+the product. **A screen negative for all other opioids removes that answer here.**
+
+### Why the prescription matters
+
+**[I] It converts self-report into third-party clinical assessment.** Buprenorphine
+is a partial mu-opioid agonist prescribed to manage opioid withdrawal. A licensed
+prescriber examined this subject and treated the presentation as opioid
+withdrawal. That is an independent clinical judgment by someone with no interest
+in this investigation, and it corroborates FDA's own finding that 7-OH "produces
+respiratory depression, physical dependence, and withdrawal symptoms
+characteristic of classical opioids."
+
+### Limits, which travel with this wherever it is used
+
+1. **Toxicology cannot distinguish 7-OH product from leaf kratom.** 7-OH is both a
+   minor plant constituent and a human metabolite of mitragynine, so an assay
+   reporting mitragynine is consistent with either. **What the subject took
+   establishes the product; the lab result does not.**
+2. **Still n=1.** Does not establish a population rate, and does not support the
+   "100%" formulation. Section 4 above stands unchanged.
+3. **A tablet count is not a dose.** 3.75 tablets of unstated strength must never
+   be presented as a severity measure.
+4. **The THC must be disclosed wherever this is used.** It does not cause opioid
+   withdrawal and is not treated with buprenorphine, so it is not a genuine
+   confound. Omitting it and having it surface later would discredit the account.
+
+### Document handling
+
+**The images remain with the account holder and are not in this case file.** They
+are protected health information and this repository is public. Neither fact
+requires the document to be citable.
+
+### Citable formulation
+
+> A firsthand account documents physical dependence following approximately one
+> week of deliberate use of a 7-OH product by a subject with no prior opioid
+> dependence. Withdrawal was medically managed with prescribed buprenorphine.
+> Contemporaneous toxicology was positive for mitragynine and THC and negative
+> for all other opioids. Documentation is retained by the account holder and
+> available for verification.
