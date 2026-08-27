@@ -1,0 +1,25 @@
+# Respondent material. Intake consent promises this stays internal. Never commit.
+respondents/
+respondents/**
+*_identity*
+
+# Third-party copyrighted article captures. Cited by URL + sha256 instead.
+exhibits/tbt_*.html
+exhibits/inquirer_*.html
+exhibits/statnews_*.html
+exhibits/nutraingredients_*.html
+exhibits/missouri_ag_*.html
+exhibits/basentinel_*.html
+exhibits/bbhw_pr_*.html
+exhibits/propublica_*.html
+
+# Session-rendered pages retrieved under a click-through agreement
+exhibits/senate_annual_*.html
+exhibits/ptr_*.html
+
+# Failed/blocked captures and abandoned partial sweeps
+exhibits/_blocked/
+exhibits/fara_partial/
+
+*.err
+.opened

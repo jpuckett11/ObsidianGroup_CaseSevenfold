@@ -1,0 +1,195 @@
+Comment of the Obsidian Watch Group
+
+Docket: HHS-OASH-2026-0232
+Request for Information: Temporary Placement of 7-Hydroxymitragynine Above a
+Specified Threshold in Schedule I
+Comment period closes: 10 September 2026
+
+Submitted by: Jay Puckett, Principal Security Researcher, Obsidian Watch Group
+
+
+SUMMARY OF POSITION
+
+We do not oppose the temporary scheduling of 7-hydroxymitragynine (7-OH). Having
+reviewed the supporting record, we think the pharmacological case is sound and the
+0.05% threshold has a real basis in published measurement of the plant.
+
+We are commenting because three specific, checkable problems in the supporting
+record should be resolved before the threshold is finalized, and because the
+action as framed leaves the larger share of the documented consumer harm
+completely unaddressed.
+
+We are an independent investigative group. We have no financial interest in
+kratom, 7-OH, or any company named in this comment, and we have received no
+funding from any party to this proceeding.
+
+
+1. THE CITATION FOR THE THRESHOLD FIGURE DOES NOT RESOLVE
+
+FDA's assessment, "7-Hydroxymitragynine (7-OH): An Assessment of the Scientific
+Data and Toxicological Concerns Around an Emerging Opioid Threat," supports the
+key sentence as follows:
+
+  "In another analysis of 13 commercial products purported to contain kratom, the
+  7-OH content by weight ranged from 0.01-0.04% (Kikura-Hanajiri et al., 2009) a
+  finding in agreement with others that have reported 7-OH to account for less
+  than 0.05% by weight, substantially lower than reported mitragynine amounts
+  (Kruegel et al., 2019)."
+
+The phrase "less than 0.05% by weight" is the figure that becomes the operative
+legal threshold. It is attributed to Kruegel et al., 2019.
+
+There is no Kruegel 2019 entry in the assessment's reference list. The
+bibliography contains Kruegel et al. 2016 (J Am Chem Soc 138(21), 6754-6764) and
+lists A.C. Kruegel as a co-author on one further 2016 entry. In-text, the
+assessment cites "Kruegel et al., 2016" twice and "Kruegel et al., 2019" once,
+and the 2019 instance is the one carrying the threshold number.
+
+We think this is most likely a citation error rather than an absent basis, because
+Kikura-Hanajiri et al. 2009 independently reports 0.01-0.04% and Sharma et al.
+2025 reports a mean of 0.01% across 341 consumer samples. But a rule that turns on
+a specific number should not rest, on its face, on a reference that cannot be
+located.
+
+REQUESTED ACTION: Identify the intended source for "less than 0.05% by weight" and
+correct the assessment, or state on the record which citations the threshold
+actually rests on.
+
+
+2. THE THRESHOLD DOES NOT CLEANLY SEPARATE LEAF FROM CONCENTRATE
+
+The assessment reports, from Sharma et al. 2025, that across 341 consumer-supplied
+kratom samples the 7-OH content ranged from below the limit of quantitation
+(<0.005%) to a maximum of 0.21%, with a mean of 0.01%.
+
+A maximum of 0.21% is more than four times the proposed threshold, in ordinary
+consumer product. The threshold is therefore not a perfect proxy for
+"manufactured concentrate."
+
+REQUESTED ACTION: State what proportion of naturally derived leaf product is
+expected to exceed 0.05%, and what enforcement posture applies to a botanical
+product that exceeds the threshold without any synthetic enrichment. Testing
+methodology, sampling basis and measurement uncertainty should be specified, since
+at these concentrations the analytical margin is a substantial fraction of the
+limit itself.
+
+
+3. THE SUPPORTING RECORD INCLUDES INDUSTRY-FUNDED RESEARCH THAT IS NOT FLAGGED
+
+The assessment cites Huestis, M.A., Brett, M.A., Bothmer, J., and Atallah, R.
+(2024), "Human Mitragynine and 7-Hydroxymitragynine Pharmacokinetics after Single
+and Multiple Daily Doses of Oral Encapsulated Dried Kratom Leaf Powder,"
+Molecules 29(5).
+
+That paper's published disclosure states that Johnson Foods LLC paid for the
+clinical study on its own dried kratom leaf powder product, and that all four
+authors are paid consultants to Johnson Foods, LLC.
+
+Johnson Foods, LLC is a registered federal lobbying client on kratom issues, with
+approximately $130,000 in disclosed lobbying reported through Holland & Knight in
+Senate Lobbying Disclosure Act filings.
+
+One co-author, R. Atallah, is publicly identified as Chief Science and Research
+and Development Officer at Botanic Tonics, LLC, a manufacturer of leaf-kratom
+tonic products, and as a consultant to the American Kratom Association. We note
+that the Botanic Tonics role may postdate the February 2024 publication, and we
+make no allegation that any disclosure obligation was breached.
+
+We raise this only because a rule that restricts one product category while
+leaving a competing category unrestricted should be able to show that its evidence
+base was assessed for interest.
+
+REQUESTED ACTION: State whether the funding and consulting relationships in the
+cited literature were evaluated, and whether any cited finding is load-bearing for
+the threshold determination.
+
+
+4. THE ACTION LEAVES THE LARGER DOCUMENTED HARM UNADDRESSED
+
+FDA's own CFSAN Adverse Event Reporting System contains 879 reports naming kratom
+products. We recognize that CAERS reports are voluntary, unverified, and do not
+establish causation. With that caveat, the reported outcomes are:
+
+  Death                                    276
+  Hospitalization                          239
+  Disability                               135
+  Life threatening                         134
+  Other serious or important medical event 427
+  Emergency room visit                      95
+
+The most frequently reported reaction after death is dependence, at 256 reports,
+followed by withdrawal syndrome at 98. Reports rose to 151 in 2025. The largest
+affected age group is 25 to 34, with 278 reports, and 11 reports involve a person
+under 18.
+
+The great majority of these reports concern leaf and mitragynine products, which
+this action does not reach. Sixty-two reports name a single leaf-kratom tonic
+brand and include four deaths, nineteen hospitalizations, sixteen disabilities and
+eleven life-threatening events, with dependence the most frequently reported
+effect at thirty-six.
+
+We understand that mitragynine has been granted Investigational New Drug status
+and that NIDA is sponsoring a Phase 1 trial of a purified mitragynine formulation
+for opioid use disorder. We think that is a legitimate reason not to place
+mitragynine in Schedule I, and we are not asking the Department to do so.
+
+We are asking the Department not to allow the 7-OH action to stand as the whole of
+the federal consumer-protection response.
+
+REQUESTED ACTION: State what consumer protection measures apply to
+mitragynine-containing retail products that this action does not reach, including
+labeling of alkaloid content, dosing information, and disclosure of dependence and
+withdrawal risk.
+
+
+5. CONSUMER WARNING INFORMATION REMOVED DURING THIS PERIOD
+
+It has been reported, and not denied by the Department, that kratom harm
+information was removed from FDA web pages during 2025 following requests from a
+federal official, and that a further request to remove a warning regarding liver
+toxicity, seizures and substance use disorder was declined. That warning remains
+on FDA's kratom page as of 27 August 2026.
+
+Given that the reported harm concentrates in the product category this action does
+not restrict, the removal of consumer information about that same category during
+the same period is directly relevant to this docket.
+
+REQUESTED ACTION: Place in the docket a description of what kratom-related
+consumer information was altered or removed from Department web properties from 1
+January 2025 to date, the requests that prompted each change, and the scientific
+basis relied upon.
+
+
+6. PROCESS TRANSPARENCY
+
+The notice extending this comment period states that the extension was granted "in
+response to a request for an extension." The requesting party is not identified.
+
+Given the commercial consequences of where this threshold is set, and that
+comments submitted here are to be provided by the Secretary for consideration by
+the Attorney General, the identity of parties who obtained procedural
+accommodations should be on the record.
+
+REQUESTED ACTION: Identify the party or parties that requested the extension of
+the comment period.
+
+
+CONCLUSION
+
+Schedule 7-OH. The science supports it and delay serves nobody.
+
+Then fix the citation, state the analytical method behind the threshold, disclose
+how the evidence base was assessed for interest, and say plainly what protection
+applies to the products that are staying on the shelf. A rule that restricts one
+company's product while leaving its competitor's unrestricted has to be able to
+show its work. Right now, in three specific places, it cannot.
+
+Respectfully submitted,
+
+Jay Puckett
+Principal Security Researcher
+Obsidian Watch Group
+
+Supporting material available on request, including the full adverse event
+extract, Lobbying Disclosure Act filings, and the citation analysis referenced
+above.

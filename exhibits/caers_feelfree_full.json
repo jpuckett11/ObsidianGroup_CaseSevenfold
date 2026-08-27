@@ -1,0 +1,1860 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service. Submission of an adverse event report does not constitute an admission that a product caused or contributed to an event. The information in these reports has not been scientifically or otherwise verified as to a cause and effect relationship and cannot be used to estimate incidence (occurrence rate) or to estimate risk.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-07-07",
+    "results": {
+      "skip": 0,
+      "limit": 100,
+      "total": 62
+    }
+  },
+  "results": [
+    {
+      "report_number": "2025-CFS-008238",
+      "outcomes": [
+        "Death"
+      ],
+      "date_created": "20250524",
+      "reactions": [
+        "Death",
+        "Drug withdrawal syndrome",
+        "Seizure",
+        "Tremor",
+        "Vomiting"
+      ],
+      "date_started": "20250421",
+      "consumer": {
+        "age": "32",
+        "age_unit": "year(s)",
+        "gender": "Male"
+      },
+      "products": [
+        {
+          "role": "SUSPECT",
+          "name_brand": "FEEL FREE WELLNESS TONIC",
+          "industry_code": "54",
+          "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+        }
+      ]
+    },
+    {
+      "report_number": "2023-CFS-004169",
+      "outcomes": [
+        "Disability",
+        "Visited Emergency Room"
+      ],
+      "date_created": "20230419",
+      "reactions": [
+        "Anxiety",
+        "Dehydration",
+        "Depression",
+        "Drug screen positive",
+        "Pain",
+        "Vomiting",
+        "Withdrawal syndrome"
+      ],
+      "date_started": "20230415",
+      "consumer": {
+        "age": "29.5",
+        "age_unit": "year(s)",
+        "gender": "Male"
+      },
+      "products": [
+        {
+          "role": "SUSPECT",
+          "name_brand": "BOTANIC TONICS FEEL FREE KRATOM PLANT BASED HERBAL SUPPLEMENT",
+          "industry_code": "54",
+          "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+        }
+      ]
+    },
+    {
+      "report_number": "2026-CFS-002860",
+      "outcomes": [
+        "Other Serious or Important Medical Event",
+        "Allergic Reaction"
+      ],
+      "date_created": "20260224",
+      "reactions": [
+        "Abnormal loss of weight",
+        "Drug dependence",
+        "Drug withdrawal syndrome",
+        "Hypersensitivity",
+        "Rash"
+      ],
+      "date_started": "20260224",
+      "consumer": {},
+      "products": [
+        {
+          "role": "SUSPECT",
+          "name_brand": "FEEL FREE CLASSIC TONIC",
+          "industry_code": "54",
+          "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+        }
+      ]
+    },
+    {
+      "report_number": "2025-CFS-011895",
+      "outcomes": [
+        "Other Serious or Important Medical Event"
+      ],
+      "date_created": "20250723",
+      "reactions": [
+        "Dependence",
+        "Drug withdrawal syndrome"
+      ],
+      "date_started": null,
+      "consumer": {
+        "gender": "Female"
+      },
+      "products": [
+        {
+          "role": "SUSPECT",
+          "name_brand": "FEEL FREE",
+          "industry_code": "54",
+          "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+        }
+      ]
+    },
+    {
+      "report_number": "2025-CFS-001863",
+      "outcomes": [
+        "Other Serious or Important Medical Event",
+        "Allergic Reaction"
+      ],
+      "date_created": "20250213",
+      "reactions": [
+        "Abnormal loss of weight",
+        "Anger",
+        "Anxiety",
+        "Dependence",
+        "Drug withdrawal syndrome",
+        "Fatigue",
+        "Hypersensitivity",
+        "Muscle atrophy",
+        "Nausea",
+        "Vomiting"
+      ],
+      "date_started": "20240101",
+      "consumer": {
+        "age": "43",
+        "age_unit": "year(s)",
+        "gender": "Male"
+      },
+      "products": [
+        {
+          "role": "SUSPECT",
+          "name_brand": "BOTANIC TONICS FEEL FREE PLANT BASED TONIC",
+          "industry_code": "54",
+          "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+        }
+      ]
+    },
+    {
+      "report_number": "2025-CFS-011137",
+      "outcomes": [
+        "Life Threatening",
+        "Other Serious or Important Medical Event"
+      ],
+      "date_created": "20250715",
+      "reactions": [
+        "Dependence",
+        "Drug withdrawal syndrome"
+      ],
+      "date_started": "20250708",
+      "consumer": {
+        "age": "43",
+        "age_unit": "year(s)",
+        "gender": "Male"
+      },
+      "products": [
+        {
+          "role": "SUSPECT",
+          "name_brand": "BOTANIC TONICS FEEL FREE CLASSIC KRATOM",
+          "industry_code": "54",
+          "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+        }
+      ]
+    },
+    {
+      "report_number": "2025-CFS-013865",
+      "outcomes": [
+        "Life Threatening",
+        "Disability",
+        "Other Serious or Important Medical Event"
+      ],
+      "date_created": "20250825",
+      "reactions": [
+        "Abdominal discomfort",
+        "Anxiety",
+        "Depression",
+        "Diarrhoea",
+        "Emotional disorder",
+        "Fatigue",
+        "Food craving",
+        "Hyperhidrosis",
+        "Insomnia",
+        "Irritability",
+        "Myalgia",
+        "Nausea",
+        "Restlessness",
+        "Withdrawal syndrome"
+      ],
+      "date_started": "20250820",
+      "consumer": {
+        "age": "29.8",
+        "age_unit": "year(s)",
+        "gender": "Male"
+      },
+      "products": [
+        {
+          "role": "SUSPECT",
+          "name_brand": "BOTANIC TONICS FEEL FREE TONIC KRATOM KAVA",
+          "industry_code": "54",
+          "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+        }
+      ]
+    },
+    {
+      "report_number": "2025-CFS-012711",
+      "outcomes": [
+        "Hospitalization",
+        "Other Serious or Important Medical Event"
+      ],
+      "date_created": "20250806",
+      "reactions": [
+        "Swelling"
+      ],
+      "date_started": null,
+      "consumer": {
+        "gender": "Male"
+      },
+      "products": [
+        {
+          "role": "SUSPECT",
+          "name_brand": "BOTANIC TONICS FEEL FREE",
+          "industry_code": "54",
+          "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+        }
+      ]
+    },
+    {
+      "report_number": "2022-CFS-010450",
+      "outcomes": [
+        "Other Serious Outcome"
+      ],
+      "date_created": "20220629",
+      "reactions": [
+        "Food poisoning",
+        "Nausea",
+        "Vomiting"
+      ],
+      "date_started": "20220522",
+      "consumer": {
+        "age": "42",
+        "age_unit": "year(s)",
+        "gender": "Female"
+      },
+      "products": [
+        {
+          "role": "SUSPECT",
+          "name_brand": "BOTANIC TONICS FEEL FREE PLANTED BASED HERBAL SUPPLEMENT",
+          "industry_code": "54",
+          "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+        },
+        {
+          "role": "CONCOMITANT",
+          "name_brand": "vitamin D",
+          "industry_code": "54",
+          "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+        },
+        {
+          "role": "CONCOMITANT",
+          "name_brand": "glucosamine",
+          "industry_code": "54",
+          "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+        },
+        {
+          "role": "CONCOMITANT",
+          "name_brand": "collagen",
+          "industry_code": "54",
+          "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+        },
+        {
+          "role": "CONCOMITANT",
+          "name_brand": "calcium",
+          "industry_code": "54",
+          "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+        }
+      ]
+    },
+    {
+      "report_number": "2023-CFS-004669",
+      "outcomes": [
+        "Life Threatening",
+        "Hospitalization",
+        "Disability",
+        "Other Serious or Important Medical Event"
+      ],
+      "date_created": "20230505",
+      "reactions": [
+        "Chills",
+        "Dependence",
+        "Hallucination",
+        "Hot flush",
+        "Hyperhidrosis",
+        "Overdose",
+        "Pain",
+        "Pulmonary fibrosis",
+        "Respiratory distress",
+        "Traumatic lung injury",
+        "Withdrawal syndrome"
+      ],
+      "date_started": "20230330",
+      "consumer": {
+        "age": "27",
+        "age_unit": "year(s)",
+        "gender": "Male"
+      },
+      "products": [
+        {
+          "role": "SUSPECT",
+          "name_brand": "BOTANICTONICS FEEL FREE PLANT BASED HERBAL SUPPLEMENT",
+          "industry_code": "54",
+          "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+        }
+      ]
+    },
+    {
+      "report_number": "2025-CFS-004210",
+      "outcomes": [
+        "Hospitalization",
+        "Other Serious or Important Medical Event"
+      ],
+      "date_created": "20250402",
+      "reactions": [
+        "Drug dependence",
+        "Fatigue",
+        "Headache",
+        "Hospitalisation",
+        "Panic attack",
+        "Vomiting",
+        "Withdrawal syndrome"
+      ],
+      "date_started": "20250328",
+      "consumer": {
+        "age": "44",
+        "age_unit": "year(s)",
+        "gender": "Male"
+      },
+      "products": [
+        {
+          "role": "SUSPECT",
+          "name_brand": "FEEL FREE BOTANIC TONICS",
+          "industry_code": "54",
+          "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+        }
+      ]
+    },
+    {
+      "report_number": "2025-CFS-017042",
+      "outcomes": [
+        "Life Threatening",
+        "Hospitalization",
+        "Other Serious or Important Medical Event"
+      ],
+      "date_created": "20251023",
+      "reactions": [
+        "Anxiety",
+        "Dependence",
+        "Mood altered",
+        "Withdrawal syndrome"
+      ],
+      "date_started": "20251023",
+      "consumer": {
+        "age": "33",
+        "age_unit": "year(s)",
+        "gender": "Male"
+      },
+      "products": [
+        {
+          "role": "SUSPECT",
+          "name_brand": "FEEL FREE KRATOM DRINK",
+          "industry_code": "54",
+          "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+        }
+      ]
+    },
+    {
+      "report_number": "2025-CFS-012309",
+      "outcomes": [
+        "Other Serious or Important Medical Event"
+      ],
+      "date_created": "20250730",
+      "reactions": [
+        "Dependence"
+      ],
+      "date_started": null,
+      "consumer": {},
+      "products": [
+        {
+          "role": "SUSPECT",
+          "name_brand": "FEEL FREE PLANT BASED TONIC",
+          "industry_code": "54",
+          "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+        }
+      ]
+    },
+    {
+      "report_number": "2024-CFS-011193",
+      "outcomes": [
+        "Other Serious or Important Medical Event"
+      ],
+      "date_created": "20240905",
+      "reactions": [
+        "Dependence",
+        "Dermatitis",
+        "Dry skin",
+        "Pallor",
+        "Skin exfoliation",
+        "Somnolence",
+        "Vision blurred",
+        "Weight decreased"
+      ],
+      "date_started": "20240902",
+      "consumer": {
+        "age": "46",
+        "age_unit": "year(s)",
+        "gender": "Male"
+      },
+      "products": [
+        {
+          "role": "SUSPECT",
+          "name_brand": "FEEL FREE TONIC KRATOM",
+          "industry_code": "54",
+          "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+        }
+      ]
+    },
+    {
+      "report_number": "2025-CFS-012234",
+      "outcomes": [
+        "Hospitalization",
+        "Visited a Health Care Provider"
+      ],
+      "date_created": "20250729",
+      "reactions": [
+        "Dehydration",
+        "Diarrhoea",
+        "Fatigue",
+        "Headache",
+        "Nausea",
+        "Pain",
+        "Pyrexia",
+        "Swelling",
+        "Vomiting"
+      ],
+      "date_started": "20250709",
+      "consumer": {
+        "age": "21",
+        "age_unit": "year(s)",
+        "gender": "Female"
+      },
+      "products": [
+        {
+          "role": "SUSPECT",
+          "name_brand": "KAVA SHOTS FOR FOCUS FEEL FREE",
+          "industry_code": "54",
+          "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+        }
+      ]
+    },
+    {
+      "report_number": "2025-CFS-010280",
+      "outcomes": [
+        "Life Threatening",
+        "Other Serious or Important Medical Event"
+      ],
+      "date_created": "20250630",
+      "reactions": [
+        "Adverse event",
+        "Dependence"
+      ],
+      "date_started": "20250630",
+      "consumer": {
+        "age": "32",
+        "age_unit": "year(s)"
+      },
+      "products": [
+        {
+          "role": "SUSPECT",
+          "name_brand": "FEEL FREE CLASSIC KRATOM",
+          "industry_code": "54",
+          "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+        }
+      ]
+    },
+    {
+      "report_number": "2025-CFS-010649",
+      "outcomes": [
+        "Other Serious or Important Medical Event"
+      ],
+      "date_created": "20250707",
+      "reactions": [
+        "Anxiety",
+        "Depression",
+        "Drug dependence",
+        "Fatigue",
+        "Insomnia",
+        "Suicidal ideation",
+        "Withdrawal syndrome"
+      ],
+      "date_started": "20250501",
+      "consumer": {
+        "age": "31",
+        "age_unit": "year(s)",
+        "gender": "Male"
+      },
+      "products": [
+        {
+          "role": "SUSPECT",
+          "name_brand": "BOTANIC TONICS FEEL FREE WELLNESS TONIC KRATOM AND KAVA",
+          "industry_code": "54",
+          "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+        }
+      ]
+    },
+    {
+      "report_number": "2025-CFS-015848",
+      "outcomes": [
+        "Death",
+        "Life Threatening",
+        "Hospitalization",
+        "Visited Emergency Room"
+      ],
+      "date_created": "20250929",
+      "reactions": [
+        "Death",
+        "Hypoxia",
+        "Liver injury",
+        "Respiratory failure"
+      ],
+      "date_started": "20250928",
+      "consumer": {
+        "age": "55",
+        "age_unit": "year(s)",
+        "gender": "Male"
+      },
+      "products": [
+        {
+          "role": "SUSPECT",
+          "name_brand": "FEEL FREE CLASSIC TONIC KAVA KRATOM",
+          "industry_code": "54",
+          "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+        }
+      ]
+    },
+    {
+      "report_number": "2023-CFS-001818",
+      "outcomes": [
+        "Hospitalization"
+      ],
+      "date_created": "20230221",
+      "reactions": [
+        "Dependence",
+        "Drug screen positive"
+      ],
+      "date_started": "20230206",
+      "consumer": {
+        "age": "42",
+        "age_unit": "year(s)",
+        "gender": "Male"
+      },
+      "products": [
+        {
+          "role": "SUSPECT",
+          "name_brand": "BATANIC TONICS FEEL FREE BOTANICAL TONIC KRATOM",
+          "industry_code": "54",
+          "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+        }
+      ]
+    },
+    {
+      "report_number": "2024-CFS-001756",
+      "outcomes": [
+        "Disability",
+        "Other Serious or Important Medical Event"
+      ],
+      "date_created": "20240207",
+      "reactions": [
+        "Dependence"
+      ],
+      "date_started": "20231215",
+      "consumer": {
+        "age": "34.8",
+        "age_unit": "year(s)",
+        "gender": "Male"
+      },
+      "products": [
+        {
+          "role": "SUSPECT",
+          "name_brand": "BOTANIC TONICS FEEL FREE KRATOM",
+          "industry_code": "54",
+          "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+        }
+      ]
+    },
+    {
+      "report_number": "2024-CFS-004448",
+      "outcomes": [
+        "Other Serious or Important Medical Event"
+      ],
+      "date_created": "20240419",
+      "reactions": [
+        "Dependence",
+        "Liver injury",
+        "Mental disorder",
+        "Skin texture abnormal",
+        "Weight decreased"
+      ],
+      "date_started": "20240416",
+      "consumer": {
+        "age": "37",
+        "age_unit": "year(s)",
+        "gender": "Female"
+      },
+      "products": [
+        {
+          "role": "SUSPECT",
+          "name_brand": "FEEL FREE BOTANIC TONICS KRATOM + KAVA",
+          "industry_code": "54",
+          "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+        }
+      ]
+    },
+    {
+      "report_number": "2022-CFS-015775",
+      "outcomes": [
+        "Other Serious or Important Medical Event"
+      ],
+      "date_created": "20221101",
+      "reactions": [
+        "Heart rate increased",
+        "Nausea",
+        "Vomiting"
+      ],
+      "date_started": "20221028",
+      "consumer": {
+        "age": "55",
+        "age_unit": "year(s)",
+        "gender": "Male"
+      },
+      "products": [
+        {
+          "role": "SUSPECT",
+          "name_brand": "FEEL FREE PLANT BASED HERBAL SUPPLEMENT",
+          "industry_code": "54",
+          "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+        },
+        {
+          "role": "CONCOMITANT",
+          "name_brand": "Vitamin D",
+          "industry_code": "54",
+          "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+        },
+        {
+          "role": "CONCOMITANT",
+          "name_brand": "Men's daily supplement",
+          "industry_code": "54",
+          "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+        },
+        {
+          "role": "CONCOMITANT",
+          "name_brand": "Melatonin",
+          "industry_code": "54",
+          "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+        }
+      ]
+    },
+    {
+      "report_number": "2025-CFS-012534",
+      "outcomes": [
+        "Other Serious or Important Medical Event"
+      ],
+      "date_created": "20250802",
+      "reactions": [
+        "Dependence",
+        "Dry skin",
+        "Skin exfoliation"
+      ],
+      "date_started": "20241104",
+      "consumer": {
+        "age": "27",
+        "age_unit": "year(s)",
+        "gender": "Female"
+      },
+      "products": [
+        {
+          "role": "SUSPECT",
+          "name_brand": "BOTANIC TONICS FEEL FREE KRATOM AND KAVA",
+          "industry_code": "54",
+          "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+        }
+      ]
+    },
+    {
+      "report_number": "2026-CFS-001368",
+      "outcomes": [
+        "Life Threatening",
+        "Hospitalization",
+        "Disability",
+        "Other Serious or Important Medical Event",
+        "Visited Emergency Room"
+      ],
+      "date_created": "20260126",
+      "reactions": [
+        "Agitation",
+        "Anxiety",
+        "Constipation",
+        "Delusion",
+        "Dependence",
+        "Dyspnoea",
+        "Gastrointestinal disorder",
+        "Injury",
+        "Mental status changes",
+        "Paranoia",
+        "Rectal haemorrhage",
+        "Suicidal ideation",
+        "Tremor",
+        "Weight decreased",
+        "Withdrawal syndrome"
+      ],
+      "date_started": "20250101",
+      "consumer": {
+        "age": "45",
+        "age_unit": "year(s)",
+        "gender": "Male"
+      },
+      "products": [
+        {
+          "role": "SUSPECT",
+          "name_brand": "7 HYDROXYMITRAGYNINE",
+          "industry_code": "54",
+          "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+        },
+        {
+          "role": "SUSPECT",
+          "name_brand": "FEEL FREE KRATOM",
+          "industry_code": "54",
+          "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+        }
+      ]
+    },
+    {
+      "report_number": "2023-CFS-000100",
+      "outcomes": [
+        "Hospitalization"
+      ],
+      "date_created": "20230105",
+      "reactions": [
+        "Drug tolerance",
+        "Withdrawal syndrome"
+      ],
+      "date_started": null,
+      "consumer": {
+        "age": "25",
+        "age_unit": "year(s)",
+        "gender": "Female"
+      },
+      "products": [
+        {
+          "role": "SUSPECT",
+          "name_brand": "BOTANIC TONICS FEEL FREE WELLNESS TONIC",
+          "industry_code": "54",
+          "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+        }
+      ]
+    },
+    {
+      "report_number": "2024-CFS-014734",
+      "outcomes": [
+        "Other Serious or Important Medical Event"
+      ],
+      "date_created": "20241121",
+      "reactions": [
+        "Dependence"
+      ],
+      "date_started": "20241121",
+      "consumer": {
+        "age": "16",
+        "age_unit": "year(s)",
+        "gender": "Male"
+      },
+      "products": [
+        {
+          "role": "SUSPECT",
+          "name_brand": "FEEL FREE KRATOM",
+          "industry_code": "54",
+          "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+        },
+        {
+          "role": "SUSPECT",
+          "name_brand": "ZANA CHILL KRATOM",
+          "industry_code": "54",
+          "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+        }
+      ]
+    },
+    {
+      "report_number": "2024-CFS-003757",
+      "outcomes": [
+        "Life Threatening",
+        "Disability",
+        "Other Serious Outcome"
+      ],
+      "date_created": "20240415",
+      "reactions": [
+        "Aggression",
+        "Anxiety disorder",
+        "Dependence",
+        "Depression suicidal",
+        "Headache",
+        "Insomnia",
+        "Muscle twitching",
+        "Nausea"
+      ],
+      "date_started": "20240415",
+      "consumer": {
+        "age": "22",
+        "age_unit": "year(s)",
+        "gender": "Male"
+      },
+      "products": [
+        {
+          "role": "SUSPECT",
+          "name_brand": "FEEL FREE KAVA PLUS KRATOM LIQ",
+          "industry_code": "54",
+          "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+        }
+      ]
+    },
+    {
+      "report_number": "2025-CFS-012091",
+      "outcomes": [
+        "Hospitalization",
+        "Disability"
+      ],
+      "date_created": "20250727",
+      "reactions": [
+        "Dependence"
+      ],
+      "date_started": null,
+      "consumer": {
+        "age": "15",
+        "age_unit": "year(s)"
+      },
+      "products": [
+        {
+          "role": "SUSPECT",
+          "name_brand": "FEEL FREE- BOTANICAL PRODUCTS",
+          "industry_code": "54",
+          "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+        }
+      ]
+    },
+    {
+      "report_number": "2024-CFS-005099",
+      "outcomes": [
+        "Disability",
+        "Other Serious or Important Medical Event"
+      ],
+      "date_created": "20240510",
+      "reactions": [
+        "Dizziness",
+        "Nausea",
+        "Sensory overload",
+        "Withdrawal syndrome"
+      ],
+      "date_started": "20240501",
+      "consumer": {
+        "age": "32",
+        "age_unit": "year(s)",
+        "gender": "Male"
+      },
+      "products": [
+        {
+          "role": "SUSPECT",
+          "name_brand": "BOTANIC TONICS FEEL FREE CLASSIC KAVA EXTRACT + KRATOM",
+          "industry_code": "54",
+          "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+        }
+      ]
+    },
+    {
+      "report_number": "2024-CFS-003771",
+      "outcomes": [
+        "Disability",
+        "Other Serious or Important Medical Event"
+      ],
+      "date_created": "20240414",
+      "reactions": [
+        "Dependence",
+        "Drug withdrawal syndrome"
+      ],
+      "date_started": "20240228",
+      "consumer": {
+        "age": "24",
+        "age_unit": "year(s)",
+        "gender": "Female"
+      },
+      "products": [
+        {
+          "role": "SUSPECT",
+          "name_brand": "FEEL FREE KRATOM",
+          "industry_code": "54",
+          "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+        }
+      ]
+    },
+    {
+      "report_number": "2024-CFS-004449",
+      "outcomes": [
+        "Other Serious or Important Medical Event"
+      ],
+      "date_created": "20240420",
+      "reactions": [
+        "Alopecia",
+        "Anxiety",
+        "Cold sweat",
+        "Dependence",
+        "Diarrhoea",
+        "Dry skin",
+        "Illness",
+        "Insomnia",
+        "Muscular weakness",
+        "Poor quality sleep",
+        "Suicidal ideation",
+        "Vision blurred",
+        "Withdrawal syndrome"
+      ],
+      "date_started": "20231101",
+      "consumer": {
+        "age": "37",
+        "age_unit": "year(s)",
+        "gender": "Female"
+      },
+      "products": [
+        {
+          "role": "SUSPECT",
+          "name_brand": "FEEL FREE TONIC KRATOM",
+          "industry_code": "54",
+          "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+        }
+      ]
+    },
+    {
+      "report_number": "2024-CFS-004450",
+      "outcomes": [
+        "Disability",
+        "Other Serious or Important Medical Event"
+      ],
+      "date_created": "20240419",
+      "reactions": [
+        "Dependence",
+        "Drug withdrawal syndrome"
+      ],
+      "date_started": "20240415",
+      "consumer": {
+        "age": "24",
+        "age_unit": "year(s)",
+        "gender": "Male"
+      },
+      "products": [
+        {
+          "role": "SUSPECT",
+          "name_brand": "BOTANIC TONIC FEEL FREE CLASSIC TONIC KRATOM",
+          "industry_code": "54",
+          "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+        }
+      ]
+    },
+    {
+      "report_number": "2023-CFS-001273",
+      "outcomes": [
+        "Life Threatening",
+        "Disability"
+      ],
+      "date_created": "20230206",
+      "reactions": [
+        "Dependence",
+        "Drug withdrawal syndrome"
+      ],
+      "date_started": "20230202",
+      "consumer": {
+        "age": "27",
+        "age_unit": "year(s)",
+        "gender": "Male"
+      },
+      "products": [
+        {
+          "role": "SUSPECT",
+          "name_brand": "BOTANIC TONICS FEEL FREE KRATOM",
+          "industry_code": "54",
+          "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+        }
+      ]
+    },
+    {
+      "report_number": "2025-CFS-012219",
+      "outcomes": [
+        "Other Serious or Important Medical Event",
+        "Injury"
+      ],
+      "date_created": "20250729",
+      "reactions": [
+        "Cold sweat",
+        "Dependence",
+        "Drug withdrawal syndrome",
+        "Headache",
+        "Hot flush"
+      ],
+      "date_started": "20241101",
+      "consumer": {
+        "age": "33",
+        "age_unit": "year(s)",
+        "gender": "Male"
+      },
+      "products": [
+        {
+          "role": "SUSPECT",
+          "name_brand": "BOTANIC TONICS FEEL FREE IN A LITTLE BLUE BOTTLE KRATOM",
+          "industry_code": "54",
+          "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+        },
+        {
+          "role": "SUSPECT",
+          "name_brand": "BOTANIC TONICS FEEL FREE PLANT BASED TONIC KRATOM",
+          "industry_code": "54",
+          "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+        }
+      ]
+    },
+    {
+      "report_number": "2025-CFS-000730",
+      "outcomes": [
+        "Life Threatening",
+        "Hospitalization",
+        "Disability",
+        "Other Serious or Important Medical Event"
+      ],
+      "date_created": "20250116",
+      "reactions": [
+        "Blood pressure increased",
+        "Decreased appetite",
+        "Dependence",
+        "Drug withdrawal syndrome",
+        "Dry skin",
+        "Incoherent",
+        "Insomnia",
+        "Vomiting"
+      ],
+      "date_started": "20250113",
+      "consumer": {
+        "age": "42",
+        "age_unit": "year(s)",
+        "gender": "Male"
+      },
+      "products": [
+        {
+          "role": "SUSPECT",
+          "name_brand": "FEEL FREE CLASSIC KRATOM",
+          "industry_code": "41",
+          "industry_name": "Dietary Conventional Foods/Meal Replacements"
+        }
+      ]
+    },
+    {
+      "report_number": "2022-CFS-015900",
+      "outcomes": [
+        "Hospitalization"
+      ],
+      "date_created": "20221103",
+      "reactions": [
+        "Nausea",
+        "Vomiting"
+      ],
+      "date_started": "20221101",
+      "consumer": {
+        "age": "64",
+        "age_unit": "year(s)",
+        "gender": "Male"
+      },
+      "products": [
+        {
+          "role": "SUSPECT",
+          "name_brand": "BOTANIC TONIC FEEL FREE",
+          "industry_code": "54",
+          "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+        }
+      ]
+    },
+    {
+      "report_number": "2026-CFS-001862",
+      "outcomes": [
+        "Hospitalization",
+        "Disability",
+        "Other Serious or Important Medical Event"
+      ],
+      "date_created": "20260204",
+      "reactions": [
+        "Emotional distress",
+        "Fear",
+        "Hospitalisation",
+        "Pain",
+        "Psychotic disorder",
+        "Withdrawal syndrome"
+      ],
+      "date_started": "20260112",
+      "consumer": {
+        "age": "21.4",
+        "age_unit": "year(s)",
+        "gender": "Female"
+      },
+      "products": [
+        {
+          "role": "SUSPECT",
+          "name_brand": "CLUB 13 KRATOM SELTZER",
+          "industry_code": "54",
+          "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+        },
+        {
+          "role": "CONCOMITANT",
+          "name_brand": "TURMERIC",
+          "industry_code": "54",
+          "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+        },
+        {
+          "role": "SUSPECT",
+          "name_brand": "FEEL FREE KRATOM",
+          "industry_code": "54",
+          "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+        }
+      ]
+    },
+    {
+      "report_number": "2024-CFS-000608",
+      "outcomes": [
+        "Disability",
+        "Other Serious or Important Medical Event"
+      ],
+      "date_created": "20240115",
+      "reactions": [
+        "Dependence",
+        "Hallucination",
+        "Psychotic disorder",
+        "Tremor"
+      ],
+      "date_started": "20240113",
+      "consumer": {
+        "age": "40.7",
+        "age_unit": "year(s)",
+        "gender": "Male"
+      },
+      "products": [
+        {
+          "role": "SUSPECT",
+          "name_brand": "FEEL FREE TONIC",
+          "industry_code": "54",
+          "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+        },
+        {
+          "role": "CONCOMITANT",
+          "name_brand": "Centrum multivitamin",
+          "industry_code": "54",
+          "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+        },
+        {
+          "role": "SUSPECT",
+          "name_brand": "OPMS GOLD AND BLACK KRATOM EXTRACT",
+          "industry_code": "54",
+          "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+        }
+      ]
+    },
+    {
+      "report_number": "2025-CFS-012606",
+      "outcomes": [
+        "Other Serious or Important Medical Event"
+      ],
+      "date_created": "20250804",
+      "reactions": [
+        "Alopecia",
+        "Hordeolum",
+        "Skin injury"
+      ],
+      "date_started": "20230215",
+      "consumer": {
+        "age": "28",
+        "age_unit": "year(s)",
+        "gender": "Female"
+      },
+      "products": [
+        {
+          "role": "SUSPECT",
+          "name_brand": "FEEL FREE KRATOM",
+          "industry_code": "54",
+          "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+        }
+      ]
+    },
+    {
+      "report_number": "2022-CFS-016429",
+      "outcomes": [
+        "Other Serious or Important Medical Event"
+      ],
+      "date_created": "20221121",
+      "reactions": [
+        "Heart rate increased",
+        "Somnolence"
+      ],
+      "date_started": "20221106",
+      "consumer": {
+        "age": "36",
+        "age_unit": "year(s)",
+        "gender": "Female"
+      },
+      "products": [
+        {
+          "role": "SUSPECT",
+          "name_brand": "BOTANIC TONICS FEEL FREE",
+          "industry_code": "54",
+          "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+        },
+        {
+          "role": "CONCOMITANT",
+          "name_brand": "valerian root",
+          "industry_code": "54",
+          "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+        },
+        {
+          "role": "CONCOMITANT",
+          "name_brand": "l-arginine",
+          "industry_code": "54",
+          "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+        },
+        {
+          "role": "CONCOMITANT",
+          "name_brand": "flax seed",
+          "industry_code": "54",
+          "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+        },
+        {
+          "role": "CONCOMITANT",
+          "name_brand": "fish oil",
+          "industry_code": "54",
+          "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+        },
+        {
+          "role": "CONCOMITANT",
+          "name_brand": "Theanine",
+          "industry_code": "54",
+          "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+        },
+        {
+          "role": "CONCOMITANT",
+          "name_brand": "Multi- Vitamin",
+          "industry_code": "54",
+          "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+        }
+      ]
+    },
+    {
+      "report_number": "2024-CFS-001691",
+      "outcomes": [
+        "Other Serious or Important Medical Event",
+        "Other Serious Outcome"
+      ],
+      "date_created": "20240206",
+      "reactions": [
+        "Anxiety",
+        "Depression",
+        "Drug abuse",
+        "Dry skin",
+        "Insomnia",
+        "Night sweats",
+        "Withdrawal syndrome"
+      ],
+      "date_started": "20240130",
+      "consumer": {
+        "age": "25",
+        "age_unit": "year(s)",
+        "gender": "Male"
+      },
+      "products": [
+        {
+          "role": "SUSPECT",
+          "name_brand": "BOTANIC TONICS FEEL FREE CLASSIC PLANT BASED HERBAL SUPPLEMENT",
+          "industry_code": "54",
+          "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+        }
+      ]
+    },
+    {
+      "report_number": "2025-CFS-003618",
+      "outcomes": [
+        "Other Serious or Important Medical Event"
+      ],
+      "date_created": "20250319",
+      "reactions": [
+        "Dependence",
+        "Drug withdrawal syndrome"
+      ],
+      "date_started": null,
+      "consumer": {},
+      "products": [
+        {
+          "role": "SUSPECT",
+          "name_brand": "FEEL FREE TONIC",
+          "industry_code": "54",
+          "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+        }
+      ]
+    },
+    {
+      "report_number": "2024-CFS-001051",
+      "outcomes": [
+        "Life Threatening",
+        "Hospitalization",
+        "Disability",
+        "Other Serious or Important Medical Event"
+      ],
+      "date_created": "20240123",
+      "reactions": [
+        "Dependence"
+      ],
+      "date_started": "20240106",
+      "consumer": {
+        "age": "39",
+        "age_unit": "year(s)",
+        "gender": "Female"
+      },
+      "products": [
+        {
+          "role": "SUSPECT",
+          "name_brand": "FEEL FREE CLASSIC BOTANIC TONICS",
+          "industry_code": "54",
+          "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+        },
+        {
+          "role": "SUSPECT",
+          "name_brand": "KRATOM",
+          "industry_code": "54",
+          "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+        }
+      ]
+    },
+    {
+      "report_number": "2023-CFS-002875",
+      "outcomes": [
+        "Other Outcome"
+      ],
+      "date_created": "20220923",
+      "reactions": [
+        "Anxiety",
+        "Dependence",
+        "Depression",
+        "Insomnia",
+        "Tremor",
+        "Withdrawal syndrome"
+      ],
+      "date_started": "20220923",
+      "consumer": {
+        "gender": "Male"
+      },
+      "products": [
+        {
+          "role": "SUSPECT",
+          "name_brand": "BOTANIC TONIC FEEL FREE KRATOM",
+          "industry_code": "54",
+          "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+        }
+      ]
+    },
+    {
+      "report_number": "2025-CFS-012092",
+      "outcomes": [
+        "Other Serious or Important Medical Event"
+      ],
+      "date_created": "20250727",
+      "reactions": [
+        "Dependence",
+        "Euphoric mood"
+      ],
+      "date_started": null,
+      "consumer": {},
+      "products": [
+        {
+          "role": "SUSPECT",
+          "name_brand": "BOTANICS TONICS FEEL FREE",
+          "industry_code": "54",
+          "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+        }
+      ]
+    },
+    {
+      "report_number": "2021-CFS-010769",
+      "outcomes": [
+        "Other Serious or Important Medical Event"
+      ],
+      "date_created": "20211024",
+      "reactions": [
+        "Euphoric mood"
+      ],
+      "date_started": "20211022",
+      "consumer": {
+        "age": "48",
+        "age_unit": "year(s)",
+        "gender": "Female"
+      },
+      "products": [
+        {
+          "role": "SUSPECT",
+          "name_brand": "KAVA FEEL FREE",
+          "industry_code": "54",
+          "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+        },
+        {
+          "role": "CONCOMITANT",
+          "name_brand": "VITAMIN D",
+          "industry_code": "54",
+          "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+        },
+        {
+          "role": "CONCOMITANT",
+          "name_brand": "VITAMIN B",
+          "industry_code": "54",
+          "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+        }
+      ]
+    },
+    {
+      "report_number": "2025-CFS-012254",
+      "outcomes": [
+        "Hospitalization"
+      ],
+      "date_created": "20250730",
+      "reactions": [
+        "Hospitalisation"
+      ],
+      "date_started": null,
+      "consumer": {},
+      "products": [
+        {
+          "role": "SUSPECT",
+          "name_brand": "FEEL FREE",
+          "industry_code": "54",
+          "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+        }
+      ]
+    },
+    {
+      "report_number": "2025-CFS-016683",
+      "outcomes": [
+        "Other Serious or Important Medical Event"
+      ],
+      "date_created": "20251016",
+      "reactions": [
+        "Dependence"
+      ],
+      "date_started": "20240810",
+      "consumer": {
+        "age": "34",
+        "age_unit": "year(s)",
+        "gender": "Male"
+      },
+      "products": [
+        {
+          "role": "SUSPECT",
+          "name_brand": "FEEL FREE PLANT BASED HERBAL SUPPLEMENT KAVA ROOT LEAF KRATOM",
+          "industry_code": "54",
+          "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+        }
+      ]
+    },
+    {
+      "report_number": "2026-CFS-000885",
+      "outcomes": [
+        "Other Serious or Important Medical Event"
+      ],
+      "date_created": "20260120",
+      "reactions": [
+        "Dependence"
+      ],
+      "date_started": "20251227",
+      "consumer": {
+        "age": "28",
+        "age_unit": "year(s)",
+        "gender": "Male"
+      },
+      "products": [
+        {
+          "role": "SUSPECT",
+          "name_brand": "FEEL FREE KRATOM",
+          "industry_code": "54",
+          "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+        }
+      ]
+    },
+    {
+      "report_number": "2025-CFS-002419",
+      "outcomes": [
+        "Hospitalization",
+        "Other Serious or Important Medical Event"
+      ],
+      "date_created": "20250225",
+      "reactions": [
+        "Dependence"
+      ],
+      "date_started": "20250225",
+      "consumer": {
+        "age": "30",
+        "age_unit": "year(s)",
+        "gender": "Male"
+      },
+      "products": [
+        {
+          "role": "SUSPECT",
+          "name_brand": "FEEL FREE KRATOM",
+          "industry_code": "54",
+          "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+        }
+      ]
+    },
+    {
+      "report_number": "2025-CFS-012377",
+      "outcomes": [
+        "Other Serious or Important Medical Event"
+      ],
+      "date_created": "20250801",
+      "reactions": [
+        "Dependence",
+        "Drug screen positive"
+      ],
+      "date_started": null,
+      "consumer": {},
+      "products": [
+        {
+          "role": "SUSPECT",
+          "name_brand": "FEEL FREE KRATOM EXTRACT SHOT",
+          "industry_code": "54",
+          "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+        }
+      ]
+    },
+    {
+      "report_number": "2023-CFS-000002",
+      "outcomes": [
+        "Other Serious or Important Medical Event"
+      ],
+      "date_created": "20230103",
+      "reactions": [
+        "Dizziness",
+        "Malaise",
+        "Motion sickness",
+        "Nausea",
+        "Parosmia",
+        "Retching",
+        "Vomiting projectile"
+      ],
+      "date_started": "20220830",
+      "consumer": {
+        "age": "50",
+        "age_unit": "year(s)",
+        "gender": "Female"
+      },
+      "products": [
+        {
+          "role": "SUSPECT",
+          "name_brand": "BOTANIC TONICS FEEL FREE PLANT BASED KRATOM HERBAL SUPPLEMENT",
+          "industry_code": "54",
+          "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+        },
+        {
+          "role": "CONCOMITANT",
+          "name_brand": "One-a-day vitamins",
+          "industry_code": "54",
+          "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+        }
+      ]
+    },
+    {
+      "report_number": "2024-CFS-009780",
+      "outcomes": [
+        "Hospitalization",
+        "Other Serious or Important Medical Event",
+        "Visited Emergency Room"
+      ],
+      "date_created": "20240715",
+      "reactions": [
+        "Disorientation",
+        "Seizure"
+      ],
+      "date_started": "20230926",
+      "consumer": {
+        "age": "49",
+        "age_unit": "year(s)",
+        "gender": "Male"
+      },
+      "products": [
+        {
+          "role": "SUSPECT",
+          "name_brand": "FEEL FREE CLASSIC KRATOM",
+          "industry_code": "54",
+          "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+        }
+      ]
+    },
+    {
+      "report_number": "2023-CFS-008553",
+      "outcomes": [
+        "Death",
+        "Hospitalization",
+        "Other Serious or Important Medical Event",
+        "Visited Emergency Room"
+      ],
+      "date_created": "20230814",
+      "reactions": [
+        "Brain death",
+        "Cardiac arrest",
+        "Death",
+        "Overdose",
+        "Seizure"
+      ],
+      "date_started": "20230804",
+      "consumer": {
+        "age": "30.4",
+        "age_unit": "year(s)",
+        "gender": "Female"
+      },
+      "products": [
+        {
+          "role": "SUSPECT",
+          "name_brand": "BOTANIC TONICS FEEL FREE KRATOM ELIXIR",
+          "industry_code": "54",
+          "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+        }
+      ]
+    },
+    {
+      "report_number": "2022-CFS-009550",
+      "outcomes": [
+        "Death"
+      ],
+      "date_created": "20220612",
+      "reactions": [
+        "Death",
+        "Toxicity to various agents"
+      ],
+      "date_started": "20220503",
+      "consumer": {
+        "age": "39",
+        "age_unit": "year(s)",
+        "gender": "Male"
+      },
+      "products": [
+        {
+          "role": "SUSPECT",
+          "name_brand": "BOTANIC TONICS KRATOM FEEL FREE PLANT BASED TONIC",
+          "industry_code": "54",
+          "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+        }
+      ]
+    },
+    {
+      "report_number": "2024-CFS-004447",
+      "outcomes": [
+        "Other Serious or Important Medical Event"
+      ],
+      "date_created": "20240419",
+      "reactions": [
+        "Abdominal discomfort",
+        "Dependence",
+        "Skin exfoliation"
+      ],
+      "date_started": "20240401",
+      "consumer": {
+        "age": "30",
+        "age_unit": "year(s)",
+        "gender": "Female"
+      },
+      "products": [
+        {
+          "role": "SUSPECT",
+          "name_brand": "BOTANIC TONICS FEEL FREE PLANT BASED KRATOM HERBAL SUPPLEMENT",
+          "industry_code": "54",
+          "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+        }
+      ]
+    },
+    {
+      "report_number": "2022-CFS-004414",
+      "outcomes": [
+        "Disability",
+        "Other Serious or Important Medical Event"
+      ],
+      "date_created": "20220331",
+      "reactions": [
+        "Dependence",
+        "Withdrawal syndrome"
+      ],
+      "date_started": "20220329",
+      "consumer": {
+        "age": "33",
+        "age_unit": "year(s)",
+        "gender": "Male"
+      },
+      "products": [
+        {
+          "role": "SUSPECT",
+          "name_brand": "BOTONIC TONIC FEEL FREE TONIC",
+          "industry_code": "29",
+          "industry_name": "Soft Drink/Water"
+        }
+      ]
+    },
+    {
+      "report_number": "2025-CFS-003527",
+      "outcomes": [
+        "Hospitalization",
+        "Visited Emergency Room"
+      ],
+      "date_created": "20250318",
+      "reactions": [
+        "Diarrhoea",
+        "Dizziness",
+        "Dyspnoea",
+        "Fatigue",
+        "Headache",
+        "Hospitalisation",
+        "Nausea",
+        "Pain",
+        "Seizure",
+        "Vomiting",
+        "Withdrawal syndrome"
+      ],
+      "date_started": "20250222",
+      "consumer": {
+        "age": "35",
+        "age_unit": "year(s)",
+        "gender": "Male"
+      },
+      "products": [
+        {
+          "role": "SUSPECT",
+          "name_brand": "BOTANIC TONICS FEEL FREE PLANT BASED TONIC",
+          "industry_code": "54",
+          "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+        }
+      ]
+    },
+    {
+      "report_number": "2022-CFS-016863",
+      "outcomes": [
+        "Other Serious or Important Medical Event"
+      ],
+      "date_created": "20221205",
+      "reactions": [
+        "Dependence",
+        "Withdrawal syndrome"
+      ],
+      "date_started": "20221105",
+      "consumer": {
+        "gender": "Male"
+      },
+      "products": [
+        {
+          "role": "SUSPECT",
+          "name_brand": "FEEL FREE TONIC KRATOM SHOTS",
+          "industry_code": "54",
+          "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+        }
+      ]
+    },
+    {
+      "report_number": "2025-CFS-012572",
+      "outcomes": [
+        "Other Serious or Important Medical Event"
+      ],
+      "date_created": "20250804",
+      "reactions": [
+        "Dependence"
+      ],
+      "date_started": "20250724",
+      "consumer": {
+        "age": "14",
+        "age_unit": "year(s)",
+        "gender": "Female"
+      },
+      "products": [
+        {
+          "role": "SUSPECT",
+          "name_brand": "BOTANIC TONICS FEEL FREE CLASSIC (KAVA ROOT + LEAF KRATOM)",
+          "industry_code": "54",
+          "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+        }
+      ]
+    },
+    {
+      "report_number": "2023-CFS-000752",
+      "outcomes": [
+        "Other Serious or Important Medical Event"
+      ],
+      "date_created": "20230125",
+      "reactions": [
+        "Disorientation",
+        "Euphoric mood"
+      ],
+      "date_started": "20230120",
+      "consumer": {
+        "age": "30",
+        "age_unit": "year(s)",
+        "gender": "Female"
+      },
+      "products": [
+        {
+          "role": "SUSPECT",
+          "name_brand": "BOTANIC TONICS FEEL FREE KRATOM",
+          "industry_code": "54",
+          "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+        }
+      ]
+    },
+    {
+      "report_number": "2023-CFS-009740",
+      "outcomes": [
+        "Other Serious Outcome"
+      ],
+      "date_created": "20230913",
+      "reactions": [
+        "Dependence",
+        "Withdrawal syndrome"
+      ],
+      "date_started": "20230905",
+      "consumer": {
+        "age": "42",
+        "age_unit": "year(s)",
+        "gender": "Male"
+      },
+      "products": [
+        {
+          "role": "SUSPECT",
+          "name_brand": "BOTANIC TONICS FEEL FREE PLANT BASED TONIC",
+          "industry_code": "54",
+          "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+        }
+      ]
+    }
+  ]
+}

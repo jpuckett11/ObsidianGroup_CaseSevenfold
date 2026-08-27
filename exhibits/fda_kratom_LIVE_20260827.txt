@@ -1,0 +1,167 @@
+{
+"@context": "https://schema.org",
+"@graph": [
+{
+"@type": "Article",
+"headline": "FDA and Kratom",
+"name": "FDA and Kratom",
+"description": "Kratom is not lawfully marketed in the U.S. as a drug product, a dietary supplement, or a food additive in conventional food.",
+"datePublished": "Tue, 12/02/2025 - 16:42",
+"dateModified": "Tue, 12/02/2025 - 00:00",
+"author": {
+"@type": "Organization",
+"name": "Office of the Commissioner"
+},
+"publisher": {
+"@type": "Organization",
+"name": "FDA"
+}
+}
+]
+}
+FDA and Kratom | FDA
+Skip to main content
+Skip to FDA Search
+Skip to in this section menu
+Skip to footer links
+An official website of the United States government
+Here’s how you know
+The .gov means it’s official.
+Federal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you're on a federal government site.
+The site is secure.
+The
+https://
+ensures that you are connecting to the official website and that any information you provide is encrypted and transmitted securely.
+Recall Alert
+An update on the Cyclospora outbreak available
+here
+.
+&nbsp;
+Search
+&nbsp;
+Menu
+Search FDA
+Submit search
+Featured
+Report a Product Problem
+Contact FDA
+FDA Guidance Documents
+Recalls, Market Withdrawals and Safety Alerts
+Press Announcements
+Warning Letters
+Advisory Committees
+En Espa&#241ol
+Products
+Food
+Drugs
+Medical Devices
+Radiation-Emitting Products
+Vaccines, Blood, and Biologics
+Animal and Veterinary
+Cosmetics
+Tobacco Products
+Topics
+About FDA
+Combination Products
+Regulatory Information
+Safety
+Emergency Preparedness
+International Programs
+News and Events
+Training and Continuing Education
+Inspections and Compliance
+Science and Research
+Information For
+Consumers
+Patients
+Industry
+Health Professionals
+Federal, State and Local Officials
+Home
+News &amp; Events
+Public Health Focus
+FDA and Kratom
+Public Health Focus
+In this section
+Public Health Focus
+Infant Formula Information and Ongoing FDA Efforts to Increase Supply
+Expanded Access
+Hiding in Plain Sight: 7-OH Products
+Ingestible Fluoride Drug Products
+FDA and Kratom
+Public Health Focus
+Infant Formula Information and Ongoing FDA Efforts to Increase Supply
+Expanded Access
+Hiding in Plain Sight: 7-OH Products
+FDA Recommendations on Ingestible Fluoride Prescription Drug Products
+Kratom is a tropical tree (Mitragyna speciosa) that is native to Southeast Asia. Products prepared from kratom leaves are available in the U.S. online and in brick-and-mortar stores. Kratom is often used to self-treat conditions such as pain, coughing, diarrhea, anxiety and depression, opioid use disorder, and opioid withdrawal, with regular kratom users self-reporting using less than 6g of botanical kratom per consumption, per several
+recent
+studies. An estimated 1.7 million Americans aged 12 and older used kratom in 2021, according to the Substance Abuse and Mental Health Services Administration’s
+National Survey on Drug Use and Health
+.
+Of note, 7-hydroxymitragynine (7-OH) is a naturally occurring alkaloid in the kratom plant, but only a minor constituent that comprises less than 2% of the total alkaloid content in natural kratom leaves. However, 7-OH demonstrates substantially greater mu-opioid receptor potency than kratom’s primary alkaloid constituent mitragynine, as well as other classical opioids such as morphine. For more information about the agency’s efforts regarding 7-OH, see
+Hiding in Plain Sight: 7-OH Products
+.
+There are no prescription or over-the-counter drug products containing kratom or its known alkaloids that are legally on the market in the U.S. If a new drug application (NDA) is submitted for kratom (or one of its components) to treat a specific medical condition, FDA will review the scientific data to determine if a drug product containing kratom (or its components) is safe and effective to treat that specific medical condition. Consistent with FDA’s practice with unapproved substances, until the agency scientists can evaluate the safety and effectiveness of kratom (or its components) in the treatment of any medical conditions, FDA will continue to warn the public against the use of kratom for medical treatment. The agency will also continue to monitor emerging data trends to better understand the substance and its components.
+Kratom is not appropriate for use as a dietary supplement. FDA has concluded from available information, including scientific data, that kratom is a new dietary ingredient for which there is inadequate information to provide reasonable assurance that such ingredient does not present a significant or unreasonable risk of illness or injury and, therefore, dietary supplements that are or contain kratom are adulterated under section 402(f)(1)(B) of the FD&amp;C Act. Further, FDA has determined that kratom, when added to food, is an unsafe food additive within the meaning of section 409; food containing an unsafe food additive, such as kratom, is adulterated under section 402(a)(2)(C)(i). Based on these determinations by FDA, kratom is not lawfully marketed as a dietary supplement and cannot be lawfully added to conventional foods.
+Therefore, kratom is not lawfully marketed in the U.S. as a drug product, a dietary supplement, or a food additive in conventional food.
+What can happen if a person uses kratom?
+FDA has warned consumers not to use kratom because of the risk of serious adverse events, including liver toxicity, seizures, and substance use disorder (SUD). In rare cases, deaths have been associated with kratom use, as confirmed by a medical examiner or toxicology reports. However, in these cases, kratom was usually used in combination with other drugs, and the contribution of kratom in the deaths is unclear.
+Cases of kratom-related SUD have also been observed. In these cases, individuals met certain criteria for SUD, including using kratom for longer than intended, using more kratom than intended, having cravings for kratom, continuing to use kratom despite adverse consequences (either physically or in their personal life), increasing the amount of kratom used to produce the same effect (tolerance), and experiencing withdrawal symptoms when kratom use was stopped (physical dependence).
+FDA is also aware of cases involving neonatal abstinence syndrome, in which newborns experienced withdrawal signs such as jitteriness, irritability, and muscle stiffness following prolonged exposure to kratom prior to birth.
+FDA has warned the public when certain kratom products were contaminated with Salmonella and/or concerning levels of heavy metals. These contaminants can put people at risk and can result in numerous documented illnesses.
+How is FDA protecting the public from the risks of kratom?
+There are no FDA-approved kratom drug products or over-the-counter drugs containing kratom that are legally on the market in the U.S. FDA continues to warn consumers not to use kratom because of the risk of serious adverse events, including liver toxicity, seizures, and substance use disorder (SUD).
+Consistent with its mission to protect the public’s health, FDA regularly exercises its authority to protect consumers from companies selling unapproved kratom drug products, making false or misleading claims about unproven benefits of kratom, and selling unlawfully marketed kratom dietary supplements and conventional foods. The agency has partnered with the U.S. Customs and Border Protection and with the Department of Justice to take numerous actions to limit the sale of unlawful kratom products in the U.S. The agency continues to work with its federal partners to warn the public about risks associated with use of kratom.
+Unapproved drug products are some of the most challenging products that FDA regulates, due to the complex and fragmented supply chain of distributors, wholesalers, retailers, and even individuals. These entities are not usually registered with FDA, may operate out of residences, and distribute kratom through sales made on the internet, social media, smoke/vape shops, other small stores, or by using the mail or other package delivery services. Kratom-containing drug products have been shipped through U.S. and international mail facilities and may falsely be declared as other items, such as potpourri or incense.
+FDA will continue to work with its federal partners to warn the public about the risks associated with the use of kratom and protect consumers from entities that are selling violative kratom products, including products with false or misleading labeling claims about unproven health benefits of kratom. Additionally, states may have their own regulations or prohibitions for kratom products. State health and law enforcement agencies are the best resource concerning applicable state laws.
+What is FDA doing to support sound scientific research on kratom?
+FDA recognizes that there is much that is not known scientifically about kratom. Although there are published animal studies with kratom extracts, there are few published reports from well-designed scientific studies where kratom was administered to humans. Additional investigation by researchers, including those in the academic community, drug companies, and government agencies, into the many safety issues and potential therapeutic uses of kratom would provide important public health information.
+What research is FDA doing on kratom?
+Research on Safety Issues
+While kratom contains over 50 alkaloids, most scientific research focuses on mitragynine and 7-OH, both of which bind to the same receptors in the brain (mu opioid receptors) as opioid drugs such as codeine. Mitragynine also has additional mechanisms of action on other chemical systems of the brain, including serotonin, dopamine, norepinephrine, and kappa opioid receptors. These compounds may produce classic opioid-related effects such as sedation, nausea/vomiting, constipation, physical dependence/withdrawal, and respiratory depression that may lead to death. However, as with all drugs, the ability of kratom to cause harmful responses will depend on how much of the drug is taken and under what conditions.
+One additional safety concern with kratom is that of abuse potential. There are epidemiological data suggesting that some individuals develop substance use disorder following kratom use. To date, a well-designed human abuse potential study has not been conducted that would show whether kratom, mitragynine, or 7-OH produce rewarding effects (such as feeling “high”) that might lead an individual to abuse kratom. This means that the abuse potential of kratom has yet to be fully understood.
+Research on Kratom by FDA Clinical Investigators
+To better understand kratom’s safety profile, FDA funded a single ascending dose study to evaluate the effects of botanical kratom ingestion in humans. FDA researchers have submitted a manuscript to a peer-reviewed journal and will make the results publicly available upon acceptance.
+Building on this preliminary study, FDA awarded a grant for a human abuse potential study on kratom in September 2024. While these studies will further FDA’s efforts to characterize kratom’s safety profile, results from these studies will need to be considered in relation to the many and varied kratom-related products available to consumers and other scientific research.
+Are There Possible Therapeutic Uses as a Drug?
+FDA recognizes that it is necessary to develop therapies for patients with unmet medical needs. The agency has numerous programs that help drug companies develop and obtain approval for new drug products. Drug companies that are interested in kratom-related drug development are encouraged to contact the relevant
+review division
+in the Center for Drug Evaluation and Research to answer questions related to their specific drug development program.
+While FDA continues to evaluate the available safety information about the effects of kratom, the agency encourages health care professionals and consumers to report any adverse reactions to the FDA’s
+MedWatch
+program or the
+Safety Reporting Portal
+.
+Additional Resources
+Hiding in Plain Sight: 7OH Products
+Related Information
+FDA Seizes 7-OH Opioids to Protect American Consumers
+FDA issues warning letters to firms marketing products containing 7-hydroxymitragynine
+FDA Takes Steps to Restrict 7-OH Opioid Products Threatening American Consumers
+Content current as of:
+12/02/2025
+Regulated Product(s)
+Drugs
+Feedback
+FDA Archive
+About FDA
+Accessibility
+Visitor Information
+Website Policies / Privacy
+No FEAR Act
+Vulnerability Disclosure Policy
+FOIA
+HHS.gov
+USA.gov
+Contact FDA
+Follow FDA on Facebook
+Follow FDA on X
+Follow FDA on Instagram
+Follow FDA on LinkedIn
+View FDA videos on YouTube
+Subscribe to FDA RSS feeds
+Contact Number
+1-888-INFO-FDA (1-888-463-6332)
+Back to
+Top

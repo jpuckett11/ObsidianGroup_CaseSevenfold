@@ -1,0 +1,316 @@
+                Senate Committee on Health Informational Hearing
+ Kratom and 7-Hydroxymitragynine: Public Health Concerns and Regulatory Challenges
+                          February 18, 2026 – 1:30p.m.
+
+Background
+Kratom (Mitragyna speciosa) is a tropical plant native to Southeast Asia. Kratom leaves have
+traditionally been chewed or brewed into teas to treat fatigue, pain, diarrhea, fever, and opioid
+withdrawal. People typically use kratom by swallowing raw plant matter in capsule or powder
+form, by mixing kratom powder into food or drinks, brewing the leaves as tea, or taking liquid
+kratom extract. At low doses, kratom is a mild stimulant, but higher doses elicit sedative and
+analgesic responses due to substances in the plant that activate opioid receptors. Studies indicate
+that kratom can be habit-forming, and studies of regular kratom leaf tea drinkers described
+physical and psychological withdrawal symptoms in those who ceased use.1 Over the past few
+years, some manufacturers have developed new, more potent products by extracting the primary
+alkaloid in the kratom plant, mitragynine, and converting it into more powerful substances,
+including 7-hydroxymitragynine (7-OH). The proliferation of kratom and products containing
+kratom derivatives, paired with a regulatory gray area and enforcement gaps, have made these
+products readily available to Californians. Despite being deemed unlawful by both the U.S. Food
+and Drug Administration (FDA) and the California Department of Public Health (CDPH), these
+products are widely available on the shelves of smoke and vape shops, gas stations, and
+convenience stores. This hearing is intended to examine what is known about the health effects
+of kratom’s active alkaloids, their potential for abuse, and the challenges associated with
+regulating the labeling, marketing, and sale of these products.
+
+Kratom’s active alkaloids
+Kratom leaves contain a blend of many biologically active alkaloids that contribute to its
+psychoactivity. The kratom plant itself has at least two different chemotypes currently grown
+within the U.S. Although these strains display variations in minor alkaloid profiles (which are
+also dependent on plant age, growing conditions, and processing methods), mitragynine is the
+most abundant alkaloid in all plants.
+
+Mitragynine is a partial μ-opioid receptor agonist that exhibits pain-blocking effects in animal
+studies, about 66 times less active than morphine.2,3 Studies of mitragynine’s reward and abuse
+potential are mixed; several animal studies of both whole kratom leaf extract and isolated
+mitragynine report a rewarding effect, while others do not.4–7
+Animal studies suggest that the pain-blocking effects of mitragynine are primarily due to the
+metabolism of mitragynine into 7-OH in the liver and gut.8 7-OH comprises as much as 1.6% of
+the plant’s alkaloid content, but is often undetectable in fresh kratom leaves.7 Oxidation of
+mitragynine into 7-OH can be achieved through a variety of processes, including drying and
+processing of kratom leaves, metabolism of mitragynine in the liver and intestine, or chemical
+oxidation. Pharmacologically, 7-OH is much more potent than mitragynine. 7-OH has a 7- to 15-
+fold higher affinity3,9,10 for μ-opioid receptors than mitragynine, and a 4- to 40-fold increase in
+potency.2,3,8-10 Pain-blocking tests in mice reveal that 7-OH is over 350 times more effective than
+mitragynine as an analgesic, superior even to morphine.3,10 Behavioral studies in animals also
+suggest that 7-OH is a rewarding, habit-forming substance liable for abuse, similar to other
+opioids.4,6,7 Given this pharmacological profile and potential for abuse, 7-OH has been declared a
+dangerous substance by the FDA. Proponents of 7-OH, however, argue that it can be a helpful
+harm-reduction substance because 7-OH’s mechanism of action is less likely to cause respiratory
+depression than substances like fentanyl.4,11
+
+7-OH itself can be converted into even more potent molecules like mitragynine pseudoindoxyl, a
+comparatively higher-affinity, higher-potency μ-opioid receptor agonist,3 or molecules developed
+by medicinal chemistry programs even more effective than 7-OH and morphine.12 The most
+potent of these, MGM-16, is currently prohibitively expensive to synthesize, but MGM-15 has
+begun to emerge onto consumer markets, marketed alongside 7-OH as a kratom derivative.13-15
+Although animal studies of some of these molecules suggest potentially fewer side effects and
+lower addictive potential,3,12 very little is currently known about the health effects of these
+molecules in humans.
+
+Data on adverse events and fatalities
+Kratom use is rising in the U.S., especially among those who are seeking to self-medicate for
+chronic pain, mental health conditions, or opioid withdrawal.16–18 Social media analyses from the
+National Drug Early Warning System identify increasing kratom and 7-OH product discussion,
+rising steadily from June 2024 to May 2025. As kratom products increase in popularity, so do
+reports of adverse events. National Poison Control data from 2010 to 2019 indicate sharp
+increases in kratom exposures, but the specific alkaloid profiles of the kratom products are often
+not reported.19–21 An analysis of 935 single-substance kratom exposure cases reported between
+2011 and 2018 found that most exposures occurred via oral ingestion—typically as tablets,
+capsules, or powder—with the most frequently reported adverse effects including agitation, rapid
+heartbeat, drowsiness, and vomiting. Although rare, severe adverse effects included seizures,
+withdrawal, hallucinations, respiratory depression, coma, and cardiac or respiratory arrest.21
+Older adults also saw sharp increases in exposure after 2016, with a higher proportion
+experiencing adverse effects than younger adults; more than two-thirds of the exposures reported
+to poison control among older adults required significant medical intervention.20
+
+Although naturally present at nearly undetectable concentrations in kratom leaves, processing
+and isolation of 7-OH from kratom allows for even more potent products in the kratom market,
+often in the forms of chewable or dissolvable tablets, shots, gummies, drink mixes, vape pens,
+capsules, or syrups. Dissolvable or intranasal formats can increase absorption and circulation in
+the body, further complicating dosing for consumers.15,22 An analysis of 53 human exposures to
+
+Senate Committee on Health Informational Hearing
+Kratom and 7-Hydroxymitragynine: Public Health Concerns and Regulatory Challenges
+Page 2
+7-OH in the National Poison Data System from February to April 2025 highlights that the
+majority of cases (37) were single-substance exposures. Of the single-substance exposures, 35%
+resulted in “moderate clinical outcomes,” a designation used by poison control centers that
+indicates pronounced, prolonged, or systemic issues that require treatment but are not life-
+threatening (i.e., acid-base disturbances, disorientation, isolated and brief seizures, treatable
+blood pressure changes, or acute liver injury). Notably, five of the single-substance exposure
+cases were children under 18 years of age.7
+
+Reports of deaths resulting from kratom are rare, given that kratom alkaloids are not commonly
+screened for in toxicology panels, but seem to be rising. An international study of 156 deaths
+involving kratom revealed the vast majority of these deaths occurred in young white males with
+a history of drug use. Kratom was the sole substance implicated in 27 of these cases, with cause
+of death most often related to pulmonary or cerebral edema or cardiovascular complications.
+Polysubstance cases involving kratom were more common, particularly in combination with
+other opioids, benzodiazepines, and recreational stimulants.18 A Centers for Disease Control and
+Prevention (CDC) report on overdose deaths from 2016–2017 identified kratom in 0.56% of
+deaths (152 total). Nearly 60% of these deaths were determined to be caused by kratom,
+including seven for which kratom was the only substance detected in postmortem toxicology
+reports.23 Between 2023 and 2025, the Drug Enforcement Administration’s (DEA) Toxicology
+Testing program database identified a threefold increase in fatalities involving kratom or kratom
+derivatives compared to the three years prior.7 In California, Los Angeles County identified six
+deaths attributable to 7-OH in 2025, often in conjunction with alcohol use, in otherwise healthy
+young adults.24
+
+Federal and state regulatory status of kratom and 7-OH
+In 2016, the DEA published a notice of intent to temporarily place mitragynine and 7-OH into
+Schedule I of the Controlled Substances Act, alongside other substances with no accepted
+medical use and a high potential for abuse. This effort was withdrawn after the DEA received
+numerous public comments and a bipartisan Congressional letter that expressed concerns about
+overly hasty regulation.
+
+According to the FDA, kratom is not lawfully marketed in the U.S. as a drug product, dietary
+supplement, or food additive in conventional food. No prescription or over-the-counter products
+containing kratom or its alkaloids are legally available on the U.S. market. The FDA considers
+kratom a “new dietary ingredient” because it was not marketed as a dietary ingredient in the U.S.
+prior to October 15, 1994. Because new dietary ingredients require evidence of safety before
+marketing, any products labeled as dietary supplements that contain kratom are not permitted.
+Accordingly, the FDA has issued import alerts for kratom and has seized kratom products
+marketed as dietary supplements.25,26
+
+More recently, the FDA appears to have directed its enforcement efforts towards products
+supplemented with 7-OH. In 2025, the agency published a technical report on 7-OH, issued
+consumer warnings, sent warning letters to retailers, and conducted seizures of 7-OH-containing
+products. Last summer, the FDA formally recommended that the DEA move 7-OH to Schedule I,
+
+
+Senate Committee on Health Informational Hearing
+Kratom and 7-Hydroxymitragynine: Public Health Concerns and Regulatory Challenges
+Page 3
+with FDA Commissioner Dr. Marty Makary stating, “we’re not targeting the kratom leaf or
+ground up kratom, we are targeting the concentrated synthetic byproduct.”
+
+Review of state laws on kratom across the nation
+According to a Legislative Analysis and Public Policy Association report, as of January 2026, 30
+states and the District of Columbia regulate kratom or its components in some manner. In six
+states (Alabama, Arkansas, Indiana, Louisiana, Vermont, and Wisconsin), both mitragynine and
+7-OH are controlled substances, effectively banning all kratom products. Connecticut is currently
+in the rulemaking process to also schedule both mitragynine and 7-OH. The remaining 23 states
+and the District of Columbia regulate the possession, sale, or manufacture of kratom products.
+Within these states, most restrict kratom sales to adults 21 years of age or older, although seven
+states restrict kratom sales to those over 18. The legality of 7-OH also varies in these states:
+while Ohio and Florida have scheduled 7-OH as a controlled substance, eleven states have
+banned the sale of products containing 7-OH at greater than 1%-2% of the product’s alkaloid
+content (Arizona, Colorado, Georgia, Kentucky, Maryland, Mississippi, Oklahoma, Rhode
+Island, South Dakota, Texas, and Utah) or which contain synthetic 7-OH (Nebraska, Tennessee,
+and South Carolina). Twenty states, including California, do not have laws regulating kratom.
+
+Status of kratom regulation in California
+While there is no specific California statute on kratom, the Sherman Food, Drug, and Cosmetic
+Law (Sherman Law) regulates the manufacturing, processing, labeling, advertising, and sale of
+food, drugs, and cosmetics under the administration and enforcement of CDPH in accordance
+with the Federal Food, Drug, and Cosmetic Act. Given the FDA’s determination that kratom is
+not approved as a dietary ingredient, dietary supplement, or drug, the Sherman Law treats
+kratom-containing products as adulterated ingredients or supplements illegal to sell for
+consumption. In January, CDPH issued a memo to licensed tobacco retailers regarding a
+“Prohibition on the Sale of Kratom and 7-OH Products,” stating that the retail and online sale of
+kratom and 7-OH is illegal under HSC §110555 (adulterated food). This letter does not make a
+distinction between leaf kratom and 7-OH containing products.
+
+CDPH’s Center for Environmental Health is responsible for enforcing the Sherman Law,
+including product testing and seizure, along with certain counties with delegated enforcement
+authority (Los Angeles, Orange, and San Bernardino). Additionally, the California Retail Food
+Code provides counties and other local environmental health departments with authority to
+enforce food laws, including preventing the sale of adulterated food. However, the Retail Food
+Code only applies to retail food facilities, leaving most local public health agencies without the
+authority to enforce prohibitions on the sale of specific ingredients at gas stations and other
+locations.
+
+To address this limited enforcement capacity based on state law, several counties and cities have
+enacted local ordinances to regulate or prohibit the sale of kratom and 7-OH. Riverside County,
+Fresno County, and Orange County prohibit the sale and distribution of kratom products to those
+under 21, and additionally prohibit products that contain more than 2% 7-OH. The cities of
+Oceanside and Jurupa Valley prohibit the sale, distribution, and possession of all kratom
+products, and Newport Beach prohibits the sale and distribution of kratom leaf and synthetic
+
+Senate Committee on Health Informational Hearing
+Kratom and 7-Hydroxymitragynine: Public Health Concerns and Regulatory Challenges
+Page 4
+alkaloid products. The City of San Diego defines mitragynine and 7-OH as novel psychoactive
+drugs and has prohibited the sale, distribution, or possession of these products. A number of
+cities have indicated they are considering kratom regulation in some form.
+
+Labeling and consumer safety concerns
+Due to the fact that the FDA does not recognize kratom products as drugs, supplements, or
+dietary ingredients, no specific testing or labeling is required, meaning that consumers may not
+be aware of the specific alkaloid blends or dosages contained in a given product. One study of 7-
+OH supplemented products found that 92% were advertised as kratom, potentially misleading
+consumers about the potency of the product, especially when combined with advertising that
+spotlighted general wellness claims rather than drug claims.22 Another market analysis revealed
+that fewer than half of mitragynine pseudoindoxyl-containing kratom product descriptions
+mentioned an increased risk of intoxication, tolerance, dependence, withdrawal, or addiction.27 A
+conflation of products containing kratom alkaloid extracts with botanical kratom has been
+highlighted as a safety concern by the FDA, and the agency has begun issuing warning letters to
+online retailers who sell 7-OH-supplemented products.
+
+The FDA’s recent enforcement actions against the marketing of 7-OH products may be
+contributing to a lack of clarity about the safety and intended use of various kratom preparations.
+Some online retailers of kratom products tout that their products are “not for human or animal
+consumption,” while simultaneously being advertised as being “food-grade,”28 providing mixed
+messages about how these products are meant to be used. Finally, the formats of some of these
+products (flavored syrups or shots, gummies, vape pens) are likely appealing to children. A
+market analysis of products containing mitragynine pseudoindoxyl found that 69% used child-
+appealing flavors or scents and 63% used bright colors in packaging or labeling.27
+
+Legislative history
+AB 2365 (Haney of 2023) would have added kratom products to the Sherman Food, Drug, and
+Cosmetic Law. Kratom processors would be required to register their products with CDPH
+annually and would establish a fee that would be used to prescribe specified quantities of
+alkaloids and establish labeling and packaging requirements and annual laboratory certification
+of products. It would also prohibit the sale of kratom leaf or kratom-containing products to those
+under 21 years of age and in inhalable forms or forms attractive to children. AB 2365 was held in
+the Assembly.
+
+SB 758 (Umberg of 2026), as amended on January 5, 2026, among other provisions, would have
+added products containing 7-OH, except as it naturally occurs in kratom, to Schedule I, making
+the sale or distribution of these products a misdemeanor. The 7-OH section was amended out of
+SB 758.
+
+AB 1088 (Bains of 2025) requires persons to be 21 years of age to purchase a kratom product
+and prohibits selling a kratom product that is attractive to children. AB 1088 also prohibits the
+selling of products with a level of 7-OH that is greater than 2% of the total kratom alkaloids in
+the product. AB 1088 is pending in the Senate Health Committee.
+
+
+Senate Committee on Health Informational Hearing
+Kratom and 7-Hydroxymitragynine: Public Health Concerns and Regulatory Challenges
+Page 5
+References
+
+1.      Singh, D., Müller, C. P. & Vicknasingam, B. K. Kratom (Mitragyna speciosa)
+dependence, withdrawal symptoms and craving in regular users. Drug Alcohol Depend 139, 132–
+137 (2014).
+2.      Matsumoto, K. et al. Antinociceptive action of mitragynine in mice: evidence for the
+involvement of supraspinal opioid receptors. Life Sci 59, 1149–1155 (1996).
+3.      Váradi, A. et al. Mitragynine/Corynantheidine Pseudoindoxyls As Opioid Analgesics
+with Mu Agonism and Delta Antagonism, Which Do Not Recruit β-Arrestin-2. J Med Chem 59,
+8381–8397 (2016).
+4.      Gutridge, A. M. et al. G protein-biased kratom-alkaloids and synthetic carfentanil-amide
+opioids as potential treatments for alcohol use disorder. British Journal of Pharmacology 177,
+1497–1513 (2020).
+5.      Harun, N., Hassan, Z., Navaratnam, V., Mansor, S. M. & Shoaib, M. Discriminative
+stimulus properties of mitragynine (kratom) in rats. Psychopharmacology 232, 2227–2238
+(2015).
+6.      Hemby, S. E., McIntosh, S., Leon, F., Cutler, S. J. & McCurdy, C. R. Abuse liability and
+therapeutic potential of the Mitragyna speciosa (kratom) alkaloids mitragynine and 7-
+hydroxymitragynine. Addict Biol 24, 874–885 (2019).
+7.      Chad J. Reissig et al. 7-Hydroxymitragynine (7-OH): An Assessment of the Scientific
+Data and Toxicological Concerns around an Emerging Opioid Threat.
+https://www.fda.gov/files/drugs/published/7-hydroxymitragynin_7-
+oh_an_assessment_of_the_scientific_data_and_toxicological_concerns_around_an_emerging_op
+ioid_threat.pdf (2025).
+8.      Kruegel, A. C. et al. 7-Hydroxymitragynine Is an Active Metabolite of Mitragynine and a
+Key Mediator of Its Analgesic Effects. ACS Cent. Sci. 5, 992–1001 (2019).
+9.      Todd, D. A. et al. Chemical composition and biological effects of kratom (Mitragyna
+speciosa): In vitro studies with implications for efficacy and drug interactions. Sci Rep 10, 19158
+(2020).
+10.     Obeng, S. et al. Pharmacological Comparison of Mitragynine and 7-
+Hydroxymitragynine: In Vitro Affinity and Efficacy for μ-Opioid Receptor and Opioid-Like
+Behavioral Effects in Rats. J Pharmacol Exp Ther 376, 410–427 (2021).
+11.     Schmid, C. L. et al. Bias factor and therapeutic window correlate to predict safer opioid
+analgesics. Cell 171, 1165-1175.e13 (2017).
+12.     Matsumoto, K. et al. Orally Active Opioid μ/δ Dual Agonist MGM-16, a Derivative of
+the Indole Alkaloid Mitragynine, Exhibits Potent Antiallodynic Effect on Neuropathic Pain in
+Mice. J Pharmacol Exp Ther 348, 383–392 (2014).
+13.     Get Well Depot. 7-OH Products Online – 7-Hydroxymitragynine for Sale - Get Well
+Depot. https://getwelldepot.com/7oh-kratom/.
+14.     Gour, A. et al. From Kratom to Semi-Synthetic Opioids: The Rise and Risks of MGM-15.
+Drug Testing and Analysis 17, 2384–2389 (2025).
+15.     Alsbrook, S., Pro, G. & Koturbash, I. From kratom to 7-hydroxymitragynine: evolution
+of a natural remedy into a public-health threat. Pharm Biol 63, 896–911.
+16.     Grundmann, O. Patterns of Kratom use and health impact in the US: Results from an
+online survey. Drug Alcohol Depend 176, 63–70 (2017).
+
+Senate Committee on Health Informational Hearing
+Kratom and 7-Hydroxymitragynine: Public Health Concerns and Regulatory Challenges
+Page 6
+17.     Smith, K. E. et al. Ecological Momentary Assessment of Self-Reported Kratom Use,
+Effects, and Motivations Among US Adults. JAMA Netw Open 7, e2353401 (2024).
+18.     Corkery, J. M. et al. Characteristics of deaths associated with kratom use. J
+Psychopharmacol 33, 1102–1123 (2019).
+19.     Anwar, M. Notes from the Field: Kratom (Mitragyna speciosa) Exposures Reported to
+Poison Centers — United States, 2010–2015. MMWR Morb Mortal Wkly Rep 65, (2016).
+20.     Graves, J. M. et al. Kratom exposures among older adults reported to U.S. poison centers,
+2014-2019. J Am Geriatr Soc 69, 2176–2184 (2021).
+21.     Eggleston, W., Stoppacher, R., Suen, K., Marraffa, J. M. & Nelson, L. S. Kratom Use and
+Toxicities in the United States. Pharmacotherapy 39, 775–777 (2019).
+22.     Hill, K., Boyer, E. W., Grundmann, O. & Smith, K. E. De facto opioids: Characterization
+of novel 7-hydroxymitragynine and mitragynine pseudoindoxyl product marketing. Drug
+Alcohol Depend 272, 112701 (2025).
+23.     O’Malley Olsen, E., O’Donnell, J., Mattson, C. L., Schier, J. G. & Wilson, N. Notes from
+the Field: Unintentional Drug Overdose Deaths with Kratom Detected — 27 States, July 2016–
+December 2017. MMWR Morb Mortal Wkly Rep 68, (2019).
+24.     County of Los Angeles. Additional Fatal Overdoses Tied to Synthetic Kratom in Los
+Angeles County. https://lacounty.gov/2025/10/10/additional-fatal-overdoses-tied-to-synthetic-
+kratom-in-los-angeles-county/ (2025).
+25.     FDA. Import Alert 54-15.
+https://www.accessdata.fda.gov/cms_ia/importalert_1137.html.
+26.     FDA. FDA Roundup: May 05, 2023. https://www.fda.gov/news-events/press-
+announcements/fda-roundup-may-05-2023 (2024).
+27.     White, C. M., Belcourt, J. & Sedensky, A. A Descriptive Assessment of Products
+Containing the Opioid Receptor Stimulator Mitragynine Pseudoindoxyl. Subst Use Misuse 60,
+1950–1954 (2025).
+28.     Shaman’s Garden. Kratom 50% Powdered Extract - Precision Lab Crafted.
+https://www.shamansgarden.com/p-1592-kratom-precision-50-kratom-extract.aspx.
+
+
+
+
+Senate Committee on Health Informational Hearing
+Kratom and 7-Hydroxymitragynine: Public Health Concerns and Regulatory Challenges
+Page 7
+

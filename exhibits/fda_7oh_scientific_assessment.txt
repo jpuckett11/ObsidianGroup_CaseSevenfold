@@ -1,0 +1,990 @@
+7-Hydroxymitragynine (7-OH):
+ An Assessment of the Scientific Data and
+     Toxicological Concerns Around
+       an Emerging Opioid Threat
+7-Hydroxymitragynine (7-OH):
+   An Assessment of the Scientific Data and
+       Toxicological Concerns Around
+         an Emerging Opioid Threat
+
+
+
+
+                      1
+              FDA Center for Drug Evaluation and Research
+                                       Authors
+
+Chad J. Reissig, PhD, Supervisory Pharmacologist, Controlled Substance Staff (CSS), CDER
+Dominic Chiapperino, PhD, Director, CSS, CDER
+Amy Seitz, PhD, MPH, Team Lead for Nonmedical Drug Use Team 3, Division of Epidemiology II
+   (DEPI), Office of Pharmacovigilance and Epidemiology (OPE), Office of Surveillance and
+   Epidemiology (OSE), CDER
+Regina Lee, Pharm.D., Safety Evaluator, Division of Pharmacovigilance II, OPE, OSE, CDER
+Rose Radin, PhD, Associate Director for Science, DEPI, OPE, OSE, CDER
+Jana McAninch, MD, MPH, MS, Associate Director for Public Health Initiatives, OSE, CDER
+
+
+                                Acknowledgments
+
+Matthew Daubresse, DrPH, MHS, Epidemiologist, DEPI, OPE, OSE, CDER
+Tamra Meyer, PhD, MPH, Associate Director for Nonmedical Drug Use, DEPI, OPE, OSE, CDER
+Marta Sokolowska, PhD, Deputy Center Director for Substance Use and Behavioral Health,
+   CDER
+
+
+
+
+                                            2
+                                                        Table of Contents
+EXECUTIVE SUMMARY ............................................................................................................................4
+INTRODUCTION .........................................................................................................................................5
+       The Context for 7-OH Concerns ......................................................................................................5
+       Contemporary Outlook ......................................................................................................................5
+ANALYSIS OF DATA ON 7-HYDROXYMITRAGYNINE (7-OH).............................................................7
+       7-OH Sources and Products vs. Kratom .........................................................................................7
+       Patterns of 7-OH Use, Human Exposures, and Law Enforcement Data .....................................9
+       Preclinical Data Characterizing 7-OH Pharmacology..................................................................13
+CONCLUSIONS........................................................................................................................................18
+REFERENCES ...........................................................................................................................................19
+
+
+
+
+                                                                           3
+EXECUTIVE SUMMARY
+Recent reports indicate increased availability and marketing of 7-hydroxymitragynine (7-OH) in
+the U.S., raising public health concerns due to its pharmacology. This report provides an
+overview on the chemical, pharmacological, and epidemiological data on 7-OH. It focuses on the
+characterization of 7-OH-containing products in the marketplace, the evidence of increasing
+human exposures, and the extensive body of preclinical studies in the scientific literature that
+indicate the predominant mu opioid agonist pharmacology of 7-OH. These data sources
+indicate that 7-OH is a potent opioid that poses an emerging public health threat, especially
+when considering the increasing availability of enhanced or concentrated 7-OH products in the
+marketplace.
+
+7-OH is a naturally occurring substance in the kratom plant (Mitragyna speciosa), but only a
+minor constituent that comprises less than 2% of the total alkaloid content in natural kratom
+leaves. However, 7-OH demonstrates substantially greater mu-opioid receptor potency than
+kratom’s primary alkaloid constituent mitragynine, as well as other classical opioids such as
+morphine. In vitro studies reveal 7-OH exhibits high binding affinity for mu-opioid receptors (Ki =
+7.2-70 nM), with functional activity as a mu agonist. Animal behavioral studies demonstrate its
+rewarding effects from self-administration and conditioned place preference methods,
+consistent with its opioid properties. Critically, 7-OH produces respiratory depression, physical
+dependence, and withdrawal symptoms characteristic of classical opioids, such as morphine,
+fentanyl, oxycodone, and hydrocodone.
+
+Recently, there has been a concerning proliferation of concentrated 7-OH products that are sold
+over the counter and online. The enhanced amount of 7-OH in these products is likely
+synthetically derived through oxidate chemical conversion of mitragynine isolates or kratom
+extracts. Given the trace amounts of 7-OH that are naturally present in kratom, direct extraction
+of 7-OH from plant material would simply be unfeasible economically.
+
+Surveillance data from multiple sources, including America’s Poison Centers National Poison
+Data System (NPDS), Drug Enforcement Administration toxicology testing programs, and social
+media monitoring, suggest increasing human exposure to these concentrated 7-OH products.
+Clinical presentations include euphoria, sedation, respiratory depression, and opioid-like
+withdrawal syndromes, with users acknowledging its significant addiction potential.
+
+The pharmacological profile, abuse liability, and emerging patterns of non-medical use establish
+7-OH as a dangerous substance. Current regulatory gaps have enabled widespread availability
+of these products despite their opioid-like properties and necessitate immediate policy
+intervention to address this emerging threat to American public health.
+
+
+
+
+                                                 4
+INTRODUCTION
+The Context for 7-OH Concerns
+7-Hydroxymitragynine (7-OH) is a component of the plant kratom (Mitragyna speciosa), a
+tropical evergreen tree in the Rubiaceae family that grows in the wetlands of Southeast Asia
+(Brown et al., 2017). Kratom leaves contain over 50 alkaloids, with mitragynine and 7-OH being
+the primary psychoactive constituents (Warner et al., 2016). Its leaves, consumed as a tea or in
+dry leaf form, have been used for centuries in both medicinal and recreational settings, largely
+due the properties of its alkaloids mitragynine and 7-OH. Typically, 7-OH occurs in botanical
+kratom in amounts no more than ~.01-.04 percent by dry weight (Heywood et al., 2024).
+Medicinally, kratom has been used to treat headaches, diarrhea, insomnia, anxiety, opioid use
+withdrawal, and more, while in recreational use cases, it has been associated with feelings of
+euphoria (Hill et al., 2025). Currently, there are no FDA-approved drugs containing kratom or
+kratom-derived drug substances such as 7-OH for any therapeutic indications.
+
+Kratom products have grown in popularity since the mid-2000’s; however, kratom, mitragynine,
+and 7-OH have faced regulatory scrutiny in the United States due to concerns about their safety
+and potential for abuse. None of these substances are lawful when added to conventional foods,
+as dietary supplements, or as ingredients in any FDA-approved drug, and yet, these substances
+are still sold in various markets. At the state level, some jurisdictions have implemented
+restrictions on their sale and use. Until now, 7-OH has not been the sole target of a regulatory
+response but has always been addressed alongside the kratom plant and mitragynine.
+
+FDA issued its first import alert for kratom in 2012. At the time, kratom was being marketed in
+various forms for human consumption despite a lack of approved drug uses or established
+safety as a dietary ingredient. In the years since, additional import alerts have been issued by
+the Agency. The Drug Enforcement Administration (DEA) and the Department of Health and
+Human Services (HHS) had given consideration to kratom, as well as its constituents,
+mitragynine and 7-OH, to determine whether these substances should be recommended for
+control under the Controlled Substances Act (CSA). Those actions were ultimately suspended
+in 2018, with the Assistant Secretary for Health at that time stating that the science was
+incomplete, and the available data were not adequate to support a recommendation to control
+these substances under the CSA.
+
+Contemporary Outlook
+Given the concerning trends with 7-OH and other kratom-related products, FDA has now
+determined that a more comprehensive assessment of available scientific and medical data on
+7-OH is warranted. Many of the products available today, which are often associated with or
+advertised as kratom, no longer resemble botanical kratom. Instead, they contain “enhanced” or
+concentrated amounts of 7-OH and are formulated as powders, capsules, and liquid extracts
+designed to generate a stronger effect on users. Other products are explicitly advertised as 7-
+OH-containing products. One analysis of websites selling 7-OH products found that most (82.2
+%) were formulated as chewable/sublingual tablets, shots, or gummies and marketed specifically
+as 7-OH only products (92%). The mean cost per recommended dose/serving was $3.97 (Hill et
+al., 2025).
+
+
+
+                                                5
+As described below, research has shown that 7-OH is a potent mu-opioid receptor agonist,
+demonstrating pharmacological characteristics that define classical opioids like morphine and
+fentanyl. Based on its opioid pharmacology, there is significant potential for abuse of 7-OH. In
+fact, in various preclinical studies it has demonstrated greater potency than classical opioids.
+For example, 7-OH produces respiratory depression with more than 3-fold greater potency than
+morphine. Since the substance’s therapeutic and psychoactive effects are mediated through the
+same mu-opioid receptor pathways as classical opioids, it can be considered to have opioid
+properties warranting similar regulatory consideration (Hill et al., 2025; Obeng et al., 2021).
+
+In this report, FDA presents its new assessment of the available scientific data and literature on
+7-OH, as well as more recent law enforcement data and the rapidly evolving trends in kratom-
+related products. FDA still has concerns about the safety of kratom products more broadly and
+the unlawful marketing of them under several regulated product categories in the Federal Food,
+Drug, and Cosmetic Act. However, there is a recognized need for more immediate action to
+address 7-OH because it is a substance with potent mu opioid agonist properties and significant
+abuse liability.
+
+
+
+
+                                                6
+ANALYSIS OF DATA ON 7-HYDROXYMITRAGYNINE (7-OH)
+7-OH Sources and Products vs. Kratom
+The alkaloid 7-hydroxymitragynine (7-OH) is a naturally occurring substance in the kratom plant
+(Mitragyna speciosa), but only a minor constituent, described as early as 1994, when it was
+reported to comprise about 1.6% of the total alkaloid content of kratom leaves (Ponglux et al.,
+1994). This early reported value is in agreement with more recent assessments that have
+consistently demonstrated 7-OH as comprising less than 2% of the total alkaloid content in
+natural kratom as noted below.
+
+7-OH has the chemical structure shown in Figure 1. Its IUPAC name is methyl (E)-2-
+[(2S,3S,7aS,12bS)-3-ethyl-7a-hydroxy-8-methoxy-2,3,4,6,7,12b-hexahydro-1H-indolo[2,3-
+a]quinolizin-2-yl]-3-methoxyprop-2-enoate, and it has the molecular formular C23H30N2O5, with a
+molecular weight of 414.40 amu.
+
+                                                       O
+
+
+                                               O
+
+                                                                O
+
+
+                                      N
+
+
+                                                   N
+
+
+                                      HO
+
+                                  O
+
+
+                    Figure 1. 7-Hydroxymitragynine Chemical Structure
+
+Although details are not well-known, 7-OH is present in some products in amounts far exceeding
+its natural levels in the kratom plant. The 7-OH in these products is likely derived from the
+kratom plant. These 7-OH-enhanced products likely involve additional chemical synthetic steps
+by the producers of these products, converting the more abundant plant alkaloid mitragynine
+into 7-OH via chemical oxidation.
+
+Data are available regarding 7-OH as a percentage of the total alkaloid content in kratom, and
+also as a percentage of dried botanical kratom leaf material and other kratom-derived products
+in the U.S. marketplace. One recent review reports 7-OH as comprising 2% of the total alkaloid
+content in kratom (Hossain et al., 2023) and this result can be extended to samples of kratom
+grown in the U.S. (Leon et al., 2009). In another analysis of 13 commercial products purported
+to contain kratom, the 7-OH content by weight ranged from 0.01-0.04% (Kikura-Hanajiri et al.,
+2009) a finding in agreement with others that have reported 7-OH to account for less than 0.05%
+by weight, substantially lower than reported mitragynine amounts (Kruegel et al., 2019). A more
+
+                                               7
+recent study used ecological momentary assessment to evaluate the motivations and patterns of
+use of adult U.S. kratom consumers (Smith, Panlilio, Feldman, et al., 2024; Smith, Panlilio,
+Sharma, et al., 2024). As part of the study, subjects provided samples for quantitative testing of
+their own kratom products that they obtained and were self-administering. Across the 341
+samples, the 7-OH content (expressed as a percentage by weight/weight or weight/volume, as
+indicated) ranged from below the limit of quantitation (< 0.005%) to a maximum of 0.21% with a
+mean of 0.01% (Sharma et al., 2025). These data suggest 7-OH is present in botanical kratom
+(i.e., leaf) at relatively low or trace amounts and may be a postharvest oxidative derivative of
+mitragynine (Karunakaran et al., 2024).
+
+Common forms of kratom sold online include powders, capsules, resin extracts, crushed leaves,
+and tablets, although loose powder and prepared capsules have been reported to be the most
+frequently used formulations (Garcia-Romeu et al., 2020; Smith, Panlilio, et al., 2024). While
+kratom use characteristics are complicated by the diversity of products in the marketplace,
+survey studies have reported on consumption patterns. Garcia-Romeu collected data from
+regular kratom users and found that most users reported using 1-3g (49%) or 4-6g (33.4%) of
+botanical kratom per consumption (Garcia-Romeu et al., 2020). In other survey studies, the self-
+reported average consumption of kratom powder was 4-5 g per serving with serving sizes
+ranging between 2.6- 7.5 g (Rogers et al., 2024; Smith et al., 2022). When quantifying the
+amount of mitragynine consumed through the use of kratom, individuals self-reported
+consuming an average of 31.3 mg of mitragynine/serving and a range of 78.3 – 134.6 mg of
+mitragynine per day (Sharma et al., 2025).
+
+Mitragynine, as the most abundant alkaloid in kratom, accounts for about 66% of the total
+alkaloid content of kratom and less than 2% of dried leaf content by weight, although there are
+reports of regional and seasonal variability in the tree’s alkaloid composition (Arndt et al., 2011;
+Leon et al., 2009; Sengnon et al., 2023). For example, Chear and colleagues collected fresh
+kratom leaves from different locations in Peninsular Malaysia and determined their alkaloid
+profiles. The mitragynine concentration ranged from 9.38 to 18.85 mg/g or 0.38% to 1.89% of
+dried leaf weight while the 7-OH concentration ranged from 0.05 to 0.15 mg/g or 0.005% to
+0.015% (Chear et al., 2021).
+
+Despite the low amounts of 7-OH in botanical kratom, there are reports of its more-enhanced
+presence in commercial kratom-related products (Grundmann et al., 2024), although some
+products have been identified in reports from nearly a decade ago. For example, Lydecker and
+colleagues tested eight commercially available kratom products for their alkaloid content(s). In
+seven of the eight products tested, they found levels of 7-OH to be 109-509% higher than
+expected, based on naturally occurring levels of 7-OH reported in the kratom plant (Lydecker et
+al., 2016). More recently, the Tampa Bay Times purchased twenty kratom-derived products from
+local stores. One of those products consisted of pressed pills and contained 15 mg/pill of 7-OH,
+an amount far greater than observed in any botanical kratom preparation to date (Ogozalek,
+2023). In addition to the verified amounts of 7-OH in the products obtained by Lydecker et al.
+and the Tampa Bay Times, other products labeled and/or purported to have high levels of 7-OH
+appear to be readily available for purchase online.
+
+In summary, the low amounts of 7-OH in natural botanical kratom products is well-established as
+a percentage of alkaloid content, as a percentage of dried kratom leaf material, and in products
+representing other dosage forms made from natural kratom and consistent with its natural
+
+                                                  8
+composition. However, there are also a concerning and increasing number of products being
+sold that have unexpectedly and unnaturally high levels of 7-OH. This poses a threat to public
+health that is more clearly understood based on the pharmacological properties and effects of 7-
+OH, discussed in the preclinical data section below, and also in the limited information available
+on known patterns of human use and resulting harms discussed below. These sections will
+present and discuss the evidence in the available data that establishes the mu opioid agonist
+pharmacology associated with 7-OH in particular.
+
+Patterns of 7-OH Use, Human Exposures, and Law Enforcement Data
+There are several sources of information to characterize the current patterns of 7-OH use and
+the resulting harms to individuals who knowingly or unknowingly are exposed to 7-OH at
+significant doses from 7-OH-enhanced products, as described in the subsections below.
+
+National Drug Early Warning System (NDEWS)
+
+The National Drug Early Warning System (NDEWS) provides real-time surveillance from sentinel
+sites across U.S. to detect early signals of potential drug epidemics using novel (e.g., street
+reporting, web monitoring) and traditional data sources (e.g., OD deaths, treatment admissions).
+
+NDEWS analyzed Reddit posts mentioning 7-OH during January to September 2024 and found
+that posts increased over this time. These posts are broad and can vary in content but have
+included warnings from Reddit users about respiratory depression, potency, dependence and
+long-lasting withdrawal (NDEWS, 2024).
+
+Social Media
+
+A variety of social media outlets were assessed for mentions and/or discussions of 7-OH.
+Websites included:
+   •   erowid.org - a member-supported organization providing access to information about
+       psychoactive plants, chemicals, and related issues;
+   •   bluelight.org - an international message board that educates the public about
+       responsible drug use by promoting free discussion, advocating harm reduction, and
+       attempting to eliminate misinformation;
+   •   reddit.com - online forum that functions as a vast collection of user-driven communities,
+       known as sub-Reddits, each centered around specific topics.
+
+It is important to note that all considerations of these social media sources are, at best,
+anecdotal in considering the risks and abuse potential associated with 7-OH products.
+However, it is clear that there is fairly widespread understanding of the availability of products
+specifically targeting high levels of the substance 7-OH, distinct from kratom products generally.
+In analyzing these social media posts, some relevant themes have been identified and include
+mention of the following: euphoria and an opioid-like “buzz”/high as motivation for consuming 7-
+OH; availability of “candy-like” formulations which users acknowledge as having a risk of
+overconsumption to their own detriment; perceptions of therapeutic value of 7-OH in self-
+treating pain and anxiety; concerns over loss of access to these products if they were to be
+banned; acknowledgement that use of these products could lead to overdose and serious
+
+                                                9
+outcomes including death; and acknowledgement that use could lead to addiction and has
+caused users to experience withdrawal symptomology much like that produced by other
+commonly abused opioids.
+
+Drug Enforcement Administration Toxicology Testing Program (DEA TOX)
+
+The Drug Enforcement Administration Toxicology Testing program (DEA TOX) conducts
+analyses of voluntarily submitted leftover or previously collected biological samples from drug
+overdose victims to identify novel psychoactive substances (NPS) and other drugs of abuse in
+subjects with fatal and nonfatal overdose. The DEA TOX database was queried for reports of
+mitragynine, 7-OH, or mitragynine pseudoindoxyl from 2019-2025. A total of 103 cases, some
+fatal and some non-fatal, were identified in this selected sample; this database does not include
+all overdose cases, and the number of samples voluntarily submitted for analysis may vary year
+to year based on unknown factors.
+
+It is notable that the utility of the DEA TOX data is limited because it generally cannot be
+discerned whether deaths are related to mitragynine, 7-OH, or mitragynine pseudoindoxyl, or
+some combination thereof. In addition, although 7-OH and mitragynine pseudoindoxyl are not
+typically found in appreciable amounts in fresh kratom leaves (Hill et al., 2025), both are
+metabolites of mitragynine, complicating forensic assessments of causality (Kamble et al., 2020).
+These are significant limitations in making inferences from these data; however, the number of
+fatal overdose cases in which one or more of these substances were detected for 2023 to 2025
+are approximately three-fold higher than for the years 2019 through 2022, coinciding with the
+more recent entry of more-concerning kratom-related products in the marketplace, such as 7-
+OH.
+
+Human Exposures in Pharmacokinetic Studies
+
+Pharmacokinetic (PK) data for 7-OH are sparse, as to our knowledge, no clinical studies have
+been performed using isolated or purified 7-OH. Nonetheless, there are 7-OH PK data derived
+from a small number of studies using botanical kratom. Most available clinical PK data for 7-OH
+are variable, which may be for several reasons such as genetic differences in kratom plants,
+different formulations (e.g., teas, capsules, etc.), and methods of analysis. Much of the data is
+also from non-controlled studies making it difficult to interpret the results. Huestis and
+colleagues conducted a randomized, between-subject, double-blind, placebo-controlled dose
+escalation study of 500-4000 mg encapsulated dried kratom leaf powder corresponding to
+mitragynine doses of 6.65-53.2 mg. Twelve subjects enrolled in the study (n=12). Blood plasma
+levels of mitragynine and 7-OH were assessed after a single dose, and then again after 15 days
+of continuous dosing. According to the study authors, peak plasma levels of 7-OH (i.e.,
+Cmaxvalues) and exposure (i.e., area under the curve, (AUC)) were lower than mitragynine but
+increased in a dose proportional manner and ranged from 3.6 to 22.7 ng/mL while the time to
+peak plasma levels (i.e.,Tmax values) ranged from 1.2 – 1.8 h. The half-life of 7-OH increased
+with increasing dose and ranged from a mean of 1.7 to 4.7 hours. During the multiple dose
+phase of the study, 7-OH steady state was reached in about 7 days (Huestis et al., 2024).
+
+In another study examining the PK properties of 7-OH, sixteen healthy subjects (n=16) received
+kratom tea containing 23.6 mg of mitragynine. Subjects were administered tea in two sessions:
+once with tea alone, and in a second session following pretreatment with itraconazole, a
+
+                                                10
+CYP3A4 inhibitor. The 7-OH Cmax was 12.81±3.39 ng/mL which occurred 1.7 h after
+administration (Tmax). In the second session after pretreatment with itraconazole (200 mg), the
+Cmax decreased 56% with a concomitant 43% decrease in AUC. These data describe the PK of
+7-OH and demonstrate that the metabolism of mitragynine to 7-OH is heavily dependent on
+CYP3A4 (Mongar et al., 2024).
+
+Tanna et. al., assessed the PK of a single orally administered dose of kratom (2 g), in the form of
+a tea, to healthy adult subjects (n = 5 completers). According to the authors, there were only
+trace amounts of 7-OH (< LOQ) in the starting product, therefore, the assumption was made that
+7-OH was generated from the metabolism of mitragynine in vivo. The authors identified a PK
+difference between enantiomers of kratom alkaloids in either the 3S or 3R configuration. 7-OH
+has a 3S configuration which, according to the authors, leads to a shorter Tmax, lower exposure
+(AUC), longer terminal half-life, and a higher volume of distribution during the terminal phase
+compared to the 3R alkaloids. Measured 7-OH in plasma samples demonstrated that 7-OH had
+a Cmax = 16.1 nM, Tmax = 1h, half-life = 5.67h, and an AUC0-120h = 103nM x h.(Tanna et al.,
+2022).
+
+Epidemiological Data Sources
+
+Limitations with the Epidemiological Data Sources
+
+Because 7-OH appears to be a novel, emerging public health threat, the ability of public health
+surveillance systems to monitor 7-OH specific risks may be limited. For example, large national
+surveys such as the National Survey on Drug Use and Health include questions about use of
+kratom, but not 7-OH. Additionally, there may be a lack of awareness among consumers of
+kratom-related products that they are obtaining 7-OH enhanced products, and thus use of 7-OH
+would likely be underreported in data collected using self-report. Many forensic laboratories
+test for mitragynine as a marker of kratom use. In these cases, 7-OH overdose cases and
+fatalities may incorrectly be classified as kratom and/or mitragynine-related (Smith, Boyer, et al.,
+2024). Furthermore, toxicology reports documenting presence of 7-OH are difficult to interpret,
+because 7-OH is a known metabolite of mitragynine in humans. All of these issues complicate
+the real-world assessment of risks associated with use of 7-OH containing products as distinct
+from risks associated with kratom and other mitragynine-containing products.
+
+FDA’s Adverse Event Reporting System
+
+Although FDA’s Adverse Event Reporting System (FAERS) has documented cases reporting
+adverse events (13 cases, including 2 deaths) suspected to involve 7-OH, ambiguity about the
+contributory role of 7-OH from uncharacterized products or concomitant medications and
+underlying disease limits interpretation. Therefore, we do not include further analysis of these
+FAERS cases here.
+
+
+
+
+                                                 11
+America’s Poison Centers, National Poison Data System
+
+National Poison Data System (NPDS) receives near real-time data from the nation’s poison
+centers (PC), providing information and assistance to callers on exposures to prescription drugs,
+over-the-counter medications, unapproved products, and other substances. PC healthcare
+professionals systematically follow up on exposure cases to document medical and clinical
+effects. Quality control measures are used to ensure data accuracy and completeness. Notably,
+7-OH specific NPDS codes were only recently added (Feb-May 2025), and therefore the NPDS
+reporting period is limited to 2/1/2025-4/30/2025. As shown below, there were a total of 53
+exposure cases involving 7-OH during this time period, the majority of which involved abuse-
+related reasons for use (i.e., “intentional abuse”). Most single-substance 7-OH exposure cases
+resulted in minor or moderate clinical outcomes, with several documented has having major
+clinical outcomes.
+
+            Table 1. National Poison Data System Closed Human Exposure Cases*,
+                                      2/1/2025-4/30/2025
+                                    Number of Number of Single-
+                                                                        Single-substance
+                                    exposure abuse       substance
+                                                                        abuse cases
+                                    cases**    cases**   exposure cases
+ Total cases involving 7-OH                       53             24                37                    16
+ Reason
+   Adverse drug reaction                           4                                2
+   Intentional- abuse                             24                               16
+   Intentional- misuse                             4                                3
+   Intentional - Suspected suicide                 2                                0
+   Other – Withdrawal                              8                                6
+   Unintentional – general                         4                                4
+   Unintentional- misuse                           1                                1
+   Unintentional therapeutic error                 4                                3
+   Unknown reason                                  2                                2
+ Related clinical outcomes
+   Minor                                                                            6                     3
+   Moderate                                                                        13                     6
+   Major                                                                            3                     1
+   Not followed, minimal clinical
+                                                                                    5                     3
+ effects possible
+   Unable to follow, judged as
+                                                                                    1                     0
+ potentially toxic exposure
+ Age
+  <18 years                                        6              1                 5                     0
+  ≥ 18 years                                      46             23                32                    16
+  Unknown age                                      1              0                 0                     0
+ *Excludes cases classified as 'confirmed non-exposure’
+ **Cases may involve other substances, besides 7-OH
+ Related clinical outcomes include cases with clinical effects deemed “related” to exposure based on timing,
+ severity, and assessment of clinical effects by Poison Center Specialists. Definitions available from America’s
+ Poison Centers: NPDS Full Report 2023. Page 235.
+
+
+
+
+                                                          12
+ Note: This analysis used the case listing data in NPDS to identify and characterize cases documented as involving
+ 7-OH. As of July 2025, an in-depth review NPDS case narrative data was ongoing; this further review may yield
+ different numbers from those presented here.
+
+Summary of Epidemiological Data and 7-OH Concerns
+
+Available surveillance data indicate that abuse of 7-OH is occurring and is associated with
+serious harms; however, as noted previously, it is difficult to quantify the public health burden
+because surveillance systems do not provide estimates for the prevalence of 7-OH use and are
+only beginning to track the specific involvement of 7-OH enhanced products in exposure cases
+and overdoses. The current epidemiologic data on 7-OH exposures often lack sufficient detail to
+distinguish with confidence involvement of botanical kratom products from 7-OH enhanced
+products.
+
+Preclinical Data Characterizing 7-OH Pharmacology
+Although there are limited data from human studies to characterize effects of 7-OH in humans,
+as noted above, there is a large body of in vitro and animal studies that provide extensive
+evidence of 7-OH as a potent mu opioid agonist, as described in below subsections.
+
+In Vitro Data
+
+Receptor Binding Studies
+
+7-OH has been shown to have affinity and activity at mu opioid receptors. In a study using
+human embryonic kidney (HEK) cells with cloned, human opioid receptors, 7-OH demonstrated
+high affinity for the mu opioid receptor (Ki = 47 nM) relative to kappa (Ki = 188 nM) and delta
+opioid receptors (Ki = 219 nM) (Kruegel et al., 2016). In a second study using HEK 293 cells
+expressing human mu and other opioid receptors, 7-OH demonstrated high affinity for mu opioid
+receptors (Ki = 16 ± 1 nM) and its affinity was greater than mitragynine (Ki = 238 ± 28 nM) and
+lower than morphine (Ki = 1.50 ± 0.04 nM) (Todd et al., 2020). Using an in vitro radioligand
+binding assay with CHO cells expressing murine-derived opioid receptors, 7-OH demonstrated
+relatively high affinity for mu-opioid receptors (Ki = 37 ± 4 nM), relative to mitragynine (Ki = 230
+± 47 nM), although its affinity was lower than morphine (Ki = 4.6 ± 1.8 nM) (Varadi et al., 2016).
+Other studies conducted using whole brain homogenates of guinea pig brain tissue have also
+demonstrated that 7-OH has high affinity at mu opioid receptors (Ki = 8.0 nM) relative to kappa
+(Ki = 6.7 nM) and delta opioid receptors (Ki = 6.8 nM) (Matsumoto et al., 2004). Obeng and
+colleagues evaluated the binding affinity of 7-OH using human recombinant HEK 293 cells
+expressing mu opioid receptors. Their results are in agreement with the data presented above
+where the authors found that 7-OH binds with high affinity (Ki = 7.2 nM) to mu opioid receptors
+relative to delta (Ki = 236 nM) and kappa (Ki = 74.1 nM) receptor subtypes (Obeng et al., 2020).
+A number of additional binding studies are in keeping with the data described above,
+demonstrating the affinity of 7-OH for mu opioid receptors across a variety of binding assays
+(Chakraborty et al., 2021; Matsumoto et al., 2008; Obeng et al., 2021; Takayama et al., 2002).
+
+The results of the receptor binding studies with 7-OH are in keeping with in silico receptor
+binding models that suggest 7-OH has high affinity for the mu opioid receptor. The in silico
+modeling results were subsequently confirmed with a radioligand binding assay where 7-OH
+demonstrated high affinity for cloned, human mu opioid receptors (Ki = 70 nM). (Ellis et al.,
+
+                                                        13
+2020). Collectively, the available receptor binding data demonstrate the affinity and binding of
+7-OH to mu opioid receptors.
+
+Functional Studies
+
+Many of the studies referenced above performed additional assessments of 7-OH to determine
+its functional activity after binding (i.e., agonist or antagonist effects). These studies have
+consistently demonstrated that 7-OH produces mu-opioid agonist effects. For example, Kruegel
+and colleagues examined the functional activity of 7-OH and mitragynine in HEK cells
+expressing opioid receptors using a bioluminescence resonance energy transfer (BRET) assay.
+Both mitragynine and 7-OH functioned as partial agonists, producing Emax values of 34% and
+47% respectively and EC50 values of 339 ± 178 nM and 34.5 ± 4.5 nM (Kruegel et al., 2016).
+Activation of the mu opioid receptor pathway was also investigated using forskolin-stimulated
+cyclic adenosine monophosphate (cAMP) accumulation in Chinese Hamster Ovary (CHO) cells
+expressing mu opioid receptors. In this assay, 7-OH produced a maximal activation (Emax) of
+85.9%, a value similar to that produced by the positive control comparators DAMGO (86.2%)
+and morphine (86.9%). These data suggest 7-OH acts a full mu opioid agonist (Todd et al.,
+2020). Similarly, Matsumoto and colleagues concluded that 7-OH was “found to have an opioid
+agonist property on µ- and/or κ-opioid receptors” based on its ability to inhibit contraction of
+isolated guinea pig ileum. In this assay, 7-OH displayed approximately 13-fold greater potency
+than morphine and 46-fold greater potency than mitragynine. The inhibition was reversed by
+naloxone, suggesting the effects are mediated via mu opioid receptors (Matsumoto et al., 2004).
+Other functional assays produced results that are aligned with Matsumoto and colleagues. For
+example, using a cAMP mobilization assay as a measure of functional effects, 7-OH acted as a
+full agonist with an EC50 of 7.6 nM, and was more potent than mitragynine (EC50 307.5 nM)
+(Obeng et al., 2020). Likewise, when evaluating the agonist activity of 7-OH in an electrically
+stimulated guinea pig ileum, 7-OH acted as a full agonist and was more potent than morphine
+(Takayama et al., 2002). Finally, using a [35S] GTPγS functional assay, 7-OH produced an Emax
+of 77% with an EC50 of 53.4 nM, further demonstrating its agonist effects (Varadi et al., 2016).
+
+Animal Data on Behavioral and Physiological Effects
+
+Conditioned Place Preference
+
+Conditioned place preference (CPP) is a commonly utilized animal model to study the rewarding
+effects of drugs. In this paradigm, an animal is conditioned to associate a particular environment
+with a drug treatment, and an alternative environment with a non-drug condition. After repeated
+sessions, the animal is then observed under non-drug conditions to determine which
+environment the animal prefers. CPP is established if the animal spends more time in the drug-
+paired compartment vs. the vehicle-paired compartment (Mombelli, 2022; Prus et al., 2009).
+Many drugs of abuse produce CPP, though notably, it is not a direct measure of reinforcing
+effects.
+
+Using the CPP paradigm, several studies have demonstrated the ability of 7-OH to produce
+rewarding effects and that it does so more potently than morphine. Gutridge and colleagues
+employed C57BL/6 mice and demonstrated the development of CPP after 3 mg/kg 7-OH. CPP
+was observed after both doses although 7-OH required more sessions (4 sessions) whereas
+morphine (6 mg/kg) was able to establish CPP in two sessions (Gutridge et al., 2020). Similarly,
+
+                                                14
+other studies have demonstrated the ability of 7-OH (2 mg/kg) to produce CPP, and that it does
+so with greater potency than morphine (Matsumoto et al., 2008).
+
+Drug Discrimination
+
+Drug discrimination is an experimental method in which animals identify whether a test drug
+produces interoceptive effects similar to those produced by a drug to which the animals are
+trained to differentiate from placebo, and which has known pharmacological properties. If the
+known drug is one with abuse potential, drug discrimination methods can be used to predict if a
+test drug will have abuse potential in humans (Balster & Bigelow, 2003; Solinas et al., 2006).
+
+For abuse assessment purposes, an animal is trained to press one bar when it receives a known
+drug of abuse (the training drug) and another bar when it receives placebo. A challenge session
+with the test drug determines which of the two bars the animal presses more often as an
+indicator of whether the test drug is more like the known drug of abuse or more like placebo. A
+test drug is said to have “full generalization” to the training drug when the test drug produces
+bar pressing >80% on the bar associated with the training drug (Ator & Griffiths, 2003;
+Swedberg, 2016; Walker, 2018; Young, 2009). A test drug that generalizes to a known drug of
+abuse will likely be abused by humans (Balster and Bigelow, 2003).
+
+Male Sprague Dawley rats were trained to discriminate morphine (5.0 mg/kg i.p.) from saline
+using a 30 min pretreatment time and FR10 schedule of reinforcement. After successful
+training, substitution tests with 7-OH (0.3, 1.0 and 3.0 mg/kg) were performed. The highest dose
+of 7-OH (3.0 mg/kg) produced complete substitution for the morphine stimulus cue. Moreover,
+pretreatment with naloxone significantly reversed the 7-OH substitution and resulted in saline-
+like responding. Notably, in this study, 7-OH was more potent than morphine (Harun et al.,
+2015).
+
+In a second study, the discriminative stimulus effects of 7-OH were examined in separate groups
+of rats trained to discriminate either morphine (3.2 mg/kg i.p., 15 min pretreatment) or
+mitragynine (32 mg/kg i.p., 30 min pretreatment) from saline. After successful acquisition of
+discrimination training 7-OH was administered in substitution tests. 7-OH was administered i.p.,
+with a 15 min pretreatment time in a dose range of 0.1-17.8 mg/kg. In the morphine-trained rats,
+7-OH produced complete substitution at doses above 0.56 mg/kg, with the 1.0 mg/kg dose
+producing 100% drug-lever-appropriate responding and a resultant ED50 of 0.28 mg/kg. Notably,
+the dose-response curve was shifted to the left, demonstrating an increased potency of 7-OH
+relative to morphine. In addition, pretreatment with 0.032 mg/kg naltrexone shifted the dose-
+response curve to the right suggesting substitution was mediated via mu-opioid receptors
+(Obeng et al., 2021). Taken together, the drug discrimination data demonstrate the ability of 7-
+OH to substitute and mimic the stimulus effects of morphine, and that 7-OH is more potent in
+doing so. These data are a strong indication that 7-OH produces subjective effects in humans
+that are similar to opioids, along with an associated abuse potential.
+
+Self-Administration
+
+Self-administration is a method that assesses whether a drug produces reinforcing effects that
+increase the likelihood of behavioral responses in order to obtain additional drug (i.e., whether
+an animal will press a lever for a drug injection). Drugs that are self-administered by animals are
+
+                                                15
+likely to produce rewarding effects in humans, which is indicative of abuse potential. Generally,
+a good correlation exists between those drugs that are self-administered by animals and those
+that are abused by humans (Balster & Bigelow, 2003; Brady et al., 1987; Johanson & Schuster,
+1981; Panlilio & Goldberg, 2007). It is notable that self-administration is a behavior that is
+produced by drugs that have been placed into every schedule of the CSA. Additionally, rates of
+self-administration for a particular drug will go up or down if the available drug dose or the work
+requirement (bar pressing for drug) is altered. Positive results from a self-administration study
+provide an abuse potential signal, suggesting that a drug has rewarding properties, but not
+necessarily that it produces more rewarding effects than another drug in humans.
+
+7-OH produces reinforcing effects and is self-administered by rodents. In the study, rodents
+were trained to self-administer morphine (100 µg/infusion) and faded to 50 µg/infusion once
+stable responding was achieved. Thereafter, extinction sessions were performed to confirm
+acquisition of the self-administration training prior to substitution tests. Substitution tests were
+performed with 7-OH doses of 2.5, 5, 10 and 20 µg/infusion. In the substitution tests, 7-OH
+produced an inverted U-shaped curve and the number of infusions for 5 and 10 µg/infusion of 7-
+OH were significantly greater than vehicle, demonstrating the reinforcing effects of 7-OH
+(Hemby et al., 2019).
+
+The self-administration of 7-OH was blocked by both a mu opioid antagonist (naloxonazine) and
+a delta opioid antagonist (naltrindole), suggesting its reinforcing effects are mediated via opioid
+receptors. In addition, peak morphine self-administration occurred at 50 µg/infusion while peak
+7-OH infusions occurred at 5 µg/infusion, demonstrating a substantially increased potency of 7-
+OH relative to morphine.
+
+There are some pharmacokinetic (PK) data available from animal studies involving the
+administration of isolated, i.e., single entity, 7-OH. Following a single oral dose (1 mg/kg 7-OH)
+to beagle dogs, absorption was rapid, with a peak plasma concentration (i.e., Cmax) of 56 ± 1.6
+ng/mL 15 minutes post-dose. The elimination half-life was slower, producing a mean of 3.6 ±
+0.5 h. No AEs were observed, and no abnormal laboratory findings were reported (Maxwell et
+al., 2021). In adult male and female mice, the PK parameters of 7-OH were investigated after a
+single oral dose of 50 mg/kg 7-OH. The tissue distribution of 7-OH was observed in descending
+order: liver > kidney > spleen > lung > brain. Plasme Cmax values were 0.6 and 09 μg/mL in
+males and females with a T max value of 0.5 hr. Area under the curve (AUC) values over 48
+hours (AUC0-48 hr* μg/mL) were 1.4 and 2.9 in male and female mice (Berthold et al., 2022).
+
+Antinociceptive Effects
+
+The antinociceptive effects of 7-OH were investigated in mice using the tail flick and hot plate
+tests. These tests are commonly used to examine pain and analgesic effects in rodents
+(D'Amour & Smith, 1941). In these tests, rodents are subject to a heat stimulus and timed for
+the duration it takes to move their tail (i.e., tail flick) or produce a response such as jumping,
+licking, or shaking of limbs (i.e., hot plate).
+
+In the tail flick test, subcutaneous administration of 7-OH (2.5 – 10 mg/kg) produced both time
+and dose-related antinociceptive effects. Notably, the dose-effect curve for 7-OH was shifted to
+the left, indicating a greater potency than the positive control comparator, morphine. Similar
+results were observed in the hot plate test, and when morphine and 7-OH were administered
+
+                                                 16
+orally. Naloxone (2 mg/kg s.c.) inhibited the effects of 7-OH and morphine in both tests
+(Matsumoto et al., 2004; Matsumoto et al., 2008). Concurrent results were observed by Obeng
+and colleagues using the hot plate test. In their study, 7-OH (0.0032 – 3.2 mg/kg, i.v.) produced
+maximum antinociceptive effects and was more potent morphine but less potent than fentanyl
+when administered intravenously. Likewise, naltrexone (0.1 mg/kg) reversed the antinociceptive
+effects of 7-OH suggesting the antinociception was mediated via mu opioid receptors (Obeng et
+al., 2020).
+
+Respiratory Depression
+
+A major risk of opioid exposure and cause of opioid-induced death is respiratory depression
+(Baldo & Rose, 2022; Bateman et al., 2023). To examine the respiratory effects of 7-OH in
+rodents, whole body plethysmography was used in freely moving, awake rats. Both morphine
+(10 and 32 mg/kg, i.v.) and 7-OH (1, 3.2, and 10 mg/kg, i.v.) induced significant respiratory
+depression as assessed by minute volume, tidal volume, and breathing frequency. The mu-
+opioid agonist naloxone (1.0 mg/kg i.v.) reversed these effects, a finding consistent with the mu
+opioid effects of 7-OH (Zuarth Gonzalez et al., 2025). These data highlight a potential risk factor
+of 7-OH exposure and suggest 7-OH may expose individuals to similar risks as classic opioids,
+including respiratory depression.
+
+Physical Dependence and Withdrawal
+
+It is well-established that chronic administration of opioids leads to the development of tolerance
+and physical dependence that may culminate into a withdrawal syndrome. In parallel with some
+of the hot plate tests described above, the ability of 7-OH to produce physical dependence and
+withdrawal was examined. Mice were treated with subcutaneous 7-OH (10 mg/kg b.i.d.) or
+morphine (10 mg/kg b.i.d.) for five days. Tolerance was assessed as a reduction of analgesia in
+the hot plate test. After five days of treatment, both morphine and 7-OH showed a decreased
+analgesic response on the hot plate test, demonstrating the development of tolerance. In
+addition, cross-tolerance was also observed between morphine and 7-OH suggesting a similar
+mechanism of action between the drugs. Finally, after five days of escalating doses of 7-OH and
+morphine (8-45 mg/kg b.i.d.) the development of withdrawal was assessed with a 3 mg/kg s.c.,
+dose of naloxone injected two hours after 7-OH administration. Both morphine and 7-OH
+treatment produced signs of withdrawal such as jumping, rearing, urination, ptosis, forepaw
+tremor, and diarrhea (Matsumoto et al., 2005).
+
+Summary of Preclinical Data
+
+From the studies described above, 7-OH has high affinity for mu opioid receptors and functional
+activity as an agonist at these receptors. Consistent with this pharmacological activity, 7-OH is
+self-administered by animals, substitutes for morphine in drug discrimination studies, produces
+antinociception, and physical dependence leading to withdrawal when administered to rodents.
+Moreover, 7-OH has consistently demonstrated an increased potency relative to morphine in
+preclinical rodent studies. These observations suggest 7-OH has pharmacological properties
+representative of a full mu opioid agonist and an associated high potential for abuse.
+
+
+
+
+                                                17
+CONCLUSIONS
+The data described in this report indicate that 7-OH has a significant potential for abuse and
+associated harms. Conclusively, 7-OH has high affinity and agonist activity at mu opioid
+receptors. Consistent with this pharmacological mechanism of action, 7-OH demonstrates
+rewarding effects in that it is self-administered by animals and also produces conditioned place
+preference, two well-established animal behavioral models measuring rewarding effects as a
+predictor of abuse potential in humans. In animal drug discrimination studies, 7-OH substitutes
+for morphine with full generalization. 7-OH is also demonstrated to produce antinociception
+consistent with opioid pharmacology, and to produce physical dependence when administered
+to rodents, as evidenced by a classic set of withdrawal signs associated with opioid withdrawal
+upon discontinuation of opioid administration. Moreover, 7-OH in all above models has
+consistently demonstrated an increased potency relative to morphine.
+
+Due to the fact that 7-OH is both a metabolite of mitragynine and naturally present in low
+amounts in botanical kratom, using toxicology results to identify 7-OH as a primary or sole
+contributor in human exposures is challenging. There is also a need for improved clinical
+awareness and population surveillance to better characterize patterns of 7-OH use, the products
+that people are obtaining, and individual treatment needs following 7-OH exposure. Additionally,
+questions on 7-OH are not generally included in national surveys, and other data sources that
+rely on self-reported use of 7-OH likely underestimate the number of 7-OH exposure cases, as
+individuals may be unaware of the distinction from kratom products. Nonetheless, since specific
+codes were added earlier this year to document 7-OH exposure cases, U.S. poison centers have
+identified multiple single-substance cases of 7-OH exposure resulting in serious adverse clinical
+outcomes. Also, although anecdotal, social media and online forums indicate growing awareness
+and use of 7-OH, and many testimonials of the negative opioid-mediated effects users have
+experienced, including 7-OH dependence, associated withdrawal syndrome, and addiction.
+
+In the current marketplace in the U.S., 7-OH is increasingly being marketed over-the-counter
+and online, in concentrated forms or sufficient doses to cause harms to those individuals
+engaging, knowingly or unknowingly, in use of 7-OH. Based on demonstrated pharmacology,
+repeated or prolonged use of 7-OH would lead to tolerance, physical dependence, and
+potentially to opioid addiction— typical of mu opioid agonist drugs of abuse. This public health
+threat is troubling and requires immediate and impactful policies to educate consumers and take
+regulatory action that limits access to 7-OH containing products.
+
+
+
+
+                                               18
+REFERENCES
+Ator, N. A., & Griffiths, R. R. (2003). Principles of drug abuse liability assessment in laboratory
+         animals. Drug Alcohol Depend, 70(3 Suppl), S55-72. https://doi.org/10.1016/s0376-
+         8716(03)00099-1
+Baldo, B. A., & Rose, M. A. (2022). Mechanisms of opioid-induced respiratory depression. Arch
+         Toxicol, 96(8), 2247-2260. https://doi.org/10.1007/s00204-022-03300-7
+Balster, R. L., & Bigelow, G. E. (2003). Guidelines and methodological reviews concerning drug
+         abuse liability assessment. Drug Alcohol Depend, 70(3 Suppl), S13-40.
+         https://doi.org/10.1016/s0376-8716(03)00097-8
+Bateman, J. T., Saunders, S. E., & Levitt, E. S. (2023). Understanding and countering opioid-
+         induced respiratory depression. Br J Pharmacol, 180(7), 813-828.
+         https://doi.org/10.1111/bph.15580
+Berthold, E. C., Kamble, S. H., Raju, K. S., Kuntz, M. A., Senetra, A. S., Mottinelli, M., Leon, F.,
+         Restrepo, L. F., Patel, A., Ho, N. P., Hiranita, T., Sharma, A., McMahon, L. R., & McCurdy,
+         C. R. (2022). The Lack of Contribution of 7-Hydroxymitragynine to the Antinociceptive
+         Effects of Mitragynine in Mice: A Pharmacokinetic and Pharmacodynamic Study. Drug
+         Metab Dispos, 50(2), 158-167. https://doi.org/10.1124/dmd.121.000640
+Brady, J. V., Griffiths, R. R., Hienz, R. D., Ator, N. A., Lukas, S. E., & Lamb, R. J. (1987).
+         Assessing Drugs for Abuse Liability and Dependence Potential in Laboratory Primates. In
+         M. A. Bozarth (Ed.), Methods of Assessing the Reinforcing Properties of Abused Drugs
+         (pp. 45-85). Springer New York. https://doi.org/10.1007/978-1-4612-4812-5_3
+Chakraborty, S., Uprety, R., Slocum, S. T., Irie, T., Le Rouzic, V., Li, X., Wilson, L. L., Scouller, B.,
+         Alder, A. F., Kruegel, A. C., Ansonoff, M., Varadi, A., Eans, S. O., Hunkele, A., Allaoa, A.,
+         Kalra, S., Xu, J., Pan, Y. X., Pintar, J.,…Majumdar, S. (2021). Oxidative Metabolism as a
+         Modulator of Kratom's Biological Actions. J Med Chem, 64(22), 16553-16572.
+         https://doi.org/10.1021/acs.jmedchem.1c01111
+Chear, N. J., Leon, F., Sharma, A., Kanumuri, S. R. R., Zwolinski, G., Abboud, K. A., Singh, D.,
+         Restrepo, L. F., Patel, A., Hiranita, T., Ramanathan, S., Hampson, A. J., McMahon, L. R., &
+         McCurdy, C. R. (2021). Exploring the Chemistry of Alkaloids from Malaysian Mitragyna
+         speciosa (Kratom) and the Role of Oxindoles on Human Opioid Receptors. J Nat Prod,
+         84(4), 1034-1043. https://doi.org/10.1021/acs.jnatprod.0c01055
+Cinosi, E., Martinotti, G., Simonato, P., Singh, D., Demetrovics, Z., Roman-Urrestarazu, A.,
+         Bersani, F. S., Vicknasingam, B., Piazzon, G., Li, J. H., Yu, W. J., Kapitany-Foveny, M.,
+         Farkas, J., Di Giannantonio, M., & Corazza, O. (2015). Following "the Roots" of Kratom
+         (Mitragyna speciosa): The Evolution of an Enhancer from a Traditional Use to Increase
+         Work and Productivity in Southeast Asia to a Recreational Psychoactive Drug in Western
+         Countries. Biomed Res Int, 2015, 968786. https://doi.org/10.1155/2015/968786
+D'Amour, F. E., & Smith, D. L. (1941). A METHOD FOR DETERMINING LOSS OF PAIN
+         SENSATION. The Journal of Pharmacology and Experimental Therapeutics, 72(1), 74-
+         79. https://doi.org/10.1016/S0022-3565(25)03823-6
+Ellis, C. R., Racz, R., Kruhlak, N. L., Kim, M. T., Zakharov, A. V., Southall, N., Hawkins, E. G.,
+         Burkhart, K., Strauss, D. G., & Stavitskaya, L. (2020). Evaluating kratom alkaloids using
+         PHASE. PLoS One, 15(3), e0229646. https://doi.org/10.1371/journal.pone.0229646
+Garcia-Romeu, A., Cox, D. J., Smith, K. E., Dunn, K. E., & Griffiths, R. R. (2020). Kratom
+         (Mitragyna speciosa): User demographics, use patterns, and implications for the opioid
+
+                                                   19
+          epidemic. Drug Alcohol Depend, 208, 107849.
+          https://doi.org/10.1016/j.drugalcdep.2020.107849
+Grundmann, O., Garcia-Romeu, A., McCurdy, C. R., Sharma, A., Smith, K. E., Swogger, M. T., &
+          Weiss, S. T. (2024). Not all kratom is equal: The important distinction between native leaf
+          and extract products. Addiction, 119(1), 202-203. https://doi.org/10.1111/add.16366
+Gutridge, A. M., Robins, M. T., Cassell, R. J., Uprety, R., Mores, K. L., Ko, M. J., Pasternak, G. W.,
+          Majumdar, S., & van Rijn, R. M. (2020). G protein-biased kratom-alkaloids and synthetic
+          carfentanil-amide opioids as potential treatments for alcohol use disorder. Br J
+          Pharmacol, 177(7), 1497-1513. https://doi.org/10.1111/bph.14913
+Harun, N., Hassan, Z., Navaratnam, V., Mansor, S. M., & Shoaib, M. (2015). Discriminative
+          stimulus properties of mitragynine (kratom) in rats. Psychopharmacology (Berl), 232(13),
+          2227-2238. https://doi.org/10.1007/s00213-015-3866-5
+Hemby, S. E., McIntosh, S., Leon, F., Cutler, S. J., & McCurdy, C. R. (2019). Abuse liability and
+          therapeutic potential of the Mitragyna speciosa (kratom) alkaloids mitragynine and 7-
+          hydroxymitragynine. Addict Biol, 24(5), 874-885. https://doi.org/10.1111/adb.12639
+Hill, K., Boyer, E. W., Grundmann, O., & Smith, K. E. (2025). De facto opioids: Characterization of
+          novel 7-hydroxymitragynine and mitragynine pseudoindoxyl product marketing. Drug
+          Alcohol Depend, 272, 112701. https://doi.org/10.1016/j.drugalcdep.2025.112701
+Hossain, R., Sultana, A., Nuinoon, M., Noonong, K., Tangpong, J., Hossain, K. H., & Rahman, M.
+          A. (2023). A Critical Review of the Neuropharmacological Effects of Kratom: An Insight
+          from the Functional Array of Identified Natural Compounds. Molecules, 28(21).
+          https://doi.org/10.3390/molecules28217372
+Huestis, M. A., Brett, M. A., Bothmer, J., & Atallah, R. (2024). Human Mitragynine and 7-
+          Hydroxymitragynine Pharmacokinetics after Single and Multiple Daily Doses of Oral
+          Encapsulated Dried Kratom Leaf Powder. Molecules, 29(5).
+          https://doi.org/10.3390/molecules29050984
+Johanson, C. E., & Schuster, C. R. (1981). Animal models of drug self-administration. Advances
+          in Substance Abuse, 2, 219-297.
+Kamble, S. H., Leon, F., King, T. I., Berthold, E. C., Lopera-Londono, C., Siva Rama Raju, K.,
+          Hampson, A. J., Sharma, A., Avery, B. A., McMahon, L. R., & McCurdy, C. R. (2020).
+          Metabolism of a Kratom Alkaloid Metabolite in Human Plasma Increases Its Opioid
+          Potency and Efficacy. ACS Pharmacol Transl Sci, 3(6), 1063-1068.
+          https://doi.org/10.1021/acsptsci.0c00075
+Karunakaran, T., Vicknasingam, B., & Chawarski, M. C. (2024). Phytochemical analysis of water
+          and ethanol liquid extracts prepared using freshly harvested leaves of Mitragyna
+          speciosa (Korth.). Nat Prod Res, 1-8. https://doi.org/10.1080/14786419.2024.2362428
+Kikura-Hanajiri, R., Kawamura, M., Maruyama, T., Kitajima, M., Takayama, H., & Goda, Y. (2009).
+          Simultaneous analysis of mitragynine, 7-hydroxymitragynine, and other alkaloids in the
+          psychotropic plant “kratom” (Mitragyna speciosa) by LC-ESI-MS. Forensic Toxicology,
+          27(2), 67-74. https://doi.org/10.1007/s11419-009-0070-5
+Kruegel, A. C., Gassaway, M. M., Kapoor, A., Varadi, A., Majumdar, S., Filizola, M., Javitch, J. A.,
+          & Sames, D. (2016). Synthetic and Receptor Signaling Explorations of the Mitragyna
+          Alkaloids: Mitragynine as an Atypical Molecular Framework for Opioid Receptor
+          Modulators. J Am Chem Soc, 138(21), 6754-6764. https://doi.org/10.1021/jacs.6b00360
+Leon, F., Habib, E., Adkins, J. E., Furr, E. B., McCurdy, C. R., & Cutler, S. J. (2009).
+          Phytochemical characterization of the leaves of Mitragyna speciosa grown in U.S.A. Nat
+          Prod Commun, 4(7), 907-910. https://www.ncbi.nlm.nih.gov/pubmed/19731590
+
+
+                                                  20
+Lydecker, A. G., Sharma, A., McCurdy, C. R., Avery, B. A., Babu, K. M., & Boyer, E. W. (2016).
+      Suspected Adulteration of Commercial Kratom Products with 7-Hydroxymitragynine. J
+      Med Toxicol, 12(4), 341-349. https://doi.org/10.1007/s13181-016-0588-y
+Matsumoto, K., Horie, S., Ishikawa, H., Takayama, H., Aimi, N., Ponglux, D., & Watanabe, K.
+      (2004). Antinociceptive effect of 7-hydroxymitragynine in mice: Discovery of an orally
+      active opioid analgesic from the Thai medicinal herb Mitragyna speciosa. Life Sci,
+      74(17), 2143-2155. https://doi.org/10.1016/j.lfs.2003.09.054
+Matsumoto, K., Horie, S., Takayama, H., Ishikawa, H., Aimi, N., Ponglux, D., Murayama, T., &
+      Watanabe, K. (2005). Antinociception, tolerance and withdrawal symptoms induced by 7-
+      hydroxymitragynine, an alkaloid from the Thai medicinal herb Mitragyna speciosa. Life
+      Sci, 78(1), 2-7. https://doi.org/10.1016/j.lfs.2004.10.086
+Matsumoto, K., Takayama, H., Narita, M., Nakamura, A., Suzuki, M., Suzuki, T., Murayama, T.,
+      Wongseripipatana, S., Misawa, K., Kitajima, M., Tashima, K., & Horie, S. (2008). MGM-9
+      [(E)-methyl 2-(3-ethyl-7a,12a-(epoxyethanoxy)-9-fluoro-1,2,3,4,6,7,12,12b-octahydro-8-
+      methoxyindolo[2,3-a]quinolizin-2-yl)-3-methoxyacrylate], a derivative of the indole
+      alkaloid mitragynine: a novel dual-acting mu- and kappa-opioid agonist with potent
+      antinociceptive and weak rewarding effects in mice. Neuropharmacology, 55(2), 154-
+      165. https://doi.org/10.1016/j.neuropharm.2008.05.003
+Maxwell, E. A., King, T. I., Kamble, S. H., Raju, K. S. R., Berthold, E. C., Leon, F., Hampson, A.,
+      McMahon, L. R., McCurdy, C. R., & Sharma, A. (2021). Oral Pharmacokinetics in Beagle
+      Dogs of the Mitragynine Metabolite, 7-Hydroxymitragynine. Eur J Drug Metab
+      Pharmacokinet, 46(3), 459-463. https://doi.org/10.1007/s13318-021-00684-2
+McCurdy, C. R., Sharma, A., Smith, K. E., Veltri, C. A., Weiss, S. T., White, C. M., & Grundmann,
+      O. (2024). An update on the clinical pharmacology of kratom: uses, abuse potential, and
+      future considerations. Expert Rev Clin Pharmacol, 17(2), 131-142.
+      https://doi.org/10.1080/17512433.2024.2305798
+Mombelli, E. (2022). Animal Models of Drug Addiction. In S. Della Sala (Ed.), Encyclopedia of
+      Behavioral Neuroscience, 2nd edition (Second Edition) (pp. 674-681). Elsevier.
+      https://doi.org/https://doi.org/10.1016/B978-0-12-819641-0.00118-3
+Mongar, P., Jaisi, A., Inkviya, T., Wungsintaweekul, J., & Wiwattanawongsa, K. (2024). Effects of
+      Itraconazole on Pharmacokinetics of Mitragynine and 7-Hydroxymitragynine in Healthy
+      Volunteers. ACS Pharmacol Transl Sci, 7(3), 823-833.
+      https://doi.org/10.1021/acsptsci.3c00335
+NDEWS. (2024). National Drug Early Warning System Weekly Briefing. (195).
+      https://ndews.org/newsletter/weekly-briefing-issue-195/
+Obeng, S., Kamble, S. H., Reeves, M. E., Restrepo, L. F., Patel, A., Behnke, M., Chear, N. J.,
+      Ramanathan, S., Sharma, A., Leon, F., Hiranita, T., Avery, B. A., McMahon, L. R., &
+      McCurdy, C. R. (2020). Investigation of the Adrenergic and Opioid Binding Affinities,
+      Metabolic Stability, Plasma Protein Binding Properties, and Functional Effects of
+      Selected Indole-Based Kratom Alkaloids. J Med Chem, 63(1), 433-439.
+      https://doi.org/10.1021/acs.jmedchem.9b01465
+Obeng, S., Wilkerson, J. L., Leon, F., Reeves, M. E., Restrepo, L. F., Gamez-Jimenez, L. R., Patel,
+      A., Pennington, A. E., Taylor, V. A., Ho, N. P., Braun, T., Fortner, J. D., Crowley, M. L.,
+      Williamson, M. R., Pallares, V. L. C., Mottinelli, M., Lopera-Londono, C., McCurdy, C. R.,
+      McMahon, L. R., & Hiranita, T. (2021). Pharmacological Comparison of Mitragynine and
+      7-Hydroxymitragynine: In Vitro Affinity and Efficacy for mu-Opioid Receptor and Opioid-
+      Like Behavioral Effects in Rats. J Pharmacol Exp Ther, 376(3), 410-427.
+      https://doi.org/10.1124/jpet.120.000189
+
+                                                21
+Ogozalek, S. (2023, December 9). The Tampa Bay Times tested 20 kratom products. Here’s
+        what we found. Tampa Bay Times.
+        https://www.tampabay.com/investigations/2023/12/09/tampa-bay-times-tested-20-
+        kratom-products-heres-what-we-found/
+Panlilio, L. V., & Goldberg, S. R. (2007). Self-administration of drugs in animals and humans as a
+        model and an investigative tool. Addiction, 102(12), 1863-1870.
+        https://doi.org/10.1111/j.1360-0443.2007.02011.x
+Ponglux, D., Wongseripipatana, S., Takayama, H., Kikuchi, M., Kurihara, M., Kitajima, M., Aimi, N.,
+        & Sakai, S. (1994). A New Indole Alkaloid, 7 alpha-Hydroxy-7H-mitragynine, from
+        Mitragyna speciosa in Thailand. Planta Med, 60(6), 580-581. https://doi.org/10.1055/s-
+        2006-959578
+Prus, A. J., James, J. R., & Rosecrans, J. A. (2009). Conditioned Place Preference. In J. J.
+        Buccafusco (Ed.), Methods of Behavior Analysis in Neuroscience (2nd ed.).
+        https://www.ncbi.nlm.nih.gov/pubmed/21204336
+Rogers, J. M., Weiss, S. T., Epstein, D. H., Grundmann, O., Hill, K., & Smith, K. E. (2024). Kratom
+        addiction per DSM-5 SUD criteria, and kratom physical dependence: Insights from
+        dosing amount versus frequency. Drug Alcohol Depend, 260, 111329.
+        https://doi.org/10.1016/j.drugalcdep.2024.111329
+Sengnon, N., Vonghirundecha, P., Chaichan, W., Juengwatanatrakul, T., Onthong, J., Kitprasong,
+        P., Sriwiriyajan, S., Chittrakarn, S., Limsuwanchote, S., & Wungsintaweekul, J. (2023).
+        Seasonal and Geographic Variation in Alkaloid Content of Kratom (Mitragyna speciosa
+        (Korth.) Havil.) from Thailand. Plants (Basel), 12(4).
+        https://doi.org/10.3390/plants12040949
+Sharma, A., Smith, K. E., Kuntz, M. A., Berthold, E. C., Elashkar, O. I., Guadagnoli, N., Kanumuri,
+        S. R. R., Mukhopadhyay, S., Panlilio, L. V., Epstein, D. H., & McCurdy, C. R. (2025).
+        Chemical Analysis and Alkaloid Intake for Kratom Products Available in the United
+        States. Drug Test Anal. https://doi.org/10.1002/dta.3906
+Singh, D., Narayanan, S., & Vicknasingam, B. (2016). Traditional and non-traditional uses of
+        Mitragynine (Kratom): A survey of the literature. Brain Res Bull, 126(Pt 1), 41-46.
+        https://doi.org/10.1016/j.brainresbull.2016.05.004
+Singh, D., Narayanan, S., Vicknasingam, B., Corazza, O., Santacroce, R., & Roman-Urrestarazu,
+        A. (2017). Changing trends in the use of kratom (Mitragyna speciosa) in Southeast Asia.
+        Hum Psychopharmacol, 32(3). https://doi.org/10.1002/hup.2582
+Smith, K. E., Boyer, E. W., Grundmann, O., McCurdy, C. R., & Sharma, A. (2024). The rise of
+        novel, semi-synthetic 7-hydroxymitragnine products. Addiction.
+        https://doi.org/10.1111/add.16728
+Smith, K. E., Panlilio, L. V., Sharma, A., McCurdy, C. R., Feldman, J. D., Mukhopadhyay, S.,
+        Kanumuri, S. R. R., Kuntz, M. A., Hill, K., & Epstein, D. H. (2024). Time course of kratom
+        effects via ecological momentary assessment, by product type, dose amount, and
+        assayed alkaloid content. Drug Alcohol Depend, 264, 112460.
+        https://doi.org/10.1016/j.drugalcdep.2024.112460
+Smith, K. E., Rogers, J. M., Dunn, K. E., Grundmann, O., McCurdy, C. R., Schriefer, D., & Epstein,
+        D. H. (2022). Searching for a Signal: Self-Reported Kratom Dose-Effect Relationships
+        Among a Sample of US Adults With Regular Kratom Use Histories. Front Pharmacol, 13,
+        765917. https://doi.org/10.3389/fphar.2022.765917
+Solinas, M., Panlilio, L. V., Justinova, Z., Yasar, S., & Goldberg, S. R. (2006). Using drug-
+        discrimination techniques to study the abuse-related effects of psychoactive drugs in
+        rats. Nat Protoc, 1(3), 1194-1206. https://doi.org/10.1038/nprot.2006.167
+
+                                                22
+Swedberg, M. D. (2016). Drug discrimination: A versatile tool for characterization of CNS safety
+        pharmacology and potential for drug abuse. J Pharmacol Toxicol Methods, 81, 295-305.
+        https://doi.org/10.1016/j.vascn.2016.05.011
+Takayama, H., Ishikawa, H., Kurihara, M., Kitajima, M., Aimi, N., Ponglux, D., Koyama, F.,
+        Matsumoto, K., Moriyama, T., Yamamoto, L. T., Watanabe, K., Murayama, T., & Horie, S.
+        (2002). Studies on the synthesis and opioid agonistic activities of mitragynine-related
+        indole alkaloids: discovery of opioid agonists structurally different from other opioid
+        ligands. J Med Chem, 45(9), 1949-1956. https://doi.org/10.1021/jm010576e
+Tanna, R. S., Nguyen, J. T., Hadi, D. L., Manwill, P. K., Flores-Bocanegra, L., Layton, M. E., White,
+        J. R., Cech, N. B., Oberlies, N. H., Rettie, A. E., Thummel, K. E., & Paine, M. F. (2022).
+        Clinical Pharmacokinetic Assessment of Kratom (Mitragyna speciosa), a Botanical
+        Product with Opioid-like Effects, in Healthy Adult Participants. Pharmaceutics, 14(3).
+        https://doi.org/10.3390/pharmaceutics14030620
+Todd, D. A., Kellogg, J. J., Wallace, E. D., Khin, M., Flores-Bocanegra, L., Tanna, R. S., McIntosh,
+        S., Raja, H. A., Graf, T. N., Hemby, S. E., Paine, M. F., Oberlies, N. H., & Cech, N. B.
+        (2020). Chemical composition and biological effects of kratom (Mitragyna speciosa): In
+        vitro studies with implications for efficacy and drug interactions. Sci Rep, 10(1), 19158.
+        https://doi.org/10.1038/s41598-020-76119-w
+Varadi, A., Marrone, G. F., Palmer, T. C., Narayan, A., Szabo, M. R., Le Rouzic, V., Grinnell, S. G.,
+        Subrath, J. J., Warner, E., Kalra, S., Hunkele, A., Pagirsky, J., Eans, S. O., Medina, J. M.,
+        Xu, J., Pan, Y. X., Borics, A., Pasternak, G. W., McLaughlin, J. P., & Majumdar, S. (2016).
+        Mitragynine/Corynantheidine Pseudoindoxyls As Opioid Analgesics with Mu Agonism
+        and Delta Antagonism, Which Do Not Recruit beta-Arrestin-2. J Med Chem, 59(18),
+        8381-8397. https://doi.org/10.1021/acs.jmedchem.6b00748
+Walker, E. A. (2018). A Prospective Evaluation of Drug Discrimination in Pharmacology. Curr
+        Top Behav Neurosci, 39, 319-328. https://doi.org/10.1007/7854_2018_59
+Young, R. (2009). Drug Discrimination. In J. J. Buccafusco (Ed.), Methods of Behavior Analysis in
+        Neuroscience (2nd ed.). https://www.ncbi.nlm.nih.gov/pubmed/21204332
+Zuarth Gonzalez, J. D., Ragsdale, A. K., Mukhopadhyay, S., McCurdy, C. R., McMahon, L. R.,
+        Obeng, S., & Wilkerson, J. L. (2025). Mitragynine and 7-Hydroxymitragynine:
+        Bidirectional Effects on Breathing in Rats. bioRxiv.
+        https://doi.org/10.1101/2025.05.16.654392
+
+
+
+
+                                                 23
+
