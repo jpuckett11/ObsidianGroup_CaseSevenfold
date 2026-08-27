@@ -23,3 +23,10 @@ exhibits/fara_partial/
 
 *.err
 .opened
+
+# Internal-only findings. Never publish.
+*_INTERNAL.md
+FINDING_13A*
+
+# Committee submission: held until filed. Contains clinical detail kept internal per 13A.
+deliverables/wyden/
