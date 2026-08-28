@@ -376,8 +376,11 @@ The ODP API key requires **ID.me identity verification: a government-issued
 photo ID, a Social Security number, and multi-factor authentication**. The key is
 issued per person, not per organisation.
 
-**We assess the cost as not worth the return, for a reason independent of
-privacy.** Patent assignment recordation captures *conveyances*: inventors to
+**Note 2026-08-28: the investigator already holds a verified ID.me account, so
+the identity cost is already sunk and this objection does not apply to him. The
+substantive caveat below stands regardless of who runs it.**
+
+**We assess the return as limited, for a reason independent of privacy.** Patent assignment recordation captures *conveyances*: inventors to
 company, mergers, name changes, and security interests. **Equity stakes and
 licence agreements are not recorded.** The most probable content of a Mitradyne
 assignment record is "the four inventors assigned to Mitradyne Corporation",
@@ -385,8 +388,12 @@ which is already evident from the face of the filing. A university interest in
 this company would almost certainly take the form of equity or a licence, and
 neither appears in that database.
 
-So the identity-verification cost is high, and the probability that the record
-answers the actual question is low. **Recommend against.**
+So the probability that the record answers the *Guelph* question is low. It is
+still worth pulling for what it does show: whether the inventors formally assigned
+to Mitradyne at all, whether any **security interest** has been granted to a
+lender or investor, and any name or ownership changes. Those are real facts about
+the company. **Pull it if the key is cheap to obtain; do not expect it to settle
+the university question.**
 
 Bulk assignment data would sidestep the key, but `bulkdata.uspto.gov` no longer
 resolves and `data.uspto.gov/bulkdata` sits behind an AWS WAF.
