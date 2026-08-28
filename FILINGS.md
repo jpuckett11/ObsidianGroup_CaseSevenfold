@@ -217,6 +217,52 @@ auto-generated receipt PDF.
 
 ---
 
+---
+
+### 6. Senator Marsha Blackburn — constituent letter — **SUBMITTED 2026-08-28**
+
+| | |
+|---|---|
+| **Recipient** | Senator Marsha Blackburn (R-TN) |
+| **Channel** | Web form, `blackburn.senate.gov/contact` -> "Email Me" |
+| Submitted | 2026-08-28 |
+| Receipt | Confirmation page: *"Thank you for sending your message to Senator Blackburn."* **The form issues no tracking number.** That page is the only receipt the system offers, so this entry rests on it |
+| Source text | `deliverables/blackburn/BLACKBURN_WEBFORM_paste_this.txt` (3,965 chars) and `BLACKBURN_WEBFORM_2_paste_this.txt` (4,618 chars) |
+| Full letter | `OWG_Letter_Sen_Blackburn_2026-08-28.pdf`, 3 pages, not yet faxed |
+
+**Why her.** She signed the 2026-03-18 letter to Commissioner Makary urging action
+on 7-OH, she represents the investigator's own state, and Finding 22 establishes
+from FEC primaries that she has taken **nothing** from any kratom company or trade
+association. The first message opens with that, because a clean finding is worth
+as much as a dirty one and she is entitled to hear it from us.
+
+**Message 1** carries the corynantheidine gap, the Florida emergency rule, the
+existence of the two manufacturing patents, and the three scope questions.
+
+**Message 2** carries the specifics: Mitradyne's claims 5, 6, 8 and 11 quoted so
+her staff can verify them directly, CB Therapeutics, and an explicit statement
+that neither company has done anything wrong. It then raises the Mullin holding
+**once**, with no request that she characterise it, investigate it or say anything
+about a colleague, and notes the sequencing that matters to her: **the disclosure
+was filed 17 March 2026 and she signed the Makary letter on 18 March 2026, one day
+later.** She should not learn that from a reporter.
+
+**Also offered:** the full case file free with no conditions, and an in-person
+briefing in Nashville beginning with the parts of our own work that cut against
+our theory.
+
+**Prior attempt, recorded rather than dropped.** Earlier the same day the letter
+was emailed to the conventional `senator@blackburn.senate.gov`, because no senator
+email address is published anywhere. It returned **`550 5.1.1 User Unknown`** from
+`v-ico-ppmx2.senate.gov`, the Senate's own mail server. Nothing was delivered.
+**There is no email route to a Senate office. The web form is the route.**
+
+**Follow-up:** fax the 3-page PDF to the Nashville office, **(615) 298-2148**, and
+call **(629) 800-6600** to ask for the health policy or FDA staffer. Message 1
+promises the fax follows, so that promise is outstanding.
+
+---
+
 ## READY, NOT SENT
 
 ### 1. FOIA — FDA Division of Freedom of Information — **REJECTED 2026-08-28, NOT FILED**
@@ -280,66 +326,6 @@ withdrawal symptoms." Both captured 2026-08-27 and hashed.
 **[I] This is the only line in the case that needs no rulemaking, no conflict of
 interest, and no new facts. It also does not depend on the investigator's own
 account.**
-
----
-
-### 4. Senator Marsha Blackburn — constituent letter — **EMAIL BOUNCED 2026-08-28**
-
-**Attempted and failed, recorded rather than quietly dropped.** At the
-investigator's direction on 2026-08-28, after the caveat was stated twice, the
-letter was sent to the conventional `senator@blackburn.senate.gov`. No senator
-address is published anywhere, so the address was a convention, not a source.
-
-**Result: `550 5.1.1 User Unknown`** from `v-ico-ppmx2.senate.gov`
-[156.33.195.244], the Senate's own mail server. Bounce received 19:58:24 UTC.
-The address does not exist. **Nothing was delivered.**
-
-This closes the question: there is no email route to this office. Use fax.
-
-`deliverables/blackburn/LETTER_to_Blackburn_paste_this.txt` and
-`OWG_Letter_Sen_Blackburn_2026-08-28.pdf`, 3 pages, 990 words.
-
-**Why her.** She signed the 2026-03-18 letter to Commissioner Makary urging action
-on 7-OH, she represents the investigator's own state, and Finding 22 establishes
-from FEC primaries that she has taken **nothing** from any kratom company or trade
-association. The letter opens by telling her that, because a clean finding is
-worth as much as a dirty one and she is entitled to hear it from us.
-
-**What it asks:** the three scope questions already before the Department on
-HHS-OASH-2026-0232, put by a senator rather than a private citizen. Whether the
-evaluation considered alkaloids outside the mitragynine scaffold; whether scope was
-set on natural abundance or on manufacturability; and that any subsequent notice
-publish the full list of alkaloids considered.
-
-**What it offers:** the entire case file, free, with no conditions, including an
-explicit offer to tell her staff which parts of our own work cut against our
-theory before they rely on any of it.
-
-**On the Mullin holding:** mentioned in one paragraph, as a matter of public
-record, with no characterization and no request that she take a position on a
-colleague. The stated reason is that she signed a letter on this subject and
-should not learn of it from somebody else.
-
-**Delivery: not sendable from here, and the reason is documented rather than
-assumed.**
-
-| Route | Status |
-|---|---|
-| Email | **No address published.** Not on `blackburn.senate.gov` (contact, press, staff, help pages all checked), and the official `senate.gov` senator directory publishes **zero** senator addresses chamber-wide. The domain does carry MX records, so a guessed address would be accepted by the mail gateway and silently dropped or bounced, with no way to confirm. **We will not write SENT into this tracker on a guessed address.** |
-| Web form | `blackburn.senate.gov/contact` -> "Email Me". Gated by **Google reCAPTCHA** plus a CSRF token. That control exists to confirm a human constituent, and defeating it would be the easiest thing for her office to hold against the filing. Requires a Tennessee address, which the investigator has. |
-| **Fax** | **Fastest real channel.** Nashville **(615) 298-2148**, Washington **(202) 228-0566**. No captcha, no gatekeeping. |
-| Postal | Nashville office, 719 Church Street Suite 2100, Nashville TN 37203. DC mail is irradiated and delayed by weeks; use the state office. |
-| Phone | Nashville **(629) 800-6600**. Ask for the health policy or FDA staffer. |
-
-**Recommended sequence, in `deliverables/blackburn/HOW_TO_DELIVER.txt`:** call
-Nashville first, then fax the same day. A letter that arrives after a call is
-opened by someone expecting it. A letter that arrives cold is counted as
-correspondence.
-
-**What to lead with on the phone**, thirty seconds and all of it checkable:
-every compound the government has scheduled sits on one chemical scaffold, there
-is a second one in the same plant that nothing covers, Florida already named it,
-and two companies have already patented how to manufacture it.
 
 ---
 

@@ -1,0 +1,33 @@
+Senator Blackburn,
+
+I am a constituent in Columbia. I run a small independent investigative group, and I am writing about the 7-OH scheduling action for two reasons.
+
+The first is something that is in your favor and that you did not ask anyone to look for. When we started, our working theory was that the 7-OH action existed to protect leaf-kratom companies that officials had money in. We tested it against Federal Election Commission records rather than assuming it, querying by contributor employer for every kratom company and trade association we could identify. Not one of the eleven senators who signed the March 18 letter to Commissioner Makary appears as a recipient of any of it. Not you, not Chairman Crapo, not one. We published that as plainly as we published everything else. An absence of records is not a certificate of anything and employer fields are self-reported, and we said so, but we looked hard and found nothing, and you should hear it from us.
+
+The second is a question I would like you to ask.
+
+Every substance the government has moved against sits on one chemical scaffold. 7-OH, mitragynine pseudoindoxyl, MGM-15 and MGM-16 are all relatives of mitragynine. The same plant contains a second scaffold. 9-hydroxycorynantheidine stands to corynantheidine roughly as 7-OH stands to mitragynine, and nothing covers it. It appears in no federal docket document, no lobbying disclosure and no FDA adverse event report, and we ran controls on every one of those searches. Florida already caught it: its emergency rule of June 2026 names the compound. The federal instruments issued weeks later do not.
+
+What makes it urgent rather than academic is that two companies have already filed patent applications claiming how to manufacture this compound industrially, one by cell-free enzymes and one by fermentation, both with priority dates in late 2023. Their own filings show it is an intermediate on the biosynthetic route to mitragynine, which means any facility making mitragynine that way passes straight through it and can stop there. Everyone has assumed the constraint is that there is too little of it in the leaf. That assumption is already obsolete.
+
+I am asking for three questions to be put to the Department:
+
+1. Whether its scientific and medical evaluation considered mu-opioid-active alkaloids of Mitragyna speciosa outside the mitragynine scaffold, and if so on what basis they were excluded.
+
+2. Whether the scope of the action was set on how abundant a compound is in the plant, or on whether it can be manufactured. Those are different questions and only one still makes sense.
+
+3. That any subsequent notice publish the full list of alkaloids considered and the disposition of each.
+
+Those questions are already before the Department. We filed them on docket HHS-OASH-2026-0232 as comment mtc-q9zv-dase on August 28, alongside two earlier comments. A comment from a private citizen can be acknowledged and shelved. The same question from a senator who already signed the March letter is harder to shelve.
+
+I am offering your office everything we have, at no cost and with no conditions. Twenty-five documented findings, every exhibit hashed and dated, the patent analysis, and the contribution records. It is public at github.com/jpuckett11/ObsidianGroup_CaseSevenfold and your staff may use any of it without crediting us. I will also tell them which parts of our own work cut against our theory, because there are several.
+
+A three-page letter with the full detail follows by fax to the Nashville office.
+
+I got into this because people I know were hurt by these products, and because the buyer is told it is a botanical while the seller's own website admits it is habit-forming on a page the buyer never reaches. Whatever else is true, that part is a lie told to people who trusted a label.
+
+Thank you for signing the March letter before any of this was in the news.
+
+Jay Puckett
+Columbia, Tennessee
+Obsidian Watch Group

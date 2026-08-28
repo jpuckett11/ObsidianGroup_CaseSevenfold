@@ -1,0 +1,49 @@
+Senator Blackburn,
+
+This follows my earlier message about the 7-OH scheduling action and the uncovered compound on the corynantheidine scaffold. That one had to be short. This carries the two things it could not hold. Both are matters of public record and neither requires you to take my word for anything.
+
+FIRST: THE PATENTS, WITH THE SPECIFICS
+
+I said two companies have claimed how to manufacture 9-hydroxycorynantheidine. Here is what your staff can verify in an afternoon.
+
+Mitradyne Corporation, EP 4 538 367, priority 20 September 2023 from a US provisional, US application 18/891,491. Its claims are the finding:
+
+Claim 5 covers the enzyme that hydroxylates corynantheidine at the C9 position to produce 9-hydroxycorynantheidine.
+
+Claim 6, the very next one, covers the enzyme that hydroxylates mitragynine at the C7 position to produce 7-hydroxymitragynine.
+
+Read those together. The same document, in consecutive claims, covers the enzyme that makes the compound the government is scheduling and the enzyme that makes the one it is not. Whoever drafted it understood both positions on both scaffolds in 2023. Claim 11 specifies the system is cell-free, meaning no plant is required at all.
+
+Claim 8 gives the biosynthetic order and it is the most important line in any of this: corynantheidine, then 9-hydroxycorynantheidine, then mitragynine. The uncovered compound is an intermediate on the route to the covered one. It is not something a manufacturer would have to set out to make. It is a mandatory waypoint that any enzymatic mitragynine facility passes through and can stop at.
+
+The second is CB Therapeutics of Carlsbad, California, US 2025/0179544, priority 1 December 2023, which claims recombinant-cell production, meaning fermentation, of corynanthe-type alkaloids and names the compound in its specification.
+
+Neither company has done anything wrong and I want to be clear about that. Both are legitimate biotechnology filings, neither states any intent to market this compound, most patent applications are never commercialised, and we found no connection between either company and any party or official in this matter. The inventors on the first are four scientists at the University of Guelph whose published work is cell-free synthesis of plant compounds. I cite them only as proof that manufacture at scale is feasible and has already been claimed, which is what makes the scope question urgent instead of theoretical.
+
+SECOND: A DISCLOSURE MATTER, STATED AND THEN LEFT ALONE
+
+I raise this once, and I am not asking you to do anything about it.
+
+A sitting official holds between $500,001 and $1,000,000 in a leaf-kratom manufacturer. It is disclosed on a nominee financial disclosure filed 17 March 2026 and it was left off an ethics divestiture agreement that captured sixty-three other equities, including Philip Morris International. He has certified completion of all required divestitures while retaining it.
+
+That is a matter of public record and I have the primary documents.
+
+I am not asking you to characterise it, take a position on it, investigate it, or say anything about a colleague. I want to be plain about that, because I know what it looks like when someone hands a senator a file about another member.
+
+I am telling you it exists for one reason. You signed a letter on this subject on 18 March 2026, one day after that disclosure was filed. If this becomes a story, you should already have known, and you should have heard it from a constituent rather than from a reporter.
+
+I will also repeat the finding from my first message, because it belongs beside this one: you have taken nothing from this industry, and neither has any of the other ten signatories. We checked and we published it.
+
+WHAT I AM ASKING, UNCHANGED
+
+Only the three scope questions from my first message, put to the Department. Whether alkaloids outside the mitragynine scaffold were considered. Whether scope was set on natural abundance or on manufacturability. And that the full list of alkaloids considered be published with the disposition of each.
+
+WHAT I AM OFFERING
+
+Everything, free, no conditions. Twenty-five findings, every exhibit hashed and dated, at github.com/jpuckett11/ObsidianGroup_CaseSevenfold. Your staff may use any of it without crediting us.
+
+If it is more useful as a briefing, I will drive to Nashville and walk whoever you send through the primary documents. I will start by showing them the parts of our own work that cut against our theory, because there are several and they should know before relying on any of it.
+
+Jay Puckett
+Columbia, Tennessee
+Obsidian Watch Group

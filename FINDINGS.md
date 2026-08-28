@@ -278,6 +278,17 @@ Written down deliberately, so we test it instead of confirming it.
 
 
 
+
+**2026-08-28 — Constituent submission to Sen. Marsha Blackburn (R-TN)**, via her
+web form, two messages. Carries the corynantheidine gap, Mitradyne's claims 5, 6,
+8 and 11 for independent verification, and the three scope questions. Raises the
+Mullin holding once, with the sequencing that matters: **the nominee disclosure
+was filed 2026-03-17 and she signed the Makary letter 2026-03-18, one day later.**
+Opens with the finding that favours her, that she has taken nothing from this
+industry. No tracking number is issued; the confirmation page is the receipt.
+**Note: an earlier email to `senator@blackburn.senate.gov` returned 550 User
+Unknown. There is no email route to a Senate office.**
+
 **2026-08-28 — Tennessee Division of Consumer Affairs complaint SENT and
 ACKNOWLEDGED.** Reference **`104939`**, acknowledged 23 seconds after sending.
 Tennessee Consumer Protection Act, Tenn. Code Ann. §§ 47-18-101 et seq.
