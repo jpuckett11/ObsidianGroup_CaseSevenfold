@@ -360,3 +360,63 @@ licence between Guelph and Mitradyne, is a private contract. It would not appear
 in a patent, a grants database, or the SEC. **"No evidence of a university
 interest" is the honest ceiling here. It is not the same as "the university holds
 no interest,"** and this finding does not assert the latter.
+
+
+---
+
+## ADDENDUM 3, 2026-08-28: routes to the remaining question, ranked by cost
+
+The open question is whether the University of Guelph holds an interest in
+Mitradyne. Three routes exist. They are not equivalent, and the most obvious one
+is the worst.
+
+### Not recommended: the USPTO Open Data Portal key
+
+The ODP API key requires **ID.me identity verification: a government-issued
+photo ID, a Social Security number, and multi-factor authentication**. The key is
+issued per person, not per organisation.
+
+**We assess the cost as not worth the return, for a reason independent of
+privacy.** Patent assignment recordation captures *conveyances*: inventors to
+company, mergers, name changes, and security interests. **Equity stakes and
+licence agreements are not recorded.** The most probable content of a Mitradyne
+assignment record is "the four inventors assigned to Mitradyne Corporation",
+which is already evident from the face of the filing. A university interest in
+this company would almost certainly take the form of equity or a licence, and
+neither appears in that database.
+
+So the identity-verification cost is high, and the probability that the record
+answers the actual question is low. **Recommend against.**
+
+Bulk assignment data would sidestep the key, but `bulkdata.uspto.gov` no longer
+resolves and `data.uspto.gov/bulkdata` sits behind an AWS WAF.
+
+### Best value: the Ontario Business Registry
+
+Free, and the Ontario Business Registry is searchable by anyone. It returns the
+**registered office address, incorporation date, and directors**.
+
+That last field is the one that matters. **If a University of Guelph
+commercialisation officer or Research Innovation Office representative sits on
+Mitradyne's board, that is a direct answer.** If the directors are only the four
+inventors, that is also an answer.
+
+It requires an interactive browser session, which is why this analysis could not
+complete it. It is a few minutes of work for a person.
+
+### Second: an EPO OPS key, if register data is wanted
+
+Free, and registration requires **only an email address and confirmation**, at
+`developers.epo.org/user/register` on the non-paying tier. No identity
+verification. It yields OAuth2 credentials and 4GB/month, enough to query the
+**European Patent Register** for EP4538367, which records applicant history and
+any transfer of rights for the European family. The Register web interface
+returns HTTP 403 to this host; the API would not.
+
+This is the cheap, automatable route, and if the credentials exist the query can
+be run here directly.
+
+### Third, and possibly simplest
+
+The Research Innovation Office answers questions about whether it holds an
+interest in a named company. Asking is a legitimate step and costs nothing.
