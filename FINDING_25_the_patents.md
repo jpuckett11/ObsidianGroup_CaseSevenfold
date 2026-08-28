@@ -253,3 +253,104 @@ agent, and a Toronto address we could not resolve to a filing.
 **Still open:** the Ontario registration, its directors and incorporation date;
 whether the University of Guelph holds any interest through its commercialisation
 office; and whether Mitradyne has raised capital.
+
+---
+
+## ADDENDUM 2, 2026-08-28: does the University of Guelph hold an interest?
+
+**Short answer: no evidence that it does, and the university's own policy explains
+why it would not by default. But the underlying research plainly used university
+facilities and staff, and a privately negotiated interest would not be visible in
+any public record we can reach.**
+
+### A. Guelph's IP policy makes inventions creator-owned [P]
+
+University of Guelph Policy on Intellectual Property, approved **5 June 2014**:
+
+> "intellectual property is owned by those who create it, unless otherwise
+> restricted by contractual or funding terms"
+
+and
+
+> "All inventors may choose to assign IP ownership to the University"
+
+Assignment is **voluntary**, not automatic. Before 2014 only members of the
+faculty association retained ownership, negotiated into the 2009 collective
+agreement; staff and students had to assign to the university. The 2014 policy
+extended creator ownership to everyone.
+
+This is the answer to the question. At many universities a faculty invention
+vests in the institution and a spin-out is licensed back. **At Guelph it does
+not.** Four Guelph scientists forming a corporation and filing in that
+corporation's name is the ordinary, policy-compliant path, not an irregularity.
+
+### B. The patent itself names no university interest [P]
+
+Across the full 90,613-character EPO text of EP4538367:
+
+| Term | Occurrences |
+|---|---|
+| "University" | **0** |
+| "NSERC" | 0 |
+| "funding" | 0 |
+| "grant" | 0 |
+| acknowledgment section | none |
+| Applicant | Mitradyne Corporation, alone |
+
+No co-applicant, no assignment recital, no government-rights clause, no funding
+statement of any kind. Combined with the controlled zero on Canadian federal
+grants (Addendum 1, section D), there is no public record of the work being
+publicly funded.
+
+### C. But the work was done with university facilities and staff [P]
+
+From the specification, verbatim:
+
+> "The plant material was identified and authenticated by Dr. Carole Ann Lacroix
+> and a voucher specimen (No. 102033) was deposited at the Ontario Agricultural
+> College Herbarium in Guelph, Ontario, Canada."
+
+**Carole Ann Lacroix is the Collections Manager of the University of Guelph
+herbarium** (`botcal@uoguelph.ca`), located at the Biodiversity Institute of
+Ontario, 50 Stone Road, Guelph N1G 2W1 [S, herbarium collection profile]. That is
+the same postal code as the Department of Molecular and Cellular Biology
+affiliation on the inventors' own papers.
+
+The specification also describes live *Mitragyna* plants grown in controlled
+environment chambers at a specified photoperiod, temperature regime and humidity.
+That is university plant-growth infrastructure, not a Toronto office.
+
+So the research was conducted in and around a public university, its plant
+material was authenticated by a university employee and vouchered into a
+university collection, and the resulting patent names the university nowhere.
+
+Under the 2014 policy that combination is entirely permissible. We state it
+because it is the factual answer to the question asked, and because "the
+university has no involvement" would be wrong. The correct statement is that the
+university has **no disclosed ownership interest** while the work visibly ran
+through its facilities.
+
+### D. What we checked and what we could not
+
+**Checked, no Guelph interest found:**
+- Applicant and inventor fields on EP4538367 and CA3254764
+- Full patent text for any university, funding or government-rights language
+- Canada's proactive disclosure grants database, controlled: 0 for Mitradyne
+- SEC: no filings
+- Published Guelph spin-off and Research Innovation Office material: no mention of
+  Mitradyne located
+
+**Could not check, and this is the real limit:**
+- **USPTO patent assignment records.** `assignment-api.uspto.gov` and
+  `assignment.uspto.gov` do not resolve from this host. An assignment or security
+  interest recorded there would be the single most likely place a university stake
+  would appear. **This is the highest-value remaining item on Mitradyne.**
+- **EPO Register** applicant-history and transfer entries: HTTP 403.
+- Google Patents began rate-limiting mid-session, so an assignee-field sweep for
+  "University of Guelph" against these inventors was not completed.
+
+**[I] Ceiling on the claim.** Equity in a private Ontario corporation, or a
+licence between Guelph and Mitradyne, is a private contract. It would not appear
+in a patent, a grants database, or the SEC. **"No evidence of a university
+interest" is the honest ceiling here. It is not the same as "the university holds
+no interest,"** and this finding does not assert the latter.
