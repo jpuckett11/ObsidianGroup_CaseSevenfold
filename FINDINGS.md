@@ -283,6 +283,20 @@ Written down deliberately, so we test it instead of confirming it.
 
 
 
+
+**2026-08-29 — Finding 28: the rule's boundary is a genus name.** **Corynoxine is
+a mu-opioid receptor FULL agonist** (ACS Chem Neurosci 2021, DOI
+10.1021/acschemneuro.1c00149) and it has been isolated from ***Uncaria tomentosa***,
+cat's claw (J Chromatogr A 2015, DOI 10.1016/j.chroma.2015.02.028), sold as an
+unregulated dietary supplement. *Mitragyna* and *Uncaria* are neighbouring genera in
+tribe Naucleeae and their alkaloid lists overlap heavily.
+**This is NOT a warning about cat's claw.** The same paper reports corynoxine shows
+**attenuated respiratory depression versus morphine**, the authors caution these
+alkaloids are "unlikely to play the majority role", and we have no concentration
+data and no harm signal. We do not ask for it to be scheduled and would oppose that
+on this evidence. The finding is about **scope**: the action reaches one scaffold in
+one species while the pharmacology spans two scaffolds across two genera.
+
 **2026-08-29 — FOURTH comment FILED. Tracking `mtd-holx-p7i5`.** Corrects our own
 third comment. Puts on the federal record that **9-hydroxycorynantheidine is a
 major circulating human metabolite of the substance being scheduled**, that **10 g
