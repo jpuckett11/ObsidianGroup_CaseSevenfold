@@ -125,3 +125,15 @@ This recovered three primaries previously recorded as blocked:
 **[I] Lesson for the methodology file: a polite, identifying User-Agent was the
 thing blocking us from federal public records for an entire session.** Always test
 a second UA before recording a source as unreachable.
+
+### Method note: the deadline is 10 September 2026, not the 11th
+
+The Federal Register notice (FR 2026-17409, 91 FR issue 164, 26 August 2026)
+states: *"Submit either electronic or written comments, data, or information by
+**September 10, 2026**."*
+
+The regulations.gov API reports `commentEndDate: 2026-09-11T03:59:59Z`. That is
+**UTC**. Converted to Eastern it is 23:59:59 on **10 September**. The two sources
+agree. A session on 2026-08-28 briefly read the bare API date as the 11th and
+edited fourteen case files before the Federal Register text caught it. Reverted.
+Read the timezone suffix.
