@@ -1,0 +1,39 @@
+I am reporting deceptive marketing of concentrated 7-hydroxymitragynine (7-OH) products sold as natural botanical supplements.
+
+THE CORE OF IT, TWO QUOTES FROM ONE SELLER'S OWN WEBSITE ON THE SAME DAY
+
+The product page advertises "botanical supplementation." A separate help-center page on the same domain concedes the products "can be habit-forming" and that "long-term use may lead to addiction and withdrawal symptoms." Both pages were captured 2026-08-27 with SHA-256 hashes and timestamps.
+
+The addiction disclosure sits where a buyer will not encounter it before purchase. The wellness framing sits where they will.
+
+WHY "BOTANICAL" IS FALSE ON THE GOVERNMENT'S OWN FINDING
+
+FDA's scientific assessment of 7-OH finds these products are not simply plant material. Concentrated 7-OH is produced by chemical conversion from mitragynine; it occurs in the leaf at roughly 0.01 percent by weight, far below the concentrations sold. DEA has proposed Schedule I placement above a threshold, and a temporary order now covers related synthetic derivatives. A product created by chemical conversion, sold at concentrations the plant does not produce, is not botanical supplementation.
+
+DOSAGE AND FREE SAMPLES
+
+Products are sold in tablets, shots and gummies at concentrations far above natural levels, at gas stations and smoke shops, beside the register, frequently without age verification. There are reports of free 7-OH samples being distributed to purchasers of other kratom products.
+
+WHO THE HARM FALLS ON
+
+A buyer who knows it is an opioid, has a physician, coverage and stable housing can get out with difficulty. A buyer told it is botanical supplementation, who never sees the habit-forming page, who has no appointment and no coverage, and who does not recognise opioid withdrawal when it starts, has one immediately available action. It is to buy more of the product.
+
+Every part of that difference is a marketing decision, not a pharmacological one. The compound is identical. What changes is what the buyer was told, and where they were told it.
+
+PRECEDENT
+
+In re Botanic Tonics Litigation, No. 3:23-cv-01460-VC (N.D. Cal.), settled for $8,750,000 on allegations that a kratom product was marketed without disclosing its kratom content or addictive potential.
+
+WHAT I ASK THE COMMISSION TO INVESTIGATE
+
+1. Whether describing chemically converted 7-OH as "botanical supplementation" or equivalent is a deceptive representation under Section 5.
+2. Whether placing addiction and withdrawal disclosures away from the point of purchase, while the product page carries wellness framing, is a material omission.
+3. The reported practice of distributing free 7-OH samples.
+4. Coordination with FDA, which has issued warning letters in this category, and with state attorneys general. Georgia issued a consumer alert on 13 November 2025 describing these as "Dangerous Synthetic Opioids Flooding Gas Stations." Utah Poison Control warned on 22 July 2026 about smoke-shop products causing life-threatening opioid overdose, and a death in Utah was linked to mislabelled tablets sold under a different botanical name.
+
+EVIDENCE AVAILABLE
+
+Captured web pages with SHA-256 hashes and capture timestamps, the FDA scientific assessment, adverse event extracts, patent filings, and the complete case file, published free at github.com/jpuckett11/ObsidianGroup_CaseSevenfold
+
+Jay Puckett, Obsidian Watch Group, jay.puckett@obsidianwatchgroup.com
+Obsidian Watch Group is independent, has no financial interest in kratom or 7-OH, and takes no funding from any party in this sector.

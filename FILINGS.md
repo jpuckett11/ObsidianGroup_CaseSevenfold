@@ -412,16 +412,31 @@ good; only the channel was ever wrong.**
 ---
 
 
-### 2. FOIA — DOJ / EOUSA / USAO-NDOkla
+### 2. FOIA — DOJ / EOUSA / USAO-NDOkla — **READY 2026-08-29**
 
-`deliverables/foia/FOIA_01_DOJ_seizure_dismissal.txt`. Needs date and return
-address. Subject: the dismissal of *United States v. 250,000 Filled Bottles of
-Liquid Product*, 4:23-cv-00168-GAG-CDL, on 2025-12-22.
+Dated, addressed, PDF built. `deliverables/foia/DOJ_PORTAL_GUIDE.txt` has the
+submission path.
+
+| | |
+|---|---|
+| Portal | **FOIA STAR**, `doj-foia.entellitrak.com/etk-doj-foia-prod/login.request.do` |
+| Component | **EOUSA** primary, Civil Division secondary |
+| Paste | `FOIA_01_PORTAL_paste_this.txt`, 3,632 chars |
+| Attach | `OWG_FOIA_DOJ_2026-08-29.pdf`, 2 pages |
+
+**Asks why the United States dismissed its own forfeiture action** against Botanic
+Tonics in December 2025, after seizing roughly $3 million of product in April 2023
+at FDA's request. *United States v. 250,000 Filled Bottles of Liquid Product*,
+4:23-cv-00168-GAG-CDL (N.D. Okla.).
+
+That dismissal is the first line of the Finding 24 sequence. A dismissal memo
+either explains it innocently or it does not, **and it is the only item in this
+case where the government must answer on a clock.**
 
 ---
 
 
-### 3. FTC — Section 5 deceptive advertising
+### 3. FTC — Section 5 deceptive advertising — **READY 2026-08-29**
 
 **Dated and built 2026-08-28.** `deliverables/ftc/FTC_COMPLAINT_paste_this.txt`
 and `deliverables/ftc/OWG_FTC_Complaint_2026-08-28.pdf`, 4 pages, 1,237 words.

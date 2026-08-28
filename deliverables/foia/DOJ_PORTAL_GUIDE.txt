@@ -1,0 +1,72 @@
+==============================================================================
+DOJ FOIA — SUBMISSION GUIDE
+==============================================================================
+
+WHERE
+
+  FOIA STAR portal:
+    https://doj-foia.entellitrak.com/etk-doj-foia-prod/login.request.do
+
+  Or via the national portal:
+    https://www.foia.gov  ->  find the component  ->  submit
+
+  Account required. Portal issues a tracking number, which is why this route
+  beats mail: a request with no number cannot be chased.
+
+WHICH COMPONENT
+
+  Primary:   Executive Office for United States Attorneys (EOUSA)
+             EOUSA holds USAO case files, which is what we are after.
+
+  Secondary: Civil Division, if EOUSA refers or denies on custody grounds.
+
+  If the portal makes you pick one, pick EOUSA. If it lets you name more than
+  one, name both.
+
+REQUESTER CATEGORY
+
+  Select "news media" or "educational/non-commercial scientific" if offered.
+  It changes fee treatment. The fee waiver is requested regardless.
+
+CONTACT
+
+  Jay Puckett
+  Obsidian Watch Group
+  jay.puckett@obsidianwatchgroup.com
+
+WHAT TO PASTE
+
+  Description field:  FOIA_01_PORTAL_paste_this.txt   (3,632 chars)
+  Attach:             OWG_FOIA_DOJ_2026-08-29.pdf     (2 pages, full request)
+
+  If the portal caps the description, paste the BACKGROUND and RECORDS
+  REQUESTED sections and note that the complete request is attached.
+
+WHAT THIS ASKS, IN ONE LINE
+
+  Why the United States dismissed its own in rem forfeiture action against
+  Botanic Tonics in December 2025, after seizing roughly $3 million of product
+  in April 2023 at FDA's request.
+
+  Case: United States v. 250,000 Filled Bottles of Liquid Product,
+        No. 4:23-cv-00168-GAG-CDL (N.D. Okla.)
+
+WHY IT MATTERS TO THE REST OF THE CASE
+
+  Finding 24 records the sequence without asserting a connection:
+
+    2025-12    DOJ drops the seizure case
+    2026-03-04 Botanic Tonics sends MAHA PAC $500,000
+    2026-03-17 Mullin nominee 278 discloses the holding
+    2026-04-09 Second $500,000
+    2026-07-01 DEA moves on 7-OH only
+
+  A dismissal memo would either explain that first line innocently or it would
+  not. Either result is worth having, and it is the only item in this case where
+  the government must answer on a clock.
+
+EXPECT
+
+  20 working days statutory, routinely exceeded. Expedited processing is
+  requested in the letter. If nothing arrives in 30 days, the portal tracking
+  number is what lets you follow up.

@@ -1,29 +1,51 @@
-FILING THE FTC COMPLAINT
+==============================================================================
+FILING THE FTC COMPLAINT  -  UPDATED 2026-08-29
+==============================================================================
 
-TWO ROUTES. Do both.
+TWO ROUTES. DO BOTH.
 
-1. ReportFraud.ftc.gov
-   The public intake. Fast, creates a record in the Consumer Sentinel database
-   that state AGs and other agencies can see. Choose "Something else" ->
-   "Products and services". Paste the summary and the requested actions. There is
-   a character limit, so lead with the botanical-versus-synthetic contradiction
-   and the seller's own habit-forming admission.
+1. ReportFraud.ftc.gov     <- the fast one, creates a Consumer Sentinel record
+                              that state AGs and other agencies can see
+
+   Path: "Something else" -> "Products and services"
+   Paste: FTC_REPORTFRAUD_paste_this.txt   (3,572 chars, sized for the form)
+
+   If the field is shorter than that, keep the first three sections. The two
+   quotes from one domain on the same day are the whole complaint; everything
+   else supports them.
 
 2. Bureau of Consumer Protection, Division of Advertising Practices
-   The substantive route. Email or mail the full complaint as a PDF.
+                              <- the substantive one
+
    Mail: 600 Pennsylvania Avenue NW, Washington DC 20580
-   Ask the Consumer Response Center (877-382-4357) for the current address for
-   the Division of Advertising Practices and reference an industry complaint
-   rather than an individual consumer complaint.
+   Send: OWG_FTC_Complaint_2026-08-28.pdf  (4 pages, the full complaint)
+
+   Call the Consumer Response Center, 877-382-4357, for the current mailing
+   address for the Division, and say it is an industry complaint rather than an
+   individual consumer complaint. That routes it differently.
+
+   THERE IS NO EMAIL INTAKE. Checked 2026-08-29. ReportFraud is a JavaScript
+   form with no API and the Bureau route is postal. Both need a person.
 
 WHAT MAKES THIS ONE STRONG
 
 Not the harm data. Agencies already have harm data.
 
 It is the two quotes from the same domain on the same day. The sales page says
-botanical supplementation; the help centre says habit-forming, addiction, and
+botanical supplementation; the help centre says habit-forming, addiction and
 withdrawal. That is the seller's own knowledge, in their own words, placed where
 buyers will not encounter it. Lead with it every time.
+
+It also does not depend on the investigator's own account, on any conflict of
+interest finding, or on any rulemaking. It is a labelling case and it stands
+alone.
+
+NEW SINCE THE FIRST DRAFT
+
+Requested action 4 now cites Utah Poison Control's alert of 22 July 2026 and the
+Utah death linked to mislabelled tablets sold under a different botanical name
+(Finding 29). That moves this from "misleading marketing" to "misleading
+marketing in a product class where mislabelling has now killed someone."
 
 TIME SENSITIVE
 
@@ -34,9 +56,7 @@ exhibits/marketing/MANIFEST.tsv. Re-capture periodically and preserve the
 differences; a page that quietly drops the word "botanical" after a complaint is
 itself evidence.
 
-STATE ROUTE
+STATE ROUTE  -  DONE
 
-Tennessee Attorney General, Consumer Protection Division, is the natural second
-filing. Georgia's AG has already issued a public alert calling these synthetic
-opioids, which makes the framing familiar rather than novel. The same document
-works with the addressee changed.
+Tennessee Division of Consumer Affairs, filed 2026-08-28, acknowledged in 23
+seconds, reference 104939. See FILINGS.md entry 5.
