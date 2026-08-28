@@ -299,6 +299,60 @@ Prepared for the visit in `deliverables/blackburn/`:
 
 ---
 
+### 7. HHS OASH **fourth** comment, the metabolite correction — **FILED 2026-08-29**
+
+| | |
+|---|---|
+| **Docket** | **HHS-OASH-2026-0232** |
+| **Comment Tracking Number** | **`mtd-holx-p7i5`** |
+| Submitted | 2026-08-29 |
+| Status | Submitted. Awaiting agency review and posting |
+| Attachment | `OWG_Fourth_Comment_HHS-OASH-2026-0232.pdf`, 3 pages |
+| Comment box | 4,997 characters against a 5,000 limit |
+| Comment period closes | **2026-09-10**, 23:59:59 Eastern |
+| Note | Tracking prefix is **`mtd-`**, not the `mtc-` of the first three. Recorded as issued |
+
+**This comment corrects our own earlier filing**, which is why it exists. Comment
+`mtc-q9zv-dase` described 9-hydroxycorynantheidine as "a minor indole alkaloid of
+*Mitragyna speciosa*, under one percent of total alkaloid content." True of the
+plant, and a serious understatement.
+
+**What it puts on the record:**
+
+1. **The compound is a major circulating human metabolite of the substance being
+   scheduled.** Kanumuri et al. 2026, *Pharmaceutical Biology*, DOI
+   10.1080/13880209.2026.2715806, clinical plasma from regular kratom users, FDA-
+   guideline-validated method. In rats it is the **major** metabolite while **7-OH
+   is minor** (Chiang et al. 2025, DOI 10.1021/acsptsci.4c00277), **flagged in the
+   comment itself as animal data.**
+
+2. **Ordinary leaf already reaches the absolute limit.** Against the Department's
+   own mean leaf content of 0.01%, **10 g of unenhanced leaf = 1.00 mg**, exactly
+   the ceiling. 20 g doubles it. The comment asks whether unenhanced leaf at
+   ordinary servings is in scope, and says that if it is not, the exclusion should
+   be stated.
+
+3. **The rule never defines "article."** Both limbs of (B) turn on "1.00 milligram
+   of 7-hydroxymitragynine in the article," and (B)(ii) expressly contemplates
+   pressed pills. If an article is one pill, **forty at 0.9 mg each are
+   individually compliant and deliver 36 mg in a bag.** Requested action 4 asks the
+   Department to define it.
+
+**What it declines to ask for:** it does not ask that 9-hydroxycorynantheidine be
+scheduled, and it does not ask for action against the plant. It argues that scope
+drawn around molecules cannot hold, and asks whether the Department intends to
+govern by scaffold, by metabolic origin, or by quantity per article.
+
+**The lead is disclosed and disclaimed.** The unverified second-hand report of a
+retail purchase (`LEADS.md`, L-01) is named in the comment as an unconfirmed lead
+that the comment does not rely on. Disclosing it while refusing to lean on it is
+deliberate.
+
+**Follow-up:** check for posting alongside `mtc-56yj-nmij`, `mtc-6i56-o6pm` and
+`mtc-q9zv-dase`.
+
+---
+
 ## READY, NOT SENT
 
 ### 1. FOIA — FDA Division of Freedom of Information — **REJECTED 2026-08-28, NOT FILED**

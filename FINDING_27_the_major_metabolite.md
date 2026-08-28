@@ -122,7 +122,9 @@ rule does not name it.
 
 ### 8. Action
 
-**A supplemental comment corrects our own filing before the comment period closes
-2026-09-10.** We described this compound as a minor plant alkaloid. It is a major
-human metabolite of the substance being scheduled, and the record should say so in
-our words rather than someone else's.
+**DONE. Filed 2026-08-29 as comment `mtd-holx-p7i5`.** We described this compound
+as a minor plant alkaloid. It is a major human metabolite of the substance being
+scheduled, and the record now says so in our words rather than someone else's.
+
+The same comment carries the Finding 18 addendum on the undefined term "article",
+and the arithmetic showing 10 g of ordinary leaf reaching the 1.00 mg limit.

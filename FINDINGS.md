@@ -282,6 +282,14 @@ Written down deliberately, so we test it instead of confirming it.
 
 
 
+
+**2026-08-29 — FOURTH comment FILED. Tracking `mtd-holx-p7i5`.** Corrects our own
+third comment. Puts on the federal record that **9-hydroxycorynantheidine is a
+major circulating human metabolite of the substance being scheduled**, that **10 g
+of ordinary unenhanced leaf already equals the 1.00 mg absolute limit** against
+FDA's own data, and that **the rule never defines "article"**, so forty pressed
+pills at 0.9 mg each are individually compliant and deliver 36 mg in one bag.
+
 **2026-08-29 — Findings 27 and the Finding 18 addendum, both filed as a fourth
 comment.** **9-hydroxycorynantheidine is a major circulating human metabolite of
 mitragynine** (Kanumuri 2026, clinical, DOI 10.1080/13880209.2026.2715806), not the
