@@ -288,6 +288,18 @@ Written down deliberately, so we test it instead of confirming it.
 
 
 
+
+**2026-08-29 — Finding 30: it is all still on the shelf, and stays there.** The
+three federal instruments reach **four substances, all on the mitragynine
+scaffold**. **9-hydroxycorynantheidine** (a major human metabolite of the controlled
+substance), **corynoxine** (a mu-opioid **full agonist**), and **corynoxine B**
+(which retail products are documented as being built around) are reached by none of
+them, **and nothing in any instrument brings them in later**. On the day 7-OH is
+controlled, the substitutes remain lawful to manufacture and sell. Florida's
+emergency rule and Utah's pure-leaf-only law are both **stricter than the federal
+instrument**. No purchase is needed to establish any of this; it is the rule text
+read against the compound list.
+
 **2026-08-29 — `REMEDIATION.md` s6 added on European rehabilitation evidence, and
 it cuts both ways.** EUDA reports **56% of clients entering European drug treatment
 are unemployed** and recommends housing, education and vocational training
