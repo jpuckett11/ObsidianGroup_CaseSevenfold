@@ -1,0 +1,67 @@
+DELIVERING THE BLACKBURN LETTER
+
+Aegis cannot submit this one. Her web form is gated by Google reCAPTCHA plus a
+CSRF token, and that control exists to confirm a human constituent is writing.
+Defeating it would also be the easiest thing for her office to hold against the
+filing. These routes need no captcha.
+
+RECOMMENDED: NASHVILLE OFFICE, CALL THEN MAIL
+
+State offices handle constituent casework. DC handles legislation and is buried.
+Nashville is about 45 minutes from Columbia.
+
+  Nashville Office
+  719 Church Street, Suite 2100
+  Nashville, TN 37203
+  Phone: (629) 800-6600
+  Fax:   (615) 298-2148
+
+Call first. Ask for the staffer who handles health policy or FDA matters. Say you
+are a constituent in Columbia, that you have filed three comments on the HHS
+docket on 7-OH, and that you have a three-page letter and a documented case file
+for the Senator because she signed the March 18 letter to Commissioner Makary.
+
+Then send it. A letter that arrives after a call gets opened by someone expecting
+it. A letter that arrives cold gets counted as correspondence.
+
+FAX WORKS AND IS FASTER THAN MAIL
+
+  Nashville  (615) 298-2148
+  Washington (202) 228-0566
+
+WASHINGTON OFFICE
+
+  357 Dirksen Senate Office Building
+  Washington, DC 20510
+  Phone: (202) 224-3344
+
+Note: mail to Senate DC offices is irradiated and delayed by weeks. If you mail
+anything to DC, fax or mail the state office the same day.
+
+WEB FORM, IF YOU PREFER IT
+
+  blackburn.senate.gov/contact  ->  "Email Me"
+
+It requires a Tennessee address for constituent verification, which you have. The
+letter body is in LETTER_to_Blackburn_paste_this.txt. Paste it into the message
+field. The form has a length limit on some Senate sites; if it truncates, send the
+first three paragraphs plus the three numbered asks, and say the full letter and
+case file follow by mail.
+
+OTHER OFFICES
+
+  Memphis      100 Peabody Place, Suite 1125, Memphis TN 38103      (901) 527-9199
+  Jackson      109 S Highland Ave, Suite 218, Jackson TN 38301      (731) 660-3971
+  Chattanooga  10 West M. L. King Blvd, 6th Floor, Chattanooga TN 37402  (423) 541-2939
+  Knoxville    800 Market Street, Suite 121, Knoxville TN 37902     (865) 540-3781
+  Tri-Cities   207 Mocking Bird Ln, Suite 502, Johnson City TN 37604 (423) 753-4009
+
+WHAT TO LEAD WITH ON THE PHONE
+
+Not the money. Not the holding. Lead with this:
+
+  "Every compound the government has scheduled sits on one chemical scaffold.
+  There is a second one in the same plant that nothing covers, Florida already
+  named it, and two companies have already patented how to manufacture it."
+
+That is thirty seconds, it is checkable, and it is the part that is hers to act on.

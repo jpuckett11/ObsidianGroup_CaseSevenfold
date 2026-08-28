@@ -306,10 +306,26 @@ record, with no characterization and no request that she take a position on a
 colleague. The stated reason is that she signed a letter on this subject and
 should not learn of it from somebody else.
 
-**Delivery:** Senate offices do not publish complaint email addresses; the route is
-her contact form at `blackburn.senate.gov/contact` or postal mail to her DC office.
-**Not sendable from here.** Constituent forms generally require a Tennessee
-address, which the investigator has.
+**Delivery: not sendable from here, and the reason is documented rather than
+assumed.**
+
+| Route | Status |
+|---|---|
+| Email | **No address published.** Not on `blackburn.senate.gov` (contact, press, staff, help pages all checked), and the official `senate.gov` senator directory publishes **zero** senator addresses chamber-wide. The domain does carry MX records, so a guessed address would be accepted by the mail gateway and silently dropped or bounced, with no way to confirm. **We will not write SENT into this tracker on a guessed address.** |
+| Web form | `blackburn.senate.gov/contact` -> "Email Me". Gated by **Google reCAPTCHA** plus a CSRF token. That control exists to confirm a human constituent, and defeating it would be the easiest thing for her office to hold against the filing. Requires a Tennessee address, which the investigator has. |
+| **Fax** | **Fastest real channel.** Nashville **(615) 298-2148**, Washington **(202) 228-0566**. No captcha, no gatekeeping. |
+| Postal | Nashville office, 719 Church Street Suite 2100, Nashville TN 37203. DC mail is irradiated and delayed by weeks; use the state office. |
+| Phone | Nashville **(629) 800-6600**. Ask for the health policy or FDA staffer. |
+
+**Recommended sequence, in `deliverables/blackburn/HOW_TO_DELIVER.txt`:** call
+Nashville first, then fax the same day. A letter that arrives after a call is
+opened by someone expecting it. A letter that arrives cold is counted as
+correspondence.
+
+**What to lead with on the phone**, thirty seconds and all of it checkable:
+every compound the government has scheduled sits on one chemical scaffold, there
+is a second one in the same plant that nothing covers, Florida already named it,
+and two companies have already patented how to manufacture it.
 
 ---
 
