@@ -257,9 +257,19 @@ email address is published anywhere. It returned **`550 5.1.1 User Unknown`** fr
 `v-ico-ppmx2.senate.gov`, the Senate's own mail server. Nothing was delivered.
 **There is no email route to a Senate office. The web form is the route.**
 
-**Follow-up:** fax the 3-page PDF to the Nashville office, **(615) 298-2148**, and
-call **(629) 800-6600** to ask for the health policy or FDA staffer. Message 1
-promises the fax follows, so that promise is outstanding.
+**Follow-up: hand delivery to the Nashville office**, 719 Church Street Suite
+2100, chosen over fax. Message 1 promised the full letter would follow, and
+delivering it in person keeps that promise better than a fax.
+
+Prepared for the visit in `deliverables/blackburn/`:
+- `OWG_LeaveBehind_Blackburn.pdf`, 2 pages. **Page 1 alone carries the ask, the
+  four verifiable facts including the four patent claims, and the three
+  questions.** Built to be read standing up at a front desk.
+- `VISIT_NASHVILLE.txt`, the thirty-second opener, who to ask for, and what not to
+  lead with. **Not the money, not the holding.** The scaffold gap is checkable in
+  an afternoon and costs the office nothing politically; that is the door.
+- After the visit: record the staffer's name and send a same-day follow-up
+  referencing the meeting. **A meeting nobody wrote down did not happen.**
 
 ---
 

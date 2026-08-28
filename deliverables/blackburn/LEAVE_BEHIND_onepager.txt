@@ -1,0 +1,112 @@
+OBSIDIAN WATCH GROUP
+Jay Puckett, Principal Security Researcher  |  Columbia, Tennessee
+obsidianinvestigations@pm.me  |  28 August 2026
+
+FOR SENATOR BLACKBURN'S HEALTH POLICY STAFF
+Re: docket HHS-OASH-2026-0232, comment period closes 10 September 2026
+
+---
+
+THE ASK, IN ONE SENTENCE
+
+Every compound the federal government has scheduled in this action sits on one
+chemical scaffold; there is a second scaffold in the same plant that nothing
+covers, and two companies have already patented how to manufacture it.
+
+---
+
+THE FOUR FACTS, ALL INDEPENDENTLY VERIFIABLE
+
+1.  WHAT IS COVERED.  The proposed rule covers 7-hydroxymitragynine above a
+    threshold. The temporary order effective 26 August 2026 covers mitragynine
+    pseudoindoxyl, MGM-15 and MGM-16. All four are structural relatives of
+    mitragynine. One scaffold.
+
+2.  WHAT IS NOT.  9-hydroxycorynantheidine sits on the corynantheidine scaffold
+    and is covered by nothing. It appears in no federal docket document, no Senate
+    lobbying disclosure and no FDA adverse event report. Every one of those
+    searches was run against a control that returned results.
+
+3.  A STATE ALREADY CAUGHT IT.  Florida's emergency rule of June 2026 names
+    9-hydroxycorynantheidine among seven covered compounds. The federal
+    instruments issued weeks later do not.
+
+4.  IT CAN ALREADY BE MANUFACTURED.  Two patent families, both with priority
+    dates in late 2023:
+
+      EP 4 538 367 (Mitradyne Corporation), US application 18/891,491
+        Claim 5   the enzyme producing 9-hydroxycorynantheidine
+        Claim 6   the enzyme producing 7-hydroxymitragynine
+        Claim 8   the route: corynantheidine to 9-hydroxycorynantheidine
+                  to mitragynine
+        Claim 11  the system is cell-free, so no plant is required
+
+      US 2025/0179544 (CB Therapeutics), recombinant-cell production of
+      corynanthe-type alkaloids, names the compound in its specification
+
+    Claims 5 and 6 are consecutive. The same document claims the enzyme for the
+    scheduled compound and the enzyme for the unscheduled one.
+
+    Claim 8 is the important one. The uncovered compound is an INTERMEDIATE on
+    the route to mitragynine. Any facility making mitragynine enzymatically
+    passes through it and can stop there. The assumption that there is too little
+    of it in the leaf to matter is already obsolete.
+
+---
+
+THREE QUESTIONS FOR THE DEPARTMENT
+
+1.  Did the scientific and medical evaluation consider mu-opioid-active alkaloids
+    of Mitragyna speciosa outside the mitragynine scaffold, and if so, on what
+    basis were they excluded?
+
+2.  Was the scope of the action set on how abundant a compound is in the plant,
+    or on whether it can be manufactured? Those are different questions and only
+    one of them still makes sense.
+
+3.  Will any subsequent notice publish the full list of alkaloids considered and
+    the disposition of each?
+
+These are already before the Department. Filed on the docket as comment
+mtc-q9zv-dase, 28 August 2026, alongside mtc-56yj-nmij and mtc-6i56-o6pm.
+
+---
+
+WHAT WE ARE NOT ASSERTING
+
+No products containing this compound have been located for sale and we do not
+claim a market exists. We do not claim potency equivalent to 7-OH; reported
+mu-opioid affinity is weaker. Neither patent applicant has done anything wrong;
+both are legitimate biotechnology filings, neither states any intent to market
+this compound, and we found no connection between either and any party or
+official in this matter. We raise a gap in scope, not a finding of present harm.
+
+---
+
+ONE THING IN THE SENATOR'S FAVOR, WHICH SHE DID NOT ASK US TO LOOK FOR
+
+We queried FEC records by contributor employer for every kratom company and trade
+association we could identify. None of the eleven signatories of the 18 March 2026
+letter to Commissioner Makary appears as a recipient of any of it. Not Senator
+Blackburn, not Chairman Crapo, not one. We published that as plainly as everything
+else. An absence of records is not a certificate and employer fields are
+self-reported, and our finding says so.
+
+---
+
+WHAT WE ARE OFFERING
+
+The entire case file, free, with no conditions and no credit required.
+Twenty-five documented findings, every exhibit hashed and dated, the patent
+analysis, the lobbying and contribution records, and all three federal comments.
+
+    github.com/jpuckett11/ObsidianGroup_CaseSevenfold
+
+If a briefing is more useful than a repository, I will come to this office and
+walk through the primary documents. I will start with the parts of our own work
+that cut against our own theory, because there are several and you should know
+them before relying on any of it.
+
+Jay Puckett
+Obsidian Watch Group
+Columbia, Tennessee
