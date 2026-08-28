@@ -121,9 +121,8 @@ publishes its own errors is the only kind worth reading.
 
 ### 7. What is now asked
 
-**Fifth comment DRAFTED 2026-08-29**, 4,877 of 5,000 characters, with a PDF
-attachment. `deliverables/OASH_FIFTH_commentbox.txt`. **Not yet filed.** It tells
-the Department, on the record, that:
+**FILED 2026-08-29 as comment `mtd-izm8-ql4p`**, 4,877 characters with a 3-page
+attachment. It tells the Department, on the record, that:
 
 - Products bearing a **botanical name from a different genus** are being sold with
   scheduled compounds in them, and one is linked to a death.

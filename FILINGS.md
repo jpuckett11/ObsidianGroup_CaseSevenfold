@@ -353,6 +353,46 @@ deliberate.
 
 ---
 
+### 8. HHS OASH **fifth** comment, the documented substitution — **FILED 2026-08-29**
+
+| | |
+|---|---|
+| **Docket** | **HHS-OASH-2026-0232** |
+| **Comment Tracking Number** | **`mtd-izm8-ql4p`** |
+| Submitted | 2026-08-29 |
+| Status | Submitted. Awaiting agency review and posting |
+| Attachment | `OWG_Fifth_Comment_HHS-OASH-2026-0232.pdf`, 3 pages |
+| Comment box | 4,877 characters against a 5,000 limit |
+| Comment period closes | **2026-09-10**, 23:59:59 Eastern |
+
+**This is the comment that stops predicting and starts reporting.** The third and
+fourth comments argued substitution was a forward risk. This one tells the
+Department it has already happened, and cites a state agency saying so.
+
+**What it puts on the record:**
+
+1. **Utah Poison Control Center alert, 22 July 2026**, quoted verbatim: smoke-shop
+   products blended with Kava or **Cat's Claw** may cause "life-threatening opioid
+   overdose, dependence, or withdrawal"; **Buzzers** and **Homiez** named; multiple
+   reports of severe overdose; suspected adulteration with **7-OH, mitragynine
+   pseudoindoxyl, MGM-15 or MGM-16**; labels that do not list them.
+2. **A death.** Utah County, mislabelled Buzzers-brand Cat's Claw tablets, MGM-15
+   identified, reported 2026-07-30.
+3. **The lawful half.** Products built on **corynoxine B**, which nothing covers,
+   supported by *ACS Chem Neurosci* 2021 characterising corynoxine as a **mu-opioid
+   receptor full agonist**.
+4. **The argument: the label is the evasion.** One plant's name on another plant's
+   chemistry defeats a rule written around a species, with no chemistry required.
+
+**What it protects:** it states expressly that OWG does **not** seek scheduling or
+restriction of genuine cat's claw and **would oppose it**, gives the 1.3 mg/g figure
+for ordinary bark, and discloses that OWG has **assayed nothing** and relies on the
+state alert, the state agriculture warning and contemporaneous reporting.
+
+**Follow-up:** posting check alongside the four prior tracking numbers.
+
+---
+
 ## READY, NOT SENT
 
 ### 1. FOIA — FDA Division of Freedom of Information — **REJECTED 2026-08-28, NOT FILED**

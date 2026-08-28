@@ -285,6 +285,14 @@ Written down deliberately, so we test it instead of confirming it.
 
 
 
+
+**2026-08-29 — FIFTH comment FILED. Tracking `mtd-izm8-ql4p`.** Reports that the
+substitution earlier comments warned of **has already occurred**: the Utah Poison
+Control alert of 22 July 2026, the Utah death linked to mislabelled Buzzers-brand
+Cat's Claw tablets, and lawful products built on **corynoxine B**, a mu-opioid full
+agonist nothing covers. Argues **the label is the evasion**. States expressly that
+OWG does not seek restriction of genuine cat's claw and would oppose it.
+
 **2026-08-29 — Finding 29 CORRECTS Finding 28. The substitution already happened.**
 The **Utah Poison Control Center** (22 July 2026) warns of smoke-shop products sold
 as **"Cat's Claw"** causing "life-threatening opioid overdose, dependence, or
