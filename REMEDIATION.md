@@ -69,20 +69,52 @@ currently legal.
 Everything above is mechanism. This is size.
 
 **2024 National Survey on Drug Use and Health**, SAMHSA, the survey that sets
-American drug policy:
+American drug policy. **Two sets of figures, and the difference matters.**
+
+**What SAMHSA reports:**
 
 | | |
 |---|---|
-| Had a substance use disorder in the past year | **48.4 million** |
-| Needed substance use treatment | **52.6 million**, 18.2% of everyone aged 12+ |
-| **Received** substance use treatment | **10.2 million**, 3.5% |
-| **Did not** | **42.4 million** |
+| Had a substance use disorder in the past year | **48.4 million**, 16.8% of everyone aged 12+ |
+| "Needed substance use treatment" | 52.6 million, 18.2% |
+| Received substance use treatment | 10.2 million, 3.5% |
+| SAMHSA's headline gap | 19.3% received, **80.7% did not** |
 
-**That is 80.6 percent of the people who needed help, not getting it.**
+**Why we do not use those last two lines.** SAMHSA defines "needed treatment" as
+having an SUD **or having received treatment**. That is circular: it counts anyone
+who got treatment as having needed it, which is how 48.4M becomes 52.6M. And of the
+10.2 million who received treatment, **4.2 million did not have a substance use
+disorder** — 41% of all treatment recipients.
 
-Forty-two million is **larger than the population of California**, the largest
-economy in the United States. An entire state's worth of people, and then some,
-written off in a single year.
+**The defensible figures, using only people who actually have a disorder.** All
+inputs are SAMHSA 2024 NSDUH; the arithmetic is ours and is shown so it can be
+checked:
+
+| | |
+|---|---|
+| Had a substance use disorder | **48.4 million** |
+| Of those, received any treatment | **6.0 million** (10.2M minus the 4.2M without a disorder) |
+| **Of those, received nothing** | **42.4 million** |
+| | **87.6%** |
+
+    48.4  people with an SUD                       [NSDUH 2024]
+    10.2  received treatment                       [NSDUH 2024]
+   - 4.2  of whom had NO SUD                       [NSDUH 2024]
+   -----
+     6.0  with an SUD who received treatment       12.4%
+    42.4  with an SUD who received nothing         87.6%
+
+**87.6%, not 80.7%.** Correcting the circular denominator makes the number **worse**,
+not better. This document uses 87.6% throughout and shows the arithmetic so a reader
+can check it.
+
+**And severity matters, so we state it rather than hide it.** Of the 48.4 million,
+**55.8% have a mild disorder** (2 or 3 of 11 DSM-5 criteria) and **21.3% severe**.
+The honestly severe population is about **10.3 million**. At the same treatment rate,
+roughly **9 million people with a severe substance use disorder receive nothing**.
+
+**That is the figure we would defend under cross-examination.** It is smaller than
+42.4 million and it is still larger than the population of New Jersey.
 
 ### And 48.4 million is an undercount by construction
 
@@ -117,7 +149,7 @@ serious adverse events and undertreatment (range $164.5B to $1,215.5B),
 *Frontiers in Public Health* 2026, DOI 10.3389/fpubh.2026.1824038.
 
 That is what is being spent already, as a consequence, rather than deliberately, on
-a problem 80.6 percent of which is going untreated.
+a problem 87.6 percent of which is going untreated (s4).
 
 ### Why only government can act at this scale
 
@@ -606,8 +638,10 @@ because there are people in need of something and nothing else on offer.**
 That is not a moral flourish. It is the mechanism, and this document has traced it
 end to end:
 
-- **42.4 million** people have a substance use disorder and receive no treatment.
-  **87.6%** of everyone with a disorder (s4).
+- **42.4 million** people have a substance use disorder and receive no treatment,
+  **87.6%** of everyone with a disorder. Of those, roughly **9 million have a severe
+  disorder and get nothing** (s4, with the severity breakdown and the corrected
+  denominator shown there).
 - Their demand does not move when a molecule is scheduled. **The supply
   reorganises around them** (s1, s3).
 - The reorganisation is now documented in retail, with a brand advertising the
@@ -690,3 +724,64 @@ thing.
 **Leave no one behind.** That principle is not sentiment and it is not new. It is
 the only remediation in this document that acts on the cause rather than the
 symptom, and it is the one nobody has funded.
+
+---
+
+## 13. How to check this document
+
+**This section exists so a hostile reader does not have to trust us.** Every claim
+above is either a citation, an arithmetic step shown in full, or something labelled
+as opinion. Here is how to break it if it is wrong.
+
+### The numbers
+
+- **48.4M, 52.6M, 10.2M, 4.2M, 16.8%, 18.2%, 3.5%, 55.8% mild, 21.3% severe** are
+  all from the **2024 NSDUH annual national report**, SAMHSA. They are in the
+  published tables. Look them up.
+- **6.0M, 42.4M, 87.6%, 12.4%, ~9M severe untreated** are **our arithmetic** on
+  those inputs, shown as a worked sum in s4. If the subtraction is wrong, the
+  conclusion is wrong, and it takes thirty seconds to check.
+- **$425 billion** is a published estimate with a stated range of $164.5B to
+  $1,215.5B (DOI 10.3389/fpubh.2026.1824038). We quote the central figure and the
+  range.
+
+### The literature
+
+**Sixteen DOIs are cited.** Every quotation is verbatim and attributed. Where a
+study is in animals it is labelled as animal data in the same sentence (s7
+enrichment, s4 rat PK). Where a finding cuts against us it is quoted in full rather
+than paraphrased (s6, the null result on vocational certificates).
+
+### What is opinion, and marked as such
+
+Section 9 is the investigator's conclusion, in quotation marks, with a line stating
+that no reader is asked to adopt it. **[I]** marks inference throughout. The
+"passion" mechanism in s7 is labelled as hypothesis, and the document states plainly
+that **no randomised trial of it exists**.
+
+### Where we have already been wrong, in this document
+
+- We first published the treatment gap as **80.6%** using SAMHSA's circular
+  "needed treatment" denominator. **The investigator challenged it. The corrected
+  figure is 87.6% and is worse than what we published.** s4 now shows both and
+  explains the difference.
+- We first described recovery capital as an unmeasurable construct. **Validated
+  instruments exist** (BARC-10, SRCS-10). Corrected in s6 and s8.
+- We compared 42.4 million to the population of California without stating that
+  **55.8% of the underlying population has a mild disorder**. Corrected in s4.
+
+**Three corrections, all against our own argument, all made before anyone outside
+this file asked.** That is the standard the rest of it should be held to.
+
+### What would falsify the core claim
+
+The central claim is that **scope drawn around named molecules cannot hold, and the
+demand does not move when a molecule is scheduled.**
+
+It would be falsified by: a scheduling action followed by a durable fall in
+consumption rather than substitution; evidence that the uncovered compounds in
+Finding 30 are in fact reached by the instruments; or a demonstration that the
+untreated population is materially smaller than the federal survey reports.
+
+**We have looked for all three and found none. If a reader finds one, we will
+publish it.**
