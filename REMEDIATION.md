@@ -273,25 +273,97 @@ scheduled within months. The question of what happens to the person has been
 
 ## 7. Addicted to their passions
 
-The investigator's phrase, and it is not sentimentality.
+**The investigator's hypothesis, in his words:**
 
-Something occupies the hours. Dependence is a full-time occupation: acquiring,
-dosing, managing withdrawal, hiding it. Remove the substance and the hours remain,
-and nothing has been put in them.
+> "They must be trained in their passion. It pulls them in. Their addiction is
+> satisfied by the endorphins of doing what they love, or fixing what they love."
 
-Medication handles the physiology. **It does not answer what the day is for.** The
-people who stay out are, overwhelmingly, the people who found something that ate
-the same hours: work that meant something, a craft, a family they had to be present
-for, a fight worth having.
+This is not a slogan. **It is a specific mechanistic claim, it has a name in the
+scientific literature, and the evidence for it is stronger than the evidence for
+the vocational programmes in section 6.**
 
-**That is not a soft add-on to treatment. It is the retention half of it**, and it
-is the half nobody funds, because it does not fit in a billing code and does not
-produce a number a department can put in a press release.
+### The model already exists. It is called reinforcer pathology.
 
-Funding it looks like: opening the prescriber pipeline, paying for the months after
-the taper and not just the taper, and putting money into the things that give a
-person somewhere to be. It is unglamorous, it is slow, and it does not generate a
-press conference with a podium and a schedule number.
+The behavioural-economic model of addiction holds that substance problems are
+driven by three things together (*Experimental and Clinical Psychopharmacology*
+2024, DOI 10.1037/pha0000735):
+
+> "steep delay discounting, overvaluation of [substance] reinforcement, and **low
+> reinforcement from [substance]-free activities**"
+
+That third clause is the hypothesis above, written by researchers. **The disorder
+is sustained in part because nothing else in the person's life is rewarding
+enough.** Remove the substance without addressing that, and you have removed the
+only thing that was working.
+
+### The evidence, and the detail that vindicates the exact wording
+
+Secondary analysis of **Project MATCH**, a multisite randomised clinical trial
+(*Experimental and Clinical Psychopharmacology* 2024, DOI 10.1037/pha0000713):
+
+> "higher **relative-reinforcement value (RRV)** of alcohol-free activities
+> predicted **significant reductions in drinking and improvements in
+> functioning**, and these associations were **stronger compared to results for
+> alcohol-free activity frequency only**."
+
+**Read that last clause twice. Value beat frequency.**
+
+How *much* someone did a substance-free activity mattered less than how much they
+**valued** it. That is the difference between an occupation and a passion, measured
+in a randomised trial, and it is precisely why section 6's vocational certificates
+did nothing. **A certificate is frequency. A passion is value.**
+
+### There is a biological substrate, in animals
+
+*Scientific Reports* 2021, DOI 10.1038/s41598-020-67966-8:
+
+> "Environmental enrichment (EE) is a **robust intervention for reducing
+> cocaine-seeking behaviors** in animals... Enriched, 21-day forced abstinence rats
+> displayed a **significant reduction in cocaine-seeking behavior** compared to rats
+> housed in isolation."
+
+The same study found hundreds of differentially regulated transcripts in the
+**nucleus accumbens shell**, the reward circuit itself, depending on housing
+condition. **Enrichment does not merely distract. It changes the machinery.**
+
+**One correction to the wording, offered because precision is the point.** The
+mechanism is better described as **reward valuation** than as endorphins
+specifically. Endogenous opioid signalling is part of natural reward, but what the
+trials measure is the *relative value* the brain assigns to a non-drug activity
+against the drug. The distinction matters only because a chemist will stop reading
+otherwise. **The claim itself survives intact.**
+
+### And it is already in current practice, quietly
+
+An NIH HEAL trial protocol (*Frontiers in Public Health* 2025, DOI
+10.3389/fpubh.2025.1637846) describes sessions focused on
+
+> "behavioral activation — **increasing value-driven, substance-free activities**"
+
+"Value-driven" is the operative word, and it is the same word Project MATCH found
+was doing the work.
+
+### What this means for what to fund
+
+Section 5 established that money contingent on the behaviour works and
+unconditional money is mixed at best. Section 6 established that a certificate
+alone does nothing. This section supplies the reason both are true:
+
+**The active ingredient is not money, and it is not training. It is whether the
+person ends up valuing something that is not the drug.**
+
+That is why the ask in section 9 is **treatment plus contingent support plus
+structure**, and explicitly **not a cash transfer**. Handing a dependent person
+money funds the next purchase. Handing them a certificate for a trade they do not
+care about produces, as measured, nothing. **Training someone in the thing that
+already pulls them is the only one of the three that acts on the mechanism the
+literature says is driving the disorder.**
+
+**Nobody has run that trial directly.** Reinforcer pathology is well-established as
+a model, RRV predicts outcomes, and enrichment works in animals. **A randomised
+trial of "train people in what they love" as an addiction intervention does not
+appear in the literature reviewed.** That is the gap section 9 asks to be funded,
+and it is a cheap question to answer relative to $425 billion a year.
 
 ## 8. The investigator's conclusion, stated as his
 
@@ -343,12 +415,16 @@ Not prohibition. Not a plant ban. We have said so on the docket in writing.
    **Fund it as a package, not a component:** the European agency's own position is
    that reintegration must be embedded in treatment early, and the one well-matched
    trial of vocational certificates alone found no effect (s6).
-4. **Fund the trials that would settle it.** The strongest honest criticism of
+4. **Fund the trial that has never been run:** train people in the thing they
+   already care about, and measure relapse. The model (reinforcer pathology), the
+   predictor (relative-reinforcement value), and the animal evidence (environmental
+   enrichment) are all in place. **The trial is not.** See s7.
+5. **Fund the trials that would settle the rest.** The strongest honest criticism of
    everything in section 6 is that the evidence is sparse. **That is fixable and
    nobody has tried.** A fraction of the $425 billion annual burden would answer in
    five years whether giving people an occupation reduces relapse, and the answer
    is worth having whichever way it comes out.
-5. **Publish the reasoning.** The full list of alkaloids considered and the
+6. **Publish the reasoning.** The full list of alkaloids considered and the
    disposition of each. If scope was drawn around a scaffold rather than around
    metabolism, say so, and the public can argue with it.
 
