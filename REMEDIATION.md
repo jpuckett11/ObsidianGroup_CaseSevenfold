@@ -223,6 +223,10 @@ That is a European agency recommending an intervention while stating plainly tha
 the trials do not exist. We repeat it here rather than quoting only the
 recommendation.
 
+**Partially corrected in section 8:** the *concept* is inconsistently defined, but
+**validated measurement instruments exist** (BARC-10, SRCS-10). The gap is trials
+and funding, not measurability.
+
 ### And one good study found nothing
 
 *International Journal of Offender Therapy and Comparative Criminology*, 2023,
@@ -365,7 +369,105 @@ trial of "train people in what they love" as an addiction intervention does not
 appear in the literature reviewed.** That is the gap section 9 asks to be funded,
 and it is a cheap question to answer relative to $425 billion a year.
 
-## 8. The investigator's conclusion, stated as his
+## 8. The grey literature: this has a name, a measure, and working programmes
+
+Sections 6 and 7 drew on journals. The policy literature is where this hypothesis
+actually lives, and it is further along than the journals suggest.
+
+### The foundational white paper
+
+**White, W. & Cloud, W. (2008), "Recovery Capital: A Primer for Addictions
+Professionals."** Its central claim is the one this document has been circling:
+
+> clients with severely depleted family and community recovery capital **gain
+> little from individually-focused addiction treatment**, and environmental factors
+> can **augment or nullify** the short-term influence of an intervention.
+
+**Treat the person in isolation and the environment eats the result.** That is the
+argument of section 3 and section 7, published as policy guidance seventeen years
+ago and largely unfunded since.
+
+### It is measurable, and this corrects something said earlier
+
+Section 6 relayed a 2026 concept analysis calling recovery capital "inconsistently
+defined." **That was accurate about the concept and misleading about the practice.**
+
+Validated instruments exist. The **Brief Assessment of Recovery Capital (BARC-10)**
+and the related **SRCS-10** are short self-report scales whose domains include
+**meaningful activities**, and the SRCS-10 has been shown **invariant across gender,
+race and sexual orientation** (*American Journal of Drug and Alcohol Abuse* 2020,
+DOI 10.1080/00952990.2018.1558228).
+
+**A ten-item validated instrument is not an unmeasurable construct.** The earlier
+framing understated it and is corrected here.
+
+### The finding that most sharpens the hypothesis
+
+*Drug and Alcohol Dependence* 2020, DOI **10.1016/j.drugalcdep.2019.107624**,
+employment recovery capital at six-month follow-up:
+
+> "employment variables at intake predicted greater successful treatment
+> completion, p < 0.0001. **However, the same employment variables were predictive
+> of maintained and increased use at six-month follow-up.**"
+
+> "the best predictors of post-treatment recovery was a **change** in employment
+> variables including **months employed increase** (AOR = 1.53, 95% CI 1.34-1.75)
+> and days missed from work due to substance use decrease (AOR = 2.43)."
+
+**Having a job predicted worse outcomes at six months. Gaining ground predicted
+better ones.**
+
+That is the whole distinction, in one study. A static paycheck is not protective
+and may fund use. **Trajectory is protective.** The authors' own recommendation is
+policy "focused on **vocational growth** in addition to employment benchmarks."
+
+Growth is what a passion produces and a job does not guarantee. This is the
+strongest single piece of evidence for the investigator's exact formulation
+anywhere in this document.
+
+### Programmes already built on it
+
+**RecoveryWorks** (*Frontiers in Psychiatry* 2026, DOI 10.3389/fpsyt.2026.1751052):
+
+> "In contrast to vocational approaches that prioritize **rapid job placement**,
+> RecoveryWorks **embeds work within a recovery-oriented system of care**, and aims
+> to generate reciprocal gains in personal and community recovery capital."
+
+That is the package-versus-component distinction from section 6, built into a
+running programme by people who reached it independently.
+
+### The international standard already says it
+
+**UNODC/WHO International Standards for the Treatment of Drug Use Disorders.**
+"Sustained recovery management" is a core component, and its listed elements
+include housing, healthcare, social services, peer networks, legal support,
+transportation, **education and employment**, and community participation.
+
+**The world's two relevant international bodies already recommend this.** The
+United States has the standards and not the funding.
+
+### One design constraint, and it is not optional
+
+**NASEM (2019) and SAMHSA (2022) both recommend that psychosocial treatment must
+NOT be a condition of receiving medication** for opioid use disorder, because a
+comprehensive-treatment requirement is an insurmountable barrier for many people.
+
+**This binds everything above.** Training someone in what they love must be
+*offered*, never *required*. The moment it becomes a gate in front of
+buprenorphine, it stops being recovery capital and becomes another reason someone
+does not get medication. **Any policy built on section 7 that ignores this will
+kill people.**
+
+### What is actually missing
+
+Not the theory. Not the instrument. Not the international standard. Not the pilot
+programmes.
+
+**The randomised trial, and the money.** The gap identified in section 7 survives
+contact with the grey literature: nobody has run a trial that trains people in what
+they already care about and measures relapse against a control.
+
+## 9. The investigator's conclusion, stated as his
 
 > "The machine doesn't care about true freedom or the people any more. It cares
 > about corporations and the machine."
@@ -398,7 +500,7 @@ has an innocent explanation available. What we say is narrower and harder to
 dismiss: **the incentives all point one way, and nobody in the structure is
 required to notice.**
 
-## 9. What we actually ask for
+## 10. What we actually ask for
 
 Not prohibition. Not a plant ban. We have said so on the docket in writing.
 
@@ -428,7 +530,7 @@ Not prohibition. Not a plant ban. We have said so on the docket in writing.
    disposition of each. If scope was drawn around a scaffold rather than around
    metabolism, say so, and the public can argue with it.
 
-## 10. The honest close
+## 11. The honest close
 
 **Nothing in this document will happen quickly, and the ladder in Section 1 will
 add another rung before it does.**
