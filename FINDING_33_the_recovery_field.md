@@ -92,3 +92,9 @@ independently. **We were not first and do not claim to be.**
   `deliverables/allies/APPROACH_awakening_recovery.txt`.
 - **`-18012` is cited, not pursued.**
 - Both comment IDs are recorded so any reader can retrieve the originals.
+- **An actor map of every organisation that put a name on this docket** is at
+  `deliverables/allies/DOCKET_ACTOR_MAP.md`. Thirteen organisations in the first
+  5,000 comments, which is the API pagination limit. **Four are recovery or
+  prevention bodies and are the approach targets.** The docket is otherwise almost
+  entirely individuals writing about their own lives, which is worth saying: **this
+  is not an astroturf record.**
