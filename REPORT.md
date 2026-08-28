@@ -338,6 +338,49 @@ million in NIH grants across nine projects. Their science is not bought. The
 industry money we found sits in one specific paper, and it should not be smeared
 across the field.
 
+## The asymmetry of exit
+
+There is one argument in this file that survives every concession we have made,
+and it is the one worth carrying out of here.
+
+The investigator's own case is close to a best case. He knew it was an opioid
+before he took the first tablet. He chose the moment and the product. He had a
+physician who would see him, money for the prescription, a house to be ill in and
+another adult in it, and he intended from the start to stop and to write it down.
+
+With all of that, it took three weeks, six thousand milligrams, and a course of
+prescribed buprenorphine to get out. Physical dependence was established inside
+seven days in a man who had never been dependent on anything.
+
+Now take the advantages away, one at a time, and you have the ordinary purchaser.
+
+He does not know it is an opioid, because the label says botanical supplementation.
+He does not know a serving is a quarter of the tablet he just swallowed whole. He
+has not read the sentence conceding it is habit-forming, because that sentence is
+in a help-centre article and he was on the product page. He has no appointment
+this month and no coverage if he did. There is no spouse coming home. And when it
+turns, he has no framework for what is happening to him and exactly one
+intervention available at any hour: buy more.
+
+That is not a person with less character. It is the same trap with the exits
+removed, and every removal was a decision somebody made in a meeting.
+
+The harm lands, in the government's own reporting, on people aged twenty-five to
+forty-four, with dependence as the most reported effect after death, and eleven
+reports involving someone under eighteen.
+
+Meanwhile seven organised vehicles and $7.4 million represented the sellers of one
+product class, one vehicle and $15,000 represented the sellers of the other, and
+nobody at all represented the people becoming dependent. The only consumer-facing
+safety information in the whole affair was federal warning text on an FDA web
+page, and that is the one thing that got removed.
+
+We are not going to tell you what any official was thinking. We do not know, and
+the record does not need it. We will tell you what the documents show: the man who
+stood at the podium holds up to a million dollars of the category that stays on
+the shelf, that holding appears on no divestiture list and in no congressional
+filing, he pressed to have the warnings taken down, and they came down.
+
 ## Where the product comes from
 
 Over 90% of the world's kratom comes from Indonesia, mostly West Kalimantan on

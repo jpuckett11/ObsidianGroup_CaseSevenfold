@@ -69,6 +69,8 @@ established. Do not cite it as fact. We have marked those deliberately.**
 | [FINDING_17](FINDING_17_docket_record.md) | 26,882 comments; the extension was requested by HART, the most outspent party | CONFIRMED |
 | [FINDING_18](FINDING_18_the_real_threshold.md) | **The threshold is not only 0.05%. There is an unreported absolute limit of 1.00 mg per article.** | CONFIRMED, from the HHS letter |
 
+| [FINDING_19](FINDING_19_asymmetry_of_exit.md) | **The asymmetry of exit.** A best-case exposure still took three weeks and a prescription. Strip the advantages and the same product is a trap with the doors removed. | analytical |
+
 ## What we got wrong, on the record
 
 We keep our own corrections in the file rather than quietly editing them out.
