@@ -71,6 +71,9 @@ established. Do not cite it as fact. We have marked those deliberately.**
 
 | [FINDING_19](FINDING_19_asymmetry_of_exit.md) | **The asymmetry of exit.** A best-case exposure still took three weeks and a prescription. Strip the advantages and the same product is a trap with the doors removed. | analytical |
 
+| [FINDING_20](FINDING_20_the_next_one.md) | **9-hydroxycorynantheidine is not covered by any federal scheduling action.** Florida covered it; DEA did not. No lobbying, no docket, no adverse events yet. | CONFIRMED with controls |
+| [FINDING_21](FINDING_21_senate_letter.md) | **Eleven senators made this case's central argument on 2026-03-18**, citing Botanic Tonics' own press release. Crapo chairs Finance; Blackburn is Tennessee. | CONFIRMED, primary |
+
 ## What we got wrong, on the record
 
 We keep our own corrections in the file rather than quietly editing them out.
