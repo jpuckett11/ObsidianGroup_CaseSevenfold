@@ -1,0 +1,19 @@
+{
+  "data" : [ ],
+  "meta" : {
+    "aggregations" : {
+      "agencyId" : [ ],
+      "postedDate" : [ ]
+    },
+    "filters" : { },
+    "hasNextPage" : false,
+    "hasPreviousPage" : false,
+    "numberOfElements" : 0,
+    "pageNumber" : 1,
+    "pageSize" : 250,
+    "totalElements" : 0,
+    "totalPages" : 0,
+    "firstPage" : true,
+    "lastPage" : true
+  }
+}

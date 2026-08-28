@@ -280,6 +280,15 @@ Written down deliberately, so we test it instead of confirming it.
 
 
 
+
+**2026-08-29 — Finding 26: nobody else asked.** Of **27,053** comments on
+HHS-OASH-2026-0232, **zero** mention 9-hydroxycorynantheidine, corynanthe,
+Mitradyne, Atallah or divestiture. One mentions corynantheidine, in a passing
+alkaloid list. The two questions unique to this case in that entire record are the
+**corynantheidine scaffold gap** (`mtc-q9zv-dase`) and the **phantom "(Kruegel et
+al., 2019)" citation** in FDA's own assessment (`mtc-56yj-nmij`). Stated honestly:
+**36 commenters already raise the Mullin holding**, so that part is not ours alone.
+
 **See [`CONTACT_LOG.md`](CONTACT_LOG.md)** for every approach to an official or
 agency and what came back. Short version: the state consumer division acknowledged
 in **23 seconds** with a reference number, the federal docket issues a tracking
