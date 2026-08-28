@@ -161,6 +161,32 @@ See `FINDING_23_ross_money.md`.
 the allocation signature of a **joint fundraising committee**, not eleven separate
 decisions. Worth identifying the JFC. No outlet reviewed has reported this.
 
+### The vehicle: MAHA PAC, and where traceability ends [P]
+
+The $1,000,000 from Botanic Tonics LLC did not go to a candidate. It went to FEC
+committee **C00821439**, whose registered name history is the finding:
+
+    2022   PEOPLE'S PHARMA MOVEMENT
+    2024   AMERICAN VALUES 2024      <- the RFK Jr. presidential super PAC
+    2026   MAHA PAC
+
+Same committee, same treasurer (Tony Lyons). Identity confirmed by its donors:
+Timothy Mellon $25,003,300, Gavin de Becker $14,000,000, Nicole Shanahan
+$4,000,000, all complete per-donor queries.
+
+Botanic Tonics LLC is its **13th largest** itemized receipt of 834, and one of
+only two corporate donors in the top fifteen.
+
+**MAHA PAC's largest recurring outflow is $4,048,428 to MAHA ACTION, INC.**, a
+**501(c)(4)**, EIN 994785075, Vienna VA [P IRS BMF], five of six transfers filed
+as `CHARITABLE CONTRIBUTION`. A c4 does not disclose donors. That is where
+itemized federal traceability stops.
+
+**[I] and a limit we impose on ourselves:** every observed transfer to the c4 is
+dated on or before **2026-02-02**, and Botanic Tonics' first $500,000 is
+**2026-03-04**. Their money cannot be traced into those transfers and we do not
+claim it. See `FINDING_24_the_pipeline.md`.
+
 ### Timing that needs no interpretation
 
 - **2025-12** DOJ drops the seizure case against Botanic Tonics. [S]
