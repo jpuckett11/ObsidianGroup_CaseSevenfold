@@ -64,7 +64,79 @@ That is the whole mechanism. As long as that second person exists in numbers,
 **there is a market, and a market will be served**, by whatever molecule is
 currently legal.
 
-## 4. What actually removes the market
+## 4. The scale, from the government's own survey
+
+Everything above is mechanism. This is size.
+
+**2024 National Survey on Drug Use and Health**, SAMHSA, the survey that sets
+American drug policy:
+
+| | |
+|---|---|
+| Had a substance use disorder in the past year | **48.4 million** |
+| Needed substance use treatment | **52.6 million**, 18.2% of everyone aged 12+ |
+| **Received** substance use treatment | **10.2 million**, 3.5% |
+| **Did not** | **42.4 million** |
+
+**That is 80.6 percent of the people who needed help, not getting it.**
+
+Forty-two million is **larger than the population of California**, the largest
+economy in the United States. An entire state's worth of people, and then some,
+written off in a single year.
+
+### And 48.4 million is an undercount by construction
+
+This is not an inference. It is in SAMHSA's own methodology notes:
+
+> "overall SUD, drug use disorder, and opioid use disorder measures **do not
+> capture disorders arising solely from the use of IMF**"
+
+**IMF is illegally made fentanyl.** The national survey does not count people whose
+addiction comes only from the substance currently killing the most Americans.
+
+Three more structural undercounts sit on top of that:
+
+- **It is a household survey.** No household, not counted. That excludes the
+  homeless and the incarcerated, who are exactly the people with the most severe
+  disorders.
+- **Capture-recapture work says so outright.** *Drug and Alcohol Dependence* 2022,
+  DOI 10.1016/j.drugalcdep.2022.109710: "Commonly used household surveys are
+  **known to underestimate OUD** at the state level."
+- **It requires self-report of a stigmatised condition** to a government
+  interviewer at the door.
+
+**The real figure is higher than 48.4 million and nobody knows by how much.** The
+investigator's objection, that people in this condition do not report themselves,
+is the same objection that invalidated an earlier conclusion in this case
+(Finding 29 s6). It was right then and it is right here.
+
+### What it costs to do nothing
+
+**$425.0 billion a year**, estimated annual economic burden of opioid-related
+serious adverse events and undertreatment (range $164.5B to $1,215.5B),
+*Frontiers in Public Health* 2026, DOI 10.3389/fpubh.2026.1824038.
+
+That is what is being spent already, as a consequence, rather than deliberately, on
+a problem 80.6 percent of which is going untreated.
+
+### Why only government can act at this scale
+
+No charity, no clinic network and no state has forty-two million people of
+capacity. Prescriber supply, insurance coverage, and the months after a taper are
+all set by federal policy. **The scale of the gap and the level of the lever are
+the same size, and that level is federal.**
+
+**The investigator's conclusion, stated as his:** *"we are leaving a large
+demographic to just waste away... that is what this government is throwing away.
+For what? A few to profit."*
+
+**The numbers above are checkable. That sentence is his, and this document does not
+ask anyone to accept it on our say-so.** What the numbers do establish, without
+requiring agreement about motive, is that the gap is the size of a large state, the
+survey that measures it admits it undercounts, and the cost of leaving it alone is
+already being paid.
+
+## 5. What actually removes the market
 
 **Treat the person, or keep chasing the molecule forever.**
 
@@ -85,7 +157,35 @@ The investigator got out. What it took:
 **Most people have none of those four.** The product does not discriminate. Access
 to the exit does. That asymmetry is Finding 19 and it is the centre of this case.
 
-## 5. Addicted to their passions
+### The intervention with a dose-response curve
+
+There is one behavioural intervention where paying people is the intervention.
+**Contingency management**: incentives delivered directly, contingent on negative
+tests.
+
+*Preventive Medicine* 2023, DOI 10.1016/j.ypmed.2023.107647:
+
+> "a prior meta-analysis demonstrates a **dose-response relationship between the
+> magnitude and immediacy of reward** and CM effectiveness"
+
+And the trials that failed, in the criminal justice system, failed for a reason
+stated in the same paper: they "provided **smaller rewards with greater delays**"
+than the community trials that worked.
+
+**Pay more, pay sooner, it works better. Pay less, pay later, it stops working.**
+
+That is the investigator's hypothesis with an effect size attached. It is not a
+metaphor about investing in people. It is the literal finding.
+
+**Open item, flagged rather than asserted:** incentive values in US contingency
+management programmes have historically been constrained by federal anti-kickback
+rules. **This case has not verified the current limit and does not assert one.** If
+that constraint still binds below the doses the meta-analyses find effective, then
+the single intervention with a proven dose-response relationship is capped by
+regulation below its effective dose. **That is worth someone establishing on the
+record.**
+
+## 6. Addicted to their passions
 
 The investigator's phrase, and it is not sentimentality.
 
@@ -107,7 +207,7 @@ the taper and not just the taper, and putting money into the things that give a
 person somewhere to be. It is unglamorous, it is slow, and it does not generate a
 press conference with a podium and a schedule number.
 
-## 6. The investigator's conclusion, stated as his
+## 7. The investigator's conclusion, stated as his
 
 > "The machine doesn't care about true freedom or the people any more. It cares
 > about corporations and the machine."
@@ -140,7 +240,7 @@ has an innocent explanation available. What we say is narrower and harder to
 dismiss: **the incentives all point one way, and nobody in the structure is
 required to notice.**
 
-## 7. What we actually ask for
+## 8. What we actually ask for
 
 Not prohibition. Not a plant ban. We have said so on the docket in writing.
 
@@ -158,7 +258,7 @@ Not prohibition. Not a plant ban. We have said so on the docket in writing.
    disposition of each. If scope was drawn around a scaffold rather than around
    metabolism, say so, and the public can argue with it.
 
-## 8. The honest close
+## 9. The honest close
 
 **Nothing in this document will happen quickly, and the ladder in Section 1 will
 add another rung before it does.**

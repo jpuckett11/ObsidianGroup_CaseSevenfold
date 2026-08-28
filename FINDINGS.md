@@ -286,6 +286,18 @@ Written down deliberately, so we test it instead of confirming it.
 
 
 
+
+**2026-08-29 — `REMEDIATION.md` given the scale, from the government's own survey.**
+2024 NSDUH: **48.4M** with a substance use disorder, **52.6M** needed treatment,
+**10.2M** received it. **42.4 million did not, 80.6%** — larger than the population
+of California. And 48.4M is an undercount by construction: SAMHSA's own notes say
+the measures "do not capture disorders arising solely from the use of **IMF**",
+illegally made fentanyl, and it is a household survey that structurally misses the
+homeless and incarcerated. Annual economic burden **$425.0 billion**
+(DOI 10.3389/fpubh.2026.1824038). Also added: contingency management shows a
+**dose-response relationship between magnitude and immediacy of reward and
+effectiveness** (DOI 10.1016/j.ypmed.2023.107647).
+
 **2026-08-29 — FIFTH comment FILED. Tracking `mtd-izm8-ql4p`.** Reports that the
 substitution earlier comments warned of **has already occurred**: the Utah Poison
 Control alert of 22 July 2026, the Utah death linked to mislabelled Buzzers-brand
