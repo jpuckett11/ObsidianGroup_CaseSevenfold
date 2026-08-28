@@ -347,6 +347,74 @@ An NIH HEAL trial protocol (*Frontiers in Public Health* 2025, DOI
 "Value-driven" is the operative word, and it is the same word Project MATCH found
 was doing the work.
 
+### Who these people actually are
+
+The investigator's observation: **an addict would make a formidable security
+researcher, because the addict usually has ADHD as well.** Two parts. The first is
+established. The second is his hypothesis and is recorded as such.
+
+**The comorbidity is real and large [P].** The **International ADHD in Substance
+Use Disorder Prevalence (IASP)** study, 1,274 treatment-seeking SUD patients aged
+18 to 65 (*Addictive Behaviors*, DOI 10.1016/j.addbeh.2016.10.016):
+
+| | |
+|---|---|
+| Comorbid adult ADHD | **14.1%** |
+| Adult general-population ADHD, for comparison | roughly 2.5-5% |
+
+And the direction of causation runs the way he assumed. Meta-analysis of childhood
+ADHD followed into adulthood (*J. Am. Acad. Child Adolesc. Psychiatry* 2026, DOI
+10.1016/j.jaac.2025.04.012):
+
+> "ADHD persistence was associated with **increased risk of SUDs (OR = 2.12**, 95%
+> CI 1.53-3.17, p = .004)"
+
+The International Collaboration on ADHD and Substance Abuse (*European Addiction
+Research* 2021, DOI 10.1159/000508870) reports the same picture: high comorbid
+prevalence, "associated with elevated rates of additional comorbidities and risk
+factors for adverse outcomes."
+
+### And the number in that same dataset that should stop the argument
+
+From the identical IASP cohort:
+
+> **Childhood trauma exposure was present in 53.5% of patients.**
+
+> ADHD prevalence with childhood trauma **19.4%**, without it **8.5%**
+> (adjusted OR 1.91).
+
+**More than half of people in treatment for a substance use disorder were
+traumatised as children.** Not most of some subgroup. The majority of the whole
+sample.
+
+Whatever else is true about personal responsibility, that figure describes a
+population that arrived at the shop counter having already been failed once, by
+adults, before they could consent to any of it. **The product that gets sold to
+them as "botanical supplementation" is the second betrayal, not the first.**
+
+### The part that is hypothesis, and is labelled as one
+
+**[I] That this population is well-matched to technical investigative work is the
+investigator's hypothesis and is not established by anything cited here.** Searches
+for an evidence base on ADHD cognitive strengths in employment returned nothing
+usable.
+
+What can be said is that it is **coherent with the model in this section**.
+Reinforcer pathology says recovery requires a non-drug activity of high relative
+reinforcement value. ADHD is characterised in part by difficulty sustaining
+attention on low-interest tasks and, anecdotally and clinically, intense sustained
+focus on high-interest ones. **An occupation that rewards pattern-hunting,
+deep focus and novelty is a plausible high-RRV candidate for exactly this
+population.**
+
+**That is a testable claim and nobody has tested it.** It belongs in the trial
+described at the end of this section, and it costs nothing to include an arm for
+it.
+
+**The investigator is himself an instance of the hypothesis**, which is a reason to
+take it seriously and also a reason not to mistake it for evidence. Both are stated
+here on purpose.
+
 ### What this means for what to fund
 
 Section 5 established that money contingent on the behaviour works and
