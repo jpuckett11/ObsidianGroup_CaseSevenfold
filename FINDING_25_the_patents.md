@@ -341,10 +341,16 @@ through its facilities.
   Mitradyne located
 
 **Could not check, and this is the real limit:**
-- **USPTO patent assignment records.** `assignment-api.uspto.gov` and
-  `assignment.uspto.gov` do not resolve from this host. An assignment or security
-  interest recorded there would be the single most likely place a university stake
-  would appear. **This is the highest-value remaining item on Mitradyne.**
+- **USPTO patent assignment records.** An assignment or security interest recorded
+  there is the single most likely place a university stake would appear. **This is
+  the highest-value remaining item on Mitradyne.** Traced to a precise blocker:
+  the legacy `assignment-api.uspto.gov` XML API was **decommissioned 5 June 2026**
+  and its host no longer resolves. The replacement is the Open Data Portal.
+  `assignmentcenter.uspto.gov` serves an Angular shell that loads results by XHR,
+  and `api.uspto.gov/api/v1/patent/applications/search` returns
+  **HTTP 401 `{"message":"Unauthorized"}`**. **It needs a free ODP API key from
+  data.uspto.gov.** That is the same shape of blocker as the FEC key: one signup
+  form stands between this case and the assignment record.
 - **EPO Register** applicant-history and transfer entries: HTTP 403.
 - Google Patents began rate-limiting mid-session, so an assignee-field sweep for
   "University of Guelph" against these inventors was not completed.
