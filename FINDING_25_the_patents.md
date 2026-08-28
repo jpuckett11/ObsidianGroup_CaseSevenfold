@@ -427,3 +427,121 @@ be run here directly.
 
 The Research Innovation Office answers questions about whether it holds an
 interest in a named company. Asking is a legitimate step and costs nothing.
+
+---
+
+## ADDENDUM 4, 2026-08-28: the assignment record, obtained
+
+The USPTO Open Data Portal key was obtained and the assignment records were
+pulled. This closes the highest-value open item on Mitradyne.
+
+### A. The Mitradyne US filings [P]
+
+| Application | Filed | Status |
+|---|---|---|
+| **18/891,491** | 2024-09-20 | pending, published **US2025/0092433 A1** |
+| 63/583,976 (provisional) | 2023-09-20 | expired 2024-09-22, as provisionals do |
+
+Applicant on both: **Mitradyne Corporation, Toronto**. Inventors on both: Casaretto,
+Aktar, Rothstein, Soubeyrand.
+
+**There is no granted US patent.** The application is under examination. Its most
+recent event is a **Restriction/Election Requirement** issued 2026-08-14 and mailed
+2026-08-18, which is a procedural demand to elect among claim groups, not a
+rejection on the merits. Nothing in this case should describe Mitradyne as holding
+a US patent. It holds a published application.
+
+### B. The answer: one conveyance, and nothing else [P]
+
+USPTO assignment record for 18/891,491, **reel 68665, frame 517**, recorded
+**2024-09-23**:
+
+> **Conveyance:** ASSIGNMENT OF ASSIGNOR'S INTEREST
+>
+> **Assignors:** ROTHSTEIN, STEVEN (executed 2024-01-19); CASARETTO, JOSE
+> (2024-02-05); AKTAR, TARIQ A. (2024-02-09); SOUBEYRAND, ERIC (2024-02-12)
+>
+> **Assignee:** MITRADYNE CORPORATION, Toronto, Canada
+
+That is the entire chain. **One record. No University of Guelph. No security
+interest, so no lender or investor has taken collateral in this IP. No third
+party of any kind.**
+
+The four scientists personally held the rights and assigned them to their own
+company. That is exactly what Guelph's creator-owned IP policy produces.
+
+### C. The control that makes the negative meaningful [P]
+
+An absence only means something if the thing could have been present. So:
+
+**The University of Guelph is the first applicant on 122 US patent applications.**
+It files constantly, on everything from immunoassay arrays to named cherry tree
+cultivars.
+
+This is not a university that never takes patent interests. It takes them by the
+hundred. Its absence from the Mitradyne chain is therefore a **choice permitted by
+its own policy**, not an artefact of an institution that does not patent.
+
+### D. Mitradyne is one of at least three ventures from the same laboratory [P]
+
+Searching by inventor rather than by company exposes the pattern. The same Guelph
+group has commercialised through multiple vehicles:
+
+| Vehicle | Subject | Assignment chain |
+|---|---|---|
+| **Mitradyne Corporation** (Toronto) | kratom alkaloids | inventors -> Mitradyne |
+| **ATLAS365 Incorporated** (Mississauga) | polyphenol-enriched extracts | inventors -> **NuMed Naturals Inc.** (Guelph) -> ATLAS365 |
+| filing held by **Kristen Van Gelder** personally | polypeptide synthesis | no assignment recorded |
+
+Inventors recurring across these: Rothstein, Akhtar, Casaretto, plus Bozzo, Perrin,
+Parry and Van Gelder. The ATLAS365 chain runs through an intermediate company,
+**NuMed Naturals Incorporated of Guelph**, which is the city, not the university.
+
+**The University of Guelph appears in none of these chains.** Across three
+ventures and four years, the pattern is consistent.
+
+Note also that the earlier name-matched hits on "Casaretto" for easel brackets,
+acrylic-fibre colouring and peptide synthesis are **different people**. They were
+excluded by checking co-inventor overlap rather than by assuming.
+
+### E. One anomaly, flagged as inference [I]
+
+USPTO fee entity status across the four relevant applicants:
+
+| Applicant | Entity status |
+|---|---|
+| **Mitradyne Corporation** | **Regular Undiscounted** |
+| ATLAS365 Incorporated | Small |
+| Kristen Van Gelder | Small |
+| CB Therapeutics | Small |
+
+Small-entity status halves USPTO fees. Mitradyne is the **only one of the four**
+not claiming it, including against its own sibling company from the same
+laboratory.
+
+A company loses small-entity status if it has 500 or more employees, or **if it
+has licensed or assigned rights to an entity that is not itself a small entity**.
+Universities and non-profits *do* qualify as small entities, so a Guelph licence
+would **not** break the status. A licence to a large for-profit company would.
+
+**[I] This is a signal, not a finding.** The mundane explanation is that counsel
+simply never filed the small-entity assertion, which is common and costs the
+client money through inattention. We record the discrepancy because it is the one
+datum in this file consistent with an undisclosed relationship with a large
+entity, and because it is cheap for anyone to check against later filings. **We do
+not assert that such a relationship exists.**
+
+### F. Where this leaves the question
+
+**Does the University of Guelph hold an interest in Mitradyne?**
+
+On the complete public record now assembled: **no disclosed interest, and three
+independent lines of evidence point the same way.** The 2014 policy makes
+inventions creator-owned. The assignment record shows a single direct conveyance
+from the four inventors to their own company. The university, which patents
+prolifically, appears nowhere in this or two sibling ventures.
+
+**The ceiling stated in Addendum 2 still stands.** Equity in a private Ontario
+corporation and licence agreements are private contracts that appear in no public
+database. The Ontario Business Registry, which lists directors, remains the one
+cheap route that could still change this answer.
