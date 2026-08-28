@@ -290,7 +290,8 @@ agency review and posting. Comment period closes 2026-09-10.
 - [x] ~~Identify the **joint fundraising committee**~~ **Kennedy Victory Fund 2024**, allocating outward to the LNC and state parties. Finding 23 s4
 - [x] ~~Settle the $600K vs $750K conflict~~ **$750,000**, Checkmate Government Relations for Stop Gas Station Heroin LLC. Confirmed again 2026-08-28 against the full 298-filing corpus
 - [ ] **Atallah's Botanic Tonics start date** vs the Feb 2024 publication. FEC places him there by 2025-09-30 and at JUUL Labs through Jan 2021; the gap is unresolved. Finding 06 addendum
-- [ ] **Patent search: 9-hydroxycorynantheidine synthesis routes.** Strongest forward indicator of a successor product. Finding 20
+- [x] ~~**Patent search: 9-hydroxycorynantheidine synthesis routes.**~~ **DONE 2026-08-28. `FINDING_25_the_patents.md`.** 18 documents name the compound; two claim manufacture. **Mitradyne Corporation** (EP4538367, priority 2023-09-20) claims the cell-free C9 hydroxylase producing it, in a claim adjacent to its claim for the 7-OH enzyme. **CB Therapeutics** (US2025/0179544, priority 2023-12-01) claims recombinant-cell production of corynanthe-type alkaloids and names it. The compound is an **intermediate on the biosynthetic route to mitragynine**, so any enzymatic mitragynine facility passes through it
+- [ ] **Mitradyne Corporation corporate and funding records.** No SEC filings; Canadian. Not obtained
 - [ ] Identify the **partnership or LLC** behind the `PARTNERSHIP ATTRIBUTION` memo on the $443,000
 - [ ] Constituent letter to **Sen. Blackburn (TN)**, who signed the 2026-03-18 letter and takes no industry money
 - [ ] **PACER**: *Torres v. Botanic Tonics*; the 2023 in-rem seizure action and its Dec 2025 dismissal. The dismissal docket may state a reason

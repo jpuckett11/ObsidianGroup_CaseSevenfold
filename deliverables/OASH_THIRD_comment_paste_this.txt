@@ -94,6 +94,65 @@ The record before the Department is presently empty on this compound. That is an
 argument for addressing it now, while a rulemaking record is open, rather than
 after a consumer harm signal appears.
 
+6. THE CAPABILITY TO MANUFACTURE IT ALREADY EXISTS
+
+Two patent families claim industrial production of this compound. Both have
+priority dates in late 2023.
+
+  Mitradyne Corporation, Toronto, Ontario
+  EP 4 538 367 A2, application 24201792.9, published 16 April 2025
+  Priority 20 September 2023, from US provisional 63/583,976
+  "Polypeptides for use in the synthesis of kratom alkaloids"
+
+      Claim 5.  A polypeptide encoding a hydroxylase that hydroxylates the
+                indole ring of corynantheidine at the C9 position to produce
+                9-hydroxycorynantheidine.
+
+      Claim 6.  A polypeptide encoding a hydroxylase that hydroxylates the
+                indole ring of mitragynine at the C7 position to produce
+                7-hydroxymitragynine.
+
+      Claim 8.  A polypeptide encoding an O-methyltransferase that methylates
+                the hydroxyl group at the C9 position of
+                9-hydroxycorynantheidine to produce mitragynine.
+
+      Claim 11. The system of claim 10, wherein the system is cell-free.
+
+Claims 5 and 6 are consecutive. The same document claims the enzyme that makes
+the compound the Department is scheduling and the enzyme that makes the compound
+it is not.
+
+  CB Therapeutics, Inc., Carlsbad, California
+  US 2025/0179544 A1, application 18/965,429
+  Priority 1 December 2023
+  "Production of corynanthe-type monoterpene indole alkaloid compounds"
+
+This second filing claims recombinant-cell production, that is fermentation, and
+names 9-hydroxycorynantheidine among its products.
+
+Claim 8 above states the biosynthetic order:
+
+      corynantheidine
+          --(C9 hydroxylase)-->      9-hydroxycorynantheidine
+          --(O-methyltransferase)--> mitragynine
+
+9-hydroxycorynantheidine is therefore an intermediate on the route to
+mitragynine. It is not a compound a manufacturer would have to set out to make.
+Any facility producing mitragynine by this enzymatic route passes through it and
+can isolate it at that step.
+
+Both routes also remove the botanical supply chain entirely. No cultivation, no
+import, no leaf to sample at the border, no alkaloid ratio set by growing
+conditions. This matters to the Department's scoping because the practical
+constraint on this compound has been assumed to be its scarcity in the plant.
+That assumption does not survive either filing.
+
+We note plainly that neither company states any intent to market this compound,
+that both filings describe general platforms for producing kratom alkaloids with
+mitragynine as the named target, and that most patent applications are never
+commercialised. We cite them as evidence that manufacture is feasible and has
+been claimed, not as evidence of intent.
+
 REQUESTED ACTIONS
 
 1. State whether the Department's scientific and medical evaluation considered
@@ -114,12 +173,22 @@ REQUESTED ACTIONS
    alkaloids considered and the disposition of each, so that the public can
    evaluate the scope of the action rather than infer it.
 
+5. State whether the evaluation considered that alkaloids scarce in the plant
+   can now be produced enzymatically or by fermentation, and whether the scope
+   of the action was set on natural abundance rather than on manufacturability.
+
 WHAT WE DO NOT ASSERT
 
 We have not located 9-hydroxycorynantheidine products offered for sale, and we do
 not claim a market presently exists. We do not claim its potency is equivalent to
 7-hydroxymitragynine; reported mu-opioid affinity is weaker. We raise a gap in
 scope, not a finding of present harm.
+
+On the patent applications cited in section 6: both are legitimate biotechnology
+filings by companies with no connection we have found to any party in the 7-OH
+proceeding, to any kratom trade association, or to any federal official. Neither
+states an intent to market 9-hydroxycorynantheidine. We cite them solely as
+evidence that manufacture at scale is feasible and has been claimed.
 
 Obsidian Watch Group is an independent investigative organization with no
 financial interest in kratom, 7-OH, or any company in this sector, and no funding

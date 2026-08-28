@@ -1,0 +1,1265 @@
+US 20250179544A1
+as) United States
+a2) Patent Application Publication 10) Pub. No.: US 2025/0179544 Al
+Nwe et al. (43) Pub. Date: Jun. 5, 2025
+(54) PRODUCTION OF CORYNANTHE-TYPE CI2N 1/20 (2006.01)
+MONOTERPENE INDOLE ALKALOID CI2N 15/52 (2006.01)
+COMPOUNDS IN A HETEROLOGOUS HOST (52) U.S. Cl.
+. CPC we. CI2P 17/182 (2013.01); CI2N 1/16
+(71) Applicant: CB Therapeutics, Carlsbad, CA (US) (2013.01); C12N 1/20 (2013.01); C12N 15/52
+. (2013.01); C/2N 2500/30 (2013.01): C12N
+(72) Inventors: Phu Khat Nwe, San Diego, CA (US); 2500/76 (2013.01); C12N 2510/02 (2013.01)
+Jacob M. Vogan, San Diego, CA (US);
+James Wade, San Diego, CA (US); (57) ABSTRACT
+Tyler Hueslman, San Diego, CA (US);
+Laura Flatauer Peiffer, San Diego, CA Provided are non-naturally occurring nucleic acids compris-
+(US) ing a sequence encoding an enzyme, regulatory protein, or
+other functional protein that provides for biosynthesis of
+(21) Appl. No.: 18/965,429 monoterpene indole alkaloids (e.g., mitragynine), as well as
+. modified enzyme and protein sequences encoded by the
+(22) Filed: Dec. 2, 2024 nucleic acid sequences. Also provided are recombinant
+wos microorganisms, including novel strains, that comprise the
+Related U.S. Application Data nucleic acid sequences and/or express the enzyme or regu-
+(60) Provisional application No. 63/605,289, filed on Dec. latory protein that provides for the biosynthesis of monoter-
+1, 2023. pene indole alkaloids (e.g., mitragynine). Methods of
+expressing the enzyme or regulatory protein are provided, as
+Publication Classification are methods of generating monoterpene indole alkaloid
+(51) Int. CL mitragynine-type compounds, as well as precursors, inter-
+CLP 17/18 (2006.01) mediates, and analogs thereof.
+CIN 1/16 (2006.01) Specification includes a Sequence Listing.
+B) carbon source se aes joni
+a. Media with feedstock a
+, . ae" Wodified organism” }
+al \ ' "9 (eg. MUP}
+tryptophan \ ; :
+ye ~~ , A, upetraamn MIA pathinay y SAME
+. tn ON, {a.g. socatoganin, i a
+(eg TATZ ‘\ - strictosidine} , 4 ,
+\ y ‘
+> on (2.9. SAM3)
+é oh os gf SSD: SAMe :
+( ec) cn nn
+: ’ Pee See . dioaynihesish
+(NADPH PRO ly enaieat | iiwey |
+i biosynthesis ON ee painwey |
+ipalhway Se ace Ti ee. f
+% “cen Pf nidoid transporter
+atti: e SS ABC, NPF, MATE)
+fea. MRPZy TY MIAs — C
+s : 2 Ss ee ae
+{e.g mitragynine) Ye
+/ eee
+: re a additional exogenous
+if es iridoids (e.g loganic acid,
+secaloganin)
+Mitragynine
+Patent Application Publication Jun.5,2025 Sheet 1 of 16 US 2025/0179544 Al
+A) B)
+indole / iryptarnine
+Ne ee vane No 6 6
+3 UO . af \4
+: \.._ NHS ‘ 10 82 pi 38
+i Cony O~Gie 2 \ CNX Qo
+4 NE DRS n BAAD ms
+rn: Oo: i A Hag P—
+monoterpencid ¢ 4 =v ne iF
+if a o
+oa Oe / fe)
+strictosidine mitragynine
+C) . D)
+° No
+N N
+SO OE
+N Hw Oo— R my o—
+o fe)
+/ % / %
+speciogynine substituted mitragynine
+FIG. 1
+Patent Application Publication Jun.5,2025 Sheet 2 of 16 US 2025/0179544 Al
+i
+.
+°
+2
+z oO. S
+~  S
+oe g
+a =
+° 5
+PAD 3 j
+iz 2
+2. 3
+2¢ “2
+o Be g
+Es BN, OQ 8
+z a 8 § Px £
+— 8B H z
+an SE &
+x S By 2
+il oe pos
+pe = ° &
+a= eS 7 a 4
+x a gs H
+\/ St [= 8 °
+i a £¢ ;
+aL 9. eS G
+ae 2 = & 2
+og { s§ z a &
+3S i S52 / NE
+s ee om ge on s
+Bu ME Pex 82 =
+Ox € s~ p= -
+= Gee: 2 =
+a3 g bid o & 2
+x acon WE aad wD ? ee. =
+red ie ta = = sf 3
+2 st 5 z 6 2
+LA sf gs 2 5 =
+s & a 6 3 =
+fal 2. £ 9 S
+Be o § g
+o 2s 3 =
+2s = z On s
+S & z oO 8 ian g
+z. oO BE aa > : €
+Z x = # g
+( Ye gs 3 RE =
+£e Qe = 3
+RE Zs ae 8 o 3
+Es & S f a) =
+oy a \ 4 @ 4 Ss ot a
+ot al. 3
+z % & & Uo 2
+8 od = Oo
+EE os Be og 234 Fo2
+z= g 23 S . a s
+_ 6 2 _ } & NB
+ & s £
+2 3 aaat B
+a a a = ee =
+2x g a ze e 2 Ea
+= S. 4
+_ Eo ome gs sy / & n
+<x aa s 0 Pare)
+ee
+US 2025/0179544 Al Jun. 5, 2025
+109
+-cont inued
+
+tacataaaga aaatggagag ccagaaaaga tattcttctg acgtatggte ctaa 2094
+SEQ ID NO: 321 moltype = DNA length = 1767
+FEATURE Location/Qualifiers
+source 1..1767
+
+mol_type = other DNA
+
+organism = synthetic construct
+SEQUENCE: 321
+atggcagaag ttgaaaagac tgaaaagaat attgctgaag atgatgaatc taaaattatt 60
+tacagaggtt ggaaagttat gccattcatt attggtaatg aaacatttga aaaattgggt 120
+attgttggtt catcatctaa tttggttatt tacttaacta cagtttttaa tatgaaatct 180
+attactgctg caaaagttgt taatatttat ggtggtactt ctaattttgg tactattgtt 240
+getgeatttt tgtgtgatte ttattttggt agatacaaaa cattgtettt tyetatgatt 300
+gettgtttet tggyttetgt tgcaatggat ttgactgetg ttattcatce attacatcca 360
+gctcaatgtg ctaaagaaat tggttctgtt tgtaatggtc catctattgg tcaaattatg 420
+tttttggctg gtgcaatggt tttgttagtt attggtgcag gtggtattag accatgtaat 480
+ttgecatttg gtgcagatca atttgatcca aaaactaaag aaggtaaaag aggtattgaa 540
+teatttttca attggtactt tttcactttt acttttgcte aaatggttte tttgactttg 600
+attgtttacg ttcaatctaa tgtttcttgyg teaattggtt tagetattec ageaattttg 660
+atgttattgg gttgtattat tttctttget ggttctaaat tgtatgttaa agttaaagea 720
+tetggttcac caattcatte aattactaga gttattgttg ttgctattaa aaagagaaga 780
+ttgaaaceag ttggtccaaa tgaattgtac aattatattg cttctgattt taaaaattct 840
+aaattgggte atactgaaca attcagattt ttggataaat cagetattea aactcaagat 900
+gataaattga ataaggatgg ttcaccagtt gatgcatgga aattgtgtte tatgcaacaa 960
+gttgaagaag ttaaatgtgt tattagagtt ttgecagttt ggttgtcage tgcattgttt 1020
+tacttggctt atattcaaca aactacatat actatttttc aatctttgca atcagataga 1080
+agattgggtc caggttcttt tcaaattcca gctggttctt acactgtttt cttaatgttg 1140
+ggtatgacta tttttattce aatttacgat agagttttgg ttccattttt gagaaaatat 1200
+actggtagag atggtggtat tactcaattg caaagagttg gtycaggttt gtttttatgt 1260
+attactteta tgatggttte tgeaattgtt gaacaataca gaagaaaagt tgctttgaca 1320
+aaaccaactt tyggtttgge tecaagaaaa ggtgctattt cttctatgte tggtatytgg 1380
+ttgattccac aattggtttt gatgggtatt getgatgeat tggcaggtgt tggtcaaatg 1440
+gaattttatt acaaacaatt tecagaaaat atgagatett ttgeaggtte tttgtactat 1500
+tgtggtattg gtttggette ttacttgtct acatttttat tgtctgetgt tcatgataca 1560
+actgaaggtt tttctggtgg tteatggtta ccagaagatt tgaataaggg tagattggaa 1620
+tatttttact ttttagttge tggtatgatg actttaaatt tggcttactt tttgttagtt 1680
+tetcattggt acagatacaa agatgttgtt gctaaagata aagatatgga taaaacttca 1740
+geagaatttg ataaagtttc agtttaa 1767
+SEQ ID NO: 322 moltype = DNA length = 1791
+FEATURE Location/Qualifiers
+source 1..1791
+
+mol_type = other DNA
+
+organism = synthetic construct
+SEQUENCE: 322
+atygcageag aaaaatcate tteaattgat getacagaaa atggttttgt taaaattaaa 60
+gaaccaaate atagaggtgt taaagetatg ceattcattg ttygtaatga aacttttgaa 120
+aaattgggta cattaggtac ttctgctaat ttgttaattt acttgactac agtttttcat 180
+atgaaatcta ttactgctac aaatttgatt aatattttta atggtacttg taattttggt 240
+acattgttag gtgeattttt ctetgatact tactttggta gatataaaac attgggtttt 300
+gettetgttt cttcaacatt aggtatgtta attttgactt tyacagcetge aatttcaaaa 360
+ttgcatccac catcttgtga aaagaactct aaagcatgtt caggtccaac ttcaggtcaa 420
+tttgcatttt tgtttactge atttttgttt ttaattattg gtgcttctgg tattagacca 480
+tgtaatttgg cttttggtge agatcaattc aatccaaata cagaatctgg tagaaaaggt 540
+acaaattcat ttttcaattg gtattacttt acttttactt ttgcaatgat ggtttcattg 600
+acagttattg tttatgttca ateatctatt tettgggeat tgggtttage tattccaaca 660
+tttttaatgt tgttgtettg tgttttettt tttgttggtt ctagaattta egttaaagtt 720
+ttaccagaag gttcaccatt gacatctatg atgcaagtta ttgttgeage ttttagaaaa 780
+agaaaattga atttgccaga tcatcaaceg tgggattcat tgtttaatta tatttctcca 840
+teatetatta attcaaaatt gtettatact gatcaattca gatggttaaa taaggetgea 900
+attaaaacat ctaaagatca tttgtacgcet gaaggttcta ctgctaatec gtggagattg 960
+tgttctatge aacaagttga agaagttaaa tgtgttatta gatctattce aatttggaca 1020
+tetggtgttt tatattacgt tgttttaaat caaatgtcta cttacttggt ttttcaagea 1080
+ttgcaatcag atagaagaat tggtaaaaca aattttaaaa ttccagcage ttcttataca 1140
+gttttcteaa tgttgtettt gtcaatttgg attccaattt atgatagaat tattgttcea 1200
+tttttaagaa aaattactaa aactgaacaa ggtattacaa ttttgcaaaa gatgggtttt 1260
+ggtttggtta ttgetgttat tactatggtt gtttcageta ttattgaaga taaaagaaga 1320
+gttattgcat tgactagace aattgttggt attgaagaaa gaaaaggtgg tatttcttca 1380
+ttgtetggtt tttggttggt tecacaatta geattggetg gtatttctga ageattcact 1440
+gttattgctc aagttgaatt tttctacaaa caatttccag aaaatatgag atcatttggt 1500
+ggttcatttt tgttttgtgg ttttgcaatt tcatcttatt tgtcatcatt tttgatttca 1560
+attgttcata aagttacaag aaattcttca ggtggtaatt ggttggatga agatttgaat 1620
+aaggctagat tggattactt ttactatttg gttgctggtt tggaagtttt aaattttggt 1680
+tactttttgg tttgtgetca ttggtataga tacaaagaaa ctcaatctgg taatgaaatt 1740
+gctatggaac aaattttgga tgaaccaaag aaaaatttgg atgttgttta a 1791
+US 2025/0179544 Al Jun. 5, 2025
+110
+-cont inued
+
+SEQ ID NO: 323 moltype = DNA length = 1770
+FEATURE Location/Qualifiers
+source 1..1770
+
+mol_type = other DNA
+
+organism = synthetic construct
+SEQUENCE: 323
+atggcagaag aaaatcaaga acataaagct attaaaaate atgaaccaaa ttacagaggt 60
+attaaageta tgccatttgt tattggtaat gaaacttttg aaaaattggg tacaattggt 120
+acttctacaa atttgttgat ttacttgact tctgtttttc atatgaaaac aattacagca 180
+actaatttgg ttaatatttt taatggtact tgtaattttg gtactttggt tggtgceattt 240
+ttgtgtgata cttactttgg tagatacaat actttaggtt ttgcttctgt ttcttcattt 300
+ttgggtatgt tagttttgac attaactgcet gctattaaaa atttgcatcc agaageatgt 360
+ggtaatgaag aagyttctaa atgtatttca ceatetggtg gtcaaatgge atttttattg 420
+tetggttttg catttttgat tgttggtgcet teaggtatta gaccatgtaa tttggeattt 480
+ggtgcagatc aattcaatcc aaatactgat tctggtagaa gaggtattaa ttcatttttc 540
+aattggtact attttacata cacttttgca atgatggttt cattgactat tattgtttac 600
+gttcaatcta atatttcttg gtcaattggt ttggctatte caacattttt aatgtttttg 4660
+teatgtgcta catttttegt tggtactaga atttatgtta gagttttgee agaaggttca 720
+ceattgattt ctgttgetag agttattgtt teagetttta aaaagagaaa attagaattg 780
+ceagatgaac caaaattate attgtttaat cattcageat cttcaactte atctattaat 340
+tcaaaaattt cttacactga tcaattcaga tttttgaata aggctgcaat tattacttca 900
+gaagatgaat ttaattcaga tggttcagtt aaaaatecgt ggagaatttg tactattcaa 960
+caagttgaag aagttaaatg tttgttgaaa ttgattecag tttggattte ttgtattatt 1020
+tactatattt cagttgttca acaacaaaat tacgttgttt ttcaageatt geaatctgat 1080
+agaagattat ttggtacatc taaattcaaa attccagctg catcttacat tgttattget 1140
+atgttggctt tgactatttg gattccaatt tttgatagaa ttattgttcc atgtttgcaa 1200
+aagattactg gtaaagaagg tggtattact attttacaaa gaatgggtat tggtatggtt 1260
+ttgtcagttt tgacaatgat tacatcaget ttggttgaat ctaaaagaag aaaatttget 1320
+ttgaatagac caacattygg ttttgaacca agaaaaggtg caatttctte aatgtetggt 1380
+gtttggttaa ttccacaatt ggetttatea ggtttgtctg aageattcac tattattggt 1440
+gaaaatgaat tgttttataa agaatgtcca gaaaatatga gatcaattge tatggeattg 1500
+gtttttgttg gttttgetgg ttettcatac ttgtcatctt tgttatctte aattgttcaa 1560
+aagacaactg gtggtaatga atettggtta getgaagatt tgaatagagg tagattggat 1620
+tacttttact atttgattag tgctttagaa acattaaatt tgatttactt tttagtttgt 1680
+tetaaatggt ataaatacaa acaagttgaa aagattccac aagttgetat ggaaaaatta 1740
+aataatgttg aagaaaaatc attagtttaa 1770
+SEQ ID NO: 324 moltype = DNA length = 1785
+FEATURE Location/Qualifiers
+source 1..1785
+
+mol_type = other DNA
+
+organism = synthetic construct
+SEQUENCE: 324
+atggcagaaa agaatgaaaa attggttcca aatggtacta aagaagatgg taaagttgea 60
+gctaaaaatg aaccaaatta tagaggtatt aaagcaatge catttgtttt gggtaatgaa 120
+acatgtgaaa aattgggtac aattggtact tettcaaatt tgtetgttta ettgtcaaca 180
+gtttttcata tgaatactat gtctgcaaat aatgttatta atatttttaa tggtacatgt 240
+tacttgggtt ctttggttgg tgcatttttg tgtgatacat attttggtag atacaaaact 300
+ttaggtttgg gttctgttge ttcatttttg ggtatgttga tgttaacatt gactgetgea 360
+atttcaactt tacatccaac taattgtgat aattetggtg actgtaaagg tecatetget 420
+ggtcaaatgg catttttagt tggtggtttt gttttgatgg ttattggtge ttcaggtatt 480
+agaccatgta atttggcttt tggtgctgat caattcaatc caaatacaga atctggtaga 540
+agaggtatta attcattttt caattggtat tactttactt atacatttge tgttatggtt 600
+tetgctacaa ttattgttta tgttcaatca gatatttctt ggtcaattgg ttttgetatt 660
+ceaacatcat tgatgttttt atettgtget ttgttttteg ctggtacatg gttgtatgtt 720
+aaagttttye cacaaggtte accaatgact tetttagtte aagttattgt tgtttergtt 780
+aaaaagagaa gattaaaatt gecaggtgaa ccatetttat tgtttaatea tattecatct 340
+aatgeaatta attctaaatt accaagaact aataatttta gatttttaga taaagetgea 900
+attttgacac cagaagataa agttaateca gatggttctg cagctaataa gtggaaatta 960
+tgttcaatte aacaagttga agaagttaaa tgtgttttga gagttttace aatttggatt 1020
+getggtgtta tttttcaaat ttctgttact caacaatcaa attatgttce atttcaagea 1080
+tttcaatcag atagacattt gattaaaggt aataagttte aaattccage aggtacatat 1140
+aatgttttct caatgttage tttgactatt tggttgecaa tttacgatag aattattatt 1200
+ceattgttaa gaagatggac taaaaaggaa gatggtatta cattgttaca aagaatgggt 1260
+gttggtattg ttttatcaat tttgtcaatg ttggttteag etttggttga atctagaaga 1320
+agaaatttgg ctttgactag accaacttta ggtattcaag aaggtcaagg ttctatttct 1380
+teaatgteag ctttatggtt tgttccacaa ttggetttaa tgggtttage tgaaggtttt 1440
+acttttattg gtgaaaatga attgttttat aaagaatttc cagaaaatat gagatctatt 1500
+geagettett tggttttgtg tggtgttget gttgetteat atttgacate ttttattget 1560
+gaaattgttc ataaaacaac tagatcaggt actagagatt ggttggctca agatttgaat 1620
+aaggctagat tggattactt tttctacatg gttgctgttt tagaagcatt aaatttggtt 1680
+tactttttag tttgtgctaa atggtataga tacaaaggta ctggtgactt gggtaaatta 1740
+gaagttgcta tggaaaaatt ggaaacagaa aaacatttgg tttaa 1785
+SEQ ID NO: 325 moltype = DNA length = 2052
+FEATURE Location/Qualifiers
+US 2025/0179544 Al Jun. 5, 2025
+lll
+-cont inued
+
+source 1.2052
+
+mol_type = other DNA
+
+organism = synthetic construct
+SEQUENCE: 325
+atgttgaate atccatctca aggttcagat gatgctcaag atgaaaaaca aggtgacttt 60
+eeagttattg aagaagaaaa gacacaaget gttactttga aagattcata egtttetgat 120
+gatgttgeta attctactga aagatacaat ttgtctccat ctccagaaga tgaagatttt 180
+gaagetccaa ctgaagaaga aatgcaaaca ttgagacatg ttggtggtaa aaatgaacca 240
+aattacagag gtattaaage aatgccattt gttttgggta atgaaacttg tgaaaaattg 300
+ggtacaattg gtacttcate taatttgtca gtttacttat caactgtttt tcatatgaat 360
+acaatgtctg ctaataatgt tattaatatt tttaatggta catgttactt gggttctttg 420
+gttggtgeat ttttatgtga tacatacttt ggtagatata aaactttggg tttaggttct 480
+gttgcateat ttttgggtat gttgatgtta actttgacag cagetattte aactttgeat 540
+ceaacaaatt gtgataatte tggtgactgt aaaggtccat cagcaggtea aatggeattt 600
+ttggttggtg gttttgtttt aatggttatt ggtgcttctg gtattagacc atgtaatttg 660
+gcatttggtg ctgatcaatt caatccaaat acagaatcag gtagaagagg tattaattca 720
+tttttcaatt ggtattactt tacatatact tttgetgtta tggtttcage tactattatt 780
+gtttatgtte aatctgatat ttettggtca attggttttg ctattccaac ttcattgatg 340
+tttttatett gtgetttatt tttcgetggt acatggttat acgttaaagt tttaccacaa 900
+ggttctccaa tgacatcatt ggttcaagtt attgttgttt ctgttaaaaa gagaagattg 960
+aaattgccag gtgaaccate attattgttt aatcatattc catctaatge tattaattct 1020
+aaattaccaa gaacaaataa ttttagattt ttggataaag cagctatttt gacaccagaa 1080
+gataaagtta atccagatgg ttetgetgea aataagtgga aattatgtte aattcaacaa 1140
+gttgaagaag ttaaatgtgt tttaagagtt ttgccaattt ggattgcagg tgttattttt 1200
+caaatttctg ttacacaaca atcaaattac gttccattte aagcatttca atctgataga 1260
+catttgatta aaggtaataa gtttcaaatt ccagctggta cttacaatgt tttctctatg 1320
+ttagcattga ctatttggtt gccaatttat gatagaatta ttattccatt gttaagaaga 1380
+tggactaaaa aggaagatgg tattacatta ttgcaaagaa tgggtgttgg tattgttttg 1440
+teaattttat ctatgttggt tteagetttg gttygaatcta gaagaagaaa tttggettta 1500
+actagaceaa cattgggtat tcaagaaggt caaggttcta tttcatcaat gtctgetttg 1560
+tggtttgtte cacaattage tttgatgggt ttggcagaag gttttacttt tattggtgaa 1620
+aatgaattgt tttacaaaga atttccagaa aatatgagat ctattgcage ttcattagtt 1680
+ttgtgtggtg ttgeagttge tteatacttg acttetttta ttgcagaaat tgttcataaa 1740
+acaactagat ctggtactag agattggttg geacaagatt tgaataagge aagattggat 1800
+tactttttct acatggttge tgttttagaa geattgaate tggtttactt tttggtttgt 1860
+gctaaatggt acagatataa aggtacaggt gacttgggta aattggaagt tgcaatggaa 1920
+aaattggaaa ctgaaaaaca tttggttgaa gaagaagatg aatttgattt gaatccaatt 1980
+tcagcaccaa aagctaatga tattgaaatt ttggaaccaa tggattcttt aagatcaaca 2040
+getaaatatt aa 2052
+SEQ ID NO: 326 moltype = DNA length = 1950
+FEATURE Location/Qualifiers
+source 1..1950
+
+mol_type = other DNA
+
+organism = synthetic construct
+SEQUENCE: 326
+atgttaaate atecatcteca aggttcagat gatgetcaag atgaaaaaca aggtgacttt 60
+ceagttattg aagaagaaaa gactcaagca gttacattga aagattcata tgtttcagat 120
+gatgttgeta attcaactga aagatataat ttgtcaccat ctccagaaga tgaagatttt 180
+gaageaceaa ctgaagaaga aatgeaaact ttaagacatg ttggtggtaa aaatgaacca 240
+aattacagag gtattaaage tatgecattt gttttgggta atgaaacaty tgaaaaattg 300
+ggtactattg gtacatcate taatttgtca gtttacttat ctactgtttt tcatatgaat 360
+acaatgtctg ctaataatgt tattaatatt tttaatggta cttgttactt gggttcttta 420
+gttggtgcat ttttgtgtga tacatacttt ggtagatata aaactttggg tttaggttct 480
+gttgctteat ttttgggtat gttaatgttg actttaacag cagctatttc tacattgeat 540
+ceaactaatt gtgataatte tggtgactyt aaaggtccat ctyctggtea aatggeattt 600
+ttagttggtg gttttgtttt aatggttatt ggtgettctg gtattagace atgtaatttg 660
+gettttggtg cagatcaatt caatccaaat acagaatctg gtagaagagg tattaattca 720
+tttttcaatt ggtactactt tacatacaca tttgetgtta tggtttctge tactattatt 780
+gtttatgtte aatcagatat ttcatggtet attggttttg ctattccaac atcattgatg 840
+tttttgteat gtgeattgtt tttcgetggt acttggttgt acgttaaagt tttaccacaa 900
+ggttctccaa tgacatettt ggttcaagtt attgttgttt cagttaaaaa gagaagatta 960
+aaattgecag gtgaaccate attgttgttt aatcatatte catctaatge aattaattca 1020
+aaattaccaa gaactaataa ttttagattt ttagataaag ctgcaatttt aactccagaa 1080
+gataaagtta atccagatgg ttetgeaget aataagtgga aattgtgtte tattcaacaa 1140
+gttgaagaag ttaaatgtgt tttgagagtt ttgecaattt ggattgetgg tgttattttt 1200
+caaatttcag ttactcaaca atetaattat gttccattte aageatttea atctgataga 1260
+catttgatta aaggtaataa gtttcaaatt ccagctggta cttataatgt tttctctatg 1320
+ttagetttga caatttggtt accaatttac gatagaatta ttattecatt gttaagaaga 1380
+tggactaaaa aggaagatgg tattacatta ttgcaaagaa tgggtgttgg tattgttttg 1440
+tetattttgt caatgttggt ttcagctttg gttgaatcaa gaagaagaaa tttggcatta 1500
+acaagaccaa cattaggtat tcaagaaggt caaggttcaa tttcatcaat gtcagettta 1560
+tggtttgttc cacaattage tttaatgggt ttggcagaag gttttacttt tattggtgaa 1620
+aatgaattgt tttacaaaga atttccagaa aatatgagat caattgetge atetttggtt 1680
+ttgtgtggtg ttgctgttge atcttactta acatctttta ttgctgaaat tgttcataaa 1740
+acaactagat caggtactag agattggttg gctcaagatt tgaataaggc aagattggat 1800
+US 2025/0179544 Al Jun. 5, 2025
+112
+-cont inued
+
+tactttttct atatggttge tgttttggaa geattaaatt tggtttactt tttggtttgt 1860
+getaaatggt acagatacaa aggtactggt gacttyggta aattggaagt tyctatggaa 1920
+aaattggaaa cagaaaaaca tttggtttaa 1950
+SEQ ID NO: 327 moltype = DNA length = 1275
+FEATURE Location/Qualifiers
+source 1. .1275
+
+mol_type = other DNA
+
+organism = synthetic construct
+SEQUENCE: 327
+atgggaggtg cgagtgcecag cggtgtagac aataaattta ataaggaaag ggtgatcget 60
+attggtgaga taatgagatt accaaatctt aattctttac aggtegtcge attcatcaat 120
+teactaaggg atgatccgag ccaaagegee aacctacttg cegaagegaa gaaattaaac 180
+gacgeccagg ctcccaaagg aggtagcage geaagttctg caggaggcag tagtgttgac 240
+aacaaattta acaaggaage gcaaactgcg ggtgtggaaa tcatggaact gccaaacctg 300
+aatacacgge agctcctgge tttcatccag tcattacgtg atgatccgtc ccagtcagcg 360
+aatttgetgg cagaggctaa aaagctcaac gatgegcaag ctectaaaac cagtggagge 420
+agttcegect ccagegeagg agggtcaagt gtagacaaca aattcaacaa agaaagagtg 480
+attgegatag gtgagateat geggttacct aacttaaaca gtctecaagt ggtggectte 540
+atcaatagtt tacgggatga cecaagecaa agegetaact tactageaga agetaaaaag 600
+ctaaatgatg ctcaggcace gaaaggaggt tctagtgegt ccagtgcagg agggagcagt 660
+gttgataaca agttcaacaa ggaggetcag acegcagggg tggagattat ggagctacct 720
+aacctaaaca ctagacaact tttggegttt atecagtcce ttagggacga cecatcccaa 780
+teegeaaate tattggegga ggctaagaag ctgaacgatg cacaagecee caagacaagt 840
+ggtagcggtg catctggtag tggtgceaggt ggaagcagceg tagacaataa gtttaataag 900
+gagcgtgtaa tagccatcgg agaaattatg cgtttgccaa atctgaactc cctacaggtg 960
+gtggctttca taaatagttt acgtgatgac ccctcacaat ccgcegaactt gttagcetgag 1020
+gcaaaaaagt taaacgacge tcaggetcca aaaggttccg gtgectcegg aageggagea 1080
+ggtggateta gegttgacaa taaatttaac aaagaggege agactycagy cgtggaaatt 1140
+atggaattye cgaacttgaa caccegtcag cttttggect teatacagag ettacgtgat 1200
+gacccatete aatcagetaa cctattagea gaggctaaga agttaaacga tyctcaggee 1260
+ccaaagacaa gttaa 1275
+SEQ ID NO: 328 moltype = DNA length = 210
+FEATURE Location/Qualifiers
+source 1..210
+
+mol_type = other DNA
+
+organism = synthetic construct
+SEQUENCE: 328
+atggtagaca acaaattcaa caaagaactg ggttgggega cctgggagat ettcaactta 60
+cetaacttaa acggtytgea agtgaaggee ttcategata gtttacggga tgacccaage 120
+caaagegcta acttgctgge agaagctaaa aagctaaatg atgctcagge gccgaaaggt 180
+teaagcaget caggttcgag ttcttccgge 210
+SEQ ID NO: 329 moltype = DNA length = 210
+FEATURE Location/Qualifiers
+source 1..210
+
+mol_type = other DNA
+
+organism = synthetic construct
+SEQUENCE: 329
+atygtagaca acaaattcaa caaagaaaca atacaagega gtcaagagat cagactatta 60
+cctaacttaa acggtagaca aaagctcgcee ttcatccaca gtttacttga tgacccaage 120
+caaagegcta acttgctgge agaagctaaa aagctaaatg atgctcagge gccgaaaggt 180
+teaagcaget caggttcgag ttcttccgge 210
+SEQ ID NO: 330 moltype = DNA length = 168
+FEATURE Location/Qualifiers
+source 1..168
+
+mol_type = other DNA
+
+organism = synthetic construct
+SEQUENCE: 330
+atgcaactge tgagatgttt tagcatcttt teegttattg cgagegtgtt agetcaggaa 60
+ettactacta tctgegaaca aatcccaage cecacgetgg aatcaaccee ttactcactg 120
+agtacaacaa cgatacttge gaacggcaaa cttgacaaga gaggaagt 168
+SEQ ID NO: 331 moltype = DNA length = 216
+FEATURE Location/Qualifiers
+source 1..216
+
+mol_type = other DNA
+
+organism = synthetic construct
+SEQUENCE: 331
+atgaaggtge ttgatttgct aaccgtgetg agtgcettect cactactgag caccttcgea 60
+geggeggagt caacggctac tgctgatagc acaactgcag ccagtagtac ggcatcttgt 120
+aatectttaa aaactactgg atgcacacct gacacegegt tagecactag cttcagegaa 180
+gacttctcat cttccagtct tgacaagegt gggtcc 216
+US 2025/0179544 Al Jun. 5, 2025
+113
+-cont inued
+
+SEQ ID NO: 332 moltype = DNA length = 153
+FEATURE Location/Qualifiers
+source 1..153
+
+mol_type = other DNA
+
+organism = synthetic construct
+SEQUENCE: 332
+atgttatcac tgaagacttt gttgtgtact cttctaacag tetcaagegt gttggegacg 60
+ceagttectg ccagggacce ctectccatt caattegtce atgaagaaaa caagaagagg 120
+tactatgact acgaccacgg gtcccttgge gaa 153
+SEQ ID NO: 333 moltype = DNA length = 99
+FEATURE Location/Qualifiers
+source 1..99
+
+mol_type = other DNA
+
+organism = synthetic construct
+SEQUENCE: 333
+atgaagtttg cgtatagttt actgettcce ettgeeggtg tttcagecte egtcatcaac 60
+tataaacgtg acggcgacte attagacaaa cgtggaagt 99
+SEQ ID NO: 334 moltype = DNA length = 198
+FEATURE Location/Qualifiers
+source 1..198
+
+mol_type = other DNA
+
+organism = synthetic construct
+SEQUENCE: 334
+atgaagctac agtctcttct agtgtctgca gcggtactta catccctaac agaaaatgta 60
+aatgcatgga gtcctaataa ttcctatgtce ccggctaacg tyacctgcega cgacgacata 120
+aatctagtce gtgaggeate tggecttage gacaacgaaa ctgagtgget gaagaaacgt 180
+gacgettata cgaaagag 198
+SEQ ID NO: 335 moltype = DNA length = 60
+FEATURE Location/Qualifiers
+source 1..60
+
+mol_type = other DNA
+
+organism = synthetic construct
+SEQUENCE: 335
+atgctattge aggetttctt gttcttgetg gcaggattcg cggcaaaaat cagegeatct 60
+SEQ ID NO: 336 moltype = DNA length = 297
+FEATURE Location/Qualifiers
+source 1..297
+
+mol_type = other DNA
+
+organism = synthetic construct
+SEQUENCE: 336
+atgaaactgt ccgctacgac tctaactgeg geaagectaa taggetatte tacgattgtg 60
+tetgetette cgtatgegge ggacattgac acaggatyta cgacgactge geacggttce 120
+catcageaca agagagetgt ggetgtaace tacgtgtacg agacagttac egtggataaa 180
+aatggtcaaa cagtaacgce gaccagtace gaagccagta gtaccgtcge cagcaccaca 240
+acgettatta gtgaatecte cgtcacaaag tecagetece tggataaaag gggttct 297
+SEQ ID NO: 337 moltype = DNA length = 276
+FEATURE Location/Qualifiers
+source 1. .276
+
+mol_type = other DNA
+
+organism = synthetic construct
+SEQUENCE: 337
+atgegtttte cttccatett tacggacgtg ttgttegetg cgtcaagege ettagecace 60
+cetgttaaca cyaccacaga agacgagaca getcagatce ctycegagge ggttataggt 120
+tacagtgace ttgaagggga cttcgatgtt geegttttge cgttttctaa ttcecaccaat 180
+aacgggttge tattcataaa taccacaate gegtcaateg cagctaagga agaaggagta 240
+agtttagaga agagggaage aacgaattte ggatca 276
+SEQ ID NO: 338 moltype = DNA length = 300
+FEATURE Location/Qualifiers
+source 1..300
+
+mol_type = other DNA
+
+organism = synthetic construct
+SEQUENCE: 338
+atggaagage aaagagagat attagaacag ttgaagaaaa ctttacagat getgactgtt 60
+gagecgtcca agaataatca aatcgccaac gaagaaaaag agaagaaaga aaacgaaaat 120
+agctggtgca tcttggaaca caattacgag gatattgcac aagagtttat cgactttatt 180
+tataagaace ccacaaccta tcacgttgtt tctttctteg cggaattget ggacaagcac 240
+aacttcaaat acttatcaga gaaaagcaac tggcaggatt ccatcggaga agatggcegga 300
+SEQ ID NO: 339 moltype = DNA length = 225
+FEATURE Location/Qualifiers
+US 2025/0179544 Al Jun. 5, 2025
+114
+-cont inued
+
+source 1..225
+
+mol_type = other DNA
+
+organism = synthetic construct
+SEQUENCE: 339
+atgttcagaa tacaattacg taccatgtca tctaagacgt geaagagtga ctacectaag 60
+gagtttgtet cattectgaa tagcagteac agtecatate atacegttca caacattaag 120
+aaacatttag taagtaatgg attcaaggag ctaagegage gtgactcatg ggcetggacat 180
+gtggegeaga aaggcaagta tttcgttaca cgtaacggga gtagt 225
+SEQ ID NO: 340 moltype = DNA length = 891
+FEATURE Location/Qualifiers
+source 1..891
+
+mol_type = other DNA
+
+organism = synthetic construct
+SEQUENCE: 340
+atgtctgaca gcagtccgac tattaacttt attaacttta accaaaccgg tacatgtatc 60
+agtttaggaa cgtccaaagg cttcaagata ttcaactgtg aacetttegg caagttctat 120
+teagaagaca gtggeggata tgecattgta gagatgetat teagtaccag tettctagee 180
+ttagttggca taggtgatca acecgetctt agecetagge gtctaaggat catcaatact 240
+aagaaacact ctatcatetg tgaggtgacg ttecegactt ceattttgte egttaagatg 300
+aataagtcac gtcttgtcgt acttttgcaa gagcagatat atatctatga cataaacaca 360
+atgaggctte tacacactat tgagaccaat ccgaacecaa gaggtttgat ggegatgtca 420
+eeaagtgtag ccaacageta tetggtgtac cettetecte ctaaagtaat taacagegag 480
+attaaggete acgcaacaac gaataatata acactgtctg teggtggaaa cactgagacg 540
+agttttaaac gtgaccagca agacgcggge catagegaca tctctgatct ggaccaatac 600
+tetagettca ctaagaggga cgatgctgac cccacgtctt ctaacggtgg caatagcagt 660
+attattaaga atggcgacgt tatagttttc aacctggaga ctcttcagec cacgatggtce 720
+atcgaggcac ataagggtga gatcgeggcea atggeaattt cetttgacgg aacacttatg 780
+geaacagegt ccyacaaggg gactataatt agagtatttg atatagaaac gygagacaaa 840
+atctateagt tcegtagggg cacatacgeg acaagaattt atageataag ¢ 891
+SEQ ID NO: 341 moltype = DNA length = 171
+FEATURE Location/Qualifiers
+source 1..172
+
+mol_type = other DNA
+
+organism = synthetic construct
+SEQUENCE: 341
+atgattgece ttcctgtaga aaaagcacca aggaagtctc tttggcagag acacagggce 60
+tteatetecg ggategtcge tctaattatt ataggtacgt ttttcttaac ttetggettg 120
+catectgete cacegeatga ageaaaacgt ceccatcatg ggaaaggace ¢ 171
+SEQ ID No: 342 moltype = DNA length = 105
+FEATURE Location/Qualifiers
+source 1..105
+
+mol_type = other DNA
+
+organism = synthetic construct
+SEQUENCE: 342
+atgtttagee tgaaggcatt attgccgetg gegttgttac ttgtctctge caatcaggtt 60
+geegecaagg tccacaaage gaaaatatac aaacacgagt tgtce 105
+SEQ ID NO: 343 moltype = DNA length = 297
+FEATURE Location/Qualifiers
+source 1..297
+
+mol_type = other DNA
+
+organism = synthetic construct
+SEQUENCE: 343
+atgaaattgg agaacacttt atttacactt ggtycactgg gttceattte tgetgegtta 60
+gtaattcega atctggagaa tgcagecgat caccatgaat tgataaataa agaggaccac 120
+catgagagge ccaggaaggt tgaatttaca aaggatgacg acgaggaace ttctgacage 180
+gaggacaagg aacacgggaa attccacaag aagggtagga aaggtcagga caaagagtct 240
+coogaattta atggtaagag ggectcaggt agecacgggt cegegcatga aggagga 297
+SEQ ID NO: 344 moltype = DNA length = 492
+FEATURE Location/Qualifiers
+source 1..492
+
+mol_type = other DNA
+
+organism = synthetic construct
+SEQUENCE: 344
+atgaaagegt tcacatetet tetgtgeggt ttgggtttgt caacgacett ggecaaagee 60
+atttccctac aaaggccgtt aggcctggac aaagacgtge ttcttcaage agcggaaaag 120
+ttegggttag acttggatct ggatcatttg ctaaaggaac tygacagcaa cgtcttggat 180
+gegtgggete aaatcgaaca tctatacecg aatcaagtaa tgtctctgga aacgtcaacc 240
+aaaccgaaat tcccagagge aatcaagacc aaaaaggact gggacttcgt agttaagaac 300
+gacgeaateg agaactatca actgegtgtc aacaaaatta aagatccaaa gattttggga 360
+atcgacccca acgtaactca atacacggge tacttggatg tcgaagacga ggataagcac 420
+ttettettct ggacttttga gtcaagaaat gaccctgega aagatccagt gatcttgtgg 480
+US 2025/0179544 Al Jun. 5, 2025
+115
+-cont inued
+
+ctgaatggtg ga 492
+SEQ ID NO: 345 moltype = DNA length = 225
+FEATURE Location/Qualifiers
+source 1..225
+
+mol_type = other DNA
+
+organism = synthetic construct
+SEQUENCE: 345
+atgaccaaaa actttattgt tacgttgaag aaaaatacge cggacgtgga agcaaagaaa 60
+ttettggata gegtccacca tgctggaggg tcaatcgtce ataagttcga tataatcaaa 120
+ggctacacaa taaaagtgee cgatgtcctg cacctgaata aactaaagga aaaacacaat 180
+gacgtgatag aaaatgtcga agaagacaaa gaggtacata cgaac 225
+SEQ ID NO: 346 moltype = DNA length = 234
+FEATURE Location/Qualifiers
+source 1..234
+
+mol_type = other DNA
+
+organism = synthetic construct
+SEQUENCE: 346
+atgaaatett ttattactag aaacaaaact gecattttgg cgacygttge egecactggt 60
+actgctattg gtgectatta ctactacaac caattacage agcagcaaca gcgtggtaag 120
+aaaaatacaa ttaacaagga tgagaagaag gacacaaagg attcacagaa ggaaacagaa 180
+ggegeaaaga agtctactge acettctaac ceacegatat acccagttag etct 234
+SEQ ID No: 347 moltype = DNA length = 351
+FEATURE Location/Qualifiers
+source 1..351
+
+mol_type = other DNA
+
+organism = synthetic construct
+SEQUENCE: 347
+atygegatgt tctgtacctt ctttgagaaa catcatagaa aatgggacat cttactagaa 60
+aagageaccg gagtgatgga ggcgatgaaa gtaacttcag aagagaaaga geagttgtct 120
+acagetateg atagaatgaa tgaaggtctg gacgeattta ttcaactata taacgaatee 180
+gagatcgatg aacctttaat ccagttggat gacgatacag cagaactaat gaaacagget 240
+agggacatgt acggccaaga gaaacttaac gagaaattaa acacaataat caaacaaatc 300
+ctgtcaattt ctgtctccga agagggtgag aaagaaggaa gcggatcagg c 351
+SEQ ID NO: 348 moltype = DNA length = 513
+FEATURE Location/Qualifiers
+source 1..513
+
+mol_type = other DNA
+
+organism = synthetic construct
+SEQUENCE: 348
+atggetgaca gggacaggag tggcatttac ggaggtacct atggccaaca ccageaggga 60
+ggaggtagac ccatyggcga acaggttaaa ggaatgattc aggacaaggg teceactgee 120
+tetcaggege ttactgytege aaccttatte cetetgggyeg gtctactttt ggtectatet 180
+ggattggect tagecgeaag egttgteggt ttagetctyg egaccecegt atttctacta 240
+ttttctcceg ttcttgtcce ggctgcttta ctaatcggta cegctgttac ggggtttctg 300
+acctcaggtg ctctaggact gggaggactt tctagectta cttgettgge caataccget 360
+agacaggegt ttcagaggac teetgactat gtagaggaag cceegtegtag aatggeggaa 420
+geegetgeac atgctggcca aaagacyget caggcaggac acyccateca gtcaaggget 480
+caagaggctg catctggagg cgcaggtget gga 513
+SEQ ID NO: 349 moltype = DNA length = 279
+FEATURE Location/Qualifiers
+source 1..279
+
+mol_type = other DNA
+
+organism = synthetic construct
+SEQUENCE: 349
+atgtetacge tacagagaag gegtgttaac agageagact ctggtgacac gtccageate 60
+cacagetecg caaataatac aaaaggtgat aagattgcaa acategetgt cgatggegat 120
+gacgataacg gtacaaacaa gaaaatagea tacgatccecg aagagagtaa gctaagagat 180
+aacataaaca ttectacttt gactttaatg gaggaggtte ttttgatggg tttacgtgac 240
+agagagggat acctatectt ctggaatgat tecatcagt 279
+SEQ ID NO: 350 moltype = DNA length = 264
+FEATURE Location/Qualifiers
+source 1..264
+
+mol_type = other DNA
+
+organism = synthetic construct
+SEQUENCE: 350
+atgtcactte ccttgagaac gatagtacat ttggtaaage cetttgcettg cactgetagg 60
+tttagtgcga gatacccaat ccacgtcatt gttgttgctg ttttattgag tgecgetget 120
+tatctatecg tgacacaate ttaccttaac gaatggaage tggactctaa tcagtattct 180
+acatacttaa acataaagce ggatgagttg tttgagaaat gcacacacta ctataggtct 240
+ggtggaaacg ctgcaattag aage 264
+US 2025/0179544 Al Jun. 5, 2025
+116
+-cont inued
+
+SEQ ID NO: 351 moltype = DNA length = 87
+FEATURE Locat ion/Qualifiers
+source 1..87
+
+mol_type = other DNA
+
+organism = synthetic construct
+SEQUENCE: 351
+atggatagca aagggtccte ccagaaggga teaagattge ttetgetget agtatccaat 60
+ettttattgt gecagggggt tgtatca 87
+SEQ ID NO: 352 moltype = DNA length = 69
+FEATURE Location/Qualifiers
+source 1..69
+
+mol_type = other DNA
+
+organism = synthetic construct
+SEQUENCE: 352
+atgaaagegt tcacgtectt attatgtgge ttgggtttga geacgacact ggctaaggee 60
+atcteactg 69
+SEQ ID NO: 353 moltype = DNA length = 219
+FEATURE Location/Qualifiers
+source 1..219
+
+mol_type = other DNA
+
+organism = synthetic construct
+SEQUENCE: 353
+atgtccgcega ccaaaagcat cgtaggggag gctctggaat acgtcaatat cgggctttca 60
+cacttccttg ctcttccctt agceccaaaga ataagtctga tcattattat tccattcate 120
+tataatattg tatggcaget tctatattct ttgegtaagg acaggeccee gettgtttte 180
+tactggatte cetgggtegy gtecgeagtt gtgtacgyg 219
+SEQ ID NO: 354 moltype = DNA length = 138
+FEATURE Location/Qualifiers
+source 1..138
+
+mol_type = other DNA
+
+organism = synthetic construct
+SEQUENCE: 354
+atgectttcg gtattgataa tactgatttc acggtcctag cgggtttggt attagcagtt 60
+ctattatatg tcaagcgtaa ctccatcaag gagttgcetta tgtctgatga cggggatata 120
+acegeegtgt cetetggt 138
+SEQ ID NO: 355 moltype = DNA length = 99
+FEATURE Location/Qualifiers
+source 1..99
+
+mol_type = other DNA
+
+organism = synthetic construct
+SEQUENCE: 355
+atggagttga ccatggeate tacgatgagt ctggecttac tggtyttgag egeygectac 60
+gttctagtag cactgagaag aagtagatct tccagcage 99
+SEQ ID NO: 356 moltype = DNA length = 210
+FEATURE Location/Qualifiers
+source 1..210
+
+mol_type = other DNA
+
+organism = synthetic construct
+SEQUENCE: 356
+atgtcatetg tygcagaaaa cataattcag cacgcaacac acaacagtac getycaccaa 60
+ettgegaagg accaacette egtcggegtt acgacegeat ttageatctt agacactcta 120
+aagageatga gctatctgaa gatattegct actcttattt gtatettget tgtatgggat 180
+caagttgect accagattaa gaaaggctca 210
+SEQ ID NO: 357 moltype = DNA length = 75
+FEATURE Location/Qualifiers
+source 1..75
+
+mol_type = other DNA
+
+organism = synthetic construct
+SEQUENCE: 357
+atggaagaat tattaaaaca ageactacaa caageacage aattattgea acaggeccaa 60
+gagttggega agaag 75
+SEQ ID NO: 358 moltype = DNA length = 753
+FEATURE Location/Qualifiers
+source 1..753
+
+mol_type = other DNA
+
+organism = synthetic construct
+SEQUENCE: 358
+atggtatcta aaggagaaga attgtttaca ggcgtggtac caattctggt tgaattggac 60
+US 2025/0179544 Al Jun. 5, 2025
+117
+-cont inued
+
+ggtgacgtga acggacacaa attcagegtg agtggagaag gegagggaga tgctacctat 120
+ggeaagttga cgcttaaact gatctycaca acgggcaaat taccagtgee ctggecgacg 180
+ettgtaacaa ctettggata cgggttacag tgetttgece gttatccaga ccatatgaaa 240
+cageatgact tcttcaaate tgegatgeeg gagggatatg tacaggaacg tacgattttc 300
+tttaaggacg atgggaacta caagactegt getgaggtta agtttgaagg cgacactcta 360
+gteaatagga tagaattaaa gggtattgat tttaaggagg atgggaacat cctgggecat 420
+aaactagagt acaactacaa ttcacataat gtctacatca cegctgataa acagaagaac 480
+gggatcaaag ctaatttcaa gatacgtcat aatatcgaag atggtggegt ccagettget 540
+gaccactace agcagaacac gcctatagge gacgggcecgg tgttgctacc tgacaatcat 600
+tatctgtcct atcagtccge cctttcaaaa gaccctaatg agaagaggga tcatatggtg 660
+cttttagaat ttgtaaccge ggcagggatc acacttggga tggatgagct gtataaagga 720
+ggtagtggaa gtgegggate tggeggtagt age 753
+SEQ ID NO: 359 moltype = DNA length = 1161
+FEATURE Location/Qualifiers
+source 1..1161
+
+mol_type = other DNA
+
+organism = synthetic construct
+SEQUENCE: 359
+atgaagatcg aagaaggaaa gttagtgate tggataaatg gtyataaagg ctacaatggg 60
+ttggeggaag taggaaaaaa gttcgagaaa gacacaggaa tcaaagttac ggtcgagcac 120
+ecegataaac tagaggaaaa gtttccacag gtagetgeta cgggggacgg accagacatt 180
+atettttggg cccacgatag attcgggggt tatgetcagt ceggacttet ggccgagatt 240
+actecagaca aggecttcca agacaaactt taccegttca catgggacge agtcaggtac 300
+aatggaaage tgattgcata tccgatagct gtggaggceac ttagectaat ttacaacaag 360
+gatctactac ctaaccctce caagacttgg gaagaaattc cagctctgga caaggagtta 420
+aaagcaaagg gtaagagtge acttatgttc aatctacaag agccttattt cacatggcce 480
+ctaatagecg ccgacggagg ctatgecttt aagtacgaaa acggcaagta tgacataaag 540
+gatgttgggg tagacaacge gggagecaag getggattaa ctttcetggt gygatttaatt 600
+aagaacaaac acatgaacge agacactgac tactetateg cagaageage gttcaataaa 660
+ggegaaacgg cgyatgacaat taacggyece tgggettggt caaacattga cacgagtaaa 720
+gttaactatg gtgtaacggt attgeccaca tttaagggac aacccagtaa acctttcgta 780
+ggagtettgt cagecgggat caatgeaget teceegaata aagagettge taaggaattt 9840
+cttgaaaatt atcttttaac cgatgaggga ttggaggegg ttaacaagga caagectctt 900
+ggtgetgtag ccctgaaate ctatgaagaa gagttageta aggacccaag aategecgea 960
+acaatggaga atgctcagaa gggagaaatt atgccaaata taccacaaat gagtgectte 1020
+tggtatgegg taaggacgge agttattaat gccgcttcag gtagacaaac agtcgatgag 1080
+getttgaaag atgcacagac taacagttca tccaacaata ataacaataa caataacaat 1140
+aacetgggta tegagggeeg t 1161
+SEQ ID NO: 360 moltype = DNA length = 1473
+FEATURE Location/Qualifiers
+source 1..1473
+
+mol_type = other DNA
+
+organism = synthetic construct
+SEQUENCE: 360
+atgacatcac tatccaagte attcatgeag tetggtagga tttgegeege etgettctac 60
+ettcttttca ctctgcttag catccctata tcctttaaag taggeggtct tgaatgegga 120
+etttetttta eggttacatt gtttacgceta tacttcatta caacaacact taatgtactg 180
+gegagaagge atggagggeg tttgtacate ttettcacta attgectata ctacagecaa 240
+cacttcatca tegegagttt getttattta tttctttceg gettctecaa egacgagtta 300
+ggcaatgtgt tgaagaataa gtacaacgag agtgagtctt ttttagaage acttaaaaac 360
+agtttgaact caaaccaaat caattacgtc ctgtactatt actactaccg tttcgttgtg 420
+caaccttggce aattcgtact aacaaaatct actccattct tcacactatc tgaaggattt 480
+tttactattt tagetattca ageagtegge gagaccaata ggtggetate taacgacttg 540
+aactccaaca cctggateat ctecteatta ctaacateeg ggggegtgat tacegettce 600
+ttgtattate tgtataggat atatgtcact cctatatgge ctcttagtat teagactgea 660
+tetttgttgg gtttggtctt gagtatggta tgtygactag gactgtacgy aattgttage 720
+caaaaggggt cagtgattga gtcttctttg ttettegect acattgtteg ttgtatatat 780
+gaaatcagte egaagetgge gacaacaget actgatgaga ttttaaactt gttcaaagat 840
+gtatggcaga agcaccageg taatctgeeg accgeagaca accttttgtg ctattttcac 900
+aatgttatct tgaagaacge ggaggtactt tggggtaget tcataccaag aggtagaaag 960
+aaaacaggag attttcacga caagetaatt tecattctat cattegaaaa agtaagttta 1020
+atctctaage cattctggaa attcttcaaa aacttcacgt teagtgtace gttaagtatc 1080
+aatgaatttt gccaagtgac catcaagatg gegagtgaaa gegtttctee egeaatagta 1140
+ataaacctgt gttttagggt tctgatgttt tacagegega ceagaataat tecagetttg 1200
+caaaggaaaa acgacaaaca gttgaggaag ageaggegta teatgaaagg attgtactgg 1260
+tacagtccat gcattctgat cgccatgtac actcacttaa ttcttcaata ctcaggcgaa 1320
+etgaagaaag atttatgtat ttggggatge agegaaaagt ggtttggagt egaccaacee 1380
+gaaattatag tagactcatg gggcttttgg aactggtgca acatattctg tactattttg 1440
+gtgtacgcaa ctgagctgat tgggagcgga agt 1473
+SEQ ID NO: 361 moltype = DNA length = 912
+FEATURE Location/Qualifiers
+source 1..912
+
+mol_type = other DNA
+US 2025/0179544 Al Jun. 5, 2025
+118
+-cont inued
+
+organism = synthetic construct
+SEQUENCE: 361
+atycaacaag cyactggeaa tgaattgtta ggtatattgg atttagataa tgacategac 60
+tttgagacgg cytaccaaat gttatcaagt aacttcgatg atcaaatgte cgcacatata 120
+cacgaaaata cetttagege cacctcacect cctttactta ctcacgaact aggeatcata 180
+cegaacgtgg caacegtaca aceaagtcat gtggagacea ttecggegga caatcaaact 240
+caceatgete cgttacatac teatgeecac tacttgaace acaatccaca ccagecaage 300
+atgggettcg atcaggeget tggattaaag ctgtccccaa geageagegg cttgttgtca 360
+accaacgaaa gtaatgcgat tgagcagttc ttagacaacc ttatttcaca agacatgatg 420
+agttccaatg cgtctatgaa tagtgagagt cacctacaca tcagatcacc aaaaaaacag 480
+caccgttaca ccgaattgaa ccaacgttac cccgagacge acccccactc caataccggt 540
+gagctacega ctaatacgge tgatgtccecg actgaattca caaceegtga gggecegeat 600
+cageccateg gaaatgacea ctataatect ceccectttt ctgttcctga gataaggatt 660
+ceagatageg atattcctge gaatattgag gatgaccceg taaaagttag gaagtggaaa 720
+catgtgcaaa tggaaaagat ccgtagaatt aatacaaaag aggcgtttga gcegtttgatc 780
+aagtctgtga gaactccgcce gaaggagaat ggcaaaagga ttccgaaaca tatcctgcta 340
+acctgtgtta tgaacgacat aaaaagtate agaagegcca atgaagcatt geageacatt 900
+etggacgatt ca 912
+SEQ ID NO: 362 moltype = DNA length = 1152
+FEATURE Location/Qualifiers
+source 1..1152
+
+mol_type = other DNA
+
+organism = synthetic construct
+SEQUENCE: 362
+atgagtaaaa gcaagacatt cctgttcacg agcgaatcag ttggcgaggg gcatcccgat 60
+aagatatgcg accaggttag tgatgcgatt ctggacgcat gtctggaaca ggatcctttt 120
+teaaaagtgg cgtgtgagac ggecgegaag acgggaatga teatggtgtt cggagagatc 180
+accactaaag ccegtttaga ttatcaacaa attytacgtg ataccataaa gaagataggt 240
+tatgatgact cagcaaaggy gtttgattat aaaacttgta acgtettggt egetatcgag 300
+caacagtece ctgatattge acaaggttta cattatgaga agtcecttga agacttagga 360
+geaggcegate aaggtattat gtttgggtac gceaaccgacg agacecccega aggactgect 420
+ttaacaatac ttettgetca taagetgaac atggeaatgg cagacgegag gagggatggt 480
+agectgeect ggttgegtce agatactaaa actcaagtga cggttgaata tgaagatgat 540
+aacgggaggt gggtgecgaa gaggattgac acggttgtta tetcegcaca geacgecgat 600
+gagatctcca cggccgacct acgtacacaa ctacaaaaag atattgtgga aaaagtaatt 660
+cegaaggata tgttggatga aaatacaaag tattttatce aaccatctgg aaggttcgtce 720
+atagggggtc cccaagggga cgctggccta actggcagga agattattgt agatgegtat 780
+ggeggageaa gtagegttgg aggggggget ttcageggca aagactatte caaggtagat 840
+aggagegeeg cytacgegge gagatgggtg geaaaatect tagtggetge aggactttgt 900
+aagegtgtte aagtgcaatt cteatacgeg ateggtatag cggageccet ttecttacat 960
+gttgatacgt atggcacage aactaaaagt gacgatgaga taatagaaat cattaagaaa 1020
+aacttcgatt tgagacctgg cgtactagtc aaagagttgg acttagcaag accaatctac 1080
+etteccacgg cttcttatag acattttace aaccaggagt actcttggga gaagecgaaa 1140
+aagetggagt tc 1152
+SEQ ID NO: 363 moltype = DNA length = 666
+FEATURE Location/Qualifiers
+source 1.666
+
+mol_type = other DNA
+
+organism = synthetic construct
+SEQUENCE: 363
+atgtcctcca gcgaatccat ccgtatggtg ctgattggtc ccccagggge ggggaagggt 60
+acgcaagece caaatctgca agaaagattt cacgctgctc acctagctac aggagatatg 120
+ttgegtagte agattgeaaa aggtacacag ctaggectgg aagctaaaaa aattatggac 180
+caaggeggee ttgttagtga cgatattatg gtaaacatga taaaagatga gettacgaat 240
+aacceggett gcaagaatgg attcatetta gatggtttce cgegtacaat tecgeaggee 300
+gaaaagttgg atcaaatgct gaaagaacaa ggcacacctt tagagaagge cattgagett 360
+aaagttgatg acgagctact agtggecegt atcaceggga gacttatcca cecegecage 420
+ggaagaagtt accacaagat attcaacect ccgaaagaag acatgaaaga egatgtcace 480
+ggagaageat tagttcaaag gtctgatgac aacgeggatg cgctaaaaaa gagattgget 540
+gegtaccacg cacagacgga acegattgta gatttctata agaaaacagg gatttgggec 600
+ggagtegatg cttcccaace cectgecact gtatgggetg atatecttaa taaactaggt 660
+aaggat 666
+SEQ ID NO: 364 moltype = DNA length = 1761
+FEATURE Location/Qualifiers
+source 1..1761
+
+mol_type = other DNA
+
+organism = synthetic construct
+SEQUENCE: 364
+atggacatac ttaaaagagg aaatgagage gacaaattta ctaaaataga gacggaatct 60
+acaactatac ccaacgactc agacagatce ggatctctga ttagacgtat gaaagactca 120
+tttaaacaat caaacctgea tgttattcca gaggatttgg aaaacagtga acagacggaa 180
+caggagaaaa tacagtggaa actggctagt caaccgtace agaaggtttt gtctcagaga 240
+cacttgacca tgatcgctat cgggggcaca ctaggaacag gactatttat tggecttggt 300
+US 2025/0179544 Al Jun. 5, 2025
+119
+-cont inued
+
+tactetttgg ectetgggce ageageacta ctaattggtt tecttettgt tgggacctee 360
+atgttttgtg tagttcagte egecgcagaa ttgtectyte agtttccegt ttetggtage 420
+tacgecacac acgtgtctag gttcatagac gaatetgtgg gtttcacagt ageaacaaac 480
+tatgecttgg cgtggetgat ctectttcct agtgaactga teggatgtge getaacgatt 540
+tettactgga accaaacggt aaatccggeg gtgtgggtag caatatttta tgtatttate 600
+atggtgttaa atttgtttag tgttegtgge ttegeagaga cagaattege gettagtata 660
+attaaggtaa tagcaatctt tatatttatt atcattggga tegtgttaat agcaggaggg 720
+ggecctaatt caacaggcta tataggggeg aagtactgge acgacectgy agegttcget 780
+aagecggtgt tcaagaattt atgcaataca tttgtctcag cggcgttcte ctttggtggg 340
+agtgaactag tecttttgac ctctactgaa agcaagaaca tttcagegat aagtagggcg 900
+gcaaagggta ccttctggag gattgctatc ttctatatca ctaccgtagt cataatcggc 960
+tgettagtac catataacga cccaaggetg ttaagtgget ctaactctga agacgtatee 1020
+gecteccegt ttgtcatege getatccaac aceggyagea tygygtgetaa ggtgtcaaat 1080
+tttatgaacg tegtaattct agtagcagta gtatecgtgt geaattcaty tgtttacgea 1140
+agctcaagge tgattcaage gcttggggcee tctggtcaac taccatcagt gtgtagttat 1200
+atggatagaa aagggagace gttagtgggg atagggatta geggagcttt cggcttgtta 1260
+ggattccttg tggcaagtaa aaaggaagac gaagtgttta cetggetttt tgeectgtge 1320
+teaataagea gcttttttac ctggttttgt atatgtatgt cecagatcag gtttaggatg 1380
+getctaaagg cgcaggycag gagtaacgac gagattgegt ataagageat cettggggtt 1440
+tacggaggaa tattaggttg cgtgcetgaat getttgetga tageggggga gatctatgte 1500
+agegeggege ctgtcggate cccaagtagt gceggaggcat tttttgagta ttgtctatce 1560
+atccecatca tgatagtcgt ttattttgcet categttttt atagacgtga ctggaaacat 1620
+ttetacatta aaaggteega gatagatttg gacacaggat getcegtega aaatttggag 1680
+ttgtttaagg cccagaaaga agetgaagag caattgatag ccageaaace tttctactat 1740
+aagatctata gattttggtg t 1761
+SEQ ID NO: 365 moltype = DNA length = 1722
+FEATURE Location/Qualifiers
+source 1..1722
+
+mol_type = other DNA
+
+organism = synthetic construct
+SEQUENCE: 365
+atgagegaag gaagaacgtt tttatctcag ctaaatgttt tcaataagga aaattaccaa 60
+ttetetteta gcaccacaaa aaaagaagta tcaaactcta cagtggacge tgacaacgga 120
+gettctgatt ttgaggecgg geageagtte gecacegaat tagaccaggg ggaaaagcag 180
+ctagggattc taagttgcat tgggttgata tgtaatagga tyttggggac gggggtgttt 240
+gcagtgagtt caacgatata tacgttatge gggagegtgg ggctggctct tatcatgtgg 300
+geagttggag ctattattge aatctcaggt ttgtacgtct acatggagtt tgggaccgct 360
+atacctaaaa atggeggcga gaagaattac ttggaageaa tettcagaaa acctaaatte 420
+tttataacct gtatgtacge cgeatatatt tttttettag gatgggetge eggtaacagt 480
+ataaacacag caattatgtt cctaacggct getgacacgg aggtgactaa gtggaatcag 540
+agaggaattg gtgtagcagt ggtgtttttce gcatttctga taaattcctt gaatgttaag 600
+attggtctat atttacaaaa catactagga attttcaaga tcggaatagt attattcatc 660
+tetatcactg gttgggtgge getaggggga ggtctaaaag acggatacea gagecacaat 720
+tttagaaatg cgttcgaggg aacggagace gegaccgect atggeattgt taatgeatta 780
+tactcagtaa tttggagttt tgtcggatac tecaacgtca attatgeget tygtgaggtg 340
+aaaaaceceg ttaggacatt gaagateget yggectacat ceatggtttt ettggecate 900
+atatatatat ttgttaatat agcttatttc gecgttgtge ccaaagacaa gctaatatct 960
+tecaagetaa ttettgetge agacttcttt gatatagtct teggaggtca agctaaaagg 1020
+geggeggeeg ctetagtggg cetttecgeg ttaggtaatg tettaagtgt gattttcage 1080
+cagggaagga ttatacaaca gttgggacgt ygagggggtct taccattcte aaatttctte 1140
+gecagttcca agecgttcaa tagecctatg gtcgggttat ttcageattt catagtctgt 1200
+actgtcacaa tattggcecce gccacctgge gatgcatace tgttagttca aaatttaata 1260
+agctacccga tgaacataat aaatttcgce attagtgcgg gtctgttgtg gatctactgg 1320
+caacgtagge agggaaagat agaatggaac cctccaatta aggccggagt attcgtgaca 1380
+gggttcttea cectttccaa tttatattta ateattgece cgtacgttce accatctaac 1440
+ggagaateag tgtatagete catgecctac tggatacatt gtytcattge atggggtate 1500
+tttttttttg geggggtcta ttatgtegta tggycacage tgttgcegag gtggggtcac 1560
+tataaacttg taagtaaaga cgttcttgga gaggacggtt tttggagagt taagattget 1620
+aaagtttacg atgatactat cggtgatgta gacacecagg aagacggggt catagaaaca 1680
+aatattatcg agcactataa atcagagcag gagaaatcct tg 1722
+SEQ ID NO: 366 moltype = DNA length = 1776
+FEATURE Location/Qualifiers
+source 1..1776
+
+mol_type = other DNA
+
+organism = synthetic construct
+SEQUENCE: 366
+atgacggagg actttatate cagegttaag aggageaacg aagaactaaa ggagaggaag 60
+agcaacttcg gttttgtaga atacaaaage aaacagctta caagctcatc ttctcacaat 120
+agcaattcaa gccaccacga tgatgataat caacacggga agcgtaatat tttccaacgt 180
+tgtgtagact ctttcaagte teccttggac ggatectttg acacgagtaa cctgaaaagg 240
+acattaaage cgaggcatct tatcatgata gctatagggg ggagcattgg aactggtttg 300
+ttegtggggt caggtaagge gatageggaa ggeggtecte ttggagtggt tattggetgg 360
+getattgctg gcagtcagat cattggcacg attcacgggt tgggtgaaat aactgtacgt 420
+tttectgtgg teggggettt tgctaattac ggtacaaggt ttctggatcc gtcaatctca 480
+US 2025/0179544 Al Jun. 5, 2025
+120
+-cont inued
+
+ttegtagtat ctacgattta tgtcctacag tggttctttg tactacegtt agagataata 540
+geegeegega tgacegtyca atactygaac agttctatag atccggtaat atgggtageg 600
+atettctacg cagtaattgt tagtatcaac ttgtttgagg ttegtggatt eggggaageg 660
+gaattcgett tetcaacaat aaaggegate acagtctgtg gettcatcat tetatgtgta 720
+gtgttaatat gtggcggagg acetgaccac gagttcatag gggegaagta ctggcatgat 780
+cegggttgee tggecaacag ttttccaggg gttttaageg tgetggtggt tgectettac 9840
+agectgggtg gtattgagat gacttgettg gegtcaggeg agacggacee aaaggggttg 900
+cettcageta tcaaacaggt attctggegt atattattct tttttetgat tagectgacg 960
+ettgtgggtt ttttggtgce ctatacgaat cagaacctge tyggeggcag ttcagtggac 1020
+aactcccctt ttgtcatcge cataaaattg caccatatca aggcattacc atctatcgta 1080
+aacgecgtaa tcttaattte agtactaagt gttgggaatt catgcatttt cgctagttca 1140
+agaacacttt gcagtatgge ccatcaggga ctaatacett ggtggtttgg gtacategat 1200
+agagegggte gtecgettgt cggaatcatg ygecaattece tatttggett gettgetttt 1260
+ttagtcaaat ctggttccat gagegaggta tttaattygt taatggeaat tgcgggtttg 1320
+gegacatgta ttgtatggtt gtctatcaat ttatctcaca tacgttttcg tctggcaatg 1380
+aaageccagg gtaagagtct tgatgaattg gaatttgtaa gcegcagttgg tatctgggge 1440
+teegeataca gtgcattaat aaactgtctg atattaatag cecagtttta ttgttccctg 1500
+tggeegatag ggggetggac cagtggaaag gagegtgcaa agatcttctt ccaaaactac 1560
+ttatgegege taataatget attcattttt atagtgcata aaatctacta caagtytcaa 1620
+aceggcaaat gytggagegt gaaggegetg aaagatatag atcttgagac ggataggaag 1680
+gacatcgaca ttgaaattgt aaagcaagaa attgccgaaa agaagatgta cctagatagc 1740
+agacegtggt atgtaagaca gtttcactte tggtgt 1776
+SEQ ID NO: 367 moltype = DNA length = 1800
+FEATURE Location/Qualifiers
+source 1..1800
+
+mol_type = other DNA
+
+organism = synthetic construct
+SEQUENCE: 367
+atgattaatg acaaactagt ccacttectg atacaaaatt acgacgatat acttaggget 60
+cegetgtetg gtcagttgaa ggatgtatat tecctataca tatetggegg ctacgatgat 120
+gagatgcaaa aattgaggaa cgataaagac gaagtgctge agtttgagea gttttggaat 180
+gacctgeaag atataatttt tgcecacacea cagagcatac aattegatca gaatetgttg 240
+gttgcagate gtccggagaa gattgtttat ctggatgtgt tctcactaaa gatectttat 300
+aataaattce atgetttcta ttacacttta aaaagttcca getcttcctg cgaagaaaag 360
+gtatcttcct tgactaccaa gcectgaggct gacagtgaga aggaccagtt acttgggaga 420
+ttactggggg tgttaaattg ggatgtgaac gtatcaaace agggettgee gegtgaacag 480
+ctttctaaca gactacaaaa tcttctgagg gaaaaaccct cttccttcca actagegaag 540
+gagegtgeca aatatacaac tgaggttate gagtatatac caatatgtte tgactatage 600
+catgettete tactttecac ctecgtctac ategtcaata ataagategt cagtcttcaa 660
+tggtccaaaa tttccgecty ccaagagaat caccecggte tgategagty cattcaaage 720
+aagatccatt ttatccctaa tatcaaaccg cagacagaca ttagtcttgg cgactgetct 780
+tacctagaca cttgtcataa attgaacacg tgcagatata tccactattt acaatatatt 840
+ecaagetgce ttcaagaacg tgctgatcgt gaaactgcat cagaaaataa gagaatcegt 900
+teaaatgtct ccatccectt ttatacctta ggaaattgea gegogeactg cattaagaaa 960
+geattgcegg cecagtygat cegttytgat gtaagaaaat tegacttcag ggtecttgge 1020
+aaattctecg tygtaatege egacectgee tggaacatte acatgaatet acectacggt 1080
+acgtgtaacg atatcgaatt actggggttg ccattacatg aactgcagga cgagggtate 1140
+atttttctat gggtaacggg gagagcaate gaattgggaa aggagtcttt gaataattgg 1200
+ggetacaacg teatcaatga agtttettgg ataaagacaa atcagttagg ccgtaccate 1260
+gteactggaa gaacgggyca ttggttyaac cactcaaagg aacatctact ggttggttta 1320
+aagggcaatc caaaatggat caataagcac atagatgtgg atcttatagt ctccatgacce 1380
+agagaaactt caaggaaacc ggatgagtta tacggaatcg ctgaacgtct ggcagggaca 1440
+catgegagaa agttggagat atttggaagg gatcataata caagacctgg ctggtttact 1500
+ataggaaatc aactgactgg taactgtatc tacgagatgg atgtcgagag aaagtatcag 1560
+gagttcatga aatctaaaac gggcactagt catacgggga ccaagaagat agacaagaaa 1620
+cageccteta aactycaaca geaacaccaa caacagtact ggaataacat ggacatyggg 1680
+tetggaaagt actacgegga ggctaagcag aatcccatga atcaaaaaca caccecttte 1740
+gaaagcaage agcagcaaaa acaacaattc caaaccctaa acaacttgta tttegececag 1800
+SEQ ID NO: 368 moltype = DNA length = 1527
+FEATURE Location/Qualifiers
+source 1..1527
+
+mol_type = other DNA
+
+organism = synthetic construct
+SEQUENCE: 368
+atgteatece caactttgag ateageattg agaaatttge cageagettt attggettta 60
+geagetgett gtgaagctca aaatgttggt aaatggggtc caatggttaa atttccagtt 120
+gttccagttg ctgttgeatt ggttecagaa actggtaatt tgttggtttg gtcatetggt 180
+tggccaaata gatggactac tgctggtaat ggtaaaactt acacttcttt gtataatgtt 240
+aatactggta atatttctga tgcaattgtt caaaatacac aacatgatat gttttgtcca 300
+ggtacttett tggatgetga tggtagaatt attgttacag gtggttcttc agetgcaaaa 360
+acttcagttt tggattttaa aaagggtgaa tcatctccgt ggactccatt gtctaatatg 420
+caaatttcta gaggttacca ateatcttgt acaacttctg aaggtaaaat ttttgttatt 480
+ggtggttctt tttcaggtge tggtactaga aatggtgaag tttacgatcc aaaagctaat 540
+acatggacta aattagctgg ttgtccagtt aaaccattgg ttatgcaaag aggtatgttt 600
+US 2025/0179544 Al Jun. 5, 2025
+-cont inued
+
+ceagattete atgettggtt atggtcttgg aaaaatggtt ctgttttgea agetggtcca 660
+tetaaaaaga tgaattggta tgatactaaa ggtacaggtt ctaatactee ageaggtttg 720
+agagytactg atgaagatte tatgtgtgyt gtttetgtta tgtacgatge agttgetggt 780
+aaaattttta cttacgytgg tggtaaagyt tatactggtt acgattcaac atctaatget 3840
+catattttaa cattgggtga accaggtcaa getgttcaag ttcaaaaatt agetaatggt 900
+aaatataata gaggttttge aaatgetgtt gttatgecag atggtaaaat ttgggttgtt 960
+ggtggtatge aaaagatgtg gttgttttct gatacaacte cacaattaac tecagaattg 1020
+tttgatecag caactggtte ttttacacca actacaccac atactgttec aagaaattac 1080
+cattctacag cattgttaat ggctgatgct acaatttygt ctggtggtgg tggtttgtgt 1140
+ggtgctaatt gtaaagaaaa tcattttgat ggtcaatttt ggtcaccace atacttattt 1200
+gaagctgatg gtgttacace agctaaaaga ccagttatte aatcattgte tgatactget 1260
+gttagageag gtgetccaat tacaattact atgcaagatg ctggtgceata tactttttca 1320
+atgattagag tttctgetac tacacataca gttaatacag atcaaagaag aataceattg 1380
+gatggtcaag atgytggtga cggtaaatect tttactgtta atgttccaaa tgattatggt 1440
+gttgcaattc caggttacta tatgttattt gctatgaatg aagctggtgt tccatgtgtt 1500
+getcaatttt tcaaagttac tttgtaa 1527
+SEQ ID NO: 369 moltype = DNA length = 984
+FEATURE Location/Qualifiers
+source 1. .984
+
+mol_type = other DNA
+
+organism = synthetic construct
+SEQUENCE: 369
+atgteatecg aatttgttag atcattgtyt gtttttatta catttttagg ttgtttgatt 60
+tettcagete atggtcaage tgcagctaga aggccaggte caatttctgg tactagaatt 120
+ggtttttact tgacaacttg tccaacagct gaaattattg ttagaaatge tgttagagct 180
+ggttttaatt ctgatccaag aattgctcca ggtattttga gaatgceattt tcatgattgt 240
+tttgttttag gttgtgatgg ttetgttttg atttetggtt caaatactga aagaacagct 300
+gttccaaatt tgaatttgag aggttttgaa gttattgata atyctaaaac teaattggaa 360
+getacttgte cagytgttgt ttettytget gatattttag cattygetge aagagatact 420
+gttgttttga ctagaggttt gggttygeaa gttccaacag gtagaagaga tggtagagtt 480
+tetgttgett ctaatgetaa taatttgeca ggtccaagag attctgttge tgttcaacaa 540
+caaaaatttt etgetgttgg tttgaatact agagatttgg ttgttttage aggtggtcat 600
+acaattggta ctgctggttg tggtgttttt agagatagat tgtttaataa tacagatcca 660
+aatgttaate aattgttttt aactcaattg caaactcaat gtccacaaaa tggtgacggt 720
+getgttagag ttgatttgga tactggttct ggtactacat ttgataattc ttactttatt 780
+aatttgtcaa gaggtagagg tgttttggaa tcagatcatg ttttygtggac tgatccagct 840
+acaagaccaa ttgttcaaca attgatgtct ccaagaggta attttaatge tgaatttget 900
+agatctatgg ttagaatgte taatattggt gttgttacag gtgctaatgg tgaaattaga 960
+agagtttgtt etgetgttaa ttaa 984
+
+1. Apolynucleotide comprising a sequence as disclosed in 9. The recombinant cell according to claim 4, wherein at
+a Sequence Listing filed herewith, or a sequence having least one copy of the polynucleotide sequence or polynucle-
+greater or equal to about 90% sequence identity to any one otide sequences is located on at least one plasmid.
+of said sequences. 10. The recombinant cell according to claim 4, wherein at
+
+2. The polynucleotide according to claim 1, having least one copy of the polynucleotide sequence or polynucle-
+greater or equal to about 95% sequence identity to any of otide sequences is stably integrated into the genome of the
+said sequences. cell. ; ; . .
+
+3. An . ‘ oo 1 11. The recombinant cell according to claim 9, wherein a
+
+L ti ‘de veauence vector dine to elni wt or dan, Poly- plurality of copies of the polynucleotide sequence or poly-
+nuceotide Sequences according 1) claim 1 ane an opera: nucleotide sequences are stably integrated a plasmid or into
+tively linked promoter sequence that allows for expression
+
+f th 1 Jeotid " the genome of the cell.
+of the one or more polynucicoude sequences i a cell, 12. The recombinant cell according to claim 4, wherein
+
+4. A recombinant cell comprising a polynucleotide the polynucleotide sequence or polynucleotide sequences
+according to claim 1. are the same sequence.
+
+5. The recombinant cell according to claim 4, wherein the 13. The recombinant cell according to claim 4, wherein
+cell comprises a bacterial cell, a fungal cell, or a yeast cell. the polynucleotide sequence or polynucleotide sequences
+
+: . . . are different sequences.
+
+6. The recombinant cell according to claim 5, wherein the 14. Th ed binant cell rding to claim 4, wherei
+cell is a species of yeast that includes Saccharomyces, th y 1 e clootia mant cen acco she ‘ele wide » Wherein
+Candida, Pichia, Schizosaccharomyces, Scheffersomyces, e Pe ehe cot “I wa of ons oF polynucleott id cornenee
+Blakeslea, Rhodotorula, or Yarrowia. enco: e same class of enzyme or amino acid sequence.
+
+; . . . 15. The recombinant cell according to claim 4, wherein
+
+7. The recombinant cell according to claim 5, wherein the the polynucleotide sequence or polynucleotide sequences
+cell is il Species vn filamentous fungus that includes encode a different class of enzyme or amino acid sequence.
+Aspergillus or Penicillium. 16. A method for the biosynthesis of a downstream
+
+8. The recombinant cell according to claim 3, wherein the monoterpene indole alkaloid compound, or a precursor or
+cell is a species of bacteria that includes Escherichia, metabolite thereof, the method comprising culturing a
+Corynebacterium, Caulobacter, Pseudomonas, Streptomy- recombinant cell of claim 4 under conditions that allow for
+ces, Bacillus, or Lactobacillus. the biosynthesis of the compound.
+US 2025/0179544 Al Jun. 5, 2025
+122
+
+17. The method according to claim 16, wherein the
+method further comprises contacting the recombinant cell
+with a feed comprising one or more exogenous substrate
+compounds, wherein the one or more exogenous substrate
+compounds comprise strictosidine, a strictosidine
+
+analog, corynantheidine, or a corynantheidine analog, or
+
+the feed comprises a plant extract that includes the one
+or more of the exogenous substrate compounds.
+
+18. The method according to claim 16, wherein the one or
+more exogenous substrate compounds are produced by a
+recombinant cell.
+
+19. The method according to claim 16, wherein the
+method generates one or more strictosidine, hydroxystric-
+tosidine, methoxystrictosidine, strictosidine aglycone,
+hydroxystrictosidine aglycone, methoxystrictosidine agly-
+cone, demethylcorynantheidine (20R, 20S), 9-hydroxydem-
+ethylcorynantheidine, 9-methoxydemethylcorynantheidine,
+corynantheidine, dihydrocorynantheine, 9-hydroxycorynan-
+theidine, hydroxydihydrocorynantheine, speciogynine, and/
+or mitragynine, among others.
+
+* * * * *

@@ -72,6 +72,11 @@ The investigator asked whether the funding pattern matches 7-OH. **It does not,
 because it has not started.** Zero lobbying filings. Zero docket activity. Zero
 adverse event reports.
 
+**UPDATE 2026-08-28: ahead of the political money, not ahead of the industrial
+capability.** Finding 25 establishes two patent families claiming manufacture,
+with 2023 priority dates. The statement below remains true of contributions and
+lobbying only.
+
 **[I] This compound is ahead of the money.** Every other finding in this case
 documents an influence operation after the fact. This one is a window before it.
 The commercial incentive to move onto an unscheduled mu-opioid alkaloid from the
@@ -84,9 +89,15 @@ effect.
 - **We have not found 9-OH-corynantheidine products for sale.** Absence of search
   results is weak evidence in a market that renames constantly. Not asserted
   either way.
-- **No patent search has been run** on synthesis routes. That is the single
-  strongest forward indicator, since a granted process patent for 7-OH existed
-  before enforcement. **Do this next.**
+- ~~**No patent search has been run** on synthesis routes.~~ **RUN 2026-08-28.
+  See `FINDING_25_the_patents.md`.** Eighteen patent documents name the compound.
+  Two claim how to manufacture it: **Mitradyne Corporation** (EP4538367,
+  priority 2023-09-20) claims the C9 hydroxylase that produces it, cell-free, in
+  a claim sitting directly beside the claim for the 7-OH enzyme; **CB
+  Therapeutics** (US2025/0179544, priority 2023-12-01) claims recombinant-cell
+  production of corynanthe-type alkaloids and lists it by name. The compound is
+  also an **intermediate on the biosynthetic route to mitragynine**, so any
+  facility making mitragynine enzymatically passes through it.
 - **Its potency relative to 7-OH is not established.** Reported mu affinity is
   weaker. Weaker is not safe, and dose compensates, but do not claim equivalence.
 

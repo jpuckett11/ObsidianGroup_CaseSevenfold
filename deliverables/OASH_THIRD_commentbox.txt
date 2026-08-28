@@ -1,41 +1,49 @@
-Third comment of the Obsidian Watch Group, supplementing tracking numbers mtc-56yj-nmij and mtc-6i56-o6pm.
+Third comment of the Obsidian Watch Group, supplementing mtc-56yj-nmij and mtc-6i56-o6pm.
 
-The Request for Information asks how a threshold should apply across botanical source material, semi-synthetic derivatives, and finished dosage forms. This comment answers that in one specific respect we believe is unaddressed.
+The Request for Information asks how a threshold should apply across source material, derivatives and finished dosage forms. This comment addresses one respect in which scope appears incomplete.
 
 EVERY COVERED SUBSTANCE IS ON ONE CHEMICAL SCAFFOLD
 
-The proposed rule covers 7-hydroxymitragynine above a threshold. The temporary order effective 26 August 2026 covers mitragynine pseudoindoxyl, MGM-15 (dihydro-7-hydroxymitragynine) and MGM-16 (the 9-fluoro analogue). The Department's letter of 6 March 2026 addresses 7-OH alone. All four are structural relatives of mitragynine.
+The proposed rule covers 7-hydroxymitragynine above a threshold. The temporary order effective 26 August 2026 covers mitragynine pseudoindoxyl, MGM-15 and MGM-16. The Department's letter of 6 March 2026 addresses 7-OH alone. All four are structural relatives of mitragynine.
 
 A SECOND SCAFFOLD IN THE SAME PLANT IS NOT COVERED
 
-9-hydroxycorynantheidine is a minor indole alkaloid of Mitragyna speciosa, under one percent of total alkaloid content, and a partial agonist at the mu-opioid receptor. It stands to corynantheidine roughly as 7-OH stands to mitragynine: a hydroxylated minor alkaloid with mu-opioid activity, present naturally in quantities too small to extract economically.
+9-hydroxycorynantheidine is a minor indole alkaloid of Mitragyna speciosa, under one percent of total alkaloid content, and a partial mu-opioid agonist. It stands to corynantheidine roughly as 7-OH stands to mitragynine: a hydroxylated minor alkaloid with mu-opioid activity, naturally too scarce to extract.
 
-It appears in no federal docket document, no Senate lobbying disclosure, and no FDA adverse event report. Each search was run against a control returning results. In the FDA scientific assessment it appears only as words inside the title of a cited paper.
+It appears in no federal docket document, no Senate lobbying disclosure and no FDA adverse event report, each search run against a control returning results. In the FDA scientific assessment it appears only inside the title of a cited paper.
 
 A STATE HAS ALREADY COVERED IT
 
-Florida's emergency rule of June 2026 names 9-hydroxycorynantheidine among seven covered compounds. We note only the fact: a state regulator identified this compound and the federal instruments issued weeks later did not.
+Florida's emergency rule of June 2026 names 9-hydroxycorynantheidine among seven covered compounds. We note only the fact: a state regulator identified it; the federal instruments issued weeks later did not.
 
 THE DEPARTMENT'S OWN REASONING REACHES IT
 
-In scheduling MGM-16, DEA stated that while no evidence supported its presence on the consumer market, its profile as a potent opioid structurally related to 7-OH lent itself as an alternative. That is a preemptive scheduling on the express reasoning that sellers substitute toward structurally related opioids.
+In scheduling MGM-16, DEA stated that while no evidence supported its presence on the consumer market, its profile as a potent opioid structurally related to 7-OH lent itself as an alternative. That is preemptive scheduling on the express reasoning that sellers substitute toward related opioids.
 
-We agree with that reasoning. It was applied within one chemical family and not extended to the other. If the concern is substitution, the question is not whether a compound resembles 7-OH specifically, but whether it is an accessible mu-opioid agonist from the same plant, the same supply chain and the same retail channel, sold under the same botanical framing. On that test 9-hydroxycorynantheidine qualifies, and so did MGM-16.
+We agree. It was applied within one chemical family and not extended to the other. If substitution is the concern, the test is not resemblance to 7-OH but whether a compound is an accessible mu-opioid agonist from the same plant, supply chain and retail channel, sold under the same botanical framing. On that test 9-hydroxycorynantheidine qualifies, and so did MGM-16.
 
-Once the threshold takes effect the incentive to move to an unscheduled mu-opioid alkaloid from the same plant is immediate. Any such transition will not appear in adverse event data for many months, because reporting lags exposure. The record on this compound is presently empty, which is an argument for addressing it while a rulemaking record is open rather than after a harm signal appears.
+Once the threshold takes effect, the incentive to move to an unscheduled mu-opioid alkaloid from the same plant is immediate, and any such shift will not surface in adverse event data for months because reporting lags exposure. The empty record here argues for addressing it while a rulemaking record is open, not after a harm signal appears.
+
+THE CAPABILITY TO MANUFACTURE IT ALREADY EXISTS
+
+Two patent families claim industrial production. Mitradyne Corporation (EP 4 538 367, priority 20 September 2023) claims the cell-free enzyme that hydroxylates corynantheidine at C9 to produce 9-hydroxycorynantheidine, in a claim sitting beside its claim for the enzyme producing 7-OH. CB Therapeutics (US 2025/0179544, priority 1 December 2023) claims recombinant-cell production of corynanthe-type alkaloids, naming the compound.
+
+Both routes remove the plant, and those filings show the compound is an intermediate on the route to mitragynine: any facility making mitragynine enzymatically passes through it and can stop there. Scarcity in the leaf is not a durable constraint.
 
 REQUESTED ACTIONS
 
-1. State whether the scientific and medical evaluation considered mu-opioid-active alkaloids of Mitragyna speciosa outside the mitragynine scaffold, including 9-hydroxycorynantheidine, and if so on what basis they were excluded.
+1. State whether the scientific and medical evaluation considered mu-opioid-active alkaloids of Mitragyna speciosa outside the mitragynine scaffold, including 9-hydroxycorynantheidine, and on what basis any were excluded.
 
-2. State whether the reasoning applied to MGM-16, that a structurally related potent opioid not presently on the market may warrant control because of substitution risk, was considered for 9-hydroxycorynantheidine, and if not why the two were treated differently.
+2. State whether the MGM-16 reasoning, that a related potent opioid not presently marketed may warrant control because of substitution risk, was considered for 9-hydroxycorynantheidine, and if not why the two were treated differently.
 
-3. State whether the Department is aware of Florida's inclusion of this compound in its June 2026 emergency rule and has reviewed the basis on which that state acted.
+3. State whether the Department is aware of Florida's inclusion of this compound in its June 2026 emergency rule and has reviewed the basis for it.
 
-4. Publish in any subsequent notice the full list of Mitragyna speciosa alkaloids considered and the disposition of each, so the public can evaluate the scope of the action rather than infer it.
+4. Publish in any subsequent notice the full list of Mitragyna speciosa alkaloids considered and the disposition of each, so the public can evaluate scope rather than infer it.
+
+5. State whether the evaluation considered that alkaloids scarce in the plant can now be made enzymatically or by fermentation, and whether scope was set on natural abundance rather than manufacturability.
 
 WHAT WE DO NOT ASSERT
 
-We have not located 9-hydroxycorynantheidine products offered for sale and do not claim a market presently exists. We do not claim potency equivalent to 7-OH; reported mu-opioid affinity is weaker. We raise a gap in scope, not a finding of present harm.
+We have not located 9-hydroxycorynantheidine products offered for sale and do not claim a market exists. The patents cited are legitimate biotechnology filings; neither states intent to market this compound, and most patents are never commercialised. We cite them for manufacturability, not intent. We do not claim potency equivalent to 7-OH; reported mu-opioid affinity is weaker. We raise a gap in scope, not present harm.
 
-Obsidian Watch Group is an independent investigative organization with no financial interest in kratom, 7-OH, or any company in this sector, and no funding from any party to this proceeding. Full comment attached. Supporting documents: github.com/jpuckett11/ObsidianGroup_CaseSevenfold
+Obsidian Watch Group is an independent investigative organization with no financial interest in kratom, 7-OH or any company in this sector, and no funding from any party to this proceeding. Full comment attached. Supporting documents: github.com/jpuckett11/ObsidianGroup_CaseSevenfold

@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<edgarSubmission xmlns="http://www.sec.gov/edgar/formc" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>C</submissionType>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <filerCik>0001949369</filerCik>
+          <filerCcc>XXXXXXXX</filerCcc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+      <flags>
+        <confirmingCopyFlag>false</confirmingCopyFlag>
+        <returnCopyFlag>false</returnCopyFlag>
+        <overrideInternetFlag>false</overrideInternetFlag>
+      </flags>
+    </filerInfo>
+  </headerData>
+  <formData>
+    <issuerInformation>
+      <issuerInfo>
+        <nameOfIssuer>CB Therapeutics, Inc.</nameOfIssuer>
+        <legalStatus>
+          <legalStatusForm>Corporation</legalStatusForm>
+          <jurisdictionOrganization>DE</jurisdictionOrganization>
+          <dateIncorporation>03-20-2015</dateIncorporation>
+        </legalStatus>
+        <issuerAddress>
+          <com:street1>2463 IMPALA DRIVE</com:street1>
+          <com:city>CARLSBAD</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>92010</com:zipCode>
+        </issuerAddress>
+        <issuerWebsite>www.cbthera.com</issuerWebsite>
+      </issuerInfo>
+      <isCoIssuer>N</isCoIssuer>
+      <companyName>OpenDeal Portal LLC</companyName>
+      <commissionCik>0001751525</commissionCik>
+      <commissionFileNumber>007-00167</commissionFileNumber>
+      <crdNumber>283874</crdNumber>
+    </issuerInformation>
+    <offeringInformation>
+      <compensationAmount>At the conclusion of the offering, the issuer shall pay a fee of six percent (6%) of the amount raised ni the offering to the Intermediary.</compensationAmount>
+      <financialInterest>The Intermediary will also receive compensation in the form of securities equal to two percent( 2 % of the total number of the securities sold in the offering.</financialInterest>
+      <securityOfferedType>Other</securityOfferedType>
+      <securityOfferedOtherDesc>Crowd SAFE (Simple Agreement for Future Equity)</securityOfferedOtherDesc>
+      <noOfSecurityOffered>25000</noOfSecurityOffered>
+      <price>1.00000</price>
+      <priceDeterminationMethod>Arbitrary</priceDeterminationMethod>
+      <offeringAmount>25000.00</offeringAmount>
+      <overSubscriptionAccepted>Y</overSubscriptionAccepted>
+      <overSubscriptionAllocationType>Other</overSubscriptionAllocationType>
+      <descOverSubscription>At the Intermediary's discretion</descOverSubscription>
+      <maximumOfferingAmount>1235000.00</maximumOfferingAmount>
+      <deadlineDate>04-30-2023</deadlineDate>
+    </offeringInformation>
+    <annualReportDisclosureRequirements>
+      <currentEmployees>18.00</currentEmployees>
+      <totalAssetMostRecentFiscalYear>3722376.00</totalAssetMostRecentFiscalYear>
+      <totalAssetPriorFiscalYear>910015.00</totalAssetPriorFiscalYear>
+      <cashEquiMostRecentFiscalYear>1810709.00</cashEquiMostRecentFiscalYear>
+      <cashEquiPriorFiscalYear>13453.00</cashEquiPriorFiscalYear>
+      <actReceivedMostRecentFiscalYear>14066.00</actReceivedMostRecentFiscalYear>
+      <actReceivedPriorFiscalYear>0.00</actReceivedPriorFiscalYear>
+      <shortTermDebtMostRecentFiscalYear>287110.00</shortTermDebtMostRecentFiscalYear>
+      <shortTermDebtPriorFiscalYear>677795.00</shortTermDebtPriorFiscalYear>
+      <longTermDebtMostRecentFiscalYear>188555.00</longTermDebtMostRecentFiscalYear>
+      <longTermDebtPriorFiscalYear>730988.00</longTermDebtPriorFiscalYear>
+      <revenueMostRecentFiscalYear>2014066.00</revenueMostRecentFiscalYear>
+      <revenuePriorFiscalYear>0.00</revenuePriorFiscalYear>
+      <costGoodsSoldMostRecentFiscalYear>0.00</costGoodsSoldMostRecentFiscalYear>
+      <costGoodsSoldPriorFiscalYear>0.00</costGoodsSoldPriorFiscalYear>
+      <taxPaidMostRecentFiscalYear>3017.00</taxPaidMostRecentFiscalYear>
+      <taxPaidPriorFiscalYear>1600.00</taxPaidPriorFiscalYear>
+      <netIncomeMostRecentFiscalYear>-1772158.00</netIncomeMostRecentFiscalYear>
+      <netIncomePriorFiscalYear>-2278343.00</netIncomePriorFiscalYear>
+      <issueJurisdictionSecuritiesOffering>AL</issueJurisdictionSecuritiesOffering>
+      <issueJurisdictionSecuritiesOffering>AK</issueJurisdictionSecuritiesOffering>
+      <issueJurisdictionSecuritiesOffering>AZ</issueJurisdictionSecuritiesOffering>
+      <issueJurisdictionSecuritiesOffering>AR</issueJurisdictionSecuritiesOffering>
+      <issueJurisdictionSecuritiesOffering>CA</issueJurisdictionSecuritiesOffering>
+      <issueJurisdictionSecuritiesOffering>CO</issueJurisdictionSecuritiesOffering>
+      <issueJurisdictionSecuritiesOffering>CT</issueJurisdictionSecuritiesOffering>
+      <issueJurisdictionSecuritiesOffering>DE</issueJurisdictionSecuritiesOffering>
+      <issueJurisdictionSecuritiesOffering>DC</issueJurisdictionSecuritiesOffering>
+      <issueJurisdictionSecuritiesOffering>FL</issueJurisdictionSecuritiesOffering>
+      <issueJurisdictionSecuritiesOffering>GA</issueJurisdictionSecuritiesOffering>
+      <issueJurisdictionSecuritiesOffering>HI</issueJurisdictionSecuritiesOffering>
+      <issueJurisdictionSecuritiesOffering>ID</issueJurisdictionSecuritiesOffering>
+      <issueJurisdictionSecuritiesOffering>IL</issueJurisdictionSecuritiesOffering>
+      <issueJurisdictionSecuritiesOffering>IN</issueJurisdictionSecuritiesOffering>
+      <issueJurisdictionSecuritiesOffering>IA</issueJurisdictionSecuritiesOffering>
+      <issueJurisdictionSecuritiesOffering>KS</issueJurisdictionSecuritiesOffering>
+      <issueJurisdictionSecuritiesOffering>KY</issueJurisdictionSecuritiesOffering>
+      <issueJurisdictionSecuritiesOffering>LA</issueJurisdictionSecuritiesOffering>
+      <issueJurisdictionSecuritiesOffering>ME</issueJurisdictionSecuritiesOffering>
+      <issueJurisdictionSecuritiesOffering>MD</issueJurisdictionSecuritiesOffering>
+      <issueJurisdictionSecuritiesOffering>MA</issueJurisdictionSecuritiesOffering>
+      <issueJurisdictionSecuritiesOffering>MI</issueJurisdictionSecuritiesOffering>
+      <issueJurisdictionSecuritiesOffering>MN</issueJurisdictionSecuritiesOffering>
+      <issueJurisdictionSecuritiesOffering>MS</issueJurisdictionSecuritiesOffering>
+      <issueJurisdictionSecuritiesOffering>MO</issueJurisdictionSecuritiesOffering>
+      <issueJurisdictionSecuritiesOffering>MT</issueJurisdictionSecuritiesOffering>
+      <issueJurisdictionSecuritiesOffering>NE</issueJurisdictionSecuritiesOffering>
+      <issueJurisdictionSecuritiesOffering>NV</issueJurisdictionSecuritiesOffering>
+      <issueJurisdictionSecuritiesOffering>NH</issueJurisdictionSecuritiesOffering>
+      <issueJurisdictionSecuritiesOffering>NJ</issueJurisdictionSecuritiesOffering>
+      <issueJurisdictionSecuritiesOffering>NM</issueJurisdictionSecuritiesOffering>
+      <issueJurisdictionSecuritiesOffering>NY</issueJurisdictionSecuritiesOffering>
+      <issueJurisdictionSecuritiesOffering>NC</issueJurisdictionSecuritiesOffering>
+      <issueJurisdictionSecuritiesOffering>ND</issueJurisdictionSecuritiesOffering>
+      <issueJurisdictionSecuritiesOffering>OH</issueJurisdictionSecuritiesOffering>
+      <issueJurisdictionSecuritiesOffering>OK</issueJurisdictionSecuritiesOffering>
+      <issueJurisdictionSecuritiesOffering>OR</issueJurisdictionSecuritiesOffering>
+      <issueJurisdictionSecuritiesOffering>PA</issueJurisdictionSecuritiesOffering>
+      <issueJurisdictionSecuritiesOffering>PR</issueJurisdictionSecuritiesOffering>
+      <issueJurisdictionSecuritiesOffering>RI</issueJurisdictionSecuritiesOffering>
+      <issueJurisdictionSecuritiesOffering>SC</issueJurisdictionSecuritiesOffering>
+      <issueJurisdictionSecuritiesOffering>SD</issueJurisdictionSecuritiesOffering>
+      <issueJurisdictionSecuritiesOffering>TN</issueJurisdictionSecuritiesOffering>
+      <issueJurisdictionSecuritiesOffering>TX</issueJurisdictionSecuritiesOffering>
+      <issueJurisdictionSecuritiesOffering>UT</issueJurisdictionSecuritiesOffering>
+      <issueJurisdictionSecuritiesOffering>VT</issueJurisdictionSecuritiesOffering>
+      <issueJurisdictionSecuritiesOffering>VA</issueJurisdictionSecuritiesOffering>
+      <issueJurisdictionSecuritiesOffering>WA</issueJurisdictionSecuritiesOffering>
+      <issueJurisdictionSecuritiesOffering>WV</issueJurisdictionSecuritiesOffering>
+      <issueJurisdictionSecuritiesOffering>WI</issueJurisdictionSecuritiesOffering>
+      <issueJurisdictionSecuritiesOffering>WY</issueJurisdictionSecuritiesOffering>
+    </annualReportDisclosureRequirements>
+    <signatureInfo>
+      <issuerSignature>
+        <issuer>CB Therapeutics, Inc.</issuer>
+        <issuerSignature>Sher Ali-Butt</issuerSignature>
+        <issuerTitle>President and Chief Executive Officer</issuerTitle>
+      </issuerSignature>
+      <signaturePersons>
+        <signaturePerson>
+          <personSignature>Sher Ali-Butt</personSignature>
+          <personTitle>Director</personTitle>
+          <signatureDate>02-27-2023</signatureDate>
+        </signaturePerson>
+        <signaturePerson>
+          <personSignature>Jacob Vogan</personSignature>
+          <personTitle>Director</personTitle>
+          <signatureDate>02-27-2023</signatureDate>
+        </signaturePerson>
+        <signaturePerson>
+          <personSignature>Jeffrey Miller</personSignature>
+          <personTitle>Director</personTitle>
+          <signatureDate>02-27-2023</signatureDate>
+        </signaturePerson>
+      </signaturePersons>
+    </signatureInfo>
+  </formData>
+</edgarSubmission>
