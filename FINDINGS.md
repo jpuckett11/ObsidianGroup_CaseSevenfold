@@ -287,6 +287,17 @@ Written down deliberately, so we test it instead of confirming it.
 
 
 
+
+**2026-08-29 — `REMEDIATION.md` s6 added on European rehabilitation evidence, and
+it cuts both ways.** EUDA reports **56% of clients entering European drug treatment
+are unemployed** and recommends housing, education and vocational training
+**embedded in treatment early**, while stating in its own words that "**evidence is
+sparse**." Against that, a propensity-matched study
+(DOI 10.1177/0306624X231159886) found that after controlling for selection bias,
+**vocational certificates alone produced no difference in any outcome.** The
+document publishes the null result, and concludes that a certificate is not an
+occupation and that **the gap in the literature is a funding gap, not a finding.**
+
 **2026-08-29 — `REMEDIATION.md` given the scale, from the government's own survey.**
 2024 NSDUH: **48.4M** with a substance use disorder, **52.6M** needed treatment,
 **10.2M** received it. **42.4 million did not, 80.6%** — larger than the population

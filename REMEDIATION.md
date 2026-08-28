@@ -185,7 +185,93 @@ the single intervention with a proven dose-response relationship is capped by
 regulation below its effective dose. **That is worth someone establishing on the
 record.**
 
-## 6. Addicted to their passions
+## 6. Education and a trade: what the European evidence actually says
+
+The investigator raised the European rehabilitation literature, and the same
+approach applied to people with long criminal records, noting the two populations
+are largely the same people. Both points are correct. **The evidence is more
+complicated than the idea, and saying so is what makes the rest of this document
+worth reading.**
+
+### The populations do overlap, heavily
+
+Substance use disorder prevalence in European prison populations is one of the
+best-documented facts in this field, with hundreds of studies. Treating "people
+with addiction" and "people with records" as separate policy problems is a
+filing convenience, not a description of reality.
+
+### The need is proven
+
+**EUDA (formerly EMCDDA), *Social reintegration and employment: evidence and
+interventions for drug users in treatment***, Insights series:
+
+> **56% of clients entering drug treatment in Europe are unemployed.**
+
+> "**Neglecting the social needs of clients can undermine the gains achieved during
+> treatment** and the chances of long-term success."
+
+Their recommendation is housing, education, vocational training and employment,
+**embedded into drug treatment at an early stage** rather than bolted on at the
+end.
+
+### The evidence is thin, and the agency says so itself
+
+> "**Although evidence is sparse**, it is possible to integrate available
+> information and present a logic model to assist policymakers."
+
+That is a European agency recommending an intervention while stating plainly that
+the trials do not exist. We repeat it here rather than quoting only the
+recommendation.
+
+### And one good study found nothing
+
+*International Journal of Offender Therapy and Comparative Criminology*, 2023,
+DOI **10.1177/0306624X231159886**, on prison vocational education, using propensity
+score matching to correct for who volunteers for these programmes:
+
+> "**After matching, there were no differences in any outcome** between those who
+> obtained vocational certificates and the comparison group."
+
+> "The results demonstrate the importance of **accounting for selection bias** in
+> evaluations of education and employment programs."
+
+**This is the finding that most needs stating.** Handing a person a certificate on
+the way out the door does not, by itself, do anything measurable. The apparent
+effect in weaker studies is largely the difference between people who sign up and
+people who do not.
+
+### What the two results together actually mean
+
+They are not in conflict. Read them side by side:
+
+| | |
+|---|---|
+| A **certificate**, issued at release, unsupported | **No measured effect** |
+| Reintegration **embedded in treatment early**, with housing, care and real employer links | Recommended by EUDA, positive signals, **sparse evidence** |
+
+The same conclusion appears in the supported-accommodation literature (*Harm
+Reduction Journal* 2023, DOI 10.1186/s12954-023-00832-8): components addressing
+"life skills, vocational training, AOD use, and mental health" showed positive
+criminal justice outcomes, while outcomes overall were mixed. **The package showed
+something. The single component did not.**
+
+**A trade is not a passion, and a certificate is not an occupation.** The
+investigator's phrase was about what fills the hours and gives the day a purpose.
+The null result above is not evidence against that. It is evidence that a piece of
+paper is not the same thing, which was never the claim.
+
+### Why the evidence is sparse, which is the point
+
+The trials that would settle this have largely not been run. **The gap in the
+literature is a funding gap, not a finding.** A field that has produced hundreds of
+studies confirming that prisoners have high rates of addiction has produced very
+few testing whether giving them a life reduces it.
+
+**That is the argument of this entire document in miniature.** The molecule gets
+scheduled within months. The question of what happens to the person has been
+"under-researched" for thirty years.
+
+## 7. Addicted to their passions
 
 The investigator's phrase, and it is not sentimentality.
 
@@ -207,7 +293,7 @@ the taper and not just the taper, and putting money into the things that give a
 person somewhere to be. It is unglamorous, it is slow, and it does not generate a
 press conference with a podium and a schedule number.
 
-## 7. The investigator's conclusion, stated as his
+## 8. The investigator's conclusion, stated as his
 
 > "The machine doesn't care about true freedom or the people any more. It cares
 > about corporations and the machine."
@@ -240,7 +326,7 @@ has an innocent explanation available. What we say is narrower and harder to
 dismiss: **the incentives all point one way, and nobody in the structure is
 required to notice.**
 
-## 8. What we actually ask for
+## 9. What we actually ask for
 
 Not prohibition. Not a plant ban. We have said so on the docket in writing.
 
@@ -254,11 +340,19 @@ Not prohibition. Not a plant ban. We have said so on the docket in writing.
 3. **Fund the exit.** Prescriber capacity, coverage past the taper, and the
    unglamorous months afterward. Every dollar here removes a customer permanently.
    Every dollar spent scheduling one more molecule moves a customer to the next one.
-4. **Publish the reasoning.** The full list of alkaloids considered and the
+   **Fund it as a package, not a component:** the European agency's own position is
+   that reintegration must be embedded in treatment early, and the one well-matched
+   trial of vocational certificates alone found no effect (s6).
+4. **Fund the trials that would settle it.** The strongest honest criticism of
+   everything in section 6 is that the evidence is sparse. **That is fixable and
+   nobody has tried.** A fraction of the $425 billion annual burden would answer in
+   five years whether giving people an occupation reduces relapse, and the answer
+   is worth having whichever way it comes out.
+5. **Publish the reasoning.** The full list of alkaloids considered and the
    disposition of each. If scope was drawn around a scaffold rather than around
    metabolism, say so, and the public can argue with it.
 
-## 9. The honest close
+## 10. The honest close
 
 **Nothing in this document will happen quickly, and the ladder in Section 1 will
 add another rung before it does.**
