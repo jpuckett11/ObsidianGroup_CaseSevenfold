@@ -66,6 +66,10 @@ be enforced, and that **the exit be funded**.
 Start with **[REPORT.md](REPORT.md)** for the evidence, or
 **[REMEDIATION.md](REMEDIATION.md)** for what it means.
 
+**Journalists: [PRESS.md](PRESS.md)** — three stories ranked by how fast you can
+verify them, what we will not give you, and where we have published our own
+corrections. Everything free, no credit required.
+
 **Filed:** a public comment is on federal docket **HHS-OASH-2026-0232**, tracking
 number **`mtc-56yj-nmij`**, submitted 2026-08-27. See **[FILINGS.md](FILINGS.md)**
 for what it asks the Department to answer and what else is outstanding.

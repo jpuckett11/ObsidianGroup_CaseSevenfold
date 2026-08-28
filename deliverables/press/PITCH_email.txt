@@ -1,0 +1,38 @@
+Subject: A brand advertising the 7-OH workaround on its own homepage, and a death in Utah
+
+[Name],
+
+You wrote about [SPECIFIC PIECE]. I have something that follows it and I am giving it
+away, with no conditions and no credit needed.
+
+A brand called Buzzers states on its own homepage that it "figured out a way to
+extract an indole alkaloid from the Cat's Claw plant to mirror the effects of popular
+kratom products," producing "a non-kratom product with kratom-like effects." A
+retailer states the reason: cat's claw "is not a controlled substance, so Buzzers ship
+nationwide."
+
+It is sold as an energy supplement.
+
+On 22 July the Utah Poison Control Center named that brand in an alert about
+life-threatening opioid overdose, reporting multiple severe overdoses and noting the
+labels do not list the drugs it suspects are present. On 30 July a death in Utah
+County was linked to mislabelled Buzzers tablets containing MGM-15.
+
+The federal scheduling action taking effect does not reach the compound class these
+products are built on. It does not reach it later either. The comment period closes
+10 September.
+
+Pages are captured and SHA-256 hashed. Everything is published free at
+github.com/jpuckett11/ObsidianGroup_CaseSevenfold, including a summary for
+journalists at PRESS.md.
+
+Two things you should know before you use any of it. We have assayed no product, so
+the adulteration finding is Utah Poison Control's and not ours. And we have published
+three corrections against our own argument, including retracting a conclusion within
+an hour of posting it. Both are in the file.
+
+Happy to walk anyone through the primary documents.
+
+Jay Puckett
+Principal Security Researcher, Obsidian Watch Group
+jay.puckett@obsidianwatchgroup.com

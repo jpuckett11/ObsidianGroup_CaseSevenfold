@@ -8,6 +8,11 @@
 #
 # --delete is intentional so retractions propagate, which is why the two
 # exclusions above matter.
+#
+# CONSEQUENCE, learned 2026-08-29: because README.md is excluded, edits made to the
+# PRIVATE README never reach the public repo. A link to REMEDIATION.md was added to
+# the private README and silently never published. If you add anything to a README,
+# add it to BOTH trees by hand.
 set -euo pipefail
 SRC=/home/obsidian/case_sevenfold
 DST=/home/obsidian/case_sevenfold_public
