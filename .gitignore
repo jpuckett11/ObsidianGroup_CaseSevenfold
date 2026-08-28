@@ -38,3 +38,6 @@ deliverables/foia/*_FILED.txt
 *.err
 .opened
 deliverables/_*.html
+
+# clinical, personal, never published
+deliverables/clinical/

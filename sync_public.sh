@@ -15,7 +15,7 @@ DST=/home/obsidian/case_sevenfold_public
 rsync -a --delete \
   --exclude='.git' --exclude='.gitignore' --exclude='README.md' \
   --exclude='respondents/' --exclude='*_INTERNAL.md' --exclude='FINDING_13A*' \
-  --exclude='deliverables/wyden/' --exclude='deliverables/foia/*_FILED.txt' \
+  --exclude='deliverables/clinical/' --exclude='deliverables/wyden/' --exclude='deliverables/foia/*_FILED.txt' \
   --exclude='exhibits/tbt_*.html' --exclude='exhibits/inquirer_*.html' \
   --exclude='exhibits/statnews_*.html' --exclude='exhibits/nutraingredients_*.html' \
   --exclude='exhibits/senate_annual_*.html' --exclude='exhibits/ptr_*.html' \
