@@ -1,0 +1,42 @@
+FILING THE FTC COMPLAINT
+
+TWO ROUTES. Do both.
+
+1. ReportFraud.ftc.gov
+   The public intake. Fast, creates a record in the Consumer Sentinel database
+   that state AGs and other agencies can see. Choose "Something else" ->
+   "Products and services". Paste the summary and the requested actions. There is
+   a character limit, so lead with the botanical-versus-synthetic contradiction
+   and the seller's own habit-forming admission.
+
+2. Bureau of Consumer Protection, Division of Advertising Practices
+   The substantive route. Email or mail the full complaint as a PDF.
+   Mail: 600 Pennsylvania Avenue NW, Washington DC 20580
+   Ask the Consumer Response Center (877-382-4357) for the current address for
+   the Division of Advertising Practices and reference an industry complaint
+   rather than an individual consumer complaint.
+
+WHAT MAKES THIS ONE STRONG
+
+Not the harm data. Agencies already have harm data.
+
+It is the two quotes from the same domain on the same day. The sales page says
+botanical supplementation; the help centre says habit-forming, addiction, and
+withdrawal. That is the seller's own knowledge, in their own words, placed where
+buyers will not encounter it. Lead with it every time.
+
+TIME SENSITIVE
+
+Product pages change. Three of nine target pages already refused capture. The
+"all natural" and "botanical" language will very likely be revised once
+scheduling takes effect. Everything captured 2026-08-27 is hashed in
+exhibits/marketing/MANIFEST.tsv. Re-capture periodically and preserve the
+differences; a page that quietly drops the word "botanical" after a complaint is
+itself evidence.
+
+STATE ROUTE
+
+Tennessee Attorney General, Consumer Protection Division, is the natural second
+filing. Georgia's AG has already issued a public alert calling these synthetic
+opioids, which makes the framing familiar rather than novel. The same document
+works with the addressee changed.

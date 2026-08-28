@@ -1,0 +1,11 @@
+# captured 2026-08-27T18:57:32-05:00
+#name	status	bytes	sha256	url
+elyxr_limitless_black	FAIL(http=403)	5798	-	https://www.elyxr.com/products/limitless-black-edition-7-oh-tablets/
+pureleaf_limitless_cherry	OK	397812	803bc090846b44983509e228c5e054640dbc61863fd3eb770c00f1f22a22e913	https://pureleafkratom.com/products/limitless-black-edition-7-hydroxymitragynine-tablets-cherry-50mg-per-tablet.html
+pureleaf_limitless_original	OK	380878	97ed201fe95a32011fe7f0219c77fb53397b1370e23157067bc524e90a03cffc	https://pureleafkratom.com/products/limitless-black-edition-7-hydroxymitragynine-tablets-original-50mg-per-tablet.html
+7ohplus_limitless_2ct	OK	781145	21d051744e240ea8d35ef0f87e4a67860ab6fc325a5fd5bd3835e2160e0c1ce8	https://7ohplus.com/products/limitless-7-hydroxymitragynine-black-edition-tablets-2ct-50mg-per-tablet-1
+7ohplus_limitless_10ct	OK	801333	784b9fa6fcf89b06020a738622879789fe1b7d6843e95428add286e9fddec6fc	https://7ohplus.com/products/limitless-black-edition-7-hydroxymitragynine-tablets-10ct-50mg-per-tablet-1
+kratomgala_limitless_bluerazz	FAIL(http=403)	5949	-	https://kratomgala.com/product/limitless-black-edition-7-hydroxy-extract-chewable-tablets-blue-razz-50mg/
+kratomgala_limitless_mango	FAIL(http=403)	5937	-	https://kratomgala.com/product/limitless-black-edition-7-hydroxy-extract-chewable-tablets-mango-50mg/
+7ohresellers_limitless	OK	320485	e5bb0339b0413390d1550dfbc7e1fe0499e1895c582274d8a760e61e2b66defd	https://7ohresellers.com/product/limitless-black-edition-7-oh-tablets-50mg/
+realbotanicals_home	OK	575354	f36dd7abaa4488d2792782414544d648bcde5e621f1e89b15900ec0efcd5b7a2	https://realbotanicals.com/

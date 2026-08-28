@@ -1,0 +1,179 @@
+COMPLAINT AND REQUEST FOR INVESTIGATION
+
+To:      Federal Trade Commission
+         Bureau of Consumer Protection
+         Division of Advertising Practices
+         600 Pennsylvania Avenue NW, Washington DC 20580
+
+From:    Jay Puckett, Principal Security Researcher
+         Obsidian Watch Group
+         obsidianinvestigations@pm.me
+
+Date:    [DATE]
+
+Re:      Deceptive marketing of 7-hydroxymitragynine (7-OH) products as natural
+         botanical supplements, in violation of Section 5 of the FTC Act
+
+---
+
+SUMMARY
+
+We request that the Commission investigate the marketing of concentrated
+7-hydroxymitragynine products, which are sold to consumers as natural botanical
+supplements while the federal government's own scientific assessment finds them
+to be synthetically produced by chemical conversion.
+
+The sellers know. On at least one seller's own website, the product page
+advertises "botanical supplementation" while a separate help-center page on the
+same domain concedes the products "can be habit-forming" and that "long-term use
+may lead to addiction and withdrawal symptoms."
+
+Obsidian Watch Group is an independent investigative organization. We have no
+financial interest in kratom, 7-OH, or any company named here, and no funding
+from any party. We are not seeking damages and represent no claimant.
+
+---
+
+1. THE PRODUCT
+
+7-hydroxymitragynine is an opioid. FDA states it "demonstrates substantially
+greater mu-opioid receptor potency" than morphine and "produces respiratory
+depression, physical dependence, and withdrawal symptoms characteristic of
+classical opioids, such as morphine, fentanyl, oxycodone, and hydrocodone."
+
+The specific product examined here, Limitless Black Edition 7-Hydroxymitragynine
+Tablets, is labeled at 50 mg of 7-OH per tablet, 500 mg per ten-count bottle,
+with a labeled serving size of one quarter tablet, that is 12.5 mg.
+
+2. THE REPRESENTATION IS FALSE ON THE GOVERNMENT'S OWN FINDING
+
+The products are marketed with the vocabulary of botanicals. From the captured
+product pages:
+
+  "Experience the ultimate in botanical supplementation with LIMITLESS BLACK
+   EDITION 7-Hydroxymitragynine Tablets."
+   -- 7ohplus.com, captured 2026-08-27
+      sha256 784b9fa6fcf89b06020a738622879789fe1b7d6843e95428add286e9fddec6fc
+
+  "a powerful botanical extract" ... "masking the natural bitterness of alkaloids"
+   -- pureleafkratom.com, captured 2026-08-27
+      sha256 803bc090846b44983509e228c5e054640dbc61863fd3eb770c00f1f22a22e913
+
+FDA's assessment, "7-Hydroxymitragynine (7-OH): An Assessment of the Scientific
+Data and Toxicological Concerns Around an Emerging Opioid Threat," states:
+
+  "The enhanced amount of 7-OH in these products is likely synthetically derived
+   through oxidate chemical conversion of mitragynine isolates or kratom
+   extracts. Given the trace amounts of 7-OH that are naturally present in
+   kratom, direct extraction of 7-OH from plant material would simply be
+   unfeasible economically."
+
+The manufacturing route is not in dispute. It is patented. United States Patents
+12,492,201 B1 and 12,466,830, both titled "Method of converting mitragynine to
+7-hydroxymitragynine," describe oxidation processes using Fenton's Reagent and
+oxone monopersulfate yielding at least 95 percent purity.
+
+The industry itself characterizes these products as synthetic when it suits a
+different purpose. Sheldon Bradshaw, formerly FDA Chief Counsel, testifying for
+the trade group Botanicals for Better Health and Wellness before Ohio
+legislators, described 7-OH as "a synthetic drug" produced by "bad actors" who
+expose alkaloids to "harsh, toxic agents."
+
+A compound manufactured by performing a patented chemical oxidation on a purified
+isolate is not a botanical supplement, and the parties selling it are aware of
+that.
+
+3. THE SELLERS DISCLOSE THE RISK WHERE BUYERS WILL NOT SEE IT
+
+On 7ohplus.com, the product page carries the "botanical supplementation" language
+quoted above. A help-center entry on the same domain, under the heading "Is 7Oh
+safe?", states:
+
+  "While 7OH and kratom are often considered safe for healthy adults when used
+   responsibly, it's essential to understand the potential risks. Kratom contains
+   compounds that can be habit-forming. Long-term use may lead to addiction and
+   withdrawal symptoms."
+
+Both were captured from the same domain on the same day and are preserved with
+hashes. The seller possesses the material information and places it away from the
+point of purchase.
+
+We submit that this is a material omission under Section 5. A reasonable consumer
+choosing among wellness products would consider a risk of addiction and
+withdrawal material to the decision, and would not expect to locate it in a
+help-center article.
+
+4. DOSAGE PRESENTATION
+
+The unit sold is a 50 mg tablet. The labeled serving is one quarter of that
+tablet, 12.5 mg. The product is dispensed, priced and consumed as tablets. Where
+a single unit contains four labeled servings of an opioid more potent than
+morphine, the Commission may wish to consider whether the serving-size
+presentation is likely to mislead.
+
+5. FREE SAMPLE DISTRIBUTION
+
+Independent reporting describes concentrated 7-OH being distributed as free
+samples to existing purchasers of leaf kratom, including persons in recovery from
+opioid use, with dependence following within weeks. We have not independently
+verified this practice and flag it as reported rather than established. If
+substantiated, a practice of providing an opioid at no cost to a population in
+recovery, at the point of sale of a different product, warrants the Commission's
+attention on its own.
+
+6. CONSUMER HARM IN THE GOVERNMENT'S OWN RECORDS
+
+FDA's CFSAN Adverse Event Reporting System contains 879 reports naming kratom
+products. CAERS is voluntary, unverified, and does not establish causation. With
+that stated: 276 reports record a death, 239 a hospitalization, 135 a disability.
+The most frequently reported reaction after death is dependence, at 256 reports,
+followed by withdrawal syndrome at 98.
+
+Four reports name Limitless 7-OH products specifically, two of them Black Edition.
+Recorded outcomes include three "Other Serious or Important Medical Event" and one
+Disability. Reported reactions include withdrawal syndrome, restless legs
+syndrome, hyperhidrosis, insomnia, anxiety and dehydration. Ages reported: 23, 37,
+56, 69.
+
+We note that FDA issued warning letters to seven firms marketing 7-OH products on
+15 July 2025. Limitless was not among them.
+
+7. PRECEDENT IN THIS SECTOR
+
+The theory has already succeeded once. In re Botanic Tonics Litigation, No.
+3:23-cv-01460-VC (N.D. Cal.), settled for $8,750,000 on allegations that a
+kratom product was marketed without disclosing its kratom content or its
+addictive potential.
+
+---
+
+REQUESTED ACTION
+
+1. Investigate whether describing chemically converted 7-hydroxymitragynine as
+   "botanical supplementation," "botanical extract" or equivalent constitutes a
+   deceptive representation under Section 5.
+
+2. Investigate whether placing addiction and withdrawal disclosures outside the
+   point of purchase, while the product page carries wellness framing,
+   constitutes a material omission.
+
+3. Investigate the reported practice of distributing free 7-OH samples to
+   purchasers of other kratom products.
+
+4. Consider coordination with FDA, which has issued warning letters in this
+   category, and with state attorneys general. The Georgia Attorney General
+   issued a consumer alert on 13 November 2025 describing these products as
+   "Dangerous Synthetic Opioids Flooding Gas Stations."
+
+EVIDENCE AVAILABLE
+
+Captured web pages with SHA-256 hashes and capture timestamps, the FDA scientific
+assessment, the two patents, adverse event extracts, and the underlying case file
+are available on request and published at:
+github.com/jpuckett11/ObsidianGroup_CaseSevenfold
+
+Respectfully submitted,
+
+Jay Puckett
+Principal Security Researcher
+Obsidian Watch Group

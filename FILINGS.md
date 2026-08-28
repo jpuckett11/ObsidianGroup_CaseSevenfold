@@ -107,6 +107,29 @@ answer or a conspicuous absence. A comment can be ignored. A FOIA cannot.
 
 ---
 
+### 5. FTC — Section 5 deceptive advertising
+
+`deliverables/ftc/FTC_COMPLAINT_paste_this.txt`. Needs a date. Two routes, both
+in `HOW_TO_FILE_FTC.txt`: ReportFraud.ftc.gov for the record, and the Bureau of
+Consumer Protection, Division of Advertising Practices, for substance.
+
+**The core of it is two quotes from the same domain on the same day.** The
+product page sells "botanical supplementation." The help centre concedes the
+products "can be habit-forming" and that "long-term use may lead to addiction and
+withdrawal symptoms." Both captured 2026-08-27 and hashed.
+
+**[I] This is the only line in the case that needs no rulemaking, no conflict of
+interest, and no new facts. It also does not depend on the investigator's own
+account.**
+
+### 6. Tennessee Attorney General — Consumer Protection Division
+
+Same document, addressee changed. Georgia's AG has already issued a public alert
+describing these as "Dangerous Synthetic Opioids Flooding Gas Stations"
+(2025-11-13), so the framing is established rather than novel.
+
+---
+
 ## STANDING
 
 - Public case file: github.com/jpuckett11/ObsidianGroup_CaseSevenfold
