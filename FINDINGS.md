@@ -276,6 +276,19 @@ Written down deliberately, so we test it instead of confirming it.
 
 ## FILED
 
+
+**2026-08-28 — THIRD comment filed to docket HHS-OASH-2026-0232**, the
+corynantheidine gap. **Comment Tracking Number: `mtc-q9zv-dase`.** Five-page
+attachment, 1,251 words, box text 4,995 of 5,000 characters. Argues every covered
+substance sits on the mitragynine scaffold while **9-hydroxycorynantheidine sits
+on the corynantheidine scaffold and is covered by nothing**, and puts the
+manufacturing evidence from Finding 25 on the federal record: Mitradyne's
+EP 4 538 367 claims 5, 6, 8 and 11 quoted verbatim, CB Therapeutics'
+US 2025/0179544, and the fact that the compound is an intermediate on the route to
+mitragynine. Fifth requested action asks whether scope was set on **natural
+abundance rather than manufacturability**. Status: submitted, pending agency
+review.
+
 **2026-08-27 — Public comment filed to docket HHS-OASH-2026-0232** (HHS OASH,
 Request for Information on the 7-OH scheduling threshold).
 **Comment Tracking Number: `mtc-56yj-nmij`.** Eight sections, 2,268 words,

@@ -103,7 +103,7 @@ effect.
 
 ### 8. Recommended action
 
-**File a third comment on HHS-OASH-2026-0232 before 2026-09-10.**
+**~~File a third comment on HHS-OASH-2026-0232 before 2026-09-10.~~ FILED 2026-08-28, tracking number `mtc-q9zv-dase`.** See `FILINGS.md` entry 3.
 
 The docket is open, the Department asked how the threshold "should apply across
 botanical source material, semi-synthetic derivatives, and finished dosage forms,"

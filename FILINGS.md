@@ -74,9 +74,65 @@ absolute limit.** Neither AKA, GKC nor HART raised it.
 
 ---
 
-## READY, NOT SENT
+### 3. HHS OASH **third** comment, the corynantheidine gap — **FILED 2026-08-28**
 
-### 3. Senate Finance Committee, Wyden inquiry — **SENT 2026-08-27**
+| | |
+|---|---|
+| **Docket** | **HHS-OASH-2026-0232** |
+| Document | OASH Request for Information, Temporary Placement of 7-Hydroxymitragynine Above a Specified Threshold in Schedule I |
+| **Comment Tracking Number** | **`mtc-q9zv-dase`** |
+| Submitted | 2026-08-28 |
+| Status | Submitted. Awaiting agency review and posting. |
+| Attachment | `OWG_Third_Comment_HHS-OASH-2026-0232.pdf`, 5 pages, 1,251 words |
+| Comment box | 4,995 characters against a 5,000 limit |
+| Comment period closes | **2026-09-10**, 23:59:59 Eastern |
+
+**The argument.** Every substance the Department and DEA have covered sits on the
+**mitragynine scaffold**: 7-OH itself, mitragynine pseudoindoxyl, MGM-15 and
+MGM-16. **9-hydroxycorynantheidine sits on the corynantheidine scaffold and is
+covered by nothing.** It stands to corynantheidine roughly as 7-OH stands to
+mitragynine. Florida named it in a June 2026 emergency rule. DEA's own stated
+reasoning for scheduling MGM-16, that a related potent opioid not presently
+marketed may warrant control because sellers substitute, reaches it and was not
+applied to it.
+
+**What the third comment added over the earlier two:** the manufacturing evidence
+from Finding 25. Two patent families claim industrial production, and the comment
+quotes them. Mitradyne Corporation's EP 4 538 367 claims the cell-free enzyme
+producing the compound in a claim adjacent to its claim for the 7-OH enzyme;
+CB Therapeutics' US 2025/0179544 claims recombinant-cell production and names it.
+Those filings also establish that the compound is an **intermediate on the
+biosynthetic route to mitragynine**, so scarcity in the leaf is not a durable
+constraint on supply.
+
+**What it asks the Department to answer, on the record:**
+
+1. Whether the scientific and medical evaluation considered mu-opioid-active
+   alkaloids of *Mitragyna speciosa* outside the mitragynine scaffold, including
+   9-hydroxycorynantheidine, and on what basis any were excluded.
+2. Whether the MGM-16 substitution reasoning was considered for this compound, and
+   if not, why the two were treated differently.
+3. Whether the Department is aware of Florida's inclusion of it in the June 2026
+   emergency rule and has reviewed the basis for it.
+4. To publish the full list of *Mitragyna speciosa* alkaloids considered and the
+   disposition of each.
+5. **Whether the evaluation considered that alkaloids scarce in the plant can now
+   be produced enzymatically or by fermentation, and whether scope was set on
+   natural abundance rather than on manufacturability.**
+
+**What it explicitly does not assert:** no products containing this compound were
+located for sale, no market is claimed to exist, no potency equivalence to 7-OH is
+claimed, and the two patent applications are cited as evidence of manufacturability
+and not of any intent to market.
+
+**Follow-up:** check for posting after agency review, alongside `mtc-56yj-nmij` and
+`mtc-6i56-o6pm`.
+
+---
+
+---
+
+### 4. Senate Finance Committee, Wyden inquiry — **SENT 2026-08-27**
 
 | | |
 |---|---|
@@ -106,13 +162,10 @@ protected disclosure**, to prevent misrouting.
 **[I] These are the four things a committee can compel and we cannot.** Everything
 else in this case is already public.
 
-### 3. FOIA — DOJ / EOUSA / USAO-NDOkla
+---
 
-`deliverables/foia/FOIA_01_DOJ_seizure_dismissal.txt`. Needs date and return
-address. Subject: the dismissal of *United States v. 250,000 Filled Bottles of
-Liquid Product*, 4:23-cv-00168-GAG-CDL, on 2025-12-22.
 
-### 4. FOIA — FDA Division of Freedom of Information — **SENT 2026-08-27**
+### 5. FOIA — FDA Division of Freedom of Information — **SENT 2026-08-27**
 
 | | |
 |---|---|
@@ -143,7 +196,19 @@ answer or a conspicuous absence. A comment can be ignored. A FOIA cannot.
 
 ---
 
-### 5. FTC — Section 5 deceptive advertising
+## READY, NOT SENT
+
+
+### 1. FOIA — DOJ / EOUSA / USAO-NDOkla
+
+`deliverables/foia/FOIA_01_DOJ_seizure_dismissal.txt`. Needs date and return
+address. Subject: the dismissal of *United States v. 250,000 Filled Bottles of
+Liquid Product*, 4:23-cv-00168-GAG-CDL, on 2025-12-22.
+
+---
+
+
+### 2. FTC — Section 5 deceptive advertising
 
 `deliverables/ftc/FTC_COMPLAINT_paste_this.txt`. Needs a date. Two routes, both
 in `HOW_TO_FILE_FTC.txt`: ReportFraud.ftc.gov for the record, and the Bureau of
@@ -158,11 +223,16 @@ withdrawal symptoms." Both captured 2026-08-27 and hashed.
 interest, and no new facts. It also does not depend on the investigator's own
 account.**
 
-### 6. Tennessee Attorney General — Consumer Protection Division
+---
+
+
+### 3. Tennessee Attorney General — Consumer Protection Division
 
 Same document, addressee changed. Georgia's AG has already issued a public alert
 describing these as "Dangerous Synthetic Opioids Flooding Gas Stations"
 (2025-11-13), so the framing is established rather than novel.
+
+---
 
 ---
 

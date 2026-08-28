@@ -154,8 +154,10 @@ The corrected statement is: *the capacity to manufacture this compound at scale,
 without a plant, has been claimed in two patent families since late 2023, while
 the federal government has never assessed it.*
 
-That belongs in the third comment to HHS-OASH-2026-0232 before the 2026-09-10
-deadline, and the comment has been updated to carry it.
+That belonged in the third comment to HHS-OASH-2026-0232, and it is now on the
+federal record. **Filed 2026-08-28, tracking number `mtc-q9zv-dase`**, quoting
+claims 5, 6, 8 and 11 verbatim and asking the Department whether scope was set on
+natural abundance rather than on manufacturability. See `FILINGS.md` entry 3.
 
 ---
 
