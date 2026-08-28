@@ -669,6 +669,32 @@ anyone's ethics:
 tracing ends, and it is a structure Congress built and maintains. Nobody broke a
 rule to use it. **The rules are the mechanism.**
 
+### The people elected to speak for them did not mention them
+
+On **18 March 2026** eleven United States Senators wrote to the FDA Commissioner
+about this substance. **537 words.**
+
+| | |
+|---|---|
+| References to enforcement and scheduling | **12** |
+| References to treatment, recovery, or access to care | **0** |
+
+Not treatment. Not recovery. Not buprenorphine, methadone, naloxone, prescribers,
+coverage or insurance. The one "clinic" string match is `mayoclinic.org` in a
+footnote URL.
+
+**And they did expand the letter beyond the pending action.** They expanded it in
+one direction:
+
+> "we encourage you to consider **scheduling the whole kratom leaf**"
+
+**None of the eleven took a dollar from this industry** (F22, FEC primaries with
+controls). This is not a story about bought representatives. It is a record of what
+**unbought** legislators chose to put in writing about a dependency crisis, while
+**42.4 million untreated Americans sat in the federal government's own survey.**
+
+Full working, and the fair objections, in `FINDING_32_the_voice.md`.
+
 ### The asymmetry, stated once, plainly
 
 **The money has professional representation. The 42 million have a comment period.**

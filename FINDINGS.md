@@ -290,6 +290,17 @@ Written down deliberately, so we test it instead of confirming it.
 
 
 
+
+**2026-08-29 — Finding 32: the letter that did not mention the people.** Eleven US
+Senators, 18 March 2026, to the FDA Commissioner. **537 words. Twelve references to
+enforcement and scheduling. Zero to treatment, recovery or access to care** — the
+lone "clinic" match is `mayoclinic.org` in a footnote URL. Their only expansion
+beyond the pending action was to ask the Commissioner "to consider **scheduling the
+whole kratom leaf**." **None of the eleven took industry money** (F22), so this is
+not a corruption finding. It is a record of what unbought legislators wrote about,
+while 42.4 million untreated Americans sat in the federal government's own survey.
+**Reproducible in five minutes with the PDF and a search box.**
+
 **2026-08-29 — Finding 31: they published the arbitrage themselves.** The
 manufacturer's own homepage states it "**figured out a way to extract an indole
 alkaloid from the Cat's Claw plant to mirror the effects of popular kratom
