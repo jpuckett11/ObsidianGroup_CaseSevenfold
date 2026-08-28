@@ -19,6 +19,12 @@ this finding does not establish, and Section 4 is the more important half.
 What this finding is about is **where the government drew a line, and whether
 chemistry respects it.**
 
+**Section 7 answers the concentration question and the answer is reassuring.** An
+ordinary cat's claw capsule carries roughly 0.65 mg of the entire tetracyclic
+alkaloid class, below the 1.00 mg the government treats as significant for a single
+scheduled compound, and no one lobbies on it in either direction. We chased this
+hard and published the result that cuts against our own lead.
+
 ---
 
 ### 1. Corynoxine is a mu-opioid receptor full agonist [P]
@@ -135,10 +141,80 @@ That question is already before it as requested action 3 of comment
 `mtd-holx-p7i5`. This finding is the sharpest illustration of why it matters, and
 **it is deliberately not being added to the docket as a claim about a supplement.**
 
-### 7. Open
+### 7. ANSWERED 2026-08-29: the quantity is small, and there is no money on it
 
-- Corynoxine concentration in commercial cat's claw products. **Unknown, and it is
-  the question that decides whether any of this matters in practice.**
+Section 4 named the deciding question as concentration. It has been chased and it
+resolves **against** any concern about cat's claw. We publish that as plainly as we
+published the finding.
+
+**Quantity [P].** *Phytochemistry* 2018, DOI **10.1016/j.phytochem.2018.03.008**,
+*U. tomentosa* from Costa Rica across seasons:
+
+| Plant part | POA : TOA | TOA content |
+|---|---|---|
+| **Bark and root** (what capsules use) | **6 : 1**, pentacyclic chemotype in all seasons | **1.3 mg/g** |
+| Leaf | ~1 : 1 | 3.1 mg/g |
+
+Corynoxine is **one tetracyclic among several**, alongside rhynchophylline,
+isorhynchophylline and corynoxeine. It is a fraction of the TOA figure, not the
+figure itself.
+
+Applied to a commercial bark capsule:
+
+    400 mg capsule   ->  0.52 mg  ALL tetracyclic alkaloids combined
+    500 mg capsule   ->  0.65 mg
+    1000 mg capsule  ->  1.30 mg
+
+**For scale: the federal absolute limit for 7-OH is 1.00 mg per article.** An
+ordinary cat's claw capsule carries roughly **0.65 mg of the entire tetracyclic
+class**, before separating out corynoxine specifically. It sits below the quantity
+the government treats as significant for a single scheduled compound.
+
+**And commercial product selects against it.** Bark is a pentacyclic chemotype at
+6:1 in every season, the industry markets the pentacyclic fraction, and products
+such as Samento are sold specifically as "the pentacyclic chemotype." Corynoxine is
+tetracyclic. **The supplement trade has been selecting away from it for commercial
+reasons that have nothing to do with opioid pharmacology.**
+
+**Money [P, controlled].** Senate LDA, filings mentioning:
+
+| Term | Filings |
+|---|---|
+| cat's claw | **0** |
+| Uncaria | **0** |
+| dietary supplement | 1,910 |
+| kratom | 298 |
+
+Controls return results, so the zeros are real. **Nobody lobbies on this.** No
+industry is defending it, no industry is attacking it, and there is no money
+attached to it in any direction.
+
+### 8. What that means for this finding
+
+**The pharmacology stands. The alarm does not, and we retract any implication of
+one.**
+
+Corynoxine is a mu-opioid full agonist and it is in cat's claw. Both remain true.
+At the quantities present in ordinary product, with attenuated respiratory
+depression relative to morphine, with no harm signal in decades of use, and with
+zero commercial or political money anywhere near it, **there is no cat's claw
+problem and this case does not claim there is one.**
+
+What survives, and it is the whole point, is the **scope** argument:
+
+A mu-opioid full agonist occurs in a plant the rule does not reach, in a genus the
+rule does not name, sold under a regulatory framework the rule does not touch. It
+happens to be present in small amounts. **Nothing in the rule's architecture
+guarantees that.** The line was drawn at a species and a scaffold, and the only
+reason this particular case is harmless is a fact about plant chemistry that the
+rule neither knew nor relied on.
+
+**That is the argument. Not the supplement.**
+
+### 9. Still open
+
 - Whether any *Uncaria* product is marketed with opioid-adjacent claims. Not
-  reviewed.
+  reviewed, and no reason to expect it.
 - Whether FDA has ever assessed *Uncaria* alkaloids for opioid activity.
+- **Concentrated extracts.** The figures above are for whole bark. A 10:1 extract
+  multiplies them, and extract products exist. Not measured here.

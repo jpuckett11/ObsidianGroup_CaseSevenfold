@@ -296,6 +296,12 @@ alkaloids are "unlikely to play the majority role", and we have no concentration
 data and no harm signal. We do not ask for it to be scheduled and would oppose that
 on this evidence. The finding is about **scope**: the action reaches one scaffold in
 one species while the pharmacology spans two scaffolds across two genera.
+**ANSWERED 2026-08-29 and it cuts against our own lead:** a 500 mg bark capsule
+carries about **0.65 mg of the entire tetracyclic class**, under the 1.00 mg the
+government treats as significant for one scheduled compound; bark is a 6:1
+pentacyclic chemotype and the trade already selects away from the tetracyclics; and
+LDA shows **zero** filings on cat's claw or *Uncaria* against controls of 1,910 and
+298. **There is no cat's claw problem and this case says so.**
 
 **2026-08-29 — FOURTH comment FILED. Tracking `mtd-holx-p7i5`.** Corrects our own
 third comment. Puts on the federal record that **9-hydroxycorynantheidine is a
