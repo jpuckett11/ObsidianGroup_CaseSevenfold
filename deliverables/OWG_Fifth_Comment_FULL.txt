@@ -1,0 +1,53 @@
+Fifth OWG comment, supplementing mtc-56yj-nmij, mtc-6i56-o6pm, mtc-q9zv-dase and mtd-holx-p7i5.
+
+THE SUBSTITUTION OUR EARLIER COMMENTS WARNED OF HAS ALREADY OCCURRED
+
+Our third and fourth comments argued that scope drawn around individual molecules would be defeated by substitution toward uncovered alkaloids. We presented that as a forward risk. It is not a forward risk. It is documented, it is in retail, and a state health authority has already warned about it.
+
+A STATE POISON CONTROL CENTER ALERT
+
+Utah Poison Control Center, 22 July 2026, updated 30 July 2026:
+
+"The Utah Poison Control Center is alerting the public about potentially dangerous products sold in smoke shops or online that may lead to life-threatening opioid overdose, dependence, or withdrawal. The products contain blends of herbal supplements with Kava or Cat's Claw. These include 'Buzzers' and 'Homiez' brand products, but others may be involved as well. The poison center has received multiple reports of severe overdose related to these products.
+
+We suspect these products are adulterated with synthetic derivatives of kratom such as 7-hydroxymitragynine (7-OH), mitragynine pseudoindoxyl, MGM-15, or MGM-16. These derivatives are illegal opioid drugs that are more potent than morphine. The product labels are misleading and do not include these drugs as ingredients."
+
+Every compound named there is a compound this docket concerns. They are being sold under the botanical name of a different plant, from a different genus.
+
+A DEATH
+
+Utah Department of Agriculture and Food warning, reported 30 July 2026: an illegal kratom product sold in Utah County was linked to a death, over mislabelled Buzzers-brand Cat's Claw tablets. MGM-15 was identified. The substances were found in multiple flavours and identified in overdose cases in recent weeks. The product was not labelled as kratom.
+
+TWO DISTINCT PHENOMENA, AND ONLY ONE IS ILLEGAL
+
+First, adulteration. Products bearing a botanical name are being spiked with compounds this action covers. That is already unlawful and is an enforcement matter.
+
+Second, and more important for this rulemaking, substitution. Products are being built on alkaloids the action does not reach. A recovery community documents products marketed as "Cat's Claw" or "Rhynchophylline" being built around corynoxine B, described by them as an opioid-active alkaloid that dodges the 7-OH scheduling.
+
+That description is supported by the peer-reviewed literature. In ACS Chemical Neuroscience 2021, DOI 10.1021/acschemneuro.1c00149, corynantheidine is characterised as a mu-opioid receptor partial agonist, and "its oxindole derivative corynoxine was an MOR full agonist," with MOR-dependent antinociception demonstrated in mice.
+
+A mu-opioid full agonist. Not covered by this action, not covered by the temporary order, and lawful to sell today.
+
+WHAT THIS DEMONSTRATES ABOUT SCOPE
+
+The label is the evasion. Putting one plant's name on a product containing another plant's chemistry defeats a rule written around a species, and it does so without any chemistry at all.
+
+Our fourth comment asked whether scope was set by chemical scaffold, by metabolic origin, or by quantity per article. The market has now answered that question in practice: a rule identified by compound name and by species is defeated by relabelling and by moving one position on the molecule. The people being harmed are not reading the Federal Register. They are reading a label that names a different plant.
+
+WHAT WE ASK
+
+1. State whether the Department is aware of the Utah Poison Control Center alert of 22 July 2026 and the associated death, and whether products sold under the names of other botanicals are within the intended scope of this action.
+
+2. State whether corynoxine, corynoxine B, or other opioid-active oxindole alkaloids occurring in Mitragyna speciosa and related genera were considered in the scientific and medical evaluation, and on what basis they were excluded.
+
+3. State whether the Department intends scope to attach to the botanical name on a label, to the species of origin, to the chemical scaffold, or to opioid activity and quantity per article. Only the last of those survives relabelling.
+
+4. Publish the full list of alkaloids and metabolites considered, with the disposition of each.
+
+WHAT WE DO NOT ASSERT
+
+We do not ask for Uncaria tomentosa, genuine cat's claw, to be scheduled or restricted, and we would oppose that. Ordinary cat's claw bark contains roughly 1.3 mg per gram of the entire tetracyclic alkaloid class, of which corynoxine is a fraction. The problem is not the botanical. It is products using its name.
+
+We have not independently assayed any retail product. We rely on a state poison control alert, a state agriculture department warning, and contemporaneous reporting, all cited above and all publicly verifiable.
+
+OWG is an independent investigative organization with no financial interest in kratom, 7-OH, cat's claw or any company in this sector, and no funding from any party. Full comment attached. Supporting documents: github.com/jpuckett11/ObsidianGroup_CaseSevenfold

@@ -121,8 +121,9 @@ publishes its own errors is the only kind worth reading.
 
 ### 7. What is now asked
 
-This is material to the open docket and warrants a fifth comment before
-2026-09-10. The Department should be told, on the record, that:
+**Fifth comment DRAFTED 2026-08-29**, 4,877 of 5,000 characters, with a PDF
+attachment. `deliverables/OASH_FIFTH_commentbox.txt`. **Not yet filed.** It tells
+the Department, on the record, that:
 
 - Products bearing a **botanical name from a different genus** are being sold with
   scheduled compounds in them, and one is linked to a death.
