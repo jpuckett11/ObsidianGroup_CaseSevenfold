@@ -196,6 +196,52 @@ answer or a conspicuous absence. A comment can be ignored. A FOIA cannot.
 
 ---
 
+---
+
+### 6. Tennessee Division of Consumer Affairs — **SENT 2026-08-28**
+
+| | |
+|---|---|
+| **Recipient** | Tennessee Division of Consumer Affairs, Office of the Attorney General |
+| **Channel** | Email to `consumer.affairs@ag.tn.gov`, which the Division's own page lists as an accepted route alongside the online form, mail and fax |
+| Sent | **2026-08-28 19:47:29 UTC**, via Proton Bridge |
+| Verified | Present in the Sent folder over IMAP. SMTP acceptance alone was not treated as delivery |
+| Attachment | `OWG_TNAG_Complaint_2026-08-28.pdf`, 5 pages, 1,476 words |
+| Source text | `deliverables/tnag/TNAG_COMPLAINT_paste_this.txt` |
+| Statute | Tennessee Consumer Protection Act of 1977, **Tenn. Code Ann. §§ 47-18-101 et seq.** |
+
+**Framing.** The same facts as the FTC complaint with a Tennessee section added. It
+rests on the general TCPA prohibition of unfair or deceptive acts or practices
+affecting trade or commerce, and asks the Division to use its statutory powers to
+require a written statement under oath, examine persons under oath, and examine
+the products. **No specific TCPA subsection numbers are cited**, because their
+verbatim text was not obtained; the citation is to the Act generally and to the
+general prohibition, both confirmed against the Attorney General's own published
+consumer guide (`exhibits/tn_ag_tcpa_chapter.pdf`).
+
+**The core of it, as with the FTC filing:** two quotes from the same domain on the
+same day. The product page sells "botanical supplementation." The help centre
+concedes the products "can be habit-forming" and that "long-term use may lead to
+addiction and withdrawal symptoms." Both captured 2026-08-27 and hashed.
+
+**Also requested:** a Tennessee consumer alert. Georgia issued one on 2025-11-13
+describing these products as "Dangerous Synthetic Opioids Flooding Gas Stations."
+Tennessee consumers have no equivalent notice.
+
+**Confidentiality notice.** Sent with the full standing notice, unmodified and with
+no authorization line, at the investigator's express direction on 2026-08-28. The
+tension was raised before sending: the notice states the contents are not for
+public release and may not be forwarded or used in administrative proceedings,
+while a consumer complaint asks the Division to do exactly that, and Tennessee
+complaint files are public records. **Decision recorded here so that if the
+Division declines to forward the complaint to the sellers, the cause is known.**
+
+**Follow-up:** watch for an acknowledgment. If none arrives within a reasonable
+period, refile through the online form at `core.tn.gov`, which issues an
+auto-generated receipt PDF.
+
+---
+
 ## READY, NOT SENT
 
 
@@ -209,6 +255,15 @@ Liquid Product*, 4:23-cv-00168-GAG-CDL, on 2025-12-22.
 
 
 ### 2. FTC — Section 5 deceptive advertising
+
+**Dated and built 2026-08-28.** `deliverables/ftc/FTC_COMPLAINT_paste_this.txt`
+and `deliverables/ftc/OWG_FTC_Complaint_2026-08-28.pdf`, 4 pages, 1,237 words.
+
+**This one cannot be sent from here.** The FTC publishes no email intake for
+consumer or industry complaints. ReportFraud.ftc.gov is a JavaScript form with no
+API, and the Bureau of Consumer Protection route is postal mail to 600
+Pennsylvania Avenue NW, Washington DC 20580. Both require a person. Attempting a
+programmatic submission was not tried, because there is nothing to submit to.
 
 `deliverables/ftc/FTC_COMPLAINT_paste_this.txt`. Needs a date. Two routes, both
 in `HOW_TO_FILE_FTC.txt`: ReportFraud.ftc.gov for the record, and the Bureau of
@@ -225,14 +280,36 @@ account.**
 
 ---
 
+### 3. Senator Marsha Blackburn — constituent letter
 
-### 3. Tennessee Attorney General — Consumer Protection Division
+`deliverables/blackburn/LETTER_to_Blackburn_paste_this.txt` and
+`OWG_Letter_Sen_Blackburn_2026-08-28.pdf`, 3 pages, 990 words.
 
-Same document, addressee changed. Georgia's AG has already issued a public alert
-describing these as "Dangerous Synthetic Opioids Flooding Gas Stations"
-(2025-11-13), so the framing is established rather than novel.
+**Why her.** She signed the 2026-03-18 letter to Commissioner Makary urging action
+on 7-OH, she represents the investigator's own state, and Finding 22 establishes
+from FEC primaries that she has taken **nothing** from any kratom company or trade
+association. The letter opens by telling her that, because a clean finding is
+worth as much as a dirty one and she is entitled to hear it from us.
 
----
+**What it asks:** the three scope questions already before the Department on
+HHS-OASH-2026-0232, put by a senator rather than a private citizen. Whether the
+evaluation considered alkaloids outside the mitragynine scaffold; whether scope was
+set on natural abundance or on manufacturability; and that any subsequent notice
+publish the full list of alkaloids considered.
+
+**What it offers:** the entire case file, free, with no conditions, including an
+explicit offer to tell her staff which parts of our own work cut against our
+theory before they rely on any of it.
+
+**On the Mullin holding:** mentioned in one paragraph, as a matter of public
+record, with no characterization and no request that she take a position on a
+colleague. The stated reason is that she signed a letter on this subject and
+should not learn of it from somebody else.
+
+**Delivery:** Senate offices do not publish complaint email addresses; the route is
+her contact form at `blackburn.senate.gov/contact` or postal mail to her DC office.
+**Not sendable from here.** Constituent forms generally require a Tennessee
+address, which the investigator has.
 
 ---
 

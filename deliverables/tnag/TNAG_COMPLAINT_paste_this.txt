@@ -1,18 +1,23 @@
 COMPLAINT AND REQUEST FOR INVESTIGATION
 
-To:      Federal Trade Commission
-         Bureau of Consumer Protection
-         Division of Advertising Practices
-         600 Pennsylvania Avenue NW, Washington DC 20580
+To:      Tennessee Division of Consumer Affairs
+         Office of the Tennessee Attorney General
+         P.O. Box 20207
+         Nashville, TN 37202-0207
 
 From:    Jay Puckett, Principal Security Researcher
          Obsidian Watch Group
+         Columbia, Tennessee
          obsidianinvestigations@pm.me
 
 Date:    28 August 2026
 
 Re:      Deceptive marketing of 7-hydroxymitragynine (7-OH) products as natural
-         botanical supplements, in violation of Section 5 of the FTC Act
+         botanical supplements, under the Tennessee Consumer Protection Act of
+         1977, Tenn. Code Ann. §§ 47-18-101 et seq.
+
+         A parallel complaint on the same facts has been filed with the Federal
+         Trade Commission under Section 5 of the FTC Act.
 
 ---
 
@@ -33,6 +38,25 @@ financial interest in kratom, 7-OH, or any company named here, and no funding
 from any party. We are not seeking damages and represent no claimant.
 
 ---
+
+0. WHY THIS IS A TENNESSEE MATTER
+
+The complainant is a Tennessee resident. The products described in this complaint
+are sold across Tennessee in gas stations, convenience stores and smoke shops,
+beside the register, without age verification in many locations and without a
+pharmacist, a prescription or a label that names what the buyer is taking.
+
+The Tennessee Consumer Protection Act prohibits unfair or deceptive acts or
+practices affecting the conduct of any trade or commerce. Under it, the Division
+of Consumer Affairs and the Attorney General may require a business to file a
+written statement under oath, examine any person under oath in connection with an
+alleged violation, and examine the products themselves. We ask the Division to use
+those powers here.
+
+We note that this complaint does not depend on any question of federal drug
+scheduling, which is being handled elsewhere and on which we take no position in
+this filing. It rests on what Tennessee buyers are told at the point of sale
+against what the sellers themselves say they know.
 
 1. THE PRODUCT
 
@@ -179,10 +203,14 @@ REQUESTED ACTION
 3. Investigate the reported practice of distributing free 7-OH samples to
    purchasers of other kratom products.
 
-4. Consider coordination with FDA, which has issued warning letters in this
-   category, and with state attorneys general. The Georgia Attorney General
-   issued a consumer alert on 13 November 2025 describing these products as
-   "Dangerous Synthetic Opioids Flooding Gas Stations."
+4. Consider a consumer alert for Tennessee. The Georgia Attorney General issued
+   one on 13 November 2025 describing these products as "Dangerous Synthetic
+   Opioids Flooding Gas Stations." Tennessee consumers currently have no
+   equivalent notice, and the products are on shelves here today.
+
+5. Consider coordination with the Federal Trade Commission, with FDA, which has
+   issued warning letters in this category, and with the Georgia Attorney
+   General's office, which has already examined this product class.
 
 EVIDENCE AVAILABLE
 

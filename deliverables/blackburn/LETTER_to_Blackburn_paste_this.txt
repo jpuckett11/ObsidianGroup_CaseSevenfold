@@ -1,0 +1,127 @@
+Jay Puckett
+Principal Security Researcher
+Obsidian Watch Group
+Columbia, Tennessee
+obsidianinvestigations@pm.me
+
+28 August 2026
+
+The Honorable Marsha Blackburn
+United States Senate
+Washington, DC 20510
+
+Re:  7-hydroxymitragynine, the March 18 letter to Commissioner Makary, and a gap
+     in the scheduling action that nobody has raised
+
+Senator Blackburn,
+
+I am a constituent in Columbia. I run a small independent investigative group. We
+have spent the last month on the federal 7-OH scheduling action, and I am writing
+for two reasons. One is something we found that is in your favor and that you did
+not ask us to look for. The other is a question I would like you to ask.
+
+FIRST, THE PART THAT HELPS YOU
+
+You signed the letter of 18 March 2026 to Commissioner Makary urging action on
+7-OH. Ten of your colleagues signed with you.
+
+When we started, our working theory was that the 7-OH action existed to protect
+the market position of leaf-kratom companies that officials had money in. That is
+a serious thing to suspect, so we tested it against primary records rather than
+assuming it.
+
+On the eleven of you, the theory failed. We queried Federal Election Commission
+records by contributor employer for every kratom company and trade association we
+could identify. Not one of the eleven signatories appears as a recipient of any of
+it. Not you, not Chairman Crapo, not one. We have published that finding as
+plainly as we published everything else, because a clean result is worth as much
+as a dirty one and people are entitled to both.
+
+I want to be accurate rather than flattering: an absence of contribution records
+is not a certificate of anything, employer fields are self-reported, and we said
+so in the finding. But we looked hard and we found nothing, and I would rather you
+hear that from us than never hear it at all.
+
+SECOND, THE PART WHERE I NEED YOU
+
+Every substance the government has moved against sits on one chemical scaffold.
+7-OH itself, mitragynine pseudoindoxyl, MGM-15 and MGM-16 are all structural
+relatives of mitragynine.
+
+The same plant contains a second scaffold. A compound called
+9-hydroxycorynantheidine stands to corynantheidine roughly as 7-OH stands to
+mitragynine, and it is covered by nothing. It appears in no federal docket
+document, no lobbying disclosure and no FDA adverse event report. We ran controls
+on every one of those searches.
+
+Florida already caught it. Its emergency rule of June 2026 names the compound. The
+federal instruments issued weeks later do not.
+
+The reason this is urgent rather than academic is what we found last week. Two
+companies have filed patent applications claiming how to manufacture this compound
+industrially, one by cell-free enzymes and one by fermentation, both with priority
+dates in late 2023. Their own filings show the compound is an intermediate on the
+biosynthetic route to mitragynine, which means any facility making mitragynine
+that way passes straight through it and can stop there and isolate it.
+
+Everyone has assumed the constraint on this compound is that there is too little
+of it in the leaf to matter. That assumption is already obsolete.
+
+WHAT I AM ASKING
+
+Not for money, not for an endorsement, and not for anything that costs your office
+political capital with a colleague.
+
+1. Ask the Department, on the record, whether its scientific and medical
+   evaluation considered mu-opioid-active alkaloids of Mitragyna speciosa outside
+   the mitragynine scaffold, and if it did, on what basis they were excluded.
+
+2. Ask whether the scope of the action was set on how abundant a compound is in
+   the plant, or on whether it can be manufactured. Those are different questions
+   and only one of them still makes sense.
+
+3. Ask that any subsequent notice publish the full list of alkaloids considered
+   and the disposition of each, so the public can evaluate the scope rather than
+   infer it.
+
+Those three questions are already before the Department. We filed them on docket
+HHS-OASH-2026-0232 as comment mtc-q9zv-dase on 28 August, alongside two earlier
+comments. A comment from a private citizen can be acknowledged and shelved. The
+same question from a sitting senator who already signed the March letter is
+harder to shelve, and it is consistent with the position you have already taken.
+
+WHAT I AM OFFERING
+
+Everything we have, at no cost and with no conditions.
+
+Twenty-five documented findings, every exhibit hashed and dated, the patent
+analysis, the lobbying and contribution records, and the three federal comments.
+It is public at github.com/jpuckett11/ObsidianGroup_CaseSevenfold and your staff
+can take any of it without crediting us. If it is more useful as a briefing, I
+will sit down with whoever you send and walk them through the primary documents.
+
+I will also tell your staff which parts of our own work cut against our theory,
+because there are several, and they should know before they rely on any of it.
+
+There is one more finding I will mention and then leave alone. A sitting official
+holds between $500,001 and $1,000,000 in a leaf-kratom manufacturer, disclosed on
+a nominee financial disclosure and left off an ethics divestiture agreement that
+captured sixty-three other equities. That is a matter of public record. I am not
+asking you to characterize it, take a position on it, or say anything about a
+colleague. I am telling you it exists because you signed a letter on this subject
+and you should not learn about it from somebody else.
+
+I got into this because people I know were hurt by these products, and because the
+buyer is told it is a botanical while the seller's own website admits it is
+habit-forming on a page the buyer never reaches. Whatever else is true about the
+money, that part is just a lie told to people who trusted a label.
+
+Thank you for your time, and for signing the March letter before any of this was
+in the news.
+
+Respectfully,
+
+Jay Puckett
+Principal Security Researcher
+Obsidian Watch Group
+Columbia, Tennessee
