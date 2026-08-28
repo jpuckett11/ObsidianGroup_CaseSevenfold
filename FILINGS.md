@@ -130,9 +130,15 @@ and not of any intent to market.
 
 ---
 
----
-
 ### 4. Senate Finance Committee, Wyden inquiry — **SENT 2026-08-27**
+
+**Delivery status, audited 2026-08-28.** Sent to
+`Whistleblower_complaints@wyden.senate.gov`, which is a **published** intake
+address, unlike the guessed one that bounced in entry 4 of READY. **No bounce has
+been received** in the day since, so the mail was accepted by the Senate gateway.
+**No acknowledgment either**, which is normal for whistleblower intakes and is not
+evidence of a problem. Status is delivered-unacknowledged, not confirmed-received.
+
 
 | | |
 |---|---|
@@ -164,41 +170,9 @@ else in this case is already public.
 
 ---
 
-
-### 5. FOIA — FDA Division of Freedom of Information — **SENT 2026-08-27**
-
-| | |
-|---|---|
-| **To** | `FDAFOIA@FDA.HHS.GOV` |
-| Sent | 2026-08-28 UTC, verified in Sent via IMAP |
-| Statutory response clock | **20 business days** from receipt |
-
-**Asks FDA for:** every alteration to kratom consumer content on Department web
-properties from 2025-01-01, with the requesting party and scientific basis for
-each; all communications with any Member of Congress or other department about
-that content, expressly including the office of Senator Mullin and the Office of
-the Secretary of Homeland Security; any record of a decision to decline a
-requested change; the source intended by the **"Kruegel et al., 2019"** citation
-absent from FDA's own bibliography; any conflict-of-interest review of the cited
-literature including the Johnson-Foods-funded Huestis/Atallah study; the
-analytical methodology behind the 0.05% threshold; and the identity of the party
-that requested the comment-period extension on HHS-OASH-2026-0232.
-
-Fee waiver and expedited processing requested, keyed to the open docket.
-
-**[I] A comment can be read and set aside. A FOIA cannot.** This is the only
-instrument in the case that creates a statutory duty to answer or to refuse in
-writing, and a refusal is itself informative.
-
-**[I] FOIA 02 is the highest-value unfiled item.** It creates a statutory
-obligation to respond, on three discrete questions that each have a documentary
-answer or a conspicuous absence. A comment can be ignored. A FOIA cannot.
-
 ---
 
----
-
-### 6. Tennessee Division of Consumer Affairs — **SENT 2026-08-28**
+### 5. Tennessee Division of Consumer Affairs — **SENT 2026-08-28**
 
 | | |
 |---|---|
@@ -206,6 +180,7 @@ answer or a conspicuous absence. A comment can be ignored. A FOIA cannot.
 | **Channel** | Email to `consumer.affairs@ag.tn.gov`, which the Division's own page lists as an accepted route alongside the online form, mail and fax |
 | Sent | **2026-08-28 19:47:29 UTC**, via Proton Bridge |
 | Verified | Present in the Sent folder over IMAP. SMTP acceptance alone was not treated as delivery |
+| **ACKNOWLEDGED** | **2026-08-28 19:47:52 UTC, 23 seconds after sending. Reference `104939`, Zendesk ticket `PXXM7R-6PWNL`.** "Your request (104939) has been received and is being reviewed by our support staff." |
 | Attachment | `OWG_TNAG_Complaint_2026-08-28.pdf`, 5 pages, 1,476 words |
 | Source text | `deliverables/tnag/TNAG_COMPLAINT_paste_this.txt` |
 | Statute | Tennessee Consumer Protection Act of 1977, **Tenn. Code Ann. §§ 47-18-101 et seq.** |
@@ -244,8 +219,36 @@ auto-generated receipt PDF.
 
 ## READY, NOT SENT
 
+### 1. FOIA — FDA Division of Freedom of Information — **REJECTED 2026-08-28, NOT FILED**
 
-### 1. FOIA — DOJ / EOUSA / USAO-NDOkla
+**This was recorded as SENT on 2026-08-27. It was never accepted.** The error was
+caught on 2026-08-28 when the reply was read.
+
+FDA replied from `FDAFOIA@fda.hhs.gov` at 2026-08-28 14:32:37 UTC, from Charis
+Wilson, PhD, CRM, Denials and Appeals Officer, Office of Operations:
+
+> "The FDA does not accept FOIA requests via email. However, FOIA requests can be
+> submitted to the FDA electronically at
+> `https://www.accessdata.fda.gov/scripts/foi/foirequest/requestform.cfm`. You can
+> also submit requests via the FOIA.gov system or via hardcopy mail."
+
+**Correct routes, none of which is email:**
+- `accessdata.fda.gov/scripts/foi/foirequest/requestform.cfm` (FDA's own form)
+- `foia.gov` national portal
+- Hardcopy mail
+
+**Lesson recorded.** A send that leaves the outbox is not a filing. This entry sat
+in the FILED section for a day describing a request that the agency had already
+refused. Nothing goes in FILED again without an agency acknowledgment, a tracking
+number, or a docket receipt.
+
+Draft text: `deliverables/foia/FOIA_02_HHS_FDA_website_changes.txt`. **Content is
+unchanged and still good; only the channel was wrong.**
+
+---
+
+
+### 2. FOIA — DOJ / EOUSA / USAO-NDOkla
 
 `deliverables/foia/FOIA_01_DOJ_seizure_dismissal.txt`. Needs date and return
 address. Subject: the dismissal of *United States v. 250,000 Filled Bottles of
@@ -254,7 +257,7 @@ Liquid Product*, 4:23-cv-00168-GAG-CDL, on 2025-12-22.
 ---
 
 
-### 2. FTC — Section 5 deceptive advertising
+### 3. FTC — Section 5 deceptive advertising
 
 **Dated and built 2026-08-28.** `deliverables/ftc/FTC_COMPLAINT_paste_this.txt`
 and `deliverables/ftc/OWG_FTC_Complaint_2026-08-28.pdf`, 4 pages, 1,237 words.
@@ -280,7 +283,18 @@ account.**
 
 ---
 
-### 3. Senator Marsha Blackburn — constituent letter
+### 4. Senator Marsha Blackburn — constituent letter — **EMAIL BOUNCED 2026-08-28**
+
+**Attempted and failed, recorded rather than quietly dropped.** At the
+investigator's direction on 2026-08-28, after the caveat was stated twice, the
+letter was sent to the conventional `senator@blackburn.senate.gov`. No senator
+address is published anywhere, so the address was a convention, not a source.
+
+**Result: `550 5.1.1 User Unknown`** from `v-ico-ppmx2.senate.gov`
+[156.33.195.244], the Senate's own mail server. Bounce received 19:58:24 UTC.
+The address does not exist. **Nothing was delivered.**
+
+This closes the question: there is no email route to this office. Use fax.
 
 `deliverables/blackburn/LETTER_to_Blackburn_paste_this.txt` and
 `OWG_Letter_Sen_Blackburn_2026-08-28.pdf`, 3 pages, 990 words.

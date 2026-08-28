@@ -277,6 +277,16 @@ Written down deliberately, so we test it instead of confirming it.
 ## FILED
 
 
+
+**2026-08-28 — Tennessee Division of Consumer Affairs complaint SENT and
+ACKNOWLEDGED.** Reference **`104939`**, acknowledged 23 seconds after sending.
+Tennessee Consumer Protection Act, Tenn. Code Ann. §§ 47-18-101 et seq.
+
+**CORRECTION 2026-08-28 — the FDA FOIA was never filed.** It was recorded as SENT
+on 2026-08-27. FDA replied that it **does not accept FOIA requests by email** and
+must be filed through `accessdata.fda.gov` or `foia.gov`. The entry has been moved
+out of FILED. A send that leaves the outbox is not a filing.
+
 **2026-08-28 — THIRD comment filed to docket HHS-OASH-2026-0232**, the
 corynantheidine gap. **Comment Tracking Number: `mtc-q9zv-dase`.** Five-page
 attachment, 1,251 words, box text 4,995 of 5,000 characters. Argues every covered
