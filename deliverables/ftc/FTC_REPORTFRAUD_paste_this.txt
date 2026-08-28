@@ -1,51 +1,50 @@
-I am reporting deceptive marketing of concentrated 7-hydroxymitragynine (7-OH) products sold as natural botanical supplements.
+I am reporting deceptive marketing of opioid-active products sold as botanical energy supplements. The strongest example is a brand where the seller states its own method in writing.
 
-THE CORE OF IT, TWO QUOTES FROM ONE SELLER'S OWN WEBSITE ON THE SAME DAY
+THE SELLER EXPLAINS THE METHOD ON ITS OWN HOMEPAGE
 
-The product page advertises "botanical supplementation." A separate help-center page on the same domain concedes the products "can be habit-forming" and that "long-term use may lead to addiction and withdrawal symptoms." Both pages were captured 2026-08-27 with SHA-256 hashes and timestamps.
+Brand: "Buzzers," sold nationally, with a companion line "Buzzin with The Homiez." Pages captured and SHA-256 hashed 28 August 2026.
 
-The addiction disclosure sits where a buyer will not encounter it before purchase. The wellness framing sits where they will.
+getbuzzers.com carries the banner "No 7-OH or Kratom. Legal in all 50 states," and states:
 
-WHY "BOTANICAL" IS FALSE ON THE GOVERNMENT'S OWN FINDING
+"After much research, we figured out a way to extract an indole alkaloid from the Cat's Claw plant to mirror the effects of popular kratom products. We're able to get so close because, despite not using kratom, we're still producing a very similar indole alkaloid. The results are a non-kratom product with kratom-like effects."
 
-FDA's scientific assessment of 7-OH finds these products are not simply plant material. Concentrated 7-OH is produced by chemical conversion from mitragynine; it occurs in the leaf at roughly 0.01 percent by weight, far below the concentrations sold. DEA has proposed Schedule I placement above a threshold, and a temporary order now covers related synthetic derivatives. A product created by chemical conversion, sold at concentrations the plant does not produce, is not botanical supplementation.
+A retailer page (thegreendragoncbd.com) states the rationale outright: "Legal in all 50 states: Cat's Claw is a recognized botanical and is not a controlled substance, so Buzzers ship nationwide."
 
-DOSAGE AND FREE SAMPLES
+IT IS MARKETED AS AN ENERGY SUPPLEMENT
 
-Products are sold in tablets, shots and gummies at concentrations far above natural levels, at gas stations and smoke shops, beside the register, frequently without age verification. There are reports of free 7-OH samples being distributed to purchasers of other kratom products.
+The copy promises "clarity, focus, and high-functioning energy" and "a balanced and productive vibe." The manufacturer's homepage carries a testimonial reading "if you like kratom you'll love these. They give you energy."
 
-WHO THE HARM FALLS ON
+A STATE POISON CONTROL CENTRE SAYS IT IS AN OPIOID
 
-A buyer who knows it is an opioid, has a physician, coverage and stable housing can get out with difficulty. A buyer told it is botanical supplementation, who never sees the habit-forming page, who has no appointment and no coverage, and who does not recognise opioid withdrawal when it starts, has one immediately available action. It is to buy more of the product.
+Utah Poison Control Center, 22 July 2026, naming "Buzzers" and "Homiez" brands: these products "may lead to life-threatening opioid overdose, dependence, or withdrawal." The centre received "multiple reports of severe overdose," suspects adulteration with 7-hydroxymitragynine, mitragynine pseudoindoxyl, MGM-15 or MGM-16, states these are "more potent than morphine," and states "the product labels are misleading and do not include these drugs as ingredients."
 
-Every part of that difference is a marketing decision, not a pharmacological one. The compound is identical. What changes is what the buyer was told, and where they were told it.
+On 30 July 2026 a death in Utah County was linked to mislabelled Buzzers-brand tablets, with MGM-15 identified. MGM-15 is a Schedule I substance under Utah law, and Utah restricted kratom products other than pure leaf in 2026, so "Legal in all 50 states" appears inaccurate.
 
-WHO IS ACTUALLY BEING SOLD TO
+Sold as an energy supplement. Named by a state health authority in connection with opioid overdoses and a death.
 
-The Commission may wish to note the composition of the population these products reach.
+THE SAME PATTERN ACROSS THE CATEGORY
 
-In the International ADHD in Substance Use Disorder Prevalence study, a structured-interview cohort of 1,274 treatment-seeking substance use disorder patients aged 18 to 65, childhood trauma exposure was present in 53.5 percent of patients (Addictive Behaviors, DOI 10.1016/j.addbeh.2016.10.016). Comorbid adult ADHD was present in 14.1 percent, against roughly 2.5 to 5 percent in the adult general population, and ADHD prevalence was 19.4 percent among those with childhood trauma against 8.5 percent without.
+Separately, on at least one 7-OH seller's website, the product page advertises "botanical supplementation" while a help-centre page on the same domain concedes the products "can be habit-forming" and that "long-term use may lead to addiction and withdrawal symptoms." Both captured 2026-08-27 and hashed. The addiction disclosure sits where a buyer will not see it before purchase.
 
-This is not a marginal subgroup. A majority of the people who end up in treatment for a substance use disorder were traumatised as children.
+FDA's own scientific assessment finds concentrated 7-OH is produced by chemical conversion and occurs in the leaf at roughly 0.01 percent, far below what is sold. A product created by chemical conversion, at concentrations the plant does not produce, is not botanical supplementation.
 
-We raise it for one reason. These products are sold beside the register, at gas stations and smoke shops, without age verification in many locations, described as botanical supplementation, with the seller's own admission of habit-forming potential placed on a page the buyer does not see. The population most likely to be reached by that presentation is disproportionately made up of people who were made vulnerable long before they walked in.
+WHO IS BEING SOLD TO
 
-A representation that would mislead an ordinary consumer is a more serious matter when the foreseeable audience is this one.
+In a structured-interview cohort of 1,274 treatment-seeking substance use disorder patients, childhood trauma exposure was present in 53.5 percent, and comorbid adult ADHD in 14.1 percent against roughly 2.5-5 percent in the general adult population (Addictive Behaviors, DOI 10.1016/j.addbeh.2016.10.016).
 
-PRECEDENT
+These products are sold beside the register, at gas stations and smoke shops, frequently without age verification. A representation that would mislead an ordinary consumer is a more serious matter when the foreseeable audience is this one.
 
-In re Botanic Tonics Litigation, No. 3:23-cv-01460-VC (N.D. Cal.), settled for $8,750,000 on allegations that a kratom product was marketed without disclosing its kratom content or addictive potential.
+REQUESTED ACTION
 
-WHAT I ASK THE COMMISSION TO INVESTIGATE
+1. Whether marketing an opioid-active product as an energy or focus supplement is a deceptive representation under Section 5.
+2. Whether "Legal in all 50 states," on a product a state poison control centre has linked to overdoses and a death, is a deceptive representation.
+3. Whether describing chemically converted 7-OH as "botanical supplementation" is deceptive.
+4. Whether placing addiction and withdrawal disclosures away from the point of purchase is a material omission.
+5. Coordination with FDA, and with the Utah and Georgia attorneys general, both of which have acted in this category.
 
-1. Whether describing chemically converted 7-OH as "botanical supplementation" or equivalent is a deceptive representation under Section 5.
-2. Whether placing addiction and withdrawal disclosures away from the point of purchase, while the product page carries wellness framing, is a material omission.
-3. The reported practice of distributing free 7-OH samples.
-4. Coordination with FDA, which has issued warning letters in this category, and with state attorneys general. Georgia issued a consumer alert on 13 November 2025 describing these as "Dangerous Synthetic Opioids Flooding Gas Stations." Utah Poison Control warned on 22 July 2026 about smoke-shop products causing life-threatening opioid overdose, and a death in Utah was linked to mislabelled tablets sold under a different botanical name.
+WHAT I DO NOT CLAIM
 
-EVIDENCE AVAILABLE
-
-Captured web pages with SHA-256 hashes and capture timestamps, the FDA scientific assessment, adverse event extracts, patent filings, and the complete case file, published free at github.com/jpuckett11/ObsidianGroup_CaseSevenfold
+I have assayed no product and make no claim about the contents of any specific item. The adulteration finding is the Utah Poison Control Center's. I report what the sellers' own pages say and what state authorities have published. All captures are hashed and dated.
 
 Jay Puckett, Obsidian Watch Group, jay.puckett@obsidianwatchgroup.com
-Obsidian Watch Group is independent, has no financial interest in kratom or 7-OH, and takes no funding from any party in this sector.
+Independent. No financial interest in kratom, 7-OH, cat's claw or any company in this sector. No funding from any party.

@@ -8,7 +8,7 @@ TWO ROUTES. DO BOTH.
                               that state AGs and other agencies can see
 
    Path: "Something else" -> "Products and services"
-   Paste: FTC_REPORTFRAUD_paste_this.txt   (4,919 chars, sized for the form)
+   Paste: FTC_REPORTFRAUD_paste_this.txt   (4,532 chars, sized for the form)
 
    If the field is shorter than that, keep the first three sections. The two
    quotes from one domain on the same day are the whole complaint; everything
@@ -27,7 +27,26 @@ TWO ROUTES. DO BOTH.
    THERE IS NO EMAIL INTAKE. Checked 2026-08-29. ReportFraud is a JavaScript
    form with no API and the Bureau route is postal. Both need a person.
 
-WHAT MAKES THIS ONE STRONG
+LEAD WITH BUZZERS. IT IS THE STRONGEST THING IN THE FILE.
+
+The seller states its own method on its homepage: it extracts an indole alkaloid
+from Cat's Claw "to mirror the effects of popular kratom products," producing "a
+non-kratom product with kratom-like effects." A retailer states the reason plainly:
+Cat's Claw "is not a controlled substance, so Buzzers ship nationwide."
+
+It is sold as an energy and focus supplement. Utah Poison Control named the brand
+in connection with multiple severe overdoses, and a death in Utah County was linked
+to mislabelled Buzzers tablets containing MGM-15.
+
+Sold as an upper. Named by a state health authority as causing opioid overdoses.
+
+And "Legal in all 50 states" is on the packaging claim, while MGM-15 is Schedule I
+under Utah law and Utah restricted non-leaf kratom products this year.
+
+That is four distinct Section 5 theories in one brand, and none of them require the
+Commission to take our word for anything. Every quote is captured and hashed.
+
+WHAT ELSE MAKES THIS STRONG
 
 Not the harm data. Agencies already have harm data.
 

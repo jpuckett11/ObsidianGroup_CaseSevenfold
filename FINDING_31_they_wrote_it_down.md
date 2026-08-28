@@ -121,7 +121,10 @@ homepage.
 
 ### 9. Action
 
-**This goes to the FTC.** The complaint already alleges deceptive presentation.
+**DONE. Folded into the FTC complaint 2026-08-29.** Both the ReportFraud version
+(4,532 chars, now leading with this) and the full 5-page complaint carry it, with a
+new requested action on the "Legal in all 50 states" claim. The complaint already
+alleged deceptive presentation.
 This adds a seller stating in writing that the product is formulated to substitute
 for a controlled substance, marketed as an energy supplement, carrying an apparently
 false nationwide-legality claim, and named by a state poison control centre in

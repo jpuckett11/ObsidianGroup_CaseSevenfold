@@ -157,7 +157,29 @@ Every element of that difference is a marketing decision rather than a
 pharmacological one. The compound is the same. What changes is what the buyer was
 told, and where.
 
-8. WHO IS ACTUALLY BEING SOLD TO
+8. A NAMED PRODUCT WHERE THE SELLER STATES THE METHOD IN WRITING
+
+The strongest single example is the brand "Buzzers," sold nationally, with a companion line "Buzzin with The Homiez." Pages captured and SHA-256 hashed 28 August 2026.
+
+The manufacturer's homepage (getbuzzers.com) carries the banner "No 7-OH or Kratom. Legal in all 50 states," and states:
+
+"After much research, we figured out a way to extract an indole alkaloid from the Cat's Claw plant to mirror the effects of popular kratom products. We're able to get so close because, despite not using kratom, we're still producing a very similar indole alkaloid. The results are a non-kratom product with kratom-like effects."
+
+A retailer page (thegreendragoncbd.com) states the rationale outright:
+
+"Legal in all 50 states: Cat's Claw is a recognized botanical and is not a controlled substance, so Buzzers ship nationwide."
+
+The product is marketed as a stimulant. The copy promises "clarity, focus, and high-functioning energy," and the manufacturer's own homepage carries a testimonial reading "if you like kratom you'll love these. They give you energy."
+
+The Utah Poison Control Center, on 22 July 2026, named "Buzzers" and "Homiez" brand products in an alert stating they "may lead to life-threatening opioid overdose, dependence, or withdrawal," reporting "multiple reports of severe overdose," and stating the products are suspected to be adulterated with 7-hydroxymitragynine, mitragynine pseudoindoxyl, MGM-15 or MGM-16, which are "more potent than morphine," and that "the product labels are misleading and do not include these drugs as ingredients." On 30 July 2026 a death in Utah County was linked to mislabelled Buzzers-brand tablets with MGM-15 identified.
+
+Sold as an energy supplement. Named by a state poison control centre in connection with opioid overdoses and a death.
+
+We note further that "Legal in all 50 states" appears to be inaccurate. Utah restricted kratom products other than pure leaf in its 2026 legislative session, MGM-15 is a Schedule I substance under Utah law, and the state agriculture department directed retailers to remove the product.
+
+We have not assayed any Buzzers product and make no claim about its contents. The adulteration finding is the Utah Poison Control Center's. We report what the seller's own pages say, and what a state health authority has published.
+
+WHO IS ACTUALLY BEING SOLD TO
 
 The Commission may wish to note the composition of the population these products reach.
 
@@ -191,7 +213,9 @@ REQUESTED ACTION
 3. Investigate the reported practice of distributing free 7-OH samples to
    purchasers of other kratom products.
 
-4. Consider coordination with FDA, which has issued warning letters in this
+4. Whether the claim "Legal in all 50 states," carried on a product a state poison control centre has linked to opioid overdoses and a death, is a deceptive representation.
+
+5. Consider coordination with FDA, which has issued warning letters in this
    category, and with state attorneys general. The Georgia Attorney General
    issued a consumer alert on 13 November 2025 describing these products as
    "Dangerous Synthetic Opioids Flooding Gas Stations."
