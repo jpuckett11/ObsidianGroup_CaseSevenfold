@@ -289,6 +289,19 @@ Written down deliberately, so we test it instead of confirming it.
 
 
 
+
+**2026-08-29 — Finding 31: they published the arbitrage themselves.** The
+manufacturer's own homepage states it "**figured out a way to extract an indole
+alkaloid from the Cat's Claw plant to mirror the effects of popular kratom
+products**," producing "a **non-kratom product with kratom-like effects**," and a
+retailer states the rationale outright: "**Cat's Claw is a recognized botanical and
+is not a controlled substance, so Buzzers ship nationwide**." Marketed as "clarity,
+focus, and high-functioning energy." **A state poison control centre names the same
+brand in connection with multiple severe overdoses and a death.** Sold as an upper,
+killing people as an opioid. Both brands Utah named, Buzzers and Homiez, are sold
+from the same site. **Five pages captured and SHA-256 hashed 2026-08-28 before they
+change.**
+
 **2026-08-29 — Finding 30: it is all still on the shelf, and stays there.** The
 three federal instruments reach **four substances, all on the mitragynine
 scaffold**. **9-hydroxycorynantheidine** (a major human metabolite of the controlled
