@@ -1,0 +1,48 @@
+Subject: Products your intake staff will not recognise as opioids — free case file, Obsidian Watch Group
+
+Ms. K,
+
+I run a small independent investigative group. We have spent the last month on the
+federal docket concerning 7-hydroxymitragynine, and we found something that I think
+matters to a community mental health centre treating chemical dependency. It is
+free, it is public, and I am not selling anything.
+
+The short version, and it is the part your intake staff will care about:
+
+1. Products are now being sold that are engineered to substitute for 7-OH using
+   compounds the federal scheduling action does not reach. One manufacturer states
+   on its own homepage that it extracts an alkaloid from cat's claw "to mirror the
+   effects of popular kratom products," producing "a non-kratom product with
+   kratom-like effects." It is marketed as an energy and focus supplement.
+
+2. The Utah Poison Control Center issued an alert on 22 July 2026 naming two of
+   those brands, reporting multiple severe overdoses, and stating that the products
+   are suspected to be adulterated with 7-OH, mitragynine pseudoindoxyl, MGM-15 or
+   MGM-16, which it describes as more potent than morphine. It states plainly that
+   "the product labels are misleading and do not include these drugs as
+   ingredients." A death in Utah County was linked to one of these products on
+   30 July.
+
+3. The practical consequence: someone can present at your door having overdosed on
+   a product whose label says "botanical extract" and lists no opioid. If intake
+   asks about kratom or 7-OH by name, you will get an honest no. The person will not
+   be lying and the screen will not catch it.
+
+Everything is published free, with sources, hashes and dates, at
+github.com/jpuckett11/ObsidianGroup_CaseSevenfold
+
+If a two-page version for clinical staff would be more use than a repository, say so
+and I will write it this week at no cost.
+
+One thing I would value, only if it costs you nothing and only in aggregate. Not
+names, not case details, nothing identifiable. Simply whether you are seeing
+presentations involving products sold under names other than kratom, and roughly
+when that started. Nobody has published that, and people in your position are the
+only ones who hold it.
+
+If none of this is useful, please disregard with my apologies for the intrusion.
+
+Jay Puckett
+Principal Security Researcher
+Obsidian Watch Group
+jay.puckett@obsidianwatchgroup.com

@@ -79,5 +79,11 @@ real people, and the industry presence in it is small and identifiable.
 
 - **The remaining ~22,000 comments** are beyond the pagination cap. A date-windowed
   crawl could reach them.
-- **None of these organisations has been contacted.** The only approach drafted is
+- **Approach drafted, not sent:** Awakening Recovery, Inc.,
   `APPROACH_awakening_recovery.txt`.
+- **Approach SENT 2026-08-29:** Northwest Alabama Mental Health Center, a public
+  non-profit CMHC serving Fayette, Lamar, Marion, Walker and Winston counties, whose
+  service line includes chemical dependency. Text at `EMAIL_nwamhc.txt`. It offers
+  the case file free, warns that a person can present having overdosed on a product
+  whose label lists no opioid, and asks only for aggregate observation, explicitly
+  no names and nothing identifiable.
