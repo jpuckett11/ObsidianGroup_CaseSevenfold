@@ -335,8 +335,25 @@ in the FILED section for a day describing a request that the agency had already
 refused. Nothing goes in FILED again without an agency acknowledgment, a tracking
 number, or a docket receipt.
 
-Draft text: `deliverables/foia/FOIA_02_HHS_FDA_website_changes.txt`. **Content is
-unchanged and still good; only the channel was wrong.**
+**REBUILT FOR THE CORRECT FORM, 2026-08-29.** Ready to file.
+
+`deliverables/foia/FDA_FORM_FIELDS_paste_this.txt` maps the request onto the
+fields FDA's form actually enforces, which is not one big box:
+
+| Form field | What goes in it |
+|---|---|
+| Date range | 01/01/2025 to 08/29/2026 |
+| **Subject, max 2000 chars** | Block 1, **1,986 characters**, all five items summarised |
+| Fee waiver, set to YES | Block 2, 5 U.S.C. 552(a)(4)(A)(iii) justification |
+| Expedited processing, YES | Block 3, 552(a)(6)(E), urgency to inform the public |
+| **File upload** | `OWG_FOIA_FDA_2026-08-29.pdf`, 2 pages, **the complete request** |
+
+The form takes an attachment, so the 2000-character box is a summary and the full
+five-item request rides along as the letter. **CAPTCHA required, so a person has
+to submit it.**
+
+Original text: `FOIA_02_HHS_FDA_website_changes.txt`. **Content unchanged and still
+good; only the channel was ever wrong.**
 
 ---
 

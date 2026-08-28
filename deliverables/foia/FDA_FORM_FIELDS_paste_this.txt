@@ -1,0 +1,74 @@
+==============================================================================
+FDA FOIA REQUEST FORM  -  FIELD BY FIELD
+accessdata.fda.gov/scripts/foi/foirequest/requestform.cfm
+==============================================================================
+The form has a CAPTCHA, so it has to be you. Everything below is sized to the
+field limits the form actually enforces.
+
+------------------------------------------------------------------ DATE RANGE
+From:  01/01/2025
+To:    08/29/2026
+
+--------------------------------------------------- SUBJECT  (max 2000 chars)
+Field name on the form: "Subject (Maximum 2000 characters)"
+PASTE BLOCK 1 BELOW.
+
+------------------------------------------------- FEE WAIVER  (separate field)
+Set the fee waiver dropdown to YES, then paste BLOCK 2 into the justification.
+
+--------------------------------------- EXPEDITED PROCESSING  (separate field)
+Set expedited processing to YES. For the reason dropdown, choose the option about
+urgency to inform the public concerning actual or alleged federal government
+activity, if offered. Paste BLOCK 3 into the justification.
+
+------------------------------------------------------------ ATTACH THE LETTER
+The form has a file upload for the request letter. Use it. Attach:
+
+    OWG_FOIA_FDA_2026-08-29.pdf     (2 pages, the complete request)
+
+The 2000-character subject is a summary. The attachment is the actual request
+and it carries all five numbered items in full.
+
+==============================================================================
+BLOCK 1  -  SUBJECT FIELD
+==============================================================================
+Records from 1 January 2025 to present concerning FDA kratom consumer information and the 7-hydroxymitragynine (7-OH) scheduling record. The attached letter is the full request; this summarises it.
+
+1. All records reflecting any addition, removal, alteration or proposed alteration to FDA web content concerning kratom, mitragynine or 7-OH, including fda.gov/news-events/public-health-focus/fda-and-kratom. For each change: prior and revised content, date, the person or office requesting it, and the basis relied upon.
+
+2. All communications between FDA or HHS personnel and any Member of Congress, congressional staff, or official of another federal department concerning kratom consumer-facing web content, expressly including the office of Senator Markwayne Mullin and the Office of the Secretary of Homeland Security.
+
+3. All records reflecting a decision to decline any requested change to kratom content, including any determination to retain the warning on liver toxicity, seizures and substance use disorder.
+
+4. Concerning the FDA assessment "7-Hydroxymitragynine (7-OH): An Assessment of the Scientific Data and Toxicological Concerns Around an Emerging Opioid Threat": (a) records identifying the source intended by the citation "(Kruegel et al., 2019)", which appears in the discussion of 7-OH content by weight but not in the reference list; (b) records reflecting any review of funding, sponsorship or author conflicts for the literature cited, including Huestis, Brett, Bothmer and Atallah (2024), Molecules 29(5); (c) the analytical methodology, sampling basis and measurement uncertainty behind the proposed 0.05 percent by dry weight threshold.
+
+5. Concerning docket HHS-OASH-2026-0232: all records identifying who requested the comment period extension granted 26 August 2026 (91 FR, doc. 2026-17409), and all communications about it.
+
+Format: electronic records, native format. Please identify each withholding with the exemption claimed and provide a Vaughn index.
+
+==============================================================================
+BLOCK 2  -  FEE WAIVER JUSTIFICATION
+==============================================================================
+A fee waiver is requested under 5 U.S.C. 552(a)(4)(A)(iii). Disclosure is in the public interest because it is likely to contribute significantly to public understanding of the operations and activities of the government, and is not primarily in the commercial interest of the requester.
+
+The records sought bear directly on an open federal proceeding: the comment period on docket HHS-OASH-2026-0232 closes 10 September 2026, and a DEA proposed rule on the same threshold is pending. Whether consumer safety information about a product category was altered during 2025, at whose request, and whether conflicts of interest in the cited literature were reviewed, are questions the public cannot answer from the published record.
+
+Obsidian Watch Group is an independent investigative organization. It has no commercial interest in kratom or 7-hydroxymitragynine, holds no position in any company in this sector, and receives no funding from any party to this proceeding. All records released will be published at no charge at github.com/jpuckett11/ObsidianGroup_CaseSevenfold, where twenty-five documented findings and the underlying exhibits are already public and free to access.
+
+==============================================================================
+BLOCK 3  -  EXPEDITED PROCESSING JUSTIFICATION
+==============================================================================
+Expedited processing is requested under 5 U.S.C. 552(a)(6)(E) on the ground of urgency to inform the public concerning actual or alleged federal government activity.
+
+There is a compelling need. The Department's own comment period on the 7-OH threshold closes 10 September 2026. Records concerning the evidentiary basis for that threshold, and concerning contemporaneous alterations to consumer safety information about the product category the rule does not reach, are directly material to that proceeding while it remains open. After 10 September the public loses the ability to place this information before the agency in the ordinary course.
+
+The requester is primarily engaged in disseminating information to the public. Obsidian Watch Group publishes its investigative findings and primary source exhibits openly and at no charge. The subject is one on which there is an existing and active public interest, including a letter from eleven United States Senators to the FDA Commissioner dated 18 March 2026 and a pending Senate Finance Committee inquiry.
+
+I certify that the foregoing is true and correct to the best of my knowledge and belief.
+
+==============================================================================
+NOTE ON THE PREVIOUS ATTEMPT
+==============================================================================
+This request was emailed to FDAFOIA@fda.hhs.gov on 27 August 2026 and refused on
+28 August: "The FDA does not accept FOIA requests via email." Nothing was filed.
+This form is the correct channel. Do not reference the email attempt in the form.
