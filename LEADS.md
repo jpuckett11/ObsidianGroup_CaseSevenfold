@@ -12,7 +12,13 @@ primary document or a direct observation, and then it leaves this page.
 
 ## L-01 — Retail availability of 9-hydroxycorynantheidine
 
-**Opened 2026-08-29. Status: OPEN, UNCONFIRMED.**
+**Opened 2026-08-29. Status: OPEN, and MATERIALLY MORE CREDIBLE as of the same
+day.** See `FINDING_29_the_substitution_happened.md`. Option 2 below, "a renamed or
+relabelled product moving after the scheduling action," is **documented**: Utah
+Poison Control reported multiple severe overdoses from smoke-shop products sold as
+"Cat's Claw," and a death was linked to Buzzers-brand Cat's Claw tablets on
+2026-07-30. The lead itself is still second-hand and still not relied on by any
+filing, but the phenomenon it describes is now confirmed by a state agency.
 
 **[U] Second-hand report.** The investigator reports overhearing a person state
 they had purchased "9-OH" that day. Aegis has no direct contact with that person,

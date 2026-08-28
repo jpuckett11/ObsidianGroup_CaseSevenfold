@@ -1,4 +1,25 @@
 # SEVENFOLD / FINDING 28
+
+# ⚠ SUPERSEDED AND PARTLY RETRACTED, 2026-08-29
+
+**Section 7 of this finding concluded "there is no cat's claw problem." THAT
+CONCLUSION IS WRONG.** Read **`FINDING_29_the_substitution_happened.md`** first.
+
+Products sold as **"Cat's Claw"** in smoke shops are (a) in some cases adulterated
+with scheduled 7-OH, MGM-15 and related compounds, with the **Utah Poison Control
+Center reporting multiple severe overdoses** and a **death linked to Buzzers-brand
+Cat's Claw tablets**, and (b) in other cases lawfully built on **corynoxine B**,
+which no federal instrument reaches.
+
+**What stands:** the pharmacology in Sections 1-3. Corynoxine is a mu-opioid full
+agonist, it occurs in *Uncaria*, and the genus boundary is not a chemical boundary.
+
+**What is retracted:** every reassurance in Section 7 and 8. It measured the
+**plant** and drew a conclusion about the **products**, which are not the same
+thing. The full account of the error is in Finding 29 Section 6.
+
+---
+
 ## A mu-opioid full agonist sits in a supplement sold on open shelves, and the rule's boundary is a genus name
 
 **Status:** CONFIRMED from peer-reviewed primaries.

@@ -284,6 +284,18 @@ Written down deliberately, so we test it instead of confirming it.
 
 
 
+
+**2026-08-29 — Finding 29 CORRECTS Finding 28. The substitution already happened.**
+The **Utah Poison Control Center** (22 July 2026) warns of smoke-shop products sold
+as **"Cat's Claw"** causing "life-threatening opioid overdose, dependence, or
+withdrawal," naming **Buzzers** and **Homiez** brands, adulterated with **7-OH,
+mitragynine pseudoindoxyl, MGM-15 or MGM-16** and not labelled as containing them.
+A **death** was linked to Buzzers-brand Cat's Claw tablets on 30 July 2026.
+Separately, a recovery community documents products **lawfully built on corynoxine
+B** to dodge the 7-OH scheduling. **Finding 28's reassurance is retracted:** it
+measured the plant and concluded about the products. See Finding 29 s6 for the full
+account of the error.
+
 **2026-08-29 — Finding 28: the rule's boundary is a genus name.** **Corynoxine is
 a mu-opioid receptor FULL agonist** (ACS Chem Neurosci 2021, DOI
 10.1021/acschemneuro.1c00149) and it has been isolated from ***Uncaria tomentosa***,
