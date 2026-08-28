@@ -3,6 +3,10 @@
 Every outbound submission, its status, and its tracking reference. Update on each
 filing. A submission whose own provenance is not recorded is worth less later.
 
+**See also [`CONTACT_LOG.md`](CONTACT_LOG.md)** — every approach to a public
+official or agency, the channel used, and what came back. Published so readers can
+see how the offices that represent them actually respond, and form their own view.
+
 ---
 
 ## FILED

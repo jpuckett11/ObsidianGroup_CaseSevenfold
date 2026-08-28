@@ -279,6 +279,15 @@ Written down deliberately, so we test it instead of confirming it.
 
 
 
+
+**See [`CONTACT_LOG.md`](CONTACT_LOG.md)** for every approach to an official or
+agency and what came back. Short version: the state consumer division acknowledged
+in **23 seconds** with a reference number, the federal docket issues a tracking
+number for every comment, FDA refused on a channel technicality but wrote back with
+the correct route, and the **Senate personal office issues no reference number of
+any kind** while its phone line routes callers back to the same form. Response time
+tracks whether an office has a duty to answer, not the quality of the material.
+
 **2026-08-28 — Constituent submission to Sen. Marsha Blackburn (R-TN)**, via her
 web form, two messages. Carries the corynantheidine gap, Mitradyne's claims 5, 6,
 8 and 11 for independent verification, and the three scope questions. Raises the
