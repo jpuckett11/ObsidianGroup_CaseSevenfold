@@ -598,7 +598,69 @@ Not prohibition. Not a plant ban. We have said so on the docket in writing.
    disposition of each. If scope was drawn around a scaffold rather than around
    metabolism, say so, and the public can argue with it.
 
-## 11. The honest close
+## 11. What this whole case actually rests on
+
+**Every page of this file only exists because there is a market. There is a market
+because there are people in need of something and nothing else on offer.**
+
+That is not a moral flourish. It is the mechanism, and this document has traced it
+end to end:
+
+- **42.4 million** people have a substance use disorder and receive no treatment.
+  **87.6%** of everyone with a disorder (s4).
+- Their demand does not move when a molecule is scheduled. **The supply
+  reorganises around them** (s1, s3).
+- The reorganisation is now documented in retail, with a brand advertising the
+  workaround as a feature, and a death in Utah County (Findings 29, 31).
+
+**Take away the 42.4 million and the entire industry documented in this case has no
+customers.** No lobbying corpus. No maxed party contribution. No million-dollar PAC
+cheque. No product on a shelf beside a register. The abandonment is not a
+consequence of the market. **It is the market's input.**
+
+### And the money moves through doors the law holds open
+
+Every figure in this case is lawful. That is the finding, not a complaint about
+anyone's ethics:
+
+| | |
+|---|---|
+| Founder to the RNC, one day | **$443,000**, the **exact annual statutory maximum** across all four accounts (F23) |
+| Company to a political committee | **$1,000,000** (F24) |
+| That committee onward to a **501(c)(4)** | **$4,048,428**, described as "charitable contribution" (F24) |
+| Lobbying corpus | **$7,397,500** (F12) |
+| A vehicle lobbying DEA and DOJ with **no disclosed funder** | **$980,000** (F14) |
+
+**A 501(c)(4) does not disclose its donors.** That is the point at which public
+tracing ends, and it is a structure Congress built and maintains. Nobody broke a
+rule to use it. **The rules are the mechanism.**
+
+### The asymmetry, stated once, plainly
+
+**The money has professional representation. The 42 million have a comment period.**
+
+One side has registered lobbyists at eleven firms, a maxed party contribution, a
+seven-figure PAC vehicle, a tax-exempt entity that ends donor tracing, and paid
+scientific literature (F06). The other side has a web form that issues no receipt
+and a Senate office that routes callers back to it (`CONTACT_LOG.md`).
+
+Of **27,053 comments** on the open docket, the two questions that most needed asking
+were asked **once**, by one man in Columbia, Tennessee (F26).
+
+### The investigator's words, and this document ends on them
+
+> "This entire case file is only possible because we are leaving our people behind.
+> Let people make money with tax holes where they keep it all. They are doing double
+> damage to the system, all while the machine is leaving 1 in 6 behind. Why? For
+> what? **They are goddamn people too.**"
+
+**We do not ask a reader to adopt that anger.** We ask them to check the six numbers
+above, which are federal filings and a federal survey, and then decide for
+themselves whether it is proportionate.
+
+**1 in 6 is not rhetoric. It is 16.8%, and it is SAMHSA's own figure.**
+
+## 12. The honest close
 
 **Nothing in this document will happen quickly, and the ladder in Section 1 will
 add another rung before it does.**
@@ -613,3 +675,18 @@ Somebody in Utah is dead, and the product that killed them wore a different plan
 name on the label. That happened in July. This document exists so that when the
 next one is on shelves under a third name, the record shows it was foreseeable, it
 was foreseen, and it was written down.
+
+**And the next one is already legal.** Finding 30 sets out that nothing in any of
+the three federal instruments reaches the compounds this case identified, and
+nothing brings them in later. On the day 7-OH is controlled, the substitute is still
+on the shelf.
+
+**That is the whole argument in one sentence.** You cannot schedule your way out of
+a demand you refuse to treat. The molecule changes, the label changes, the brand
+changes. **The 42.4 million do not change**, because nothing has been done for them,
+and until something is, there will always be somebody willing to sell them the next
+thing.
+
+**Leave no one behind.** That principle is not sentiment and it is not new. It is
+the only remediation in this document that acts on the cause rather than the
+symptom, and it is the one nobody has funded.
