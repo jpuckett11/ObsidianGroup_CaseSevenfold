@@ -74,6 +74,8 @@ established. Do not cite it as fact. We have marked those deliberately.**
 | [FINDING_20](FINDING_20_the_next_one.md) | **9-hydroxycorynantheidine is not covered by any federal scheduling action.** Florida covered it; DEA did not. No lobbying, no docket, no adverse events yet. | CONFIRMED with controls |
 | [FINDING_21](FINDING_21_senate_letter.md) | **Eleven senators made this case's central argument on 2026-03-18**, citing Botanic Tonics' own press release. Crapo chairs Finance; Blackburn is Tennessee. | CONFIRMED, primary |
 
+| [FINDING_22](FINDING_22_political_money_map.md) | Both major kratom rivals funded RFK Jr.'s campaign. **None of the eleven letter signatories received traceable industry money.** | CONFIRMED, partial |
+
 ## What we got wrong, on the record
 
 We keep our own corrections in the file rather than quietly editing them out.

@@ -1,0 +1,135 @@
+Third Comment of the Obsidian Watch Group
+
+Docket: HHS-OASH-2026-0232
+Supplements tracking numbers: mtc-56yj-nmij and mtc-6i56-o6pm
+Submitted by: Jay Puckett, Principal Security Researcher, Obsidian Watch Group
+
+---
+
+SUMMARY
+
+The Request for Information asks how a threshold "should apply across botanical
+source material, semi-synthetic derivatives, and finished dosage forms." This
+comment answers that question in one specific and, we believe, unaddressed
+respect.
+
+Every substance covered by the Department's recommendation and by DEA's orders
+sits on a single chemical scaffold. A second scaffold in the same plant, carrying
+a mu-opioid partial agonist, is not covered by anything. At least one state has
+already found it necessary to cover it. We ask the Department to say whether that
+was considered.
+
+1. WHAT IS COVERED
+
+  DEA proposed rule, 6 July 2026 (DEA-2026-1190):
+      7-hydroxymitragynine above a specified threshold.
+
+  DEA temporary order, effective 26 August 2026 (91 FR, doc. 2026-17429):
+      mitragynine pseudoindoxyl;
+      MGM-15, also known as dihydro-7-hydroxymitragynine;
+      MGM-16, the 9-fluoro analogue.
+
+  The Department's letter of 6 March 2026 to Administrator Cole:
+      7-hydroxymitragynine only, by percentage and by an absolute limit of
+      1.00 milligram per article.
+
+All four substances are structural relatives of mitragynine. Every one is on the
+mitragynine scaffold.
+
+2. WHAT IS NOT COVERED
+
+9-hydroxycorynantheidine is a minor indole alkaloid of Mitragyna speciosa,
+comprising less than one percent of total alkaloid content in the plant. It is a
+partial agonist at the mu-opioid receptor. It stands to corynantheidine
+approximately as 7-hydroxymitragynine stands to mitragynine: a hydroxylated minor
+alkaloid with mu-opioid activity, present naturally in quantities too small to
+extract economically.
+
+It is not named in the proposed rule, in the temporary order, in the Department's
+letter of 6 March 2026, or in the FDA scientific assessment supporting the
+threshold, except as words appearing inside the title of a cited journal article.
+
+We searched the federal docket system for "9-hydroxycorynantheidine" and found no
+documents. We searched Senate lobbying disclosures and found no filings. We
+searched FDA's adverse event reporting system and found no reports. Each search
+was run against a control that returns results.
+
+3. A STATE HAS ALREADY COVERED IT
+
+Florida's emergency rule of June 2026 names 9-hydroxycorynantheidine among seven
+covered compounds.
+
+We note only the fact. A state regulator identified this compound and wrote it
+into a rule, and the federal instruments issued in the following weeks did not.
+
+4. THE DEPARTMENT'S OWN REASONING REACHES IT
+
+In scheduling MGM-16, DEA stated:
+
+  "While no evidence supports the presence of MGM-16 on the Mitragyna speciosa
+   consumer market, its profile as a highly potent opioid that is structurally
+   related to 7-hydroxymitragynine lends itself as an [alternative]..."
+
+That is a preemptive scheduling of a substance not on the market, on the express
+reasoning that sellers will substitute toward structurally related opioids.
+
+We agree with that reasoning. We observe that it was applied within one chemical
+family and not extended to the other.
+
+If the concern is substitution, the relevant question is not whether a compound
+resembles 7-hydroxymitragynine specifically, but whether it is an accessible
+mu-opioid agonist obtainable from the same plant, through the same supply chain,
+sold through the same retail channel, under the same botanical framing. On that
+test, 9-hydroxycorynantheidine qualifies and MGM-16, which is not on the market,
+also qualified.
+
+5. WHY THIS MATTERS ON THIS DOCKET AND NOT LATER
+
+Once the threshold takes effect, the commercial incentive to move to an
+unscheduled mu-opioid alkaloid from the same plant is immediate and obvious. That
+transition, if it occurs, will not be visible in adverse event data for many
+months, because reporting lags exposure.
+
+The record before the Department is presently empty on this compound. That is an
+argument for addressing it now, while a rulemaking record is open, rather than
+after a consumer harm signal appears.
+
+REQUESTED ACTIONS
+
+1. State whether the Department's scientific and medical evaluation considered
+   mu-opioid-active alkaloids of Mitragyna speciosa outside the mitragynine
+   scaffold, including 9-hydroxycorynantheidine, and if so, on what basis they
+   were excluded.
+
+2. State whether the reasoning applied to MGM-16, that a structurally related
+   potent opioid not presently on the market may nonetheless warrant control
+   because of substitution risk, was considered with respect to
+   9-hydroxycorynantheidine, and if not, why the two were treated differently.
+
+3. State whether the Department is aware of Florida's inclusion of
+   9-hydroxycorynantheidine in its June 2026 emergency rule, and whether it has
+   reviewed the basis on which that state acted.
+
+4. Publish, in any subsequent notice, the full list of Mitragyna speciosa
+   alkaloids considered and the disposition of each, so that the public can
+   evaluate the scope of the action rather than infer it.
+
+WHAT WE DO NOT ASSERT
+
+We have not located 9-hydroxycorynantheidine products offered for sale, and we do
+not claim a market presently exists. We do not claim its potency is equivalent to
+7-hydroxymitragynine; reported mu-opioid affinity is weaker. We raise a gap in
+scope, not a finding of present harm.
+
+Obsidian Watch Group is an independent investigative organization with no
+financial interest in kratom, 7-OH, or any company in this sector, and no funding
+from any party to this proceeding.
+
+Respectfully submitted,
+
+Jay Puckett
+Principal Security Researcher
+Obsidian Watch Group
+obsidianinvestigations@pm.me
+
+Supporting documents: github.com/jpuckett11/ObsidianGroup_CaseSevenfold
