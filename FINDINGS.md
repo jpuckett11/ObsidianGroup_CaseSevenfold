@@ -281,6 +281,17 @@ Written down deliberately, so we test it instead of confirming it.
 
 
 
+
+**2026-08-29 — Findings 27 and the Finding 18 addendum, both filed as a fourth
+comment.** **9-hydroxycorynantheidine is a major circulating human metabolite of
+mitragynine** (Kanumuri 2026, clinical, DOI 10.1080/13880209.2026.2715806), not the
+"minor plant alkaloid" our own third comment called it. In rats it is a **major**
+metabolite while **7-OH is minor** (Chiang 2025, DOI 10.1021/acsptsci.4c00277,
+labelled as animal data). Separately, the rule's absolute limit turns on the word
+**"article", which the rule never defines**: forty pressed pills at 0.9 mg each are
+individually compliant and deliver 36 mg in a bag. And against FDA's own leaf data,
+**10 g of average leaf already equals the 1.00 mg absolute limit.**
+
 **2026-08-29 — Finding 26: nobody else asked.** Of **27,053** comments on
 HHS-OASH-2026-0232, **zero** mention 9-hydroxycorynantheidine, corynanthe,
 Mitradyne, Atallah or divestiture. One mentions corynantheidine, in a passing

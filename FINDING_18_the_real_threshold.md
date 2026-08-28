@@ -150,3 +150,36 @@ recommendation.
 **What it does not support:** any claim about whose interests drove the action.
 Correct accounts that say HHS drove the scheduling. Do not replace them with an
 account that says nobody did.
+
+---
+
+## ADDENDUM, 2026-08-29: the rule never defines "article", and that is the whole limit
+
+Both limbs of (B) turn on **"greater than 1.00 milligram of 7-hydroxymitragynine
+in the article."** The quoted text defines percentage, weight basis and dosage
+form. **It does not define "article."**
+
+(B)(ii) expressly contemplates **"pressed pills"** as a covered dosage form. So
+the question is unavoidable:
+
+| If "article" means | Effect of the 1.00 mg limit |
+|---|---|
+| the package as offered for sale | constrains total dose |
+| a single pill or capsule within it | **constrains nothing** |
+
+**[I] Under the second reading the limit is trivially evaded.** Forty pressed
+pills at 0.9 mg each are individually compliant and deliver **36 mg** in one bag.
+The seller changes nothing about the product and changes only the unit.
+
+This is not a theoretical drafting quibble. It is the difference between a rule
+that caps exposure and a rule that caps labelling.
+
+**Raised by the investigator on 2026-08-29** while testing whether a per-article
+measure could survive contact with the market. It could not, as written.
+
+**No comment on the docket addresses it.** Finding 26 establishes the method for
+checking that: single rare words, controlled against a nonsense string.
+
+**Filed** as requested action 4 of the fourth comment, asking the Department to
+state whether "article" means the package as offered for sale or an individual
+unit within it.

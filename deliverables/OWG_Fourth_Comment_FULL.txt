@@ -1,0 +1,65 @@
+Fourth comment of the Obsidian Watch Group, supplementing mtc-56yj-nmij, mtc-6i56-o6pm and mtc-q9zv-dase.
+
+WE ARE CORRECTING OURSELVES
+
+Our third comment called 9-hydroxycorynantheidine "a minor indole alkaloid of Mitragyna speciosa, under one percent of total alkaloid content." That is true of the plant and understates the compound badly. We correct it rather than leave the record wrong.
+
+IT IS A MAJOR HUMAN METABOLITE OF THE SUBSTANCE BEING SCHEDULED
+
+Kanumuri et al. (2026), Pharmaceutical Biology, DOI 10.1080/13880209.2026.2715806, using an FDA-guideline-validated UPLC-MS/MS method on plasma from a clinical trial of regular kratom users, reports mitragynine 16-carboxylic acid and 9-hydroxycorynantheidine as "the major circulating metabolites of mitragynine in plasma upon kratom oral administration."
+
+In rats, Chiang et al. (2025), ACS Pharmacol. Transl. Sci. 7:2452-2464, DOI 10.1021/acsptsci.4c00277, found the major metabolites were mitragynine acid and 9-hydroxycorynantheidine, with "7-hydroxymitragynine was a minor metabolite." Animal data; we do not offer it as evidence about humans.
+
+The mechanism is O-demethylation of mitragynine's 9-methoxy group; 7-OH arises from hydroxylation at C7. Different position, different reaction, same parent.
+
+The stated basis for controlling 7-OH is that it is a potent metabolite of mitragynine formed in the body. 9-hydroxycorynantheidine is the other major metabolite of the same parent, and no federal instrument names it. Its scaffold, corynantheidine, is a mu-opioid partial agonist.
+
+THE ABSOLUTE LIMIT AND ORDINARY LEAF
+
+Our first comment noted the absolute limit of 1.00 mg of 7-OH per article, which binds before the 0.05 percent figure at ordinary servings. Against the Department's own leaf data, mean 7-OH near 0.01 percent:
+
+  10 g of average leaf  =  1.00 mg   at the absolute limit
+  15 g                  =  1.50 mg   above it
+  20 g                  =  2.00 mg   twice it
+
+At the reported maximum leaf content of 0.21 percent, 10 g yields about 21 mg.
+
+Ten to twenty grams is an ordinary serving for an experienced leaf consumer, with no concentration, conversion or enhancement of any kind.
+
+We ask the Department to state whether unenhanced leaf at those servings falls within scope. If it does, that consequence has not been explained to the public. If it does not, the exclusion should be on the record, because the arithmetic on the face of the rule suggests otherwise.
+
+WHAT WE THINK THIS SHOWS ABOUT METHOD
+
+We do not ask the Department to schedule 9-hydroxycorynantheidine, and we do not ask for action against the plant. Neither would work.
+
+Scope drawn around molecules cannot hold. Every substance covered sits on the mitragynine scaffold; a second scaffold in the same plant is uncovered; that compound is a major human metabolite of the first; and two patent families already claim its manufacture without any plant at all.
+
+What does the actual work here is not the percentage but the absolute quantity per article. That measure is indifferent to alkaloid, to scaffold, and to whether a plant was involved. It reaches a concentrated shot, a botanical extract and a bioreactor product equally. But see below: it turns on a word the rule never defines.
+
+WHAT IS AN "ARTICLE"?
+
+Both limbs of (B) are satisfied by exceeding 0.05 percent "or greater than 1.00 milligram of 7-hydroxymitragynine in the article." The rule does not define "article," and (B)(ii) expressly contemplates "pressed pills."
+
+If an article is the package as sold, the limit constrains total dose. If it is a single pill, it constrains nothing: forty pills at 0.9 mg each are each compliant and deliver 36 mg in one bag.
+
+Neither we nor anyone selling these products knows which reading is intended. That ambiguity will be resolved commercially long before it is resolved legally.
+
+REQUESTED ACTIONS
+
+1. State whether unenhanced Mitragyna speciosa leaf at 10 to 20 gram servings falls within the scope of this action under the absolute 1.00 mg per article limit.
+
+2. State whether the evaluation considered 9-hydroxycorynantheidine as a major metabolite of mitragynine, as distinct from a minor plant alkaloid, and on what basis it was excluded.
+
+3. State whether scope was set by chemical scaffold, by metabolic origin, or by quantity per article, and which of those the Department intends to govern.
+
+4. Define "article" for the purposes of the 1.00 mg limit, and state whether it means the package as offered for sale or an individual unit within it.
+
+5. Publish the full list of Mitragyna speciosa alkaloids and metabolites considered, with the disposition of each.
+
+WHAT WE DO NOT ASSERT
+
+We do not claim equipotency with 7-OH; reported affinity for its scaffold is weaker. No human study we reviewed shows it exceeds 7-OH in humans; that comparison is animal data. We have located no products containing it for sale. An unverified second-hand report of a retail purchase, received 28 August 2026, is recorded as an unconfirmed lead and is not relied on here.
+
+We do not assert the omission was deliberate. The simplest explanation is that scope was drawn around a scaffold rather than around metabolism, which these questions ask the Department to confirm or deny.
+
+Obsidian Watch Group is an independent investigative organization with no financial interest in kratom, 7-OH or any company in this sector, and no funding from any party. Full comment attached. Supporting documents: github.com/jpuckett11/ObsidianGroup_CaseSevenfold
