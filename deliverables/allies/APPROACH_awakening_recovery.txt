@@ -1,0 +1,66 @@
+APPROACH — AWAKENING RECOVERY, INC.
+
+Why them: they filed comment HHS-OASH-2026-0232-7588 on 16 July 2026 stating that
+residents are arriving at their recovery homes having overdosed on
+7-hydroxymitragynine. They put their organisation's name on a federal docket. They
+are the only recovery-housing provider identified in this docket so far.
+
+What they get from us, and it should lead: information they can use, free.
+
+------------------------------------------------------------------------------
+DRAFT MESSAGE
+------------------------------------------------------------------------------
+
+Subject: Your 7-OH comment on HHS-OASH-2026-0232, and something your intake staff should know
+
+Hello,
+
+I read your comment on the HHS docket about residents arriving at your homes after
+overdosing on 7-OH. I run a small independent investigative group and I have spent
+the last month on that docket. I am writing because we found something your intake
+staff will want, and because I think you should have it before we are useful to
+each other in any other way.
+
+Three things, all documented and all free to use:
+
+1. Products are now being sold that are engineered to substitute for 7-OH using a
+   compound the scheduling action does not reach. One brand states on its own
+   homepage that it extracts an alkaloid from cat's claw "to mirror the effects of
+   popular kratom products." It is sold as an energy supplement.
+
+2. The Utah Poison Control Center issued an alert on 22 July naming two of those
+   brands, reporting multiple severe overdoses, and stating the labels do not list
+   the drugs it suspects are in them. A death in Utah County was linked to one of
+   them on 30 July.
+
+3. This means someone can arrive at your door having overdosed on a product whose
+   label says "botanical extract" and lists no opioid. If your intake asks about
+   kratom or 7-OH by name, you will get a truthful no.
+
+Everything is published free, with sources, at
+github.com/jpuckett11/ObsidianGroup_CaseSevenfold
+
+I am not asking you for anything. If it is useful, use it. If you want the two-page
+version for staff rather than the full file, tell me and I will write it.
+
+One thing I would value if you are willing, and only if it costs you nothing: what
+your residents are actually presenting with. Not names, not identifying detail. Just
+whether you are seeing products under names other than kratom, and roughly when it
+started. Nobody has published that and it is the single most useful thing anyone in
+your position holds.
+
+Jay Puckett
+Principal Security Researcher, Obsidian Watch Group
+jay.puckett@obsidianwatchgroup.com
+
+------------------------------------------------------------------------------
+NOTES BEFORE SENDING
+------------------------------------------------------------------------------
+
+- Lead with what they get. Ask second, small, and make it refusable.
+- Do NOT ask for resident data, case details, or anything identifiable. Aggregate
+  observation only.
+- They asked for Schedule I. We do not. Do not argue policy with them in a first
+  contact; the overlap that matters is that both of us want fewer people hurt.
+- Find their contact details from their own public materials. Do not use anything
+  from the docket beyond what is public on the comment itself.

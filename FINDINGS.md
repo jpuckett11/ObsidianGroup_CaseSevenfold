@@ -291,6 +291,17 @@ Written down deliberately, so we test it instead of confirming it.
 
 
 
+
+**2026-08-29 — Finding 33: the recovery field is on this docket and it is split.**
+**Awakening Recovery, Inc.** (`-7588`), a named nonprofit running recovery homes,
+reports residents arriving **having overdosed on 7-OH** and asks for Schedule I. A
+recovery professional filing as **"A, R"** (`-18012`) argues **"recovery is fostered
+through treatment, stability, and human connection—not through expanding criminal
+penalties."** Same population, opposite asks, neither wrong. Her framing appears in
+**13 of 27,053 comments**. **She reached the remediation argument six weeks before we
+did and the case says so.** She filed under initials; **we have not tried to identify
+her and will not.**
+
 **2026-08-29 — Finding 32: the letter that did not mention the people.** Eleven US
 Senators, 18 March 2026, to the FDA Commissioner. **537 words. Twelve references to
 enforcement and scheduling. Zero to treatment, recovery or access to care** — the
