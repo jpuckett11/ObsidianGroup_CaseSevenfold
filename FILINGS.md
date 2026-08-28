@@ -257,6 +257,28 @@ email address is published anywhere. It returned **`550 5.1.1 User Unknown`** fr
 `v-ico-ppmx2.senate.gov`, the Senate's own mail server. Nothing was delivered.
 **There is no email route to a Senate office. The web form is the route.**
 
+### Contact log
+
+| Date | Channel | Outcome |
+|---|---|---|
+| 2026-08-28 | Web form, `blackburn.senate.gov/contact` | Two messages submitted. Confirmation page returned. No tracking number issued |
+| 2026-08-28 | Phone, Nashville office **(629) 800-6600** | **Directed to the web form. No substantive engagement, and no request to be connected to a policy staffer was fulfilled.** [S] investigator's contemporaneous account |
+
+**Recorded plainly, and without complaint.** Routing callers to the web form is
+what constituent front desks are for, and it is not evidence that anyone evaluated
+the substance and declined it. **Nobody who could evaluate it has read it.** The
+two web submissions were already made before the call, so the office holds the
+material either way.
+
+**What it does establish, and this is the useful part:** a single Senate personal
+office is the weakest channel in this case. It carries no obligation to read,
+respond, or act. The three docket comments and the outstanding FOIA requests carry
+statutory weight that a phone call does not. **This log exists so that the record
+shows the approach was made, courteously and through the channel the office
+itself specified.**
+
+---
+
 **Follow-up: hand delivery to the Nashville office**, 719 Church Street Suite
 2100, chosen over fax. Message 1 promised the full letter would follow, and
 delivering it in person keeps that promise better than a fax.
@@ -292,6 +314,17 @@ Wilson, PhD, CRM, Denials and Appeals Officer, Office of Operations:
 - `accessdata.fda.gov/scripts/foi/foirequest/requestform.cfm` (FDA's own form)
 - `foia.gov` national portal
 - Hardcopy mail
+
+**Checked 2026-08-28: there is no programmatic route.** `api.foia.gov` serves
+agency metadata but `/api/request/` returns **HTTP 404**; the national portal
+exposes no submission endpoint. Both remaining FOIAs need a browser.
+
+**Why these matter more than the Senate office.** A congressional staffer has no
+obligation to read anything. **A FOIA officer has a statutory deadline.** These
+two requests produce documents whether or not anyone finds the case interesting,
+and one of them asks the single most load-bearing unanswered question in the file:
+what kratom safety information was altered or removed from Department web
+properties during 2025, and at whose request.
 
 **Lesson recorded.** A send that leaves the outbox is not a filing. This entry sat
 in the FILED section for a day describing a request that the agency had already
