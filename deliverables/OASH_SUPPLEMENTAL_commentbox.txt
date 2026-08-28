@@ -1,0 +1,13 @@
+Supplemental comment of the Obsidian Watch Group, supplementing our comment submitted 27 August 2026 (tracking number mtc-56yj-nmij).
+
+We obtained and examined the Department's letter of 6 March 2026 from Admiral Brian Christine, Assistant Secretary for Health, to DEA Administrator Terrance C. Cole (posted as DEA-2026-1190-0002). It sets out the operative definition of the threshold and contains an element that does not appear in this Request for Information, in the Federal Register notices, or in any public account of this action we have located, including our own earlier comment.
+
+The threshold is not solely a percentage. Subsections (B)(i) and (B)(ii) are satisfied by exceeding 0.05 percent OR by exceeding an absolute limit of 1.00 milligram of 7-hydroxymitragynine in the article, whichever comes first.
+
+Using the Department's own figures, for ordinary serving sizes the absolute limit binds well before the percentage. FDA's assessment reports leaf content averaging 0.01 percent with a maximum of 0.21 percent, and typical consumption of 1 to 6 grams. A five gram serving reaches 1.00 milligram at 0.02 percent, one fifth of the percentage threshold and inside the naturally occurring range the Department itself documents.
+
+Subsection (B)(ii) reaches material processed into dosage forms including extracts, concentrates, processed edibles and pressed pills, qualified by a clause about materials that 'may have' been exposed to chemical or thermal transformation. Whether that clause is a condition or a description is not clear on the face of the text. We do not assert that unenhanced leaf products are captured. We assert that the text does not resolve it, and that the difference between the two readings is the difference between a targeted restriction on manufactured concentrates and a general prohibition on kratom.
+
+We ask the Department to state whether (B)(i) and (B)(ii) apply to unenhanced botanical dosage forms; to state the basis for the 1.00 milligram figure, which does not appear in the scientific assessment supporting the percentage; to define 'article' and the measurement uncertainty at that quantity; and to publish the operative definition in full, with both limits, in any subsequent notice so that public comment addresses the rule as written.
+
+Full comment attached. Obsidian Watch Group is an independent investigative organization with no financial interest in kratom or 7-OH and no funding from any party to this proceeding. Supporting documents including the OCR'd 6 March 2026 letter: github.com/jpuckett11/ObsidianGroup_CaseSevenfold

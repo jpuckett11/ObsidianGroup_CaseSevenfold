@@ -1,0 +1,3961 @@
+eFD:
+Annual Report for 2024 -
+Mullin,
+Markwayne
+.txtLogo {
+display: none;
+}
+<script src="https://cdn.datatables.net/1.10.15/js/jquery.dataTables.min.js"
+integrity="sha384-NHtbx1Hf6ctHNdZmU28YfhGjB63gcU1YU64ttM+c0RxMKNBj67j+N/axpqTfdffo"
+crossorigin="anonymous">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/pdfobject/2.1.1/pdfobject.js"
+integrity="sha512-X6sgTijRHjRCltheFlgnf5Lm4NzCXVgfSNAHjHq4G8R03SBUTUVqFllStaiZflC4mEOtaPGRSWvcd3zFSl7eYg==" crossorigin="anonymous">
+$(document).ready(function () {
+if (!Modernizr.input.placeholder) {
+$('[placeholder]').focus(function () {
+var input = $(this);
+if (input.val() == input.attr('placeholder')) {
+input.val('');
+input.removeClass('placeholder');
+}
+}).blur(function () {
+var input = $(this);
+if (input.val() == '' || input.val() == input.attr('placeholder')) {
+input.addClass('placeholder');
+input.val(input.attr('placeholder'));
+}
+}).blur();
+$('[placeholder]').parents('form').submit(function () {
+$(this).find('[placeholder]').each(function () {
+var input = $(this);
+if (input.val() == input.attr('placeholder')) {
+input.val('');
+}
+})
+});
+}
+//Popovers
+//Initializes popovers and provides target containers
+var i = 0;
+$(document).find('[data-toggle="popover"]').each(function () {
+;
+var popoverCount = 'popover' + i;
+i++;
+$(this).parent().addClass(popoverCount);
+var popoverContainer = '.' + popoverCount;
+$(this).popover({ container: popoverContainer });
+});
+//Hides popover if you click/touch away from it
+$(document).on('click touchstart', function (e) {
+$('[data-toggle="popover"],[data-original-title]').each(function () {
+if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+(($(this).popover('hide').data('bs.popover') || {}).inState || {}).click = false;
+}
+});
+});
+//Hides popover if press Esc
+$(document).keydown(function (e) {
+if (e.which === 27 && $(this).has('.popover')) {
+$('.popover').popover('hide');
+}
+});
+//Hides popover if you press close
+$(document).click(function () {
+$('button.close').click(function () {
+$('.popover').popover('hide');
+});
+});
+});
+if (window.location.pathname != '/incompatible-browser/') {
+if (BrowserDetect.browser == "Explorer" && parseInt(BrowserDetect.version, 10) < 11 ||
+BrowserDetect.browser == "Chrome" && parseInt(BrowserDetect.version, 10) < 36 ||
+BrowserDetect.browser == "Safari" && parseInt(BrowserDetect.version, 10) < 7 ||
+BrowserDetect.browser == "Firefox" && parseInt(BrowserDetect.version, 10) < 31) {
+window.location.replace("/incompatible-browser/");
+}
+}
+United States Senate
+Financial Disclosures
+Skip to main content
+Find Reports
+.navbar-nav {
+display: none;
+}
+Return to the search tab to select another report.
+Annual
+Report for
+Calendar 2024
+The Honorable
+Markwayne
+Mullin
+(Mullin, Markwayne)
+Filed 08/13/2025 @ 3:27 PM
+Print Report
+The following statements were checked before filing:
+<input type="checkbox" name="filing_certified" disabled="disabled"
+checked="checked" class="form-check-input"/>
+I certify that the statements I have made on this form are true, complete and correct to the best of my knowledge and belief.
+<input type="checkbox" name="filing_cannot_be_edited" disabled="disabled"
+checked="checked" class="form-check-input"/>
+I understand that reports cannot be edited once filed. To make corrections, I will submit an
+electronic
+amendment to this report.
+<input type="checkbox" name="filing_omitted_assets" disabled="disabled"
+class="form-check-input"/>
+I
+omitted
+assets because they meet the three-part test for exemption.
+Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria
+Did any individual or organization pay you or your spouse more than $200, or donate any amount to a charity on your or your spouse’s behalf, for an article, speech, or appearance?
+No
+Part 2. Earned and Non-Investment Income
+Did you or your spouse have reportable earned income or non-investment income?
+No
+Part 3. Assets
+Did you, your spouse, or dependent child own any asset that had a value of more than $1,000 or generated income of more than $200?
+Yes
+List of assets added to this report
+Asset
+Asset Type
+Owner
+Value
+Income Type
+Income
+1
+Arvest Bank
+(Lowell, Arkansas)
+Type:
+Money Market Account
+Bank Deposit
+Joint
+$100,001 - $250,000
+Interest
+$5,001 - $15,000
+2
+The Christie Renee Mullin Insurance Trust
+Provider:
+Provident Trust Group&nbsp;
+Life Insurance
+Whole
+Spouse
+$1,000,001 - $5,000,000
+None
+None (or less than $201)
+3
+Mullin Ranch LLC
+Description:
+Cattle Ranch (Westville, OK)&nbsp;
+Farm/Ranch
+Joint
+$1,000,001 - $5,000,000
+None
+None (or less than $201)
+4
+Mullin Family Holdco LLC
+Company:
+Mullin Family Holdco LLC (Westville, OK)&nbsp;
+Description:
+&nbsp;Equity investment in COP Hometown Parent LLC, a home services company.&nbsp;
+Business Entity
+Limited Liability Company (LLC)
+Joint
+--
+4.1
+COP Hometown Parent LLC
+Company:
+COP Hometown Parent LLC (Westville, OK)&nbsp;
+Description:
+&nbsp;Home services company&nbsp;
+Business Entity
+Limited Liability Company (LLC)
+Joint
+$500,001 - $1,000,000
+None
+None (or less than $201)
+5
+Mullin Family Holdco LLC
+Company:
+Mullin Family Holdco LLC (Westville, OK)&nbsp;
+Description:
+&nbsp;Equity investment in COP Hometown Parent LLC, a home services company.&nbsp;
+Business Entity
+Limited Liability Company (LLC)
+Child
+--
+5.1
+COP Hometown Parent LLC
+Company:
+COP Hometown Parent LLC (Westville, OK)&nbsp;
+Description:
+&nbsp;Home services company&nbsp;
+Business Entity
+Limited Liability Company (LLC)
+Child
+$500,001 - $1,000,000
+None
+None (or less than $201)
+6
+Mullin Family Holdco LLC
+Company:
+Mullin Family Holdco LLC (Westville, OK)&nbsp;
+Description:
+&nbsp;Equity investment in COP Hometown Parent LLC, a home services company.&nbsp;
+Business Entity
+Limited Liability Company (LLC)
+Child
+--
+6.1
+COP Hometown Parent LLC
+Company:
+COP Hometown Parent LLC (Westville, OK)&nbsp;
+Description:
+&nbsp;Home services company&nbsp;
+Business Entity
+Limited Liability Company (LLC)
+Child
+$500,001 - $1,000,000
+None
+None (or less than $201)
+7
+Mullin Family Holdco LLC
+Company:
+Mullin Family Holdco LLC (Westville, OK)&nbsp;
+Description:
+&nbsp;Equity investment in COP Hometown Parent LLC, a home services company.&nbsp;
+Business Entity
+Limited Liability Company (LLC)
+Child
+--
+7.1
+COP Hometown Parent LLC
+Company:
+COP Hometown Parent LLC (Westville, OK)&nbsp;
+Description:
+&nbsp;Home services company&nbsp;
+Business Entity
+Limited Liability Company (LLC)
+Child
+$500,001 - $1,000,000
+None
+None (or less than $201)
+8
+Mullin Family Holdco LLC
+Company:
+Mullin Family Holdco LLC (Westville, OK)&nbsp;
+Description:
+&nbsp;Equity investment in COP Hometown Parent LLC, a home services company.&nbsp;
+Business Entity
+Limited Liability Company (LLC)
+Child
+--
+8.1
+COP Hometown Parent LLC
+Company:
+COP Hometown Parent LLC (Westville, OK)&nbsp;
+Description:
+&nbsp;Home services company&nbsp;
+Business Entity
+Limited Liability Company (LLC)
+Child
+$500,001 - $1,000,000
+None
+None (or less than $201)
+9
+Mullin Family Holdco LLC
+Company:
+Mullin Family Holdco LLC (Westville, OK)&nbsp;
+Description:
+&nbsp;Equity investment in COP Hometown Parent LLC, a home services company.&nbsp;
+Business Entity
+Limited Liability Company (LLC)
+Child
+--
+9.1
+COP Hometown Parent LLC
+Company:
+COP Hometown Parent LLC (Westville, OK)&nbsp;
+Description:
+&nbsp;Home services company&nbsp;
+Business Entity
+Limited Liability Company (LLC)
+Child
+$500,001 - $1,000,000
+None
+None (or less than $201)
+10
+Mullin Family Holdco LLC
+Company:
+Mullin Family Holdco LLC (Westville, OK)&nbsp;
+Description:
+&nbsp;Equity investment in COP Hometown Parent LLC, a home services company.&nbsp;
+Business Entity
+Limited Liability Company (LLC)
+Child
+--
+10.1
+COP Hometown Parent LLC
+Company:
+COP Hometown Parent LLC (Westville, OK)&nbsp;
+Description:
+&nbsp;Home services company&nbsp;
+Business Entity
+Limited Liability Company (LLC)
+Child
+$500,001 - $1,000,000
+None
+None (or less than $201)
+11
+Rowan's Restaurant LLC
+Company:
+Rowan's Restaurant LLC (Stillwell, OK)&nbsp;
+Description:
+&nbsp;Restaurant in Stillwell, Oklahoma.&nbsp;
+Business Entity
+Limited Liability Company (LLC)
+Spouse
+None (or less than $1,001)
+Capital Gains
+$1,000,001 - $5,000,000
+12
+Mullin Properties LLC
+Company:
+Mullin Properties LLC (Westville, OK)&nbsp;
+Description:
+&nbsp;Property and Land in Oklahoma.&nbsp;
+Business Entity
+Limited Liability Company (LLC)
+Joint
+--
+12.1
+N Main St
+Description:
+Investment property (Broken Arrow, OK)&nbsp;
+Real Estate
+Commercial
+Joint
+$100,001 - $250,000
+None
+None (or less than $201)
+12.2
+S Elm Pl
+Description:
+Investment property (Broken Arrow, OK)&nbsp;
+Real Estate
+Commercial
+Joint
+$1,000,001 - $5,000,000
+None
+None (or less than $201)
+12.3
+N Shields
+Description:
+Investment property (Moore, OK)&nbsp;
+Real Estate
+Commercial
+Joint
+$1,000,001 - $5,000,000
+None
+None (or less than $201)
+12.4
+39th St
+Description:
+Investment property (Oklahoma City, OK)&nbsp;
+Real Estate
+Commercial
+Joint
+$100,001 - $250,000
+None
+None (or less than $201)
+12.5
+Land on HWY 51
+Description:
+Investment property (Stilwell, OK)&nbsp;
+Real Estate
+Unimproved Land
+Joint
+$50,001 - $100,000
+None
+None (or less than $201)
+12.6
+5 Acres - Cruz
+Description:
+Investment property (Westville, OK)&nbsp;
+Real Estate
+Unimproved Land
+Joint
+$15,001 - $50,000
+None
+None (or less than $201)
+12.7
+8 Acres - Rose
+Description:
+Investment property (Westville, OK)&nbsp;
+Real Estate
+Unimproved Land
+Joint
+$15,001 - $50,000
+None
+None (or less than $201)
+12.8
+100 Acres - Braitwaite
+Description:
+Investment property (Westville, OK)&nbsp;
+Real Estate
+Unimproved Land
+Joint
+$100,001 - $250,000
+None
+None (or less than $201)
+12.9
+20 Acres - Moreno
+Description:
+Investment property (Westville, OK)&nbsp;
+Real Estate
+Unimproved Land
+Joint
+$15,001 - $50,000
+None
+None (or less than $201)
+12.10
+210 Acres - Fielden
+Description:
+Investment property (Westville, OK)&nbsp;
+Real Estate
+Unimproved Land
+Joint
+$250,001 - $500,000
+None
+None (or less than $201)
+12.11
+40 Acres - Westville
+Description:
+Investment property (Westville, OK)&nbsp;
+Real Estate
+Unimproved Land
+Joint
+$50,001 - $100,000
+None
+None (or less than $201)
+12.12
+N 23rd St
+Description:
+Investment property (Broken Arrow, OK)&nbsp;
+Real Estate
+Residential
+Joint
+$250,001 - $500,000
+None
+None (or less than $201)
+12.13
+Land - Rock House
+Description:
+Investment property (Westville, OK)&nbsp;
+Real Estate
+Residential
+Joint
+$1,001 - $15,000
+None
+None (or less than $201)
+12.14
+Land - Phillips
+Description:
+Investment property (Westville, OK)&nbsp;
+Real Estate
+Unimproved Land
+Joint
+$100,001 - $250,000
+None
+None (or less than $201)
+13
+ABT
+- Abbott Laboratories Common Stock
+Corporate Securities
+Stock
+Joint
+$1,001 - $15,000
+Dividends
+$201 - $1,000
+14
+AXP
+- American Express Company
+Corporate Securities
+Stock
+Joint
+$50,001 - $100,000
+Dividends
+$201 - $1,000
+15
+ELV
+- Elevance Health Inc
+Corporate Securities
+Stock
+Joint
+$15,001 - $50,000
+Dividends
+$201 - $1,000
+16
+AAPL
+- Apple Inc
+Corporate Securities
+Stock
+Joint
+$250,001 - $500,000
+Dividends
+$1,001 - $2,500
+17
+AMAT
+- Applied Materials, Inc. - Common Stock
+Corporate Securities
+Stock
+Joint
+$50,001 - $100,000
+Dividends
+$201 - $1,000
+18
+BLK
+- Blackrock Inc
+Corporate Securities
+Stock
+Joint
+$50,001 - $100,000
+Dividends
+$1,001 - $2,500
+19
+CSX
+- CSX Corp
+Corporate Securities
+Stock
+Joint
+$15,001 - $50,000
+Dividends
+$201 - $1,000
+20
+CAT
+- Caterpillar Inc
+Corporate Securities
+Stock
+Joint
+$50,001 - $100,000
+Dividends
+$201 - $1,000
+21
+CVX
+- Chevron Corp
+Corporate Securities
+Stock
+Joint
+$15,001 - $50,000
+Dividends
+$1,001 - $2,500
+22
+KO
+- Coca-Cola Company
+Corporate Securities
+Stock
+Joint
+$15,001 - $50,000
+Dividends
+$1,001 - $2,500
+23
+CSEIX
+- Cohen & Steers Real Estate Securities Fund Inc.
+Mutual Funds
+Mutual Fund
+Joint
+$500,001 - $1,000,000
+Dividends
+$5,001 - $15,000
+24
+CMCSA
+- Comcast Corp A
+Corporate Securities
+Stock
+Joint
+None (or less than $1,001)
+Dividends
+$201 - $1,000
+25
+COP
+- ConocoPhillips Common Stock
+Corporate Securities
+Stock
+Joint
+$15,001 - $50,000
+Dividends
+$1,001 - $2,500
+26
+STZ
+- Constellation Brands Inc
+Corporate Securities
+Stock
+Joint
+$15,001 - $50,000
+Dividends
+$201 - $1,000
+27
+COST
+- Costco Wholesale Corporation - Common Stock
+Corporate Securities
+Stock
+Joint
+$50,001 - $100,000
+Dividends
+$1,001 - $2,500
+28
+DHR
+- Danaher Corporation Common Stock
+Corporate Securities
+Stock
+Joint
+$15,001 - $50,000
+Dividends
+None (or less than $201)
+29
+DE
+- Deere & Company Common Stock
+Corporate Securities
+Stock
+Joint
+$15,001 - $50,000
+Dividends
+$201 - $1,000
+30
+EMR
+- Emerson Electric Company
+Corporate Securities
+Stock
+Joint
+$50,001 - $100,000
+Dividends
+$201 - $1,000
+31
+FIMKX
+- Fidelity Advisor Emerging Markets Fund
+Mutual Funds
+Mutual Fund
+Joint
+$500,001 - $1,000,000
+Dividends
+$5,001 - $15,000
+32
+GS
+- Goldman Sachs Group
+Corporate Securities
+Stock
+Joint
+$50,001 - $100,000
+Dividends
+$1,001 - $2,500
+33
+GICIX
+- Goldman Sachs Intl Small Cap Insights Fd Inst
+Mutual Funds
+Mutual Fund
+Joint
+$1,000,001 - $5,000,000
+Dividends
+$50,001 - $100,000
+34
+AGTHX
+- The Growth Fund of America Class A Shares
+Mutual Funds
+Mutual Fund
+Joint
+$1,000,001 - $5,000,000
+Dividends
+$5,001 - $15,000
+35
+HLT
+- Hilton Worldwide Holdings Inc. Common Stock
+Corporate Securities
+Stock
+Joint
+$50,001 - $100,000
+Dividends
+None (or less than $201)
+36
+HD
+- Home Depot, Inc. (The) Common Stock
+Corporate Securities
+Stock
+Joint
+$50,001 - $100,000
+Dividends
+$1,001 - $2,500
+37
+HON
+- Honeywell International Inc
+Corporate Securities
+Stock
+Joint
+$50,001 - $100,000
+Dividends
+$1,001 - $2,500
+38
+ICE
+- Intercontinental Exchange Inc. Common Stock
+Corporate Securities
+Stock
+Joint
+$50,001 - $100,000
+Dividends
+$201 - $1,000
+39
+EZU
+- iShares MSCI Eurozone ETF
+Mutual Funds
+Mutual Fund
+Joint
+$500,001 - $1,000,000
+Dividends
+$15,001 - $50,000
+40
+IWB
+- iShares Russell 1000 ETF
+Mutual Funds
+Mutual Fund
+Joint
+$500,001 - $1,000,000
+Dividends
+$5,001 - $15,000
+41
+IJR
+- iShares Core S&P Small-Cap
+Mutual Funds
+Mutual Fund
+Joint
+$500,001 - $1,000,000
+Dividends
+$15,001 - $50,000
+42
+IEFA
+- EAFE Ishares Core MSCI ETF
+Mutual Funds
+Mutual Fund
+Joint
+$1,000,001 - $5,000,000
+Dividends
+$100,001 - $1,000,000
+43
+IEMG
+- iShares Core MSCI Emerging Markets ETF
+Mutual Funds
+Mutual Fund
+Joint
+$1,000,001 - $5,000,000
+Dividends
+$50,001 - $100,000
+44
+JPM
+- JP Morgan Chase & Company
+Corporate Securities
+Stock
+Joint
+$50,001 - $100,000
+Dividends
+$1,001 - $2,500
+45
+KLAC
+- KLA Corporation  - Common Stock
+Corporate Securities
+Stock
+Joint
+$100,001 - $250,000
+Dividends
+$1,001 - $2,500
+46
+LLY
+- Eli Lilly and Company Common Stock
+Corporate Securities
+Stock
+Joint
+$100,001 - $250,000
+Dividends
+$201 - $1,000
+47
+MA
+- Mastercard Incorporated Common Stock
+Corporate Securities
+Stock
+Joint
+$50,001 - $100,000
+Dividends
+$201 - $1,000
+48
+MSFT
+- Microsoft Corporation - Common Stock
+Corporate Securities
+Stock
+Joint
+$50,001 - $100,000
+Dividends
+$201 - $1,000
+49
+NVDA
+- Nvidia Corp
+Corporate Securities
+Stock
+Joint
+$100,001 - $250,000
+Dividends
+None (or less than $201)
+50
+PCLPX
+- Pimco Commoditiesplus Strategy Fund Class I-2
+Mutual Funds
+Mutual Fund
+Joint
+$250,001 - $500,000
+Dividends
+$15,001 - $50,000
+51
+PG
+- Procter & Gamble Company
+Corporate Securities
+Stock
+Joint
+$15,001 - $50,000
+Dividends
+$1,001 - $2,500
+52
+RTX
+- RTX Corporation Common Stock
+Corporate Securities
+Stock
+Joint
+$50,001 - $100,000
+Dividends
+$1,001 - $2,500
+53
+TRBCX
+- T. Rowe Price Blue Chip Growth Fund Inc.
+Mutual Funds
+Mutual Fund
+Joint
+$1,000,001 - $5,000,000
+Capital Gains
+$100,001 - $1,000,000
+54
+SPGI
+- S&P Global Inc
+Mutual Funds
+Mutual Fund
+Joint
+$50,001 - $100,000
+Dividends
+$201 - $1,000
+55
+MDY
+- SPDR S&P MidCap 400 ETF Trust
+Mutual Funds
+Mutual Fund
+Joint
+$500,001 - $1,000,000
+Dividends
+$5,001 - $15,000
+56
+SHW
+- Sherwin-Williams Company
+Corporate Securities
+Stock
+Joint
+$50,001 - $100,000
+Dividends
+$201 - $1,000
+57
+SBUX
+- Starbucks Corporation - Common Stock
+Corporate Securities
+Stock
+Joint
+None (or less than $1,001)
+Dividends
+$201 - $1,000
+58
+TMUS
+- T-Mobile US
+Corporate Securities
+Stock
+Joint
+$50,001 - $100,000
+Dividends
+$201 - $1,000
+59
+TXN
+- Texas Instruments Incorporated - Common Stock
+Corporate Securities
+Stock
+Joint
+$50,001 - $100,000
+Dividends
+$1,001 - $2,500
+60
+TMO
+- Thermo Fisher Scientific Inc
+Corporate Securities
+Stock
+Joint
+$50,001 - $100,000
+Dividends
+None (or less than $201)
+61
+UNP
+- Union Pacific Corp
+Corporate Securities
+Stock
+Joint
+$15,001 - $50,000
+Dividends
+$1,001 - $2,500
+62
+UNH
+- Unitedhealth Group Inc
+Corporate Securities
+Stock
+Joint
+$15,001 - $50,000
+Dividends
+$201 - $1,000
+63
+VLO
+- Valero Energy Corp
+Corporate Securities
+Stock
+Joint
+$50,001 - $100,000
+Dividends
+$2,501 - $5,000
+64
+VAW
+- Vanguard Materials ETF
+Mutual Funds
+Mutual Fund
+Joint
+$100,001 - $250,000
+Dividends
+$1,001 - $2,500
+65
+VPU
+- Vanguard Utilities ETF
+Mutual Funds
+Mutual Fund
+Joint
+$50,001 - $100,000
+Dividends
+$1,001 - $2,500
+66
+VNQ
+- Vanguard Real Estate ETF
+Mutual Funds
+Mutual Fund
+Joint
+$500,001 - $1,000,000
+Dividends
+$15,001 - $50,000
+67
+VO
+- Vanguard Mid-Cap ETF
+Mutual Funds
+Mutual Fund
+Joint
+$1,000,001 - $5,000,000
+Dividends
+$15,001 - $50,000
+68
+V
+- Visa Inc
+Corporate Securities
+Stock
+Joint
+$50,001 - $100,000
+Dividends
+$201 - $1,000
+69
+ZTS
+- Zoetis Inc Cl A
+Corporate Securities
+Stock
+Joint
+$15,001 - $50,000
+Dividends
+$201 - $1,000
+70
+PFFD
+- Global X U.S. Preferred ETF
+Mutual Funds
+Mutual Fund
+Joint
+None (or less than $1,001)
+None
+None (or less than $201)
+71
+DGQMM
+- Dreyfus Government Cash Management Wealth Shares
+Mutual Funds
+Mutual Fund
+Joint
+$15,001 - $50,000
+Dividends
+$5,001 - $15,000
+72
+FT Cap Strgth Opp 26 RE
+Mutual Funds
+Mutual Fund
+Spouse
+None (or less than $1,001)
+Dividends
+None (or less than $201)
+73
+FT TGT Div Dbl 1Q23 RE
+Mutual Funds
+Mutual Fund
+Joint
+None (or less than $1,001)
+Dividends
+$201 - $1,000
+74
+OKE
+- ONEOK, Inc. Common Stock
+Corporate Securities
+Stock
+Joint
+$50,001 - $100,000
+Dividends
+$1,001 - $2,500
+75
+JPM Liquid Assets Money Market Premier
+Mutual Funds
+Mutual Fund
+Spouse
+None (or less than $1,001)
+Dividends
+$201 - $1,000
+76
+CTVA
+- Corteva Inc
+Corporate Securities
+Stock
+Spouse
+None (or less than $1,001)
+Dividends
+None (or less than $201)
+77
+FT S&P TGT 25 2Q23 Fere
+Mutual Funds
+Mutual Fund
+Spouse
+None (or less than $1,001)
+Dividends
+$201 - $1,000
+78
+FT Cap Strgth Opp 28Fere
+Mutual Funds
+Mutual Fund
+Spouse
+None (or less than $1,001)
+Dividends
+$201 - $1,000
+79
+FCFS
+- Firstcash Holdings Inc
+Corporate Securities
+Stock
+Spouse
+None (or less than $1,001)
+Dividends
+None (or less than $201)
+80
+HUBB
+- Hubbell Inc Common Stock
+Corporate Securities
+Stock
+Spouse
+None (or less than $1,001)
+Dividends
+None (or less than $201)
+81
+Cavanal Hill Govt Sec Mmkt
+Mutual Funds
+Mutual Fund
+Self
+$15,001 - $50,000
+Dividends
+$2,501 - $5,000
+82
+AZO
+- AutoZone, Inc. Common Stock
+Corporate Securities
+Stock
+Joint
+$50,001 - $100,000
+None
+None (or less than $201)
+83
+BRK.B
+- Berkshire Hathaway Cl B
+Corporate Securities
+Stock
+Joint
+$50,001 - $100,000
+None
+None (or less than $201)
+84
+BSX
+- Boston Scientific Corporation Common Stock
+Corporate Securities
+Stock
+Joint
+$50,001 - $100,000
+None
+None (or less than $201)
+85
+CMG
+- Chipotle Mexican Grill
+Corporate Securities
+Stock
+Joint
+$50,001 - $100,000
+None
+None (or less than $201)
+86
+EW
+- Edwards Lifesciences Corporation Common Stock
+Corporate Securities
+Stock
+Joint
+None (or less than $1,001)
+None
+None (or less than $201)
+87
+META
+- Meta Platforms, Inc. - Class A Common Stock
+Corporate Securities
+Stock
+Joint
+$100,001 - $250,000
+Dividends
+$201 - $1,000
+88
+FI
+- Fiserv, Inc. Common Stock
+Corporate Securities
+Stock
+Joint
+$50,001 - $100,000
+None
+None (or less than $201)
+89
+LRCX
+- Lam Research Corporation - Common Stock
+Corporate Securities
+Stock
+Joint
+$50,001 - $100,000
+Dividends
+$201 - $1,000
+90
+PANW
+- Palo Alto Networks, Inc. - Common Stock
+Corporate Securities
+Stock
+Joint
+$50,001 - $100,000
+None
+None (or less than $201)
+91
+PEP
+- PepsiCo, Inc. - Common Stock
+Corporate Securities
+Stock
+Joint
+None (or less than $1,001)
+Dividends
+$1,001 - $2,500
+92
+CRM
+- Salesforce Inc
+Corporate Securities
+Stock
+Joint
+$50,001 - $100,000
+Dividends
+$201 - $1,000
+93
+ADBE
+- Adobe Inc. - Common Stock
+Corporate Securities
+Stock
+Joint
+$50,001 - $100,000
+None
+None (or less than $201)
+94
+AMD
+- Advanced Micro Devices, Inc. - Common Stock
+Corporate Securities
+Stock
+Joint
+$50,001 - $100,000
+None
+None (or less than $201)
+95
+GOOGL
+- Alphabet Inc. - Class A Common Stock
+Corporate Securities
+Stock
+Joint
+$50,001 - $100,000
+Dividends
+$201 - $1,000
+96
+AMZN
+- Amazon.com Inc
+Corporate Securities
+Stock
+Joint
+$100,001 - $250,000
+None
+None (or less than $201)
+97
+FVADX
+- Franklin Value Fund Advisor Class
+Mutual Funds
+Mutual Fund
+Joint
+$500,001 - $1,000,000
+Dividends, Capital Gains
+$15,001 - $50,000
+98
+Johnston Cnty NC Go Ref BDS
+Rate/Coupon:
+5.0%
+Matures:
+02/01/24
+Government Securities
+Municipal Security
+Joint
+None (or less than $1,001)
+Interest
+$1,001 - $2,500
+99
+Central Weber Utah SWR Impt Dist SWR Rev BDS
+Rate/Coupon:
+5.0%
+Matures:
+03/01/24
+Government Securities
+Municipal Security
+Joint
+None (or less than $1,001)
+Interest
+$1,001 - $2,500
+100
+New Mexico Fin Auth St Transn Rev Ref BDS
+Rate/Coupon:
+5.0%
+Matures:
+06/15/24
+Government Securities
+Municipal Security
+Joint
+None (or less than $1,001)
+Interest
+$1,001 - $2,500
+101
+Austin Tex Pub Impt Ref BDS
+Rate/Coupon:
+5.0%
+Matures:
+09/01/24
+Government Securities
+Municipal Security
+Joint
+None (or less than $1,001)
+Interest
+$2,501 - $5,000
+102
+Lucas Cnty Ohio Ltd Tax Var Purp Impt Go BD Antic NTS
+Rate/Coupon:
+4.375%
+Matures:
+10/11/24
+Government Securities
+Municipal Security
+Joint
+None (or less than $1,001)
+Interest
+$2,501 - $5,000
+103
+Upton Cnty Tex Tax Tax NTS 2023
+Rate/Coupon:
+5.0%
+Matures:
+02/15/25
+Government Securities
+Municipal Security
+Joint
+$50,001 - $100,000
+Interest
+$2,501 - $5,000
+104
+Pocono Mtn PA Sch Dist Go NTS
+Rate/Coupon:
+4.5%
+Matures:
+10/01/26
+Government Securities
+Municipal Security
+Joint
+None (or less than $1,001)
+Interest
+$2,501 - $5,000
+105
+Alamogordo N Mex Mun Sch Dist No 001 Go BDS
+Rate/Coupon:
+5.0%
+Matures:
+08/01/27
+Government Securities
+Municipal Security
+Joint
+$15,001 - $50,000
+Interest
+$1,001 - $2,500
+106
+Kaukauna Wis Antic NTS 2023B
+Rate/Coupon:
+5.0%
+Matures:
+06/01/28
+Government Securities
+Municipal Security
+Joint
+$1,001 - $15,000
+Interest
+$1,001 - $2,500
+107
+Waxahachie Tex Indpt Sch Dist Ultd Tax Ref BDS
+Rate/Coupon:
+4.0%
+Matures:
+08/15/34
+Government Securities
+Municipal Security
+Joint
+$50,001 - $100,000
+Interest
+$2,501 - $5,000
+108
+Texas St GO Mobility FD BDS
+Rate/Coupon:
+4.0%
+Matures:
+10/01/34
+Government Securities
+Municipal Security
+Joint
+None (or less than $1,001)
+Interest
+$2,501 - $5,000
+109
+Clear Creek Tex Indpt Sch Dist Unltd Tax Ref BDS
+Rate/Coupon:
+5.0%
+Matures:
+02/15/38
+Government Securities
+Municipal Security
+Joint
+$50,001 - $100,000
+Interest
+$2,501 - $5,000
+110
+Macomb Inter Sch Dist Mich Unltd Tax Go Bldg Site BDS
+Rate/Coupon:
+5.0%
+Matures:
+05/01/38
+Government Securities
+Municipal Security
+Joint
+$50,001 - $100,000
+Interest
+$2,501 - $5,000
+111
+Nevada St Ltd Tax Go Cap Impt BDS
+Rate/Coupon:
+5.0%
+Matures:
+05/01/38
+Government Securities
+Municipal Security
+Joint
+$100,001 - $250,000
+Interest
+$2,501 - $5,000
+112
+IPS Multi-Sch Bldg Corp Ind Unltd Advalorem Ppty Tax
+Rate/Coupon:
+5.0%
+Matures:
+07/15/38
+Government Securities
+Municipal Security
+Joint
+$50,001 - $100,000
+Interest
+$2,501 - $5,000
+113
+Austin Tex CTFS Oblig
+Rate/Coupon:
+5.0%
+Matures:
+09/01/38
+Government Securities
+Municipal Security
+Joint
+$50,001 - $100,000
+Interest
+$2,501 - $5,000
+114
+Fort Lauderdale Fla Wtr & Swr Rev BDS
+Rate/Coupon:
+5.0%
+Matures:
+09/01/38
+Government Securities
+Municipal Security
+Joint
+$100,001 - $250,000
+Interest
+$2,501 - $5,000
+115
+Seattle Wash Drain & Wastewater Rev Ref Rev BDS
+Rate/Coupon:
+4.0%
+Matures:
+05/01/39
+Government Securities
+Municipal Security
+Joint
+$50,001 - $100,000
+Interest
+$2,501 - $5,000
+116
+New York NY City Mun Wtr Fin Auth Wtr & Swr Sys Rev
+Rate/Coupon:
+5.0%
+Matures:
+06/15/39
+Government Securities
+Municipal Security
+Joint
+$50,001 - $100,000
+Interest
+$2,501 - $5,000
+117
+Cook Cnty Ill Cmnty Cons Sch Dist No 015 Palatine Go BDS
+Rate/Coupon:
+5.25%
+Matures:
+12/15/39
+Government Securities
+Municipal Security
+Joint
+$50,001 - $100,000
+Interest
+$5,001 - $15,000
+118
+First Trust Capital Strength Opportunity 26
+Mutual Funds
+Mutual Fund
+Self
+None (or less than $1,001)
+None
+None (or less than $201)
+119
+First Trust Target Dividend Double Play 1Q23 MO RE
+Mutual Funds
+Mutual Fund
+Self
+None (or less than $1,001)
+None
+None (or less than $201)
+120
+First Trust S&P Dividends Aristocrats Target 25
+Mutual Funds
+Mutual Fund
+Spouse
+None (or less than $1,001)
+None
+None (or less than $201)
+121
+NKE
+- Nike, Inc. Common Stock
+Corporate Securities
+Stock
+Joint
+None (or less than $1,001)
+Dividends
+$201 - $1,000
+122
+CELH
+- Celsius Holdings, Inc. - Common Stock
+Corporate Securities
+Stock
+Spouse
+None (or less than $1,001)
+None
+None (or less than $201)
+123
+EXLS
+- ExlService Holdings, Inc. - Common Stock
+Corporate Securities
+Stock
+Spouse
+None (or less than $1,001)
+None
+None (or less than $201)
+124
+FN
+- Fabrinet
+Corporate Securities
+Stock
+Spouse
+None (or less than $1,001)
+None
+None (or less than $201)
+125
+FCFS
+- FirstCash Holdings, Inc. - Common Stock
+Corporate Securities
+Stock
+Spouse
+None (or less than $1,001)
+None
+None (or less than $201)
+126
+INST
+- Instructure Holdings, Inc. Common Stock
+Corporate Securities
+Stock
+Spouse
+None (or less than $1,001)
+None
+None (or less than $201)
+127
+PODD
+- Insulet Corporation - Common Stock
+Corporate Securities
+Stock
+Spouse
+None (or less than $1,001)
+None
+None (or less than $201)
+128
+PYPL
+- PayPal Holdings, Inc. - Common Stock
+Corporate Securities
+Stock
+Spouse
+None (or less than $1,001)
+None
+None (or less than $201)
+129
+SHOP
+- Shopify Inc
+Corporate Securities
+Stock
+Spouse
+None (or less than $1,001)
+None
+None (or less than $201)
+130
+Citizens Bankshares
+Company:
+Citizens Bankshares Inc (Edmond, OK)&nbsp;
+Description:
+&nbsp;Banking&nbsp;
+Corporate Securities
+Non-Public Stock
+Self
+$100,001 - $250,000
+None
+None (or less than $201)
+131
+Humphreys Fund I REIT
+Mutual Funds
+Mutual Fund
+Self
+$100,001 - $250,000
+Excepted Investment Fund
+$5,001 - $15,000
+132
+Cleveland Cnty OK Eductnl Facs Rev
+Rate/Coupon:
+5.0%
+Matures:
+06/01/32
+Government Securities
+Municipal Security
+Self
+None (or less than $1,001)
+Interest
+$2,501 - $5,000
+133
+Oklahoma Dev Fin Auth Lease Rev
+Rate/Coupon:
+5.0%
+Matures:
+12/01/29
+Government Securities
+Municipal Security
+Self
+None (or less than $1,001)
+Interest
+$1,001 - $2,500
+134
+Oklahoma St Dev Fin Auth Hlths Rev
+Rate/Coupon:
+5.0%
+Matures:
+08/15/31
+Government Securities
+Municipal Security
+Self
+None (or less than $1,001)
+Interest
+$5,001 - $15,000
+135
+Oklahoma St Turnpike Auth Rev
+Rate/Coupon:
+5.0%
+Matures:
+01/01/25
+Government Securities
+Municipal Security
+Self
+None (or less than $1,001)
+Interest
+$1,001 - $2,500
+136
+Purcell OK Public Wks Auth Sal Rev
+Rate/Coupon:
+5.0%
+Matures:
+03/01/30
+Government Securities
+Municipal Security
+Self
+None (or less than $1,001)
+Interest
+$1,001 - $2,500
+137
+Tulsa Cnty OK Indl Auth Eductn Rev
+Rate/Coupon:
+5.0%
+Matures:
+09/01/27
+Government Securities
+Municipal Security
+Self
+None (or less than $1,001)
+Interest
+$1,001 - $2,500
+138
+Univ OK Rev
+Rate/Coupon:
+5.0%
+Matures:
+07/01/28
+Government Securities
+Municipal Security
+Self
+None (or less than $1,001)
+Interest
+$1,001 - $2,500
+139
+Mullin Realty LLC
+Company:
+Mullin Realty LLC (Englewood, FL)&nbsp;
+Description:
+&nbsp;Investment Property&nbsp;
+Business Entity
+Limited Liability Company (LLC)
+Joint
+--
+139.1
+Florida Investment Property
+Description:
+Investment property (Englewood, FL)&nbsp;
+Real Estate
+Residential
+Joint
+None (or less than $1,001)
+Capital Gains
+$100,001 - $1,000,000
+139.2
+Washington DC Investment Property
+Description:
+Investment property (Washington, DC)&nbsp;
+Real Estate
+Residential
+Joint
+$1,000,001 - $5,000,000
+None
+None (or less than $201)
+139.3
+Bixby Investment Property
+Description:
+Bixby Investment Property (Bixby, OK)&nbsp;
+Real Estate
+Residential
+Joint
+$500,001 - $1,000,000
+None
+None (or less than $201)
+140
+LPL Financial
+(San Diego, CA)
+Type:
+Brokerage Sweep Account
+Bank Deposit
+Spouse
+$100,001 - $250,000
+Interest
+$201 - $1,000
+141
+LPL Financial
+(San Diego, CA)
+Type:
+Brokerage Sweep Account
+Bank Deposit
+Self
+$100,001 - $250,000
+Interest
+$201 - $1,000
+142
+Northwestern Mutual FDIC Insured
+(Milwaukee, WI)
+Type:
+Brokerage Sweep Account
+Bank Deposit
+Joint
+$250,001 - $500,000
+Interest
+$5,001 - $15,000
+143
+Northwestern Mutual FDIC Insured
+(Milwaukee, WI)
+Type:
+Brokerage Sweep Account
+Bank Deposit
+Joint
+$100,001 - $250,000
+Interest
+$1,001 - $2,500
+144
+Oklahoma St Dev Fin Auth Hlths REV
+Rate/Coupon:
+.41
+Matures:
+08/15/31
+Government Securities
+Municipal Security
+Self
+None (or less than $1,001)
+Interest
+None (or less than $201)
+145
+LPL Financial
+(San Diego, CA)
+Type:
+Brokerage Sweep Account
+Bank Deposit
+Spouse
+$15,001 - $50,000
+Interest
+$201 - $1,000
+146
+LPL Financial
+(San Diego, CA)
+Type:
+Brokerage Sweep Account
+Bank Deposit
+Self
+$15,001 - $50,000
+Interest
+$201 - $1,000
+147
+TC4 Investment LLC
+Company:
+TC4 Investment LLC (Pryor, OK)&nbsp;
+Description:
+&nbsp;Investment Property&nbsp;
+Business Entity
+Limited Liability Company (LLC)
+Spouse
+--
+147.1
+Oklahoma Investment Property
+Description:
+Rental Property (Pryor, OK)&nbsp;
+Real Estate
+Residential
+Spouse
+$250,001 - $500,000
+None
+None (or less than $201)
+148
+Mullin Properties West Division LLC
+Company:
+Mullin Properties West Division LLC (Moore, OK)&nbsp;
+Description:
+&nbsp;Rental Real Estate&nbsp;
+Business Entity
+Limited Liability Company (LLC)
+Self
+--
+148.1
+Property 1
+Description:
+Rental Property (Moore, OK)&nbsp;
+Real Estate
+Residential
+Self
+$100,001 - $250,000
+Rent/Royalties
+$15,001 - $50,000
+148.2
+Property 2
+Description:
+Rental Property (Norman, OK)&nbsp;
+Real Estate
+Residential
+Self
+$100,001 - $250,000
+Rent/Royalties
+$1,001 - $2,500
+148.3
+Property 3
+Description:
+Rental Property (Oklahoma City, OK)&nbsp;
+Real Estate
+Residential
+Self
+$100,001 - $250,000
+Rent/Royalties
+$1,001 - $2,500
+148.4
+Property 4
+Description:
+Rental Property (Westville, OK)&nbsp;
+Real Estate
+Residential
+Self
+$100,001 - $250,000
+Rent/Royalties
+None (or less than $201)
+148.5
+Property 5
+Description:
+Rental Property (Moore, OK)&nbsp;
+Real Estate
+Residential
+Self
+$100,001 - $250,000
+Rent/Royalties
+$201 - $1,000
+148.6
+Property 6
+Description:
+Rental Property (Moore, OK)&nbsp;
+Real Estate
+Residential
+Self
+$100,001 - $250,000
+Rent/Royalties
+$1,001 - $2,500
+148.7
+Property 7
+Description:
+Rental Property (Moore, OK)&nbsp;
+Real Estate
+Residential
+Self
+$100,001 - $250,000
+Rent/Royalties
+$201 - $1,000
+148.8
+Property 8
+Description:
+Rental Property (Oklahoma City, OK)&nbsp;
+Real Estate
+Residential
+Self
+$100,001 - $250,000
+Rent/Royalties
+None (or less than $201)
+148.9
+Property 9
+Description:
+Rental Property (Versailles, MO)&nbsp;
+Real Estate
+Residential
+Self
+$100,001 - $250,000
+Rent/Royalties
+None (or less than $201)
+148.10
+Property 10
+Description:
+Rental Property (Wanette, OK)&nbsp;
+Real Estate
+Residential
+Self
+$250,001 - $500,000
+Rent/Royalties
+None (or less than $201)
+148.11
+Property 11
+Description:
+Rental Property (Moore, OK)&nbsp;
+Real Estate
+Residential
+Self
+$100,001 - $250,000
+Rent/Royalties
+$1,001 - $2,500
+148.12
+Property 12
+Description:
+Rental Property (Moore, OK)&nbsp;
+Real Estate
+Residential
+Self
+$100,001 - $250,000
+Rent/Royalties
+$2,501 - $5,000
+148.13
+Property 13
+Description:
+Rental Property (Wanette, OK)&nbsp;
+Real Estate
+Residential
+Self
+$100,001 - $250,000
+Rent/Royalties
+None (or less than $201)
+148.14
+Property 14
+Description:
+Rental Property (Mcloud, OK)&nbsp;
+Real Estate
+Residential
+Self
+$100,001 - $250,000
+Rent/Royalties
+None (or less than $201)
+148.15
+Property 15
+Description:
+Rental Property (Byars, OK)&nbsp;
+Real Estate
+Residential
+Self
+$100,001 - $250,000
+Rent/Royalties
+None (or less than $201)
+148.16
+Property 16
+Description:
+Rental Property (Oklahoma City, OK)&nbsp;
+Real Estate
+Residential
+Self
+$50,001 - $100,000
+Rent/Royalties
+None (or less than $201)
+149
+Oklahoma Transn Auth OK F/K/A
+Rate/Coupon:
+5.0%
+Matures:
+01/01/2025
+Government Securities
+Municipal Security
+Joint
+None (or less than $1,001)
+None
+None (or less than $201)
+150
+First Trust Cap Strength Oppty 32 SA RE
+Mutual Funds
+Mutual Fund
+Joint
+None (or less than $1,001)
+Dividends
+None (or less than $201)
+151
+First Trust TGT Divid Dbl Play 2Q24 MO RE
+Mutual Funds
+Mutual Fund
+Joint
+None (or less than $1,001)
+Dividends
+$201 - $1,000
+152
+SPMD
+- SPDR Portfolio S&P 400 Mid Cap ETF
+Mutual Funds
+Mutual Fund
+Joint
+$50,001 - $100,000
+Dividends
+$201 - $1,000
+153
+SPSM
+- SPDR Portfolio S&P 600 Small Cap ETF
+Mutual Funds
+Mutual Fund
+Joint
+$15,001 - $50,000
+Dividends
+$201 - $1,000
+154
+First Trust Cap Strength Oppty 32 SA RE
+Mutual Funds
+Mutual Fund
+Self
+$1,001 - $15,000
+Dividends
+None (or less than $201)
+155
+First Trust TGT Divid Dbl Play 2Q24 MO RE
+Mutual Funds
+Mutual Fund
+Self
+$15,001 - $50,000
+Dividends
+$201 - $1,000
+156
+First Trust S&P Div Arst TGT 25 1Q24 MO RE
+Mutual Funds
+Mutual Fund
+Spouse
+$15,001 - $50,000
+Dividends
+$201 - $1,000
+157
+TC4 Operating LLC
+Company:
+TC4 Operating LLC (Pryor, OK)&nbsp;
+Description:
+&nbsp;Investment Property&nbsp;
+Business Entity
+Limited Liability Company (LLC)
+Spouse
+--
+157.1
+Oklahoma Investment Property
+Description:
+Rental Real Estate (Pryor, OK)&nbsp;
+Real Estate
+Residential
+Spouse
+$50,001 - $100,000
+None
+None (or less than $201)
+158
+PDBC
+- Invesco Optimum Yield Diversified Commodity Strate
+Mutual Funds
+Mutual Fund
+Joint
+None (or less than $1,001)
+Dividends
+$15,001 - $50,000
+159
+JPMorgan Liquid Assets MoneyMkt Premier CL
+Mutual Funds
+Mutual Fund
+Joint
+None (or less than $1,001)
+Dividends
+$5,001 - $15,000
+160
+JPMorgan 100% US Treas Secs Mmkt Premier CL
+Mutual Funds
+Mutual Fund
+Joint
+None (or less than $1,001)
+Dividends
+$2,501 - $5,000
+161
+First Trust S&P Div Arst TGT 25 3Q24
+Mutual Funds
+Mutual Fund
+Joint
+$50,001 - $100,000
+Dividends
+$201 - $1,000
+162
+First Trust Cap Strength Oppty 34 SA FE RE
+Mutual Funds
+Mutual Fund
+Joint
+$50,001 - $100,000
+Dividends
+$201 - $1,000
+163
+LPL Financial
+(San Diego, CA)
+Type:
+Brokerage Sweep Account
+Bank Deposit
+Joint
+$1,001 - $15,000
+Interest
+$1,001 - $2,500
+164
+Broken Arrow OK GO Unltd
+Rate/Coupon:
+4.0%
+Matures:
+09/01/35
+Government Securities
+Municipal Security
+Self
+None (or less than $1,001)
+Interest
+$1,001 - $2,500
+165
+Canadian Cnty OK Edu Facs Rev
+Rate/Coupon:
+5.0%
+Matures:
+09/01/29
+Government Securities
+Municipal Security
+Self
+None (or less than $1,001)
+Interest
+$2,501 - $5,000
+166
+Canadian Cnty OK Educatnl Facs Rev
+Rate/Coupon:
+5.0%
+Matures:
+09/01/2027
+Government Securities
+Municipal Security
+Self
+None (or less than $1,001)
+Interest
+$1,001 - $2,500
+167
+Grady Cnty OK Eductnl Facs Rev
+Rate/Coupon:
+5.0%
+Matures:
+09/01/31
+Government Securities
+Municipal Security
+Self
+None (or less than $1,001)
+Interest
+$1,001 - $2,500
+168
+McClain Cnty OK Econ Dev Auth Rev
+Rate/Coupon:
+4.0%
+Matures:
+09/01/33
+Government Securities
+Municipal Security
+Self
+None (or less than $1,001)
+Interest
+$1,001 - $2,500
+169
+Oklahoma Cnty OK Fin Auth Rev
+Rate/Coupon:
+5.0%
+Matures:
+10/01/24
+Government Securities
+Municipal Security
+Self
+None (or less than $1,001)
+Interest
+$2,501 - $5,000
+170
+Oklahoma St Capitol Impt Auth Rev
+Rate/Coupon:
+5.0%
+Matures:
+07/01/2025
+Government Securities
+Municipal Security
+Self
+None (or less than $1,001)
+Interest
+$1,001 - $2,500
+171
+Oklahoma St Univ Agric & Mech Rev
+Rate/Coupon:
+5.0%
+Matures:
+09/01/32
+Government Securities
+Municipal Security
+Self
+None (or less than $1,001)
+Interest
+$1,001 - $2,500
+172
+Tulsa County OK ISD GO Unltd
+Rate/Coupon:
+4.5%
+Matures:
+03/01/26
+Government Securities
+Municipal Security
+Self
+None (or less than $1,001)
+Interest
+$1,001 - $2,500
+173
+Vanguard Treasury Money Market Fund Investor Shares
+Mutual Funds
+Mutual Fund
+Joint
+$500,001 - $1,000,000
+Dividends
+$15,001 - $50,000
+174
+PH
+- Parker-Hannifin Corporation Common Stock
+Corporate Securities
+Stock
+Joint
+$15,001 - $50,000
+Dividends
+$201 - $1,000
+175
+Northern Ill MUN PWR AGY
+Rate/Coupon:
+5.0%
+Matures:
+12/01/25
+Government Securities
+Municipal Security
+Joint
+$50,001 - $100,000
+Interest
+$1,001 - $2,500
+176
+Kentucky St PPTY & BLDGS Commn Revs BDS Proj
+Rate/Coupon:
+5.0%
+Matures:
+11/01/27
+Government Securities
+Municipal Security
+Joint
+$50,001 - $100,000
+Interest
+$1,001 - $2,500
+177
+Fort Smith Ark Wtr & Swr Rev Ref Constr BDS
+Rate/Coupon:
+5.0%
+Matures:
+10/01/32
+Government Securities
+Municipal Security
+Joint
+$50,001 - $100,000
+Interest
+$1,001 - $2,500
+178
+Salem N H GO BDS
+Rate/Coupon:
+4.0%
+Matures:
+10/01/36
+Government Securities
+Municipal Security
+Joint
+$50,001 - $100,000
+Interest
+None (or less than $201)
+179
+Northwestern Mutual
+Provider:
+Northwestern Mutual&nbsp;
+Life Insurance
+Whole
+Joint
+$1,000,001 - $5,000,000
+Dividends
+$100,001 - $1,000,000
+180
+TJX
+- TJX Companies, Inc. (The) Common Stock
+Corporate Securities
+Stock
+Joint
+$15,001 - $50,000
+Dividends
+None (or less than $201)
+181
+IQV
+- IQVIA Holdings, Inc. Common Stock
+Corporate Securities
+Stock
+Joint
+$15,001 - $50,000
+None
+None (or less than $201)
+182
+CFSSX
+- Column Small Cap Select Fund
+Corporate Securities
+Stock
+Joint
+$100,001 - $250,000
+None
+None (or less than $201)
+183
+Allotment Services LLC
+Company:
+Allotment Services LLC (Westville, OK)&nbsp;
+Description:
+&nbsp;Investment Property&nbsp;
+Business Entity
+Limited Liability Company (LLC)
+Self
+--
+183.1
+Oklahoma Investment Property
+Description:
+Apres Spectrum LLC (Geismar, LA)&nbsp;
+Real Estate
+Residential
+Self
+$500,001 - $1,000,000
+None
+None (or less than $201)
+Part 4a. Periodic Transaction Report Summary
+In this section, electronically filed periodic transaction report (PTR) transactions are displayed for you.
+List of transactions added to this report
+&#35;
+Transaction Date
+Owner
+Ticker
+Asset Name
+Type
+Amount
+Comment
+1
+01/02/2024
+Joint
+ADBE
+Adobe Systems Inc
+Purchase
+$15,001 - $50,000
+--
+2
+01/02/2024
+Joint
+NVDA
+NVIDIA Corporation - Common Stock
+Purchase
+$15,001 - $50,000
+--
+3
+01/02/2024
+Joint
+LRCX
+Lam Research Corp
+Purchase
+$15,001 - $50,000
+--
+4
+01/02/2024
+Joint
+META
+Meta Platforms Inc
+Purchase
+$15,001 - $50,000
+--
+5
+01/02/2024
+Joint
+AMAT
+Applied Materials, Inc. - Common Stock
+Purchase
+$15,001 - $50,000
+--
+6
+01/02/2024
+Joint
+AAPL
+Apple Inc. - Common Stock
+Purchase
+$50,001 - $100,000
+--
+7
+01/02/2024
+Joint
+AMD
+Advanced Micro Devices, Inc. - Common Stock
+Purchase
+$15,001 - $50,000
+--
+8
+01/03/2024
+Joint
+--
+Canadian County Educational Facilities Authority
+Rate/Coupon:
+5.0%
+Matures:
+09/01/2027
+Purchase
+$100,001 - $250,000
+--
+9
+01/04/2024
+Spouse
+HUBB
+Hubbell Inc Common Stock
+Sale (Full)
+$1,001 - $15,000
+--
+10
+01/04/2024
+Spouse
+CELH
+Celsius Holdings, Inc. - Common Stock
+Sale (Full)
+$1,001 - $15,000
+--
+11
+01/04/2024
+Spouse
+BMI
+Badger Meter, Inc. Common Stock
+Purchase
+$1,001 - $15,000
+--
+12
+01/04/2024
+Spouse
+AXON
+Axon Enterprise Inc
+Purchase
+$1,001 - $15,000
+--
+13
+01/04/2024
+Self
+ZTS
+Zoetis Inc Cl A
+Purchase
+$1,001 - $15,000
+--
+14
+01/04/2024
+Self
+SFM
+Sprouts Farmers Market
+Purchase
+$1,001 - $15,000
+--
+15
+01/04/2024
+Self
+OLLI
+Ollie&#x27;s Bargain Outlet Holdings, Inc. - Common Sto
+Purchase
+$1,001 - $15,000
+--
+16
+01/04/2024
+Self
+GS
+Goldman Sachs Group, Inc. (The) Common Stock
+Purchase
+$1,001 - $15,000
+--
+17
+01/04/2024
+Self
+FRPT
+Freshpet, Inc. - Common Stock
+Purchase
+$1,001 - $15,000
+--
+18
+01/04/2024
+Self
+ETN
+Eaton Corp
+Purchase
+$1,001 - $15,000
+--
+19
+01/04/2024
+Self
+ELF
+E.L.F. Beauty Inc
+Purchase
+$1,001 - $15,000
+--
+20
+01/04/2024
+Self
+CYBR
+CyberArk Software Ltd. - Ordinary Shares
+Purchase
+$1,001 - $15,000
+--
+21
+01/04/2024
+Self
+BMI
+Badger Meter, Inc. Common Stock
+Purchase
+$1,001 - $15,000
+--
+22
+01/04/2024
+Self
+AXON
+Axon Enterprise Inc
+Purchase
+$1,001 - $15,000
+--
+23
+01/04/2024
+Spouse
+FN
+Fabrinet
+Sale (Full)
+$1,001 - $15,000
+--
+24
+01/04/2024
+Spouse
+SHOP
+Shopify Inc
+Sale (Full)
+$1,001 - $15,000
+--
+25
+01/04/2024
+Spouse
+PYPL
+PayPal Holdings, Inc. - Common Stock
+Sale (Full)
+$1,001 - $15,000
+--
+26
+01/04/2024
+Spouse
+PODD
+Insulet Corporation - Common Stock
+Sale (Full)
+$1,001 - $15,000
+--
+27
+01/04/2024
+Spouse
+INST
+Instructure Holdings, Inc. Common Stock
+Sale (Full)
+$1,001 - $15,000
+--
+28
+01/04/2024
+Spouse
+FCFS
+FirstCash Holdings, Inc. - Common Stock
+Sale (Full)
+$1,001 - $15,000
+--
+29
+01/04/2024
+Spouse
+CTVA
+Corteva, Inc. Common Stock
+Sale (Full)
+$1,001 - $15,000
+--
+30
+01/04/2024
+Spouse
+EXLS
+ExlService Holdings, Inc. - Common Stock
+Sale (Full)
+$1,001 - $15,000
+--
+31
+01/04/2024
+Spouse
+ZTS
+Zoetis Inc. Class A Common Stock
+Purchase
+$1,001 - $15,000
+--
+32
+01/04/2024
+Spouse
+SFM
+Sprouts Farmers Market, Inc. - Common Stock
+Purchase
+$1,001 - $15,000
+--
+33
+01/04/2024
+Spouse
+OLLI
+Ollie&#x27;s Bargain Outlet Holdings, Inc. - Common Sto
+Purchase
+$1,001 - $15,000
+--
+34
+01/04/2024
+Spouse
+GS
+Goldman Sachs Group, Inc. (The) Common Stock
+Purchase
+$1,001 - $15,000
+--
+35
+01/04/2024
+Spouse
+FRPT
+Freshpet, Inc. - Common Stock
+Purchase
+$1,001 - $15,000
+--
+36
+01/04/2024
+Spouse
+ETN
+Eaton Corp
+Purchase
+$1,001 - $15,000
+--
+37
+01/04/2024
+Spouse
+ELF
+E.L.F. Beauty Inc
+Purchase
+$1,001 - $15,000
+--
+38
+01/04/2024
+Spouse
+CYBR
+CyberArk Software Ltd. - Ordinary Shares
+Purchase
+$1,001 - $15,000
+--
+39
+01/10/2024
+Joint
+--
+OK ST Capitol Impt Auth ST Highway
+Rate/Coupon:
+5.0%
+Matures:
+07/01/2025
+Purchase
+$50,001 - $100,000
+--
+40
+01/10/2024
+Self
+--
+Oklahoma St Dev Fin Auth Hlths Rev
+Rate/Coupon:
+5.0%
+Matures:
+08/15/31
+Sale (Partial)
+$50,001 - $100,000
+--
+41
+01/18/2024
+Joint
+--
+CENTRAL WEBER UTAH SWR IMPT DIST SWR REV BDS 2023
+Rate/Coupon:
+5.0%
+Matures:
+03/01/2024
+Sale (Full)
+$50,001 - $100,000
+--
+42
+01/18/2024
+Joint
+--
+Oklahoma State University Agricultural
+Rate/Coupon:
+5.0%
+Matures:
+09/01/2032
+Purchase
+$50,001 - $100,000
+--
+43
+01/18/2024
+Joint
+--
+KAUKAUNA WIS ANTIC NTS 2023B
+Rate/Coupon:
+5.0%
+Matures:
+06/01/2028
+Sale (Partial)
+$50,001 - $100,000
+--
+44
+01/18/2024
+Joint
+--
+JOHNSTON CNTY N C GO REF BDS 2010-A
+Rate/Coupon:
+5.0%
+Matures:
+02/01/2024
+Sale (Full)
+$50,001 - $100,000
+--
+45
+01/18/2024
+Joint
+--
+AUSTIN TEX PUB IMPT REF BDS 2023
+Rate/Coupon:
+5.0%
+Matures:
+09/01/2024
+Sale (Full)
+$15,001 - $50,000
+--
+46
+01/19/2024
+Joint
+--
+Oklahoma Cnty Okla Fin Auth Ed
+Rate/Coupon:
+5.0%
+Matures:
+10/01/2024
+Purchase
+$100,001 - $250,000
+--
+47
+01/19/2024
+Self
+--
+Oklahoma St Dev Fin Auth Hlths Rev
+Rate/Coupon:
+5.0%
+Matures:
+08/15/31
+Sale (Partial)
+$50,001 - $100,000
+--
+48
+01/22/2024
+Self
+--
+Oklahoma St Dev Fin Auth Hlths Rev
+Rate/Coupon:
+5.0%
+Matures:
+08/15/31
+Sale (Partial)
+$50,001 - $100,000
+--
+49
+01/23/2024
+Joint
+--
+Tulsa County OKLA INDPT SCH DIST
+Rate/Coupon:
+4.5%
+Matures:
+03/01/2026
+Purchase
+$100,001 - $250,000
+--
+50
+01/24/2024
+Joint
+--
+McClain County OKLA Economic DEV
+Rate/Coupon:
+4.0%
+Matures:
+09/01/2033
+Purchase
+$100,001 - $250,000
+--
+51
+01/26/2024
+Joint
+--
+Broken Arrow OKLA
+Rate/Coupon:
+4.0%
+Matures:
+09/01/2035
+Purchase
+$100,001 - $250,000
+--
+52
+01/29/2024
+Self
+--
+Oklahoma St Dev Fin Auth Hlths Rev
+Rate/Coupon:
+5.0%
+Matures:
+08/15/31
+Sale (Partial)
+$100,001 - $250,000
+--
+53
+02/06/2024
+Joint
+--
+Grady County OKLA SCH FIN Auth E
+Rate/Coupon:
+4.0%
+Matures:
+09/01/2031
+Purchase
+$100,001 - $250,000
+--
+54
+02/07/2024
+Self
+--
+Oklahoma St Dev Fin Auth Hlths Rev
+Rate/Coupon:
+5.0%
+Matures:
+08/15/31
+Sale (Partial)
+$50,001 - $100,000
+--
+55
+02/08/2024
+Joint
+--
+Canadian County OKLA EDL FACS
+Rate/Coupon:
+5.0%
+Matures:
+09/01/2029
+Purchase
+$50,001 - $100,000
+--
+56
+02/09/2024
+Self
+--
+Oklahoma St Dev Fin Auth Hlths Rev
+Rate/Coupon:
+5.0%
+Matures:
+08/15/31
+Sale (Partial)
+$50,001 - $100,000
+--
+57
+03/11/2024
+Self
+--
+Oklahoma St Dev Fin Auth Hlths Rev
+Rate/Coupon:
+5.0%
+Matures:
+08/15/31
+Sale (Partial)
+$15,001 - $50,000
+--
+58
+04/03/2024
+Self
+ZTS
+Zoetis Inc. Class A Common Stock
+Sale (Partial)
+$1,001 - $15,000
+--
+59
+04/03/2024
+Spouse
+ZTS
+Zoetis Inc. Class A Common Stock
+Sale (Partial)
+$1,001 - $15,000
+--
+60
+05/08/2024
+Joint
+--
+Pimco Commodities Plus Strategy Fund Class
+Sale (Partial)
+$15,001 - $50,000
+--
+61
+05/08/2024
+Joint
+IWB
+iShares Russell 1000 ETF
+Sale (Partial)
+$100,001 - $250,000
+--
+62
+06/07/2024
+Joint
+--
+Ishares TR Russell 1000 ETF
+Sale (Partial)
+$50,001 - $100,000
+--
+63
+06/12/2024
+Joint
+NKE
+Nike, Inc. Common Stock
+Sale (Partial)
+$15,001 - $50,000
+--
+64
+06/12/2024
+Joint
+IWB
+Russell 1000 Ishares ETF
+Sale (Partial)
+$50,001 - $100,000
+--
+65
+06/12/2024
+Joint
+CMCSA
+Comcast Corporation - Class A Common Stock
+Sale (Partial)
+$15,001 - $50,000
+--
+66
+06/12/2024
+Joint
+PH
+Parker-Hannifin Corporation Common Stock
+Purchase
+$15,001 - $50,000
+--
+67
+06/13/2024
+Joint
+IWB
+Russell 1000 Ishares ETF
+Sale (Partial)
+$500,001 - $1,000,000
+--
+68
+07/23/2024
+Self
+--
+Univ OK Rev
+Rate/Coupon:
+5.0%
+Matures:
+07/01/28
+Sale (Full)
+$15,001 - $50,000
+--
+69
+07/23/2024
+Joint
+--
+Fort Smith Ark Wtr &amp; Swr Rev Ref Constr BDS
+Rate/Coupon:
+5.0%
+Matures:
+10/01/32
+Purchase
+$50,001 - $100,000
+--
+70
+07/23/2024
+Self
+--
+Broken Arrow OK GO Unltd
+Rate/Coupon:
+4.0%
+Matures:
+09/01/35
+Sale (Full)
+$100,001 - $250,000
+--
+71
+07/23/2024
+Self
+--
+Canadian Cnty OK Edu Facs Rev
+Rate/Coupon:
+5.0%
+Matures:
+09/01/29
+Sale (Full)
+$50,001 - $100,000
+--
+72
+07/23/2024
+Self
+--
+Canadian Cnty OK Eductnl Facs Rev
+Rate/Coupon:
+5.0%
+Matures:
+09/01/27
+Sale (Full)
+$100,001 - $250,000
+--
+73
+07/23/2024
+Self
+--
+Cleveland Cnty OK Eductnl Facs Rev
+Rate/Coupon:
+5.00%
+Matures:
+06/01/32
+Sale (Full)
+$100,001 - $250,000
+--
+74
+07/23/2024
+Self
+--
+Grady Cnty OK Sch Fin Auth Edu Rev
+Rate/Coupon:
+4.0%
+Matures:
+09/01/31
+Sale (Full)
+$100,001 - $250,000
+--
+75
+07/23/2024
+Self
+--
+McClain Cnty OK Econ Dev Auth Rev
+Rate/Coupon:
+4.0%
+Matures:
+09/01/33
+Sale (Full)
+$100,001 - $250,000
+--
+76
+07/23/2024
+Self
+--
+Oklahoma Cnty OK Fin Auth Rev
+Rate/Coupon:
+5.0%
+Matures:
+10/01/24
+Sale (Full)
+$100,001 - $250,000
+--
+77
+07/23/2024
+Self
+--
+Oklahoma Dev Fin Auth Lease Rev
+Rate/Coupon:
+5.0%
+Matures:
+12/01/29
+Sale (Full)
+$15,001 - $50,000
+--
+78
+07/23/2024
+Self
+--
+Oklahoma St Capitol Impt Auth Rev
+Rate/Coupon:
+5.0%
+Matures:
+07/01/25
+Sale (Full)
+$50,001 - $100,000
+--
+79
+07/23/2024
+Self
+--
+Oklahoma St Turnpike Auth Rev
+Rate/Coupon:
+5.0%
+Matures:
+01/01/25
+Sale (Full)
+$15,001 - $50,000
+--
+80
+07/23/2024
+Self
+--
+Oklahoma St Univ Agric &amp; Mech Rev
+Rate/Coupon:
+5.0
+Matures:
+09/01/32
+Sale (Full)
+$50,001 - $100,000
+--
+81
+07/23/2024
+Self
+--
+Purcell OK Public Wks Auth Sal Rev
+Rate/Coupon:
+5.0%
+Matures:
+03/01/30
+Sale (Full)
+$15,001 - $50,000
+--
+82
+07/23/2024
+Self
+--
+Tulsa Cnty OK Indl Auth Eductn Rev
+Rate/Coupon:
+5.0%
+Matures:
+09/01/27
+Sale (Full)
+$15,001 - $50,000
+--
+83
+07/23/2024
+Self
+--
+Tulsa Cnty OK ISD GO Unltd
+Rate/Coupon:
+4.5%
+Matures:
+03/01/26
+Sale (Full)
+$100,001 - $250,000
+--
+84
+07/24/2024
+Self
+--
+Oklahoma St Dev Fin Auth Hlths Rev
+Rate/Coupon:
+5.0%
+Matures:
+08/15/31
+Sale (Full)
+$15,001 - $50,000
+--
+85
+07/30/2024
+Spouse
+LRN
+Stride, Inc. Common Stock
+Purchase
+$1,001 - $15,000
+LPL19
+86
+07/30/2024
+Self
+LRN
+Stride Inc
+Purchase
+$1,001 - $15,000
+--
+87
+08/20/2024
+Joint
+EW
+Edwards Lifesciences Corp
+Sale (Partial)
+$15,001 - $50,000
+--
+88
+08/20/2024
+Joint
+SBUX
+Starbucks Corp
+Sale (Partial)
+$15,001 - $50,000
+--
+89
+08/20/2024
+Joint
+TJX
+TJX Companies, Inc. (The) Common Stock
+Purchase
+$15,001 - $50,000
+--
+90
+08/20/2024
+Joint
+IQV
+Iqvia Holdings Inc
+Purchase
+$15,001 - $50,000
+--
+91
+10/01/2024
+Joint
+--
+Pocono Mtn PA Sch Dist Go Nts 2023
+Rate/Coupon:
+4.5%
+Matures:
+10/01/26
+Sale (Full)
+$50,001 - $100,000
+--
+92
+10/08/2024
+Joint
+--
+SALEM N H GO BDS
+Rate/Coupon:
+4.0%
+Matures:
+10/01/2036
+Purchase
+$50,001 - $100,000
+--
+93
+10/10/2024
+Joint
+--
+NORTHERN ILL MUN PWR AGY
+Rate/Coupon:
+5.0%
+Matures:
+12/01/2025
+Purchase
+$50,001 - $100,000
+--
+94
+10/16/2024
+Joint
+--
+KENTUCKY ST PPTY &amp; BLDGS COMMN REVS BDS PROJ
+Rate/Coupon:
+5.0%
+Matures:
+11/01/2027
+Purchase
+$50,001 - $100,000
+--
+95
+10/29/2024
+Joint
+--
+Pimco Commodities Plus Strategy Fund Class
+Sale (Partial)
+$250,001 - $500,000
+--
+96
+10/29/2024
+Joint
+PDBC
+Invesco Optimum Yield Diversified Commodity Strate
+Purchase
+$250,001 - $500,000
+--
+97
+11/12/2024
+Joint
+PCLPX
+Pimco Commoditiesplus Strategy Fund Class I-2
+Sale (Partial)
+$15,001 - $50,000
+--
+98
+11/12/2024
+Joint
+PDBC
+Invesco Optimum Yield Diversified Commodity Strate
+Purchase
+$15,001 - $50,000
+--
+99
+11/27/2024
+Joint
+IEMG
+iShares Core MSCI Emerging Markets ETF
+Purchase
+$1,001 - $15,000
+NW67
+100
+11/27/2024
+Joint
+EZU
+iShares MSCI Eurozone ETF
+Purchase
+$100,001 - $250,000
+NW67
+101
+11/27/2024
+Joint
+IEFA
+iShares Core MSCI EAFE ETF
+Purchase
+$100,001 - $250,000
+NW67
+102
+12/11/2024
+Joint
+LLY
+Eli Lilly and Company Common Stock
+Purchase
+$50,001 - $100,000
+--
+103
+12/11/2024
+Joint
+ABT
+Abbott Laboratories Common Stock
+Sale (Partial)
+$15,001 - $50,000
+MFI67
+104
+12/11/2024
+Joint
+PEP
+PepsiCo, Inc. - Common Stock
+Sale (Full)
+$15,001 - $50,000
+MFI67
+105
+12/11/2024
+Joint
+AMAT
+Applied Materials, Inc. - Common Stock
+Purchase
+$15,001 - $50,000
+MFI67
+106
+12/18/2024
+Spouse
+ELF
+E.L.F. Beauty Inc
+Sale (Full)
+$1,001 - $15,000
+LPL19
+107
+12/18/2024
+Spouse
+CYBR
+CyberArk Software Ltd. - Ordinary Shares
+Sale (Full)
+$15,001 - $50,000
+LPL19
+108
+12/18/2024
+Spouse
+BMI
+Badger Meter, Inc. Common Stock
+Sale (Full)
+$15,001 - $50,000
+LPL19
+109
+12/18/2024
+Spouse
+AXON
+Axon Enterprise, Inc. - Common Stock
+Sale (Full)
+$15,001 - $50,000
+LPL19
+110
+12/18/2024
+Self
+SFM
+Sprouts Farmers Market, Inc. - Common Stock
+Sale (Full)
+$15,001 - $50,000
+LPL27
+111
+12/18/2024
+Self
+OLLI
+Ollie&#x27;s Bargain Outlet Holdings, Inc. - Common Sto
+Sale (Full)
+$15,001 - $50,000
+LPL27
+112
+12/18/2024
+Self
+LRN
+Stride Inc
+Sale (Full)
+$1,001 - $15,000
+LPL27
+113
+12/18/2024
+Self
+GS
+Goldman Sachs Group
+Sale (Full)
+$1,001 - $15,000
+LPL27
+114
+12/18/2024
+Self
+FRPT
+Freshpet, Inc. - Common Stock
+Sale (Full)
+$15,001 - $50,000
+LPL27
+115
+12/18/2024
+Self
+ELF
+E.L.F. Beauty Inc
+Sale (Full)
+$1,001 - $15,000
+LPL27
+116
+12/18/2024
+Self
+CYBR
+CyberArk Software Ltd. - Ordinary Shares
+Sale (Full)
+$1,001 - $15,000
+LPL27
+117
+12/18/2024
+Self
+BMI
+Badger Meter, Inc. Common Stock
+Sale (Full)
+$1,001 - $15,000
+LPL27
+118
+12/18/2024
+Self
+AXON
+Axon Enterprise Inc
+Sale (Full)
+$15,001 - $50,000
+LPL27
+119
+12/18/2024
+Spouse
+GS
+Goldman Sachs Group
+Sale (Full)
+$15,001 - $50,000
+LPL19
+120
+12/18/2024
+Spouse
+LRN
+Stride, Inc. Common Stock
+Sale (Full)
+$15,001 - $50,000
+LPL19
+121
+12/18/2024
+Spouse
+OLLI
+Ollie&#x27;s Bargain Outlet Holdings, Inc. - Common Sto
+Sale (Full)
+$15,001 - $50,000
+LPL19
+122
+12/18/2024
+Spouse
+SFM
+Sprouts Farmers Market, Inc. - Common Stock
+Sale (Full)
+$15,001 - $50,000
+LPL19
+123
+12/18/2024
+Spouse
+FRPT
+Freshpet, Inc. - Common Stock
+Sale (Full)
+$15,001 - $50,000
+LPL19
+124
+12/18/2024
+Spouse
+ETN
+Eaton Corp
+Sale (Full)
+$15,001 - $50,000
+LPL19
+125
+12/18/2024
+Self
+ETN
+Eaton Corp
+Sale (Full)
+$1,001 - $15,000
+LPL27
+126
+12/26/2024
+Joint
+PDBC
+Invesco Optimum Yield Diversified Commodity Strate
+Sale (Full)
+$250,001 - $500,000
+MFI67
+127
+12/26/2024
+Joint
+VNQ
+Vanguard Real Estate ETF
+Purchase
+$1,001 - $15,000
+MFI67
+128
+12/26/2024
+Joint
+CFSSX
+Column Small Cap Select Fund
+Purchase
+$100,001 - $250,000
+MFI67
+129
+12/26/2024
+Joint
+PCLPX
+Pimco Commoditiesplus Strategy Fund Class I-2
+Purchase
+$250,001 - $500,000
+MFI67
+130
+12/26/2024
+Joint
+IEMG
+iShares Core MSCI Emerging Markets ETF
+Purchase
+$50,001 - $100,000
+MFI67
+131
+12/26/2024
+Joint
+GICIX
+Goldman Sachs Intl Small Cap Insights Fd Inst
+Purchase
+$50,001 - $100,000
+MFI67
+132
+12/27/2024
+Joint
+--
+Texas State Mobility Fund Bonds A
+Rate/Coupon:
+4.0%
+Matures:
+10/01/2034
+Sale (Full)
+$50,001 - $100,000
+MFI68
+Part 4b. Transactions
+Did you, your spouse, or dependent child buy, sell, or exchange an asset where the transaction exceeded $1,000 and was not reported on Part 4a?
+Yes
+List of transactions added to this report
+&#35;
+Owner
+Ticker
+Asset Name
+Transaction Type
+Transaction Date
+Amount
+Comments
+1
+Spouse
+--
+Rowan&#x27;s Restaurant LLC
+Sale (Full)
+02/27/2024
+$1,000,001 - $5,000,000
+n/a
+2
+Spouse
+--
+First Trust Cap Strength Opp 26 RE
+Sale (Full)
+03/21/2024
+$50,001 - $100,000
+n/a
+3
+Spouse
+--
+First Trust TGT Divid Dbl Play 1Q23
+Sale (Full)
+04/11/2024
+$50,001 - $100,000
+n/a
+4
+Spouse
+--
+First Trust Cap Strength Oppty 32 SA RE
+Purchase
+03/21/2024
+$50,001 - $100,000
+n/a
+5
+Spouse
+--
+First Trust TGT Divid Dbl Play 2Q24 MO RE
+Purchase
+04/11/2024
+$50,001 - $100,000
+n/a
+6
+Spouse
+--
+JPMorgan Liquid Assets Money Market Premier CL
+Sale (Full)
+01/04/2024
+$50,001 - $100,000
+n/a
+7
+Spouse
+SPMD
+SPDR Portfolio S&amp;P 400 Mid Cap ETF
+Purchase
+01/04/2024
+$50,001 - $100,000
+n/a
+8
+Spouse
+SPSM
+SPDR Portfolio S&amp;P 600 Small Cap ETF
+Purchase
+01/04/2024
+$50,001 - $100,000
+n/a
+9
+Joint
+--
+FT S&amp;P TGT 25 2Q23 Fere
+Sale (Full)
+07/10/2024
+$50,001 - $100,000
+n/a
+10
+Joint
+--
+FT Cap Strgth Opp 28Fere
+Sale (Full)
+08/20/2024
+$50,001 - $100,000
+n/a
+11
+Self
+--
+First Trust Capital Strength Opportunity 26
+Sale (Full)
+03/21/2024
+$1,001 - $15,000
+n/a
+12
+Self
+--
+First Trust Target Dividend Double Play 1Q23 MO RE
+Sale (Full)
+04/11/2024
+$15,001 - $50,000
+n/a
+13
+Self
+--
+First Trust Cap Strength Oppty 32 SA RE
+Purchase
+03/21/2024
+$1,001 - $15,000
+n/a
+14
+Self
+--
+First Trust TGT Divid Dbl Play 2Q24 MO RE
+Purchase
+04/11/2024
+$15,001 - $50,000
+n/a
+15
+Spouse
+--
+First Trust S &amp; P Dividends Aristocrats Target 25
+Sale (Full)
+01/11/2024
+$15,001 - $50,000
+n/a
+16
+Spouse
+--
+First Trust S&amp;P Div Arst TGT 25 1Q24 MO RE
+Purchase
+01/11/2024
+$15,001 - $50,000
+n/a
+17
+Joint
+--
+Florida Investment Property
+Sale (Full)
+04/23/2024
+$1,000,001 - $5,000,000
+n/a
+18
+Joint
+--
+Ishares Inc MSCI Eurozone ETF
+Purchase
+01/02/2024
+$50,001 - $100,000
+n/a
+19
+Joint
+--
+JPMorgan Liquid Assets Money Mkt Premier CL
+Purchase
+05/03/2024
+$500,001 - $1,000,000
+n/a
+20
+Joint
+--
+JPMorgan 100% US Treasury Secs Mmkt Premier
+Purchase
+05/03/2024
+$250,001 - $500,000
+n/a
+21
+Joint
+--
+JPMorgan 100% US Treas Secs Mmkt Premier CL
+Purchase
+06/27/2024
+$100,001 - $250,000
+n/a
+22
+Joint
+--
+JPMorgan Liquid Assets Money Mkt Premier CL
+Purchase
+06/28/2024
+$250,001 - $500,000
+n/a
+23
+Joint
+--
+First Trust S&amp;P Div Arst TGT 3Q24
+Purchase
+07/11/2024
+$50,001 - $100,000
+n/a
+24
+Joint
+--
+JPMorgan Liquid Assets Money Mkt Premier CL
+Sale (Full)
+07/22/2024
+$1,000,001 - $5,000,000
+n/a
+25
+Joint
+--
+First Trust Cap Strength Oppty 32 SA RE
+Sale (Full)
+07/22/2024
+$50,001 - $100,000
+n/a
+26
+Joint
+--
+First Trust TGT Divid Dbl Play 2Q24 MO RE
+Sale (Full)
+07/22/2024
+$50,001 - $100,000
+n/a
+27
+Joint
+--
+JPMorgan 100% US Treas Secs Mmkt Premier CL
+Sale (Full)
+07/23/2024
+$500,001 - $1,000,000
+n/a
+28
+Joint
+SPSM
+SPDR Portfolio S&amp;P 600 Small Cap ETF
+Sale (Partial)
+07/23/2024
+$15,001 - $50,000
+n/a
+29
+Joint
+--
+First Trust Cap Strength Oppty 34 SA FE RE
+Purchase
+08/21/2024
+$50,001 - $100,000
+n/a
+30
+Joint
+SPMD
+SPDR Portfolio S&amp;P 400 Mid Cap ETF
+Purchase
+12/14/2024
+$15,001 - $50,000
+n/a
+31
+Joint
+--
+Vanguard Treasury MO Fund Investor Shares
+Sale (Partial)
+06/13/2024
+$50,001 - $100,000
+n/a
+32
+Joint
+--
+Vanguard Treasury MO Fund Investor Shares
+Sale (Partial)
+06/24/2024
+$1,001 - $15,000
+n/a
+33
+Joint
+--
+Vanguard Treasury MO Fund Investor Shares
+Sale (Partial)
+06/24/2024
+$500,001 - $1,000,000
+n/a
+34
+Joint
+--
+Vanguard Treasury MO Fund Investor Shares
+Sale (Partial)
+07/31/2024
+$500,001 - $1,000,000
+n/a
+35
+Joint
+--
+Vanguard Treasury Money Market Fund Investor Shares
+Purchase
+03/19/2024
+$1,000,001 - $5,000,000
+n/a
+36
+Joint
+--
+Vanguard Treasury Money Market Fund Investor Shares
+Purchase
+10/08/2024
+$100,001 - $250,000
+n/a
+37
+Spouse
+--
+Oklahoma Investment Property
+Purchase
+12/18/2024
+$50,001 - $100,000
+n/a
+38
+Self
+--
+Oklahoma Investment Property
+Purchase
+01/01/2024
+$500,001 - $1,000,000
+n/a
+Part 5. Gifts
+Did you, your spouse, or dependent child receive any reportable gift during the reporting period?
+No
+Part 6. Travel
+Did you, your spouse, or dependent child receive any
+Close
+"data-template='
+'class="btn btn-link popover--textButton font-weight-bold" data-placement="auto" data-content="
+If you are reimbursed for more than one trip from the same sponsor, and the trips added together are worth more than $480, then you must report each trip individually, even if the reimbursement for each separate trip does not equal more than $480.
+">reportable travel
+?
+No
+Part 7. Liabilities
+Did you, your spouse, or dependent child have a reportable, non-revolving charge account liability worth more than $10,000 at any time or a revolving charge account whose value exceeded $10,000 as of the last day of the reporting period?
+Yes
+List of liabilities added to this report
+&#35;
+Incurred
+Debtor
+Type
+Points
+Rate
+(Term)
+Amount
+Creditor
+Comments
+1
+2022
+Joint
+Mortgage
+None
+3.95%%
+(15 years)
+$1,000,001 - $5,000,000
+Regent Bank
+Tulsa, OK
+n/a
+2
+2024
+Joint
+Line of Credit
+-
+6.09098%%
+(Revolving line of credit)
+$5,000,001 - $25,000,000
+Bank of NY, NA
+Pittsburgh, PA
+n/a
+Part 8. Positions
+Did you hold any reportable outside positions during the reporting period?
+No
+Part 9. Agreements
+Did you have any reportable agreement or arrangement with an outside entity?
+No
+Part 10. Compensation
+Only required if you are a candidate or this is your first report
+: Did any person or entity pay more than $5,000 to you or for services provided by you?
+This is not my first report.
+Attachments & Comments
+No attachments added.
+No comments added.

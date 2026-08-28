@@ -159,3 +159,45 @@ per individual agent, reachable only as documents rather than API records.
 clients. Even confirmed individual overlap would show only that a firm monetises
 both accounts. A genuine tie requires money or instruction moving between the
 parties. Do not publish the firm-level overlap as a connection.
+
+---
+
+## ADDENDUM, 2026-08-28: where the study's chief scientist came from
+
+Finding 06 previously recorded Atallah's Botanic Tonics role as **[S]**, sourced
+to a company biography, with an open collection item: establish his employment
+history. FEC contributor records close part of that gap with **[P]** primaries.
+
+Every row below is the same contributor, same city (Rohnert Park, California),
+across eight years of filings:
+
+| Contribution date | Employer as filed | Occupation as filed |
+|---|---|---|
+| 2018-11-01 (7 rows) | JUUL LABS | Regulatory Testing Coordinator |
+| 2019-03-19 (2 rows) | JUUL LABS | Scientist |
+| 2020-08-25 | JUUL | Manager |
+| 2020-09-18, 09-21, 10-30 | JUUL LABS | Toxicologist |
+| 2021-01-02 (4 rows) | JUUL LABS | Toxicologist |
+| **2025-09-30** | **BOTANIC TONICS** | Beverages |
+
+FEC image numbers for the endpoints: `201812079138878720` (JUUL, 2018) and
+`202603159838223773` (Botanic Tonics, 2025).
+
+**What this establishes [P]:** the scientist who co-authored the human
+pharmacokinetics study FDA relies on, and who is Chief Science and R&D Officer at
+a leaf-kratom company, spent the preceding phase of his career in regulatory
+testing and toxicology roles at JUUL Labs.
+
+**What it does not establish [I]:** it does not fix his start date at Botanic
+Tonics, so the open question of whether he was employed there at the February 2024
+publication date **remains open**. The company bio remains the only source for the
+title itself. And a career move is not misconduct. Scientists change employers.
+
+We record it because the pattern in Section 1 of this finding — fund the study,
+file the notification, lobby the regulator — is a recognisable one, and the person
+executing the science leg of it learned the regulatory-science trade at the
+company that made that pattern infamous. That is context a reader is entitled to
+have when weighing how much load the paper should carry in a federal rule.
+
+**Still open:** Atallah's Botanic Tonics start date, via LinkedIn capture,
+corporate filings, or the *Molecules* submission-date disclosure.

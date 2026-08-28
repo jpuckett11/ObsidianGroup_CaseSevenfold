@@ -1,0 +1,6558 @@
+eFD:
+Annual Report for 2022 -
+Mullin,
+Markwayne
+.txtLogo {
+display: none;
+}
+<script src="https://cdn.datatables.net/1.10.15/js/jquery.dataTables.min.js"
+integrity="sha384-NHtbx1Hf6ctHNdZmU28YfhGjB63gcU1YU64ttM+c0RxMKNBj67j+N/axpqTfdffo"
+crossorigin="anonymous">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/pdfobject/2.1.1/pdfobject.js"
+integrity="sha512-X6sgTijRHjRCltheFlgnf5Lm4NzCXVgfSNAHjHq4G8R03SBUTUVqFllStaiZflC4mEOtaPGRSWvcd3zFSl7eYg==" crossorigin="anonymous">
+$(document).ready(function () {
+if (!Modernizr.input.placeholder) {
+$('[placeholder]').focus(function () {
+var input = $(this);
+if (input.val() == input.attr('placeholder')) {
+input.val('');
+input.removeClass('placeholder');
+}
+}).blur(function () {
+var input = $(this);
+if (input.val() == '' || input.val() == input.attr('placeholder')) {
+input.addClass('placeholder');
+input.val(input.attr('placeholder'));
+}
+}).blur();
+$('[placeholder]').parents('form').submit(function () {
+$(this).find('[placeholder]').each(function () {
+var input = $(this);
+if (input.val() == input.attr('placeholder')) {
+input.val('');
+}
+})
+});
+}
+//Popovers
+//Initializes popovers and provides target containers
+var i = 0;
+$(document).find('[data-toggle="popover"]').each(function () {
+;
+var popoverCount = 'popover' + i;
+i++;
+$(this).parent().addClass(popoverCount);
+var popoverContainer = '.' + popoverCount;
+$(this).popover({ container: popoverContainer });
+});
+//Hides popover if you click/touch away from it
+$(document).on('click touchstart', function (e) {
+$('[data-toggle="popover"],[data-original-title]').each(function () {
+if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+(($(this).popover('hide').data('bs.popover') || {}).inState || {}).click = false;
+}
+});
+});
+//Hides popover if press Esc
+$(document).keydown(function (e) {
+if (e.which === 27 && $(this).has('.popover')) {
+$('.popover').popover('hide');
+}
+});
+//Hides popover if you press close
+$(document).click(function () {
+$('button.close').click(function () {
+$('.popover').popover('hide');
+});
+});
+});
+if (window.location.pathname != '/incompatible-browser/') {
+if (BrowserDetect.browser == "Explorer" && parseInt(BrowserDetect.version, 10) < 11 ||
+BrowserDetect.browser == "Chrome" && parseInt(BrowserDetect.version, 10) < 36 ||
+BrowserDetect.browser == "Safari" && parseInt(BrowserDetect.version, 10) < 7 ||
+BrowserDetect.browser == "Firefox" && parseInt(BrowserDetect.version, 10) < 31) {
+window.location.replace("/incompatible-browser/");
+}
+}
+United States Senate
+Financial Disclosures
+Skip to main content
+Find Reports
+.navbar-nav {
+display: none;
+}
+Return to the search tab to select another report.
+Annual
+Report for
+Calendar 2022
+The Honorable
+Markwayne
+Mullin
+(Mullin, Markwayne)
+Filed 08/11/2023 @ 11:53 AM
+Print Report
+The following statements were checked before filing:
+<input type="checkbox" name="filing_certified" disabled="disabled"
+checked="checked" class="form-check-input"/>
+I certify that the statements I have made on this form are true, complete and correct to the best of my knowledge and belief.
+<input type="checkbox" name="filing_cannot_be_edited" disabled="disabled"
+checked="checked" class="form-check-input"/>
+I understand that reports cannot be edited once filed. To make corrections, I will submit an
+electronic
+amendment to this report.
+<input type="checkbox" name="filing_omitted_assets" disabled="disabled"
+class="form-check-input"/>
+I
+omitted
+assets because they meet the three-part test for exemption.
+Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria
+Did any individual or organization pay you or your spouse more than $200, or donate any amount to a charity on your or your spouse’s behalf, for an article, speech, or appearance?
+No
+Part 2. Earned and Non-Investment Income
+Did you or your spouse have reportable earned income or non-investment income?
+No
+Part 3. Assets
+Did you, your spouse, or dependent child own any asset that had a value of more than $1,000 or generated income of more than $200?
+Yes
+List of assets added to this report
+Asset
+Asset Type
+Owner
+Value
+Income Type
+Income
+1
+Arvest Bank
+(Lowell, Arkansas)
+Type:
+Money Market Account
+Bank Deposit
+Joint
+$50,001 - $100,000
+Interest
+$1,001 - $2,500
+2
+Computershare Trust Company NA
+Corporate Securities
+Stock
+Self
+$500,001 - $1,000,000
+Interest
+$15,001 - $50,000
+3
+Northwestern Mutual FDIC Insured
+Mutual Funds
+Mutual Fund
+Joint
+$50,001 - $100,000
+Interest
+$1,001 - $2,500
+4
+Dreyfus Government Cash Mgmt Wealth Shares
+Mutual Funds
+Mutual Fund
+Joint
+None (or less than $1,001)
+Dividends
+None (or less than $201)
+5
+American Bond Fund
+Mutual Funds
+Mutual Fund
+Joint
+$50,001 - $100,000
+Dividends, Capital Gains
+$2,501 - $5,000
+6
+Cohen & Steers Preferred
+Mutual Funds
+Mutual Fund
+Joint
+$100,001 - $250,000
+Dividends
+$5,001 - $15,000
+7
+Invesco Exchange-Traded FD
+Mutual Funds
+Mutual Fund
+Joint
+$100,001 - $250,000
+Dividends
+$5,001 - $15,000
+8
+Ishares TR PFD & Income SECS ETF
+Mutual Funds
+Mutual Fund
+Joint
+$100,001 - $250,000
+Dividends
+$5,001 - $15,000
+9
+Lord Abbett Short Duration Income Fund Class I
+Mutual Funds
+Mutual Fund
+Joint
+None (or less than $1,001)
+Dividends
+$5,001 - $15,000
+10
+Nuveen High Yield Municipal Bond Fund
+Mutual Funds
+Mutual Fund
+Joint
+$250,001 - $500,000
+Dividends
+$201 - $1,000
+11
+Nuveen Limited Term Municipal Bond Fund
+Mutual Funds
+Mutual Fund
+Joint
+$15,001 - $50,000
+Dividends
+None (or less than $201)
+12
+Pimco ETF TR Enhanced Short MAT Active ETF
+Mutual Funds
+Mutual Fund
+Joint
+None (or less than $1,001)
+Dividends
+$2,501 - $5,000
+13
+Principal Spectrum Preferred AND
+Mutual Funds
+Mutual Fund
+Joint
+$100,001 - $250,000
+Dividends
+$5,001 - $15,000
+14
+Vaneck ETF TR High Yield Mun Index ETF
+Mutual Funds
+Mutual Fund
+Joint
+$100,001 - $250,000
+Dividends
+None (or less than $201)
+15
+Vanguard BD Index FDS Vanguard Short Term BD ETF
+Mutual Funds
+Mutual Fund
+Joint
+None (or less than $1,001)
+Dividends, Capital Gains
+$2,501 - $5,000
+16
+Victory Market Neutral Income Fund
+Mutual Funds
+Mutual Fund
+Joint
+$100,001 - $250,000
+Dividends, Capital Gains
+$15,001 - $50,000
+17
+Northwestern Mutual FDIC Insured
+Mutual Funds
+Mutual Fund
+Joint
+$1,000,001 - $5,000,000
+Interest
+$5,001 - $15,000
+18
+Dreyfus Government Cash Mgmt Wealth Shares
+Mutual Funds
+Mutual Fund
+Joint
+None (or less than $1,001)
+Dividends
+$1,001 - $2,500
+19
+Brown Capital Small Company Fund Institutional Class
+Mutual Funds
+Mutual Fund
+Joint
+None (or less than $1,001)
+Capital Gains
+$15,001 - $50,000
+20
+DODGX
+- Dodge & Cox Stock Fund - Class I
+Mutual Funds
+Mutual Fund
+Joint
+None (or less than $1,001)
+Dividends, Capital Gains
+$50,001 - $100,000
+21
+Fidelity Advisor Real Estate Income
+Mutual Funds
+Mutual Fund
+Joint
+None (or less than $1,001)
+Dividends, Capital Gains
+$5,001 - $15,000
+22
+American Growth Fund of America
+Mutual Funds
+Mutual Fund
+Joint
+None (or less than $1,001)
+Dividends, Capital Gains
+$15,001 - $50,000
+23
+Oakmark International Fund
+Mutual Funds
+Mutual Fund
+Joint
+None (or less than $1,001)
+Dividends
+$15,001 - $50,000
+24
+Invesco Actively Managed Exchange-Traded Commodity FD Optimum Divsf Commodity
+Mutual Funds
+Mutual Fund
+Joint
+None (or less than $1,001)
+Dividends
+$15,001 - $50,000
+25
+Ishares TR Select Divid ETF FD
+Mutual Funds
+Mutual Fund
+Joint
+$50,001 - $100,000
+Dividends
+$15,001 - $50,000
+26
+Ishares TR Core S&P Mid-Cap ETF
+Mutual Funds
+Mutual Fund
+Joint
+$100,001 - $250,000
+Dividends
+$5,001 - $15,000
+27
+Ishares TR Russell 1000 ETF
+Mutual Funds
+Mutual Fund
+Joint
+$50,001 - $100,000
+Dividends
+$15,001 - $50,000
+28
+Ishares TR Core S&P Small-Cap ETF
+Mutual Funds
+Mutual Fund
+Joint
+$15,001 - $50,000
+Dividends
+$5,001 - $15,000
+29
+John Hancock Exchange Traded FD
+Mutual Funds
+Mutual Fund
+Joint
+$100,001 - $250,000
+Dividends
+$2,501 - $5,000
+30
+Morgan Stanley International Advantage Portfolio Class I
+Mutual Funds
+Mutual Fund
+Joint
+None (or less than $1,001)
+Capital Gains
+$15,001 - $50,000
+31
+American New Perspective Fund
+Mutual Funds
+Mutual Fund
+Joint
+None (or less than $1,001)
+Dividends, Capital Gains
+$15,001 - $50,000
+32
+American New World Fund Class F2
+Mutual Funds
+Mutual Fund
+Joint
+None (or less than $1,001)
+Dividends
+$5,001 - $15,000
+33
+Pacers FDS TR Data Infrastructure Real
+Mutual Funds
+Mutual Fund
+Joint
+None (or less than $1,001)
+Dividends
+$2,501 - $5,000
+34
+Pimco Commodities Plus Strategy Fund Class I2
+Mutual Funds
+Mutual Fund
+Joint
+None (or less than $1,001)
+Dividends
+$15,001 - $50,000
+35
+T. Rowe Price Blue Chip Growth Fund 5
+Mutual Funds
+Mutual Fund
+Joint
+None (or less than $1,001)
+Dividends, Capital Gains
+$50,001 - $100,000
+36
+Royce Small-Cap Opportunity Fund
+Mutual Funds
+Mutual Fund
+Joint
+None (or less than $1,001)
+Dividends, Capital Gains
+$15,001 - $50,000
+37
+Schwab Strategic TR US Mid-Cap
+Mutual Funds
+Mutual Fund
+Joint
+$50,001 - $100,000
+Dividends
+$5,001 - $15,000
+38
+American Small-Cap World Fund Class F2
+Mutual Funds
+Mutual Fund
+Joint
+None (or less than $1,001)
+Dividends
+$2,501 - $5,000
+39
+Van Eck Constant Maturity Commodity Index Fund Class Y
+Mutual Funds
+Mutual Fund
+Joint
+$1,001 - $15,000
+Dividends
+$50,001 - $100,000
+40
+Vanguard Specialized Funds Divid
+Mutual Funds
+Mutual Fund
+Joint
+$500,001 - $1,000,000
+Dividends
+$5,001 - $15,000
+41
+Vanguard Intl FD FTSE Developed Mkts
+Mutual Funds
+Mutual Fund
+Joint
+$100,001 - $250,000
+Dividends
+$15,001 - $50,000
+42
+Vanguard Intl Equity Index FDS FTSE
+Mutual Funds
+Mutual Fund
+Joint
+$1,000,001 - $5,000,000
+Dividends
+$15,001 - $50,000
+43
+Vanguard Index FDS Real Estate Index FD
+Mutual Funds
+Mutual Fund
+Joint
+None (or less than $1,001)
+Dividends
+$5,001 - $15,000
+44
+Victory Market Neutral Income Fund
+Mutual Funds
+Mutual Fund
+Joint
+None (or less than $1,001)
+Dividends, Capital Gains
+$15,001 - $50,000
+45
+Northwestern Mutual
+Life Insurance
+Variable
+Joint
+$1,000,001 - $5,000,000
+Dividends
+$15,001 - $50,000
+46
+ALB
+- Albemarle Corp
+Mutual Funds
+Mutual Fund
+Spouse
+None (or less than $1,001)
+Dividends
+None (or less than $201)
+47
+AIMC
+- Altra Industrial Motion Corp. - Common Stock
+Mutual Funds
+Mutual Fund
+Spouse
+None (or less than $1,001)
+Dividends
+None (or less than $201)
+48
+AXP
+- American Express Company
+Mutual Funds
+Mutual Fund
+Spouse
+None (or less than $1,001)
+Dividends
+None (or less than $201)
+49
+FT S&P TGT 25 1Q22 FERE
+Mutual Funds
+Mutual Fund
+Spouse
+$50,001 - $100,000
+Dividends
+$1,001 - $2,500
+50
+FT Cap STRG OP 22 FERE
+Mutual Funds
+Mutual Fund
+Spouse
+$50,001 - $100,000
+Dividends
+$201 - $1,000
+51
+HPQ
+- HP Inc
+Mutual Funds
+Mutual Fund
+Spouse
+None (or less than $1,001)
+Dividends
+$201 - $1,000
+52
+INVH
+- Invitation Homes Inc
+Mutual Funds
+Mutual Fund
+Spouse
+None (or less than $1,001)
+Dividends
+$201 - $1,000
+53
+M
+- Macy's Inc
+Mutual Funds
+Mutual Fund
+Spouse
+None (or less than $1,001)
+Dividends
+None (or less than $201)
+54
+NTR
+- Nutrien Ltd
+Mutual Funds
+Mutual Fund
+Spouse
+None (or less than $1,001)
+Dividends
+$201 - $1,000
+55
+ORCL
+- Oracle Corp
+Mutual Funds
+Mutual Fund
+Spouse
+None (or less than $1,001)
+Dividends
+None (or less than $201)
+56
+PWR - Quanta Services, Inc.
+Mutual Funds
+Mutual Fund
+Spouse
+None (or less than $1,001)
+Dividends
+None (or less than $201)
+57
+TTEK
+- Tetra Tech Inc
+Mutual Funds
+Mutual Fund
+Spouse
+None (or less than $1,001)
+Dividends
+None (or less than $201)
+58
+FT Cap Strgth OPP 20 RE
+Mutual Funds
+Mutual Fund
+Spouse
+None (or less than $1,001)
+Dividends
+$201 - $1,000
+59
+FT TGT DIV DBL 4Q21 RE
+Mutual Funds
+Mutual Fund
+Spouse
+$1,001 - $15,000
+Dividends
+$1,001 - $2,500
+60
+OKE
+- Oneok Inc
+Mutual Funds
+Mutual Fund
+Spouse
+$15,001 - $50,000
+Dividends
+$1,001 - $2,500
+61
+Mullin Realty LLC
+Description:
+Florida Residential Property (Englewood, FL)&nbsp;
+Real Estate
+Residential
+Joint
+$1,000,001 - $5,000,000
+None
+None (or less than $201)
+62
+The Christie Renee Mullin Insurance Trust
+Provider:
+Provident Trust Group&nbsp;
+Life Insurance
+Whole
+Spouse
+$1,000,001 - $5,000,000
+None
+None (or less than $201)
+63
+DODIX
+- Dodge & Cox Income Fund - Class I
+Mutual Funds
+Mutual Fund
+Joint
+$100,001 - $250,000
+Dividends
+$2,501 - $5,000
+64
+Global X FDS U S PFD ETF
+Mutual Funds
+Mutual Fund
+Joint
+$100,001 - $250,000
+Dividends
+$5,001 - $15,000
+65
+JHBIX
+- John Hancock Bond Fund Class I
+Mutual Funds
+Mutual Fund
+Joint
+$50,001 - $100,000
+Dividends
+$2,501 - $5,000
+66
+American High Income Municipal
+Mutual Funds
+Mutual Fund
+Joint
+$1,001 - $15,000
+Dividends
+$5,001 - $15,000
+67
+Fidelity Advisor Limited Term
+Mutual Funds
+Mutual Fund
+Joint
+$1,001 - $15,000
+Dividends
+$2,501 - $5,000
+68
+Nuveen High Yield Municipal Bond Fund
+Mutual Funds
+Mutual Fund
+Joint
+$1,001 - $15,000
+Dividends
+$5,001 - $15,000
+69
+Nuveen Limited Term Municipal Bond Fund
+Mutual Funds
+Mutual Fund
+Joint
+$1,001 - $15,000
+Dividends
+$2,501 - $5,000
+70
+Vaneck ETF TR High Yield Mun Index ETF
+Mutual Funds
+Mutual Fund
+Joint
+$1,001 - $15,000
+Dividends
+$5,001 - $15,000
+71
+Vanguard Intermediate Term Tax Exempt Fund Admiral Shares
+Mutual Funds
+Mutual Fund
+Joint
+$1,001 - $15,000
+Dividends, Other (Tax-Exempt Dividends)
+$2,501 - $5,000
+Other $4,225.60
+72
+American High Income Municipal Bond Fund Class F2
+Mutual Funds
+Mutual Fund
+Joint
+$250,001 - $500,000
+None
+None (or less than $201)
+73
+Vanguard Intermediate Term Tax-Exempt Fund Admiral
+Mutual Funds
+Mutual Fund
+Joint
+$50,001 - $100,000
+None
+None (or less than $201)
+74
+Invesco Small-Cap Value Fund Class Y
+Mutual Funds
+Mutual Fund
+Joint
+$250,001 - $500,000
+None
+None (or less than $201)
+75
+American Century Small-Cap Growth Fund Class I
+Mutual Funds
+Mutual Fund
+Joint
+$250,001 - $500,000
+None
+None (or less than $201)
+76
+Columbia Overseas Value Fund Advisor Class
+Mutual Funds
+Mutual Fund
+Joint
+$1,000,001 - $5,000,000
+None
+None (or less than $201)
+77
+DWS Enhanced Commodity Strategy Fund Institutional Class
+Mutual Funds
+Mutual Fund
+Joint
+$500,001 - $1,000,000
+None
+None (or less than $201)
+78
+Goldman Sachs International Small-Cap Insights Fund Institutional Class
+Mutual Funds
+Mutual Fund
+Joint
+$1,000,001 - $5,000,000
+None
+None (or less than $201)
+79
+MFS International Growth Fund Class I
+Mutual Funds
+Mutual Fund
+Joint
+$1,000,001 - $5,000,000
+None
+None (or less than $201)
+80
+Northern Global Sustainability Index Fund Class I
+Mutual Funds
+Mutual Fund
+Joint
+$1,000,001 - $5,000,000
+None
+None (or less than $201)
+81
+Parnassus Mid-Cap Fund Institutional Class
+Mutual Funds
+Mutual Fund
+Joint
+$500,001 - $1,000,000
+None
+None (or less than $201)
+82
+Victory Market Neutral Income Fund Class I
+Mutual Funds
+Mutual Fund
+Joint
+$100,001 - $250,000
+None
+None (or less than $201)
+83
+Ishares TR Core S&P 500 ETF
+Mutual Funds
+Mutual Fund
+Joint
+$1,000,001 - $5,000,000
+None
+None (or less than $201)
+84
+Ishares TR Russell 2000 ETF
+Mutual Funds
+Mutual Fund
+Joint
+$250,001 - $500,000
+None
+None (or less than $201)
+85
+Ishares TR Global REIT ETF
+Mutual Funds
+Mutual Fund
+Joint
+$250,001 - $500,000
+None
+None (or less than $201)
+86
+Schwab Strategic TR US Dividend Equity ETF
+Mutual Funds
+Mutual Fund
+Joint
+$500,001 - $1,000,000
+None
+None (or less than $201)
+87
+Schwab Strategic TR US REIT ETF
+Mutual Funds
+Mutual Fund
+Joint
+$100,001 - $250,000
+None
+None (or less than $201)
+88
+Vanguard Index FDS Vanguard Mid-Cap ETF
+Mutual Funds
+Mutual Fund
+Joint
+$1,000,001 - $5,000,000
+None
+None (or less than $201)
+89
+Vanguard Index FDS Vanguard Growth ETF
+Mutual Funds
+Mutual Fund
+Joint
+$1,000,001 - $5,000,000
+None
+None (or less than $201)
+90
+Vanguard Index FDS Vanguard Value ETF
+Mutual Funds
+Mutual Fund
+Joint
+$1,000,001 - $5,000,000
+None
+None (or less than $201)
+91
+Mullin Ranch LLC
+Description:
+Cattle Ranch (Westville, OK)&nbsp;
+Farm/Ranch
+Self
+$1,000,001 - $5,000,000
+None
+None (or less than $201)
+92
+US Bank National Association
+Mutual Funds
+Mutual Fund
+Spouse
+$100,001 - $250,000
+Interest
+None (or less than $201)
+93
+JP Morgan Chase Bank NA
+Mutual Funds
+Mutual Fund
+Spouse
+$15,001 - $50,000
+Interest
+None (or less than $201)
+94
+Amplia Therapeutics Ltd Fully Paid
+Mutual Funds
+Mutual Fund
+Spouse
+None (or less than $1,001)
+Dividends
+None (or less than $201)
+95
+LPL Financial
+Mutual Funds
+Mutual Fund
+Spouse
+$15,001 - $50,000
+None
+None (or less than $201)
+96
+LPL Financial
+Mutual Funds
+Mutual Fund
+Self
+$15,001 - $50,000
+None
+None (or less than $201)
+97
+Goldman Sachs Bank USA
+Mutual Funds
+Mutual Fund
+Self
+None (or less than $1,001)
+Interest
+$201 - $1,000
+98
+Mullin Family Holdco LLC
+Company:
+Mullin Family Holdco LLC (Westville, OK)&nbsp;
+Description:
+&nbsp;Equity investment in COP Hometown Parent LLC, a home services company.&nbsp;
+Business Entity
+Limited Liability Company (LLC)
+Joint
+$500,001 - $1,000,000
+None
+None (or less than $201)
+99
+Mullin Family Holdco LLC
+Company:
+Mullin Family Holdco LLC (Westville, OK)&nbsp;
+Description:
+&nbsp;Equity investment in COP Hometown Parent LLC, a home services company.&nbsp;
+Business Entity
+Limited Liability Company (LLC)
+Child
+$500,001 - $1,000,000
+None
+None (or less than $201)
+100
+Mullin Family Holdco LLC
+Company:
+Mullin Family Holdco LLC (Westville, OK)&nbsp;
+Description:
+&nbsp;Equity investment in COP Hometown Parent LLC, a home services company.&nbsp;
+Business Entity
+Limited Liability Company (LLC)
+Child
+$500,001 - $1,000,000
+None
+None (or less than $201)
+101
+Mullin Family Holdco LLC
+Company:
+Mullin Family Holdco LLC (Westville, OK)&nbsp;
+Description:
+&nbsp;Equity investment in COP Hometown Parent LLC, a home services company.&nbsp;
+Business Entity
+Limited Liability Company (LLC)
+Child
+$500,001 - $1,000,000
+None
+None (or less than $201)
+102
+Mullin Family Holdco LLC
+Company:
+Mullin Family Holdco LLC (Westville, OK)&nbsp;
+Description:
+&nbsp;Equity investment in COP Hometown Parent LLC, a home services company.&nbsp;
+Business Entity
+Limited Liability Company (LLC)
+Child
+$500,001 - $1,000,000
+None
+None (or less than $201)
+103
+Mullin Family Holdco LLC
+Company:
+Mullin Family Holdco LLC (Westville, OK)&nbsp;
+Description:
+&nbsp;Equity investment in COP Hometown Parent LLC, a home services company.&nbsp;
+Business Entity
+Limited Liability Company (LLC)
+Child
+$500,001 - $1,000,000
+None
+None (or less than $201)
+104
+Mullin Family Holdco LLC
+Company:
+Mullin Family Holdco LLC (Westville, OK)&nbsp;
+Description:
+&nbsp;Equity investment in COP Hometown Parent LLC, a home services company.&nbsp;
+Business Entity
+Limited Liability Company (LLC)
+Child
+$500,001 - $1,000,000
+None
+None (or less than $201)
+105
+Rowan's Restaurant LLC
+Company:
+Rowan's Restaurant LLC (Stillwell, OK)&nbsp;
+Description:
+&nbsp;Restaurant in Stillwell, Oklahoma.&nbsp;
+Business Entity
+Limited Liability Company (LLC)
+Spouse
+$250,001 - $500,000
+None
+None (or less than $201)
+106
+Mullin Properties LLC
+Company:
+Mullin Properties LLC (Westville, OK)&nbsp;
+Description:
+&nbsp;Property and Land in Oklahoma.&nbsp;
+Business Entity
+Limited Liability Company (LLC)
+Joint
+$1,000,001 - $5,000,000
+Rent/Royalties
+$201 - $1,000
+107
+Mullin Realty LLC
+Description:
+Washington DC Residential Property (Washington, DC)&nbsp;
+Real Estate
+Residential
+Joint
+$1,000,001 - $5,000,000
+None
+None (or less than $201)
+Part 4a. Periodic Transaction Report Summary
+In this section, electronically filed periodic transaction report (PTR) transactions are displayed for you.
+Part 4b. Transactions
+Did you, your spouse, or dependent child buy, sell, or exchange an asset where the transaction exceeded $1,000 and was not reported on Part 4a?
+Yes
+List of transactions added to this report
+&#35;
+Owner
+Ticker
+Asset Name
+Transaction Type
+Transaction Date
+Amount
+Comments
+1
+Self
+--
+92494500 COP Hometown/Mullin Indemnit
+Sale (Full)
+12/28/2022
+$1,000,001 - $5,000,000
+n/a
+2
+Spouse
+ALB
+Albemarle Corp
+Sale (Partial)
+11/18/2022
+$1,001 - $15,000
+n/a
+3
+Spouse
+--
+American Express CO
+Sale (Partial)
+11/18/2022
+$1,001 - $15,000
+n/a
+4
+Spouse
+--
+Aptiv PLC
+Sale (Partial)
+11/18/2022
+$1,001 - $15,000
+n/a
+5
+Spouse
+AQUA
+Evoqua Water Technologies Corp. Common Stock
+Sale (Partial)
+11/18/2022
+$1,001 - $15,000
+n/a
+6
+Spouse
+--
+30315M298 First Trust S&amp;P Div Arst TGT 25 4Q20 MO FE RE
+Sale (Partial)
+01/07/2022
+$50,001 - $100,000
+n/a
+7
+Spouse
+--
+30315Y730 First Trust Cap Strength Oppty 16 SA FE RE
+Sale (Partial)
+02/18/2022
+$50,001 - $100,000
+n/a
+8
+Spouse
+GDDY
+GoDaddy Inc. Class A Common Stock
+Sale (Partial)
+01/05/2022
+$1,001 - $15,000
+n/a
+9
+Spouse
+HPQ
+HP Inc
+Sale (Partial)
+11/18/2022
+$1,001 - $15,000
+n/a
+10
+Spouse
+IAA
+IAA, Inc. Common Stock
+Sale (Partial)
+01/05/2022
+$1,001 - $15,000
+n/a
+11
+Spouse
+INVH
+Invitation Homes Inc
+Sale (Partial)
+11/18/2022
+$1,001 - $15,000
+n/a
+12
+Spouse
+M
+Macy&#x27;s Inc
+Sale (Partial)
+01/05/2022
+$15,001 - $50,000
+n/a
+13
+Spouse
+NTR
+Nutrien Ltd
+Sale (Partial)
+11/18/2022
+$1,001 - $15,000
+n/a
+14
+Spouse
+ORCL
+Oracle Corp
+Sale (Partial)
+11/18/2022
+$1,001 - $15,000
+n/a
+15
+Spouse
+PWR
+Quanta Services
+Sale (Partial)
+01/05/2022
+$15,001 - $50,000
+n/a
+16
+Spouse
+--
+SITE - Siteone Landscape Supply Inc
+Sale (Partial)
+11/18/2022
+$1,001 - $15,000
+n/a
+17
+Spouse
+--
+SPSC - SPS Commerce, Inc. - Delaware
+Sale (Partial)
+01/05/2022
+$1,001 - $15,000
+n/a
+18
+Spouse
+TTEK
+Tetra Tech Inc
+Sale (Partial)
+11/18/2022
+$1,001 - $15,000
+n/a
+19
+Spouse
+ULTA
+Ulta Beauty Inc
+Sale (Partial)
+01/05/2022
+$1,001 - $15,000
+n/a
+20
+Spouse
+VSTO
+Vista Outdoor Inc
+Sale (Partial)
+11/18/2022
+$1,001 - $15,000
+n/a
+21
+Spouse
+WSC
+WillScot Mobile Mini Holdings Corp. - Class A Comm
+Sale (Partial)
+01/05/2022
+$15,001 - $50,000
+n/a
+22
+Spouse
+ZBRA
+Zebra Technologies Corporation - Class A Common St
+Sale (Partial)
+01/05/2022
+$1,001 - $15,000
+n/a
+23
+Spouse
+--
+30321U235 First Trust FT Cap Strgth Opp 20 SA RE
+Sale (Partial)
+12/27/2022
+$15,001 - $50,000
+n/a
+24
+Spouse
+--
+30321Y435 First Trust Content Leaders 23 MO RE
+Sale (Partial)
+12/29/2022
+$15,001 - $50,000
+n/a
+25
+Spouse
+--
+30321U235 First Trust FT Cap Strgth Opp 20 SA RE
+Sale (Partial)
+12/29/2022
+$1,001 - $15,000
+n/a
+26
+Joint
+--
+Fidelity Advisor LIM Muni Income Fund Class I
+Sale (Partial)
+04/11/2022
+$1,000,001 - $5,000,000
+n/a
+27
+Joint
+--
+Lord Abbett Short DU OME Fund Class I
+Sale (Full)
+04/11/2022
+$1,000,001 - $5,000,000
+n/a
+28
+Joint
+--
+Nuveen Limited-Term Bond Fund Class I
+Sale (Partial)
+04/11/2022
+$1,000,001 - $5,000,000
+n/a
+29
+Joint
+--
+Pimco ETF TR Enhance T Active ETF
+Sale (Partial)
+04/11/2022
+$1,000,001 - $5,000,000
+n/a
+30
+Joint
+--
+Vanguard Limited Tax Und Admiral Shares
+Sale (Partial)
+04/11/2022
+$1,000,001 - $5,000,000
+n/a
+31
+Joint
+CBHIX
+Victory Market Neutral Income Fund - Class I
+Sale (Full)
+05/10/2022
+$100,001 - $250,000
+n/a
+32
+Joint
+--
+Brown Capital Small ND Institutional Class
+Sale (Full)
+12/22/2022
+$250,001 - $500,000
+n/a
+33
+Joint
+DODGX
+Dodge &amp; Cox Stock Fund
+Sale (Full)
+12/22/2022
+$1,000,001 - $5,000,000
+n/a
+34
+Joint
+--
+Fidelity Advisor Real Estate Income Fund Class I
+Sale (Full)
+12/22/2022
+$250,001 - $500,000
+n/a
+35
+Joint
+--
+American Growth Fund A Class F2
+Sale (Full)
+12/22/2022
+$1,000,001 - $5,000,000
+n/a
+36
+Joint
+--
+Oakmark International ISOR Class
+Sale (Partial)
+12/22/2022
+$1,000,001 - $5,000,000
+n/a
+37
+Joint
+--
+Invesco Actively Manage-Traded Commodity FD Optimum Divsf Commodity Strategy NO
+Sale (Full)
+12/22/2022
+$100,001 - $250,000
+n/a
+38
+Joint
+--
+Ishares TR Select DI
+Sale (Partial)
+12/22/2022
+$500,001 - $1,000,000
+n/a
+39
+Joint
+--
+Ishares TR Core S&amp;P F
+Sale (Partial)
+12/22/2022
+$500,001 - $1,000,000
+n/a
+40
+Joint
+--
+Ishares TR Russell 1
+Sale (Partial)
+12/22/2022
+$1,000,001 - $5,000,000
+n/a
+41
+Joint
+--
+Ishares TR Core S&amp;P ETF
+Sale (Partial)
+12/22/2022
+$250,001 - $500,000
+n/a
+42
+Joint
+--
+John Hancock Exchange D  TR Multifactor Mid Cap ETF
+Sale (Partial)
+12/22/2022
+$500,001 - $1,000,000
+n/a
+43
+Joint
+--
+Morgan Stanley Inter Dvantage Portfolio Class I
+Sale (Full)
+12/22/2022
+$1,000,001 - $5,000,000
+n/a
+44
+Joint
+--
+American New Perspective Class F2
+Sale (Full)
+12/22/2022
+$1,000,001 - $5,000,000
+n/a
+45
+Joint
+--
+American New World F2
+Sale (Full)
+12/22/2022
+$1,000,001 - $5,000,000
+n/a
+46
+Joint
+--
+Pacer FDS TR Data IN RE Real Estate ETF
+Sale (Full)
+12/22/2022
+$100,001 - $250,000
+n/a
+47
+Joint
+--
+Pimco Commodities PL Y Fund Class I2
+Sale (Full)
+12/22/2022
+$100,001 - $250,000
+n/a
+48
+Joint
+--
+T. Rowe Price Blue C Fund
+Sale (Full)
+12/22/2022
+$1,000,001 - $5,000,000
+n/a
+49
+Joint
+--
+Royce Small-Cap Oppo ND Investments Class
+Sale (Full)
+12/22/2022
+$250,001 - $500,000
+n/a
+50
+Joint
+--
+Schwab Strategic TR ETF
+Sale (Partial)
+12/22/2022
+$500,001 - $1,000,000
+n/a
+51
+Joint
+--
+American Small-Cap W Class F2
+Sale (Full)
+12/22/2022
+$1,000,001 - $5,000,000
+n/a
+52
+Joint
+--
+Van Eck Constant Mat Odity Index Fund Class Y
+Sale (Partial)
+12/22/2022
+$100,001 - $250,000
+n/a
+53
+Joint
+--
+Vanguard Int&#x27;l FD FTS D MKTS ETF
+Sale (Partial)
+12/22/2022
+$1,000,001 - $5,000,000
+n/a
+54
+Joint
+--
+Vanguard Intl Equity FTSE Emerging MKTS ETF
+Sale (Partial)
+12/22/2022
+$500,001 - $1,000,000
+n/a
+55
+Joint
+--
+Vanguard Index FDS R Index FD ETF
+Sale (Full)
+12/22/2022
+$100,001 - $250,000
+n/a
+56
+Spouse
+--
+First Trust Cap Strength Oppty
+Purchase
+12/29/2022
+$15,001 - $50,000
+n/a
+57
+Spouse
+--
+First Trust S&amp;P Div Arst TGT
+Purchase
+12/29/2022
+$15,001 - $50,000
+n/a
+58
+Self
+--
+First Trust FT Cap Strgth OPP
+Purchase
+12/29/2022
+$1,001 - $15,000
+n/a
+59
+Joint
+VNQ
+Vanguard Real Estate ETF
+Purchase
+01/25/2022
+$15,001 - $50,000
+n/a
+60
+Joint
+VWO
+Vanguard FTSE Emerging Markets ETF
+Purchase
+01/25/2022
+$100,001 - $250,000
+n/a
+61
+Joint
+VEA
+Vanguard FTSE Developed Markets ETF
+Purchase
+01/25/2022
+$100,001 - $250,000
+n/a
+62
+Joint
+VIG
+Vanguard Div Appreciation ETF
+Purchase
+01/25/2022
+$50,001 - $100,000
+n/a
+63
+Joint
+CMCYX
+Van Eck Cm Commodity Index Fd Cl Y
+Purchase
+01/25/2022
+$15,001 - $50,000
+n/a
+64
+Joint
+SMCFX
+Smallcap World Fund Inc. Class F-2 Shs
+Purchase
+01/25/2022
+$100,001 - $250,000
+n/a
+65
+Joint
+SCHM
+Schwab U.S. Mid Cap ETF
+Purchase
+01/25/2022
+$50,001 - $100,000
+n/a
+66
+Joint
+RYPNX
+Royce Opportunity Fund Investment Class
+Purchase
+01/25/2022
+$15,001 - $50,000
+n/a
+67
+Joint
+TRBCX
+T. Rowe Price Blue Chip Growth Fund Inc.
+Purchase
+01/25/2022
+$100,001 - $250,000
+n/a
+68
+Joint
+PCLPX
+Pimco Commoditiesplus Strategy Fund Class I-2
+Purchase
+01/25/2022
+$15,001 - $50,000
+n/a
+69
+Joint
+SRVR
+Pacer Benchmark Data &amp; Infrastructure Real Estate
+Purchase
+01/25/2022
+$15,001 - $50,000
+n/a
+70
+Joint
+NFFFX
+New World Fund Inc. Class F-2 Shs
+Purchase
+01/25/2022
+$100,001 - $250,000
+n/a
+71
+Joint
+ANWFX
+New Perspective Fund Class F-2 Shares
+Purchase
+01/25/2022
+$100,001 - $250,000
+n/a
+72
+Joint
+MFAIX
+Morgan Stanley Insti Fd International Advantage
+Purchase
+01/25/2022
+$100,001 - $250,000
+n/a
+73
+Joint
+JHMM
+John Hancock Multifactor Mid Cap ETF
+Purchase
+01/25/2022
+$50,001 - $100,000
+n/a
+74
+Joint
+IJR
+iShares Core S&amp;P Small-Cap ETF
+Purchase
+01/25/2022
+$50,001 - $100,000
+n/a
+75
+Joint
+IWB
+iShares Russell 1000 ETF
+Purchase
+01/25/2022
+$100,001 - $250,000
+n/a
+76
+Joint
+IJH
+iShares Core S&amp;P Mid-Cap ETF
+Purchase
+01/25/2022
+$50,001 - $100,000
+n/a
+77
+Joint
+DVY
+iShares Select Dividend ETF
+Purchase
+01/25/2022
+$50,001 - $100,000
+n/a
+78
+Joint
+PDBC
+Invesco Optimum Yield Diversified Commodity Strate
+Purchase
+01/25/2022
+$15,001 - $50,000
+n/a
+79
+Joint
+OAYIX
+Oakmark International Fund Advisor Class
+Purchase
+01/25/2022
+$100,001 - $250,000
+n/a
+80
+Joint
+GFFFX
+The Growth Fund of America Class F-2 Shares
+Purchase
+01/25/2022
+$100,001 - $250,000
+n/a
+81
+Joint
+FRIRX
+Fidelity Advisor Real Estate Income Fund Class
+Purchase
+01/25/2022
+$15,001 - $50,000
+n/a
+82
+Joint
+DODGX
+Dodge &amp; Cox Stock Fund
+Purchase
+01/25/2022
+$100,001 - $250,000
+n/a
+83
+Joint
+BCSSX
+Brown Capital Management Small Company Fd Inst C
+Purchase
+01/25/2022
+$50,001 - $100,000
+n/a
+84
+Joint
+VNQ
+Vanguard Real Estate ETF
+Purchase
+02/22/2022
+$15,001 - $50,000
+n/a
+85
+Joint
+VWO
+Vanguard FTSE Emerging Markets ETF
+Purchase
+02/22/2022
+$50,001 - $100,000
+n/a
+86
+Joint
+VEA
+Vanguard FTSE Developed Markets ETF
+Purchase
+02/22/2022
+$100,001 - $250,000
+n/a
+87
+Joint
+VIG
+Vanguard Div Appreciation ETF
+Purchase
+02/22/2022
+$15,001 - $50,000
+n/a
+88
+Joint
+CMCYX
+Van Eck Cm Commodity Index Fd Cl Y
+Purchase
+02/22/2022
+$15,001 - $50,000
+n/a
+89
+Joint
+SMCFX
+Smallcap World Fund Inc. Class F-2 Shs
+Purchase
+02/22/2022
+$50,001 - $100,000
+n/a
+90
+Joint
+SCHM
+Schwab U.S. Mid Cap ETF
+Purchase
+02/22/2022
+$50,001 - $100,000
+n/a
+91
+Joint
+RYPNX
+Royce Opportunity Fund Investment Class
+Purchase
+02/22/2022
+$15,001 - $50,000
+n/a
+92
+Joint
+TRBCX
+T. Rowe Price Blue Chip Growth Fund Inc.
+Purchase
+02/22/2022
+$50,001 - $100,000
+n/a
+93
+Joint
+PCLPX
+Pimco Commoditiesplus Strategy Fund Class I-2
+Purchase
+02/22/2022
+$15,001 - $50,000
+n/a
+94
+Joint
+SRVR
+Pacer Benchmark Data &amp; Infrastructure Real Estate
+Purchase
+02/22/2022
+$15,001 - $50,000
+n/a
+95
+Joint
+NFFFX
+New World Fund Inc. Class F-2 Shs
+Purchase
+02/22/2022
+$50,001 - $100,000
+n/a
+96
+Joint
+ANWFX
+New Perspective Fund Class F-2 Shares
+Purchase
+02/22/2022
+$50,001 - $100,000
+n/a
+97
+Joint
+MFAIX
+Morgan Stanley Insti Fd International Advantage
+Purchase
+02/22/2022
+$50,001 - $100,000
+n/a
+98
+Joint
+JHMM
+John Hancock Multifactor Mid Cap ETF
+Purchase
+02/22/2022
+$50,001 - $100,000
+n/a
+99
+Joint
+IJR
+iShares Core S&amp;P Small-Cap ETF
+Purchase
+02/22/2022
+$15,001 - $50,000
+n/a
+100
+Joint
+IWB
+iShares Russell 1000 ETF
+Purchase
+02/22/2022
+$100,001 - $250,000
+n/a
+101
+Joint
+IJH
+iShares Core S&amp;P Mid-Cap ETF
+Purchase
+02/22/2022
+$50,001 - $100,000
+n/a
+102
+Joint
+DVY
+iShares Select Dividend ETF
+Purchase
+02/22/2022
+$15,001 - $50,000
+n/a
+103
+Joint
+PDBC
+Invesco Optimum Yield Diversified Commodity Strate
+Purchase
+02/22/2022
+$15,001 - $50,000
+n/a
+104
+Joint
+OAYIX
+Oakmark International Fund Advisor Class
+Purchase
+02/22/2022
+$50,001 - $100,000
+n/a
+105
+Joint
+GFFFX
+The Growth Fund of America Class F-2 Shares
+Purchase
+02/22/2022
+$50,001 - $100,000
+n/a
+106
+Joint
+FRIRX
+Fidelity Advisor Real Estate Income Fund Class
+Purchase
+02/22/2022
+$15,001 - $50,000
+n/a
+107
+Joint
+DODGX
+Dodge &amp; Cox Stock Fund
+Purchase
+02/22/2022
+$50,001 - $100,000
+n/a
+108
+Joint
+BCSSX
+Brown Capital Management Small Company Fd Inst C
+Purchase
+02/22/2022
+$15,001 - $50,000
+n/a
+109
+Joint
+VNQ
+Vanguard Real Estate ETF
+Purchase
+03/02/2022
+$1,001 - $15,000
+n/a
+110
+Joint
+VWO
+Vanguard FTSE Emerging Markets ETF
+Purchase
+03/02/2022
+$15,001 - $50,000
+n/a
+111
+Joint
+VEA
+Vanguard FTSE Developed Markets ETF
+Purchase
+03/02/2022
+$15,001 - $50,000
+n/a
+112
+Joint
+VIG
+Vanguard Div Appreciation ETF
+Purchase
+03/02/2022
+$1,001 - $15,000
+n/a
+113
+Joint
+CMCYX
+Van Eck Cm Commodity Index Fd Cl Y
+Purchase
+03/02/2022
+$1,001 - $15,000
+n/a
+114
+Joint
+SMCFX
+Smallcap World Fund Inc. Class F-2 Shs
+Purchase
+03/02/2022
+$15,001 - $50,000
+n/a
+115
+Joint
+SCHM
+Schwab U.S. Mid Cap ETF
+Purchase
+03/02/2022
+$15,001 - $50,000
+n/a
+116
+Joint
+RYPNX
+Royce Opportunity Fund Investment Class
+Purchase
+03/02/2022
+$1,001 - $15,000
+n/a
+117
+Joint
+TRBCX
+T. Rowe Price Blue Chip Growth Fund Inc.
+Purchase
+03/02/2022
+$15,001 - $50,000
+n/a
+118
+Joint
+PCLPX
+Pimco Commoditiesplus Strategy Fund Class I-2
+Purchase
+03/02/2022
+$1,001 - $15,000
+n/a
+119
+Joint
+SRVR
+Pacer Benchmark &amp; Infrastructure Real Estate ETF
+Purchase
+03/02/2022
+$1,001 - $15,000
+n/a
+120
+Joint
+NFFFX
+New World Fund Inc. Class F-2 Shs
+Purchase
+03/02/2022
+$15,001 - $50,000
+n/a
+121
+Joint
+ANWFX
+New Perspective Fund Class F-2 Shares
+Purchase
+03/02/2022
+$15,001 - $50,000
+n/a
+122
+Joint
+MFAIX
+Morgan Stanley Insti Fd International Advantage
+Purchase
+03/02/2022
+$15,001 - $50,000
+n/a
+123
+Joint
+JHMM
+John Hancock Multifactor Mid Cap ETF
+Purchase
+03/02/2022
+$15,001 - $50,000
+n/a
+124
+Joint
+IJR
+iShares Core S&amp;P Small-Cap ETF
+Purchase
+03/02/2022
+$1,001 - $15,000
+n/a
+125
+Joint
+IWB
+iShares Russell 1000 ETF
+Purchase
+03/02/2022
+$15,001 - $50,000
+n/a
+126
+Joint
+IJH
+iShares Core S&amp;P Mid-Cap ETF
+Purchase
+03/02/2022
+$15,001 - $50,000
+n/a
+127
+Joint
+DVY
+iShares Select Dividend ETF
+Purchase
+03/02/2022
+$1,001 - $15,000
+n/a
+128
+Joint
+PDBC
+Invesco Optimum Yield Diversified Commodity Strate
+Purchase
+03/02/2022
+$1,001 - $15,000
+n/a
+129
+Joint
+OAYIX
+Oakmark International Fund Advisor Class
+Purchase
+03/02/2022
+$15,001 - $50,000
+n/a
+130
+Joint
+GFFFX
+The Growth Fund of America Class F-2 Shares
+Purchase
+03/02/2022
+$15,001 - $50,000
+n/a
+131
+Joint
+FRIRX
+Fidelity Advisor Real Estate Income Fund Class
+Purchase
+03/02/2022
+$1,001 - $15,000
+n/a
+132
+Joint
+BCSSX
+Brown Capital Management Small Company Fd Inst C
+Purchase
+03/02/2022
+$1,001 - $15,000
+n/a
+133
+Joint
+DODGX
+Dodge &amp; Cox Stock Fund
+Purchase
+03/03/2022
+$15,001 - $50,000
+n/a
+134
+Joint
+VNQ
+Vanguard Real Estate ETF
+Purchase
+03/04/2022
+$1,001 - $15,000
+n/a
+135
+Joint
+VWO
+Vanguard FTSE Emerging Markets ETF
+Purchase
+03/04/2022
+$15,001 - $50,000
+n/a
+136
+Joint
+VEA
+Vanguard FTSE Developed Markets ETF
+Purchase
+03/04/2022
+$50,001 - $100,000
+n/a
+137
+Joint
+VIG
+Vanguard Div Appreciation ETF
+Purchase
+03/04/2022
+$15,001 - $50,000
+n/a
+138
+Joint
+CMCYX
+Van Eck Cm Commodity Index Fd Cl Y
+Purchase
+03/04/2022
+$1,001 - $15,000
+n/a
+139
+Joint
+SMCFX
+Smallcap World Fund Inc. Class F-2 Shs
+Purchase
+03/04/2022
+$15,001 - $50,000
+n/a
+140
+Joint
+SCHM
+Schwab U.S. Mid Cap ETF
+Purchase
+03/04/2022
+$15,001 - $50,000
+n/a
+141
+Joint
+RYPNX
+Royce Opportunity Fund Investment Class
+Purchase
+03/04/2022
+$1,001 - $15,000
+n/a
+142
+Joint
+TRBCX
+T. Rowe Price Blue Chip Growth Fund Inc.
+Purchase
+03/04/2022
+$15,001 - $50,000
+n/a
+143
+Joint
+SRVR
+Pacer Benchmark &amp; Infrastructure Real Estate ETF
+Purchase
+03/04/2022
+$1,001 - $15,000
+n/a
+144
+Joint
+NFFFX
+New World Fund Inc. Class F-2 Shs
+Purchase
+03/04/2022
+$15,001 - $50,000
+n/a
+145
+Joint
+ANWFX
+New Perspective Fund Class F-2 Shares
+Purchase
+03/04/2022
+$15,001 - $50,000
+n/a
+146
+Joint
+MFAIX
+Morgan Stanley Insti Fd International Advantage
+Purchase
+03/04/2022
+$15,001 - $50,000
+n/a
+147
+Joint
+JHMM
+John Hancock Multifactor Mid Cap ETF
+Purchase
+03/04/2022
+$15,001 - $50,000
+n/a
+148
+Joint
+IJR
+iShares Core S&amp;P Small-Cap ETF
+Purchase
+03/04/2022
+$15,001 - $50,000
+n/a
+149
+Joint
+IWB
+iShares Russell 1000 ETF
+Purchase
+03/04/2022
+$50,001 - $100,000
+n/a
+150
+Joint
+IJH
+iShares Core S&amp;P Mid-Cap ETF
+Purchase
+03/04/2022
+$15,001 - $50,000
+n/a
+151
+Joint
+DVY
+iShares Select Dividend ETF
+Purchase
+03/04/2022
+$15,001 - $50,000
+n/a
+152
+Joint
+PDBC
+Invesco Optimum Yield Diversified Commodity Strate
+Purchase
+03/04/2022
+$1,001 - $15,000
+n/a
+153
+Joint
+OAYIX
+Oakmark International Fund Advisor Class
+Purchase
+03/04/2022
+$15,001 - $50,000
+n/a
+154
+Joint
+GFFFX
+The Growth Fund of America Class F-2 Shares
+Purchase
+03/04/2022
+$15,001 - $50,000
+n/a
+155
+Joint
+FRIRX
+Fidelity Advisor Real Estate Income Fund Class
+Purchase
+03/04/2022
+$1,001 - $15,000
+n/a
+156
+Joint
+DODGX
+Dodge &amp; Cox Stock Fund
+Purchase
+03/04/2022
+$15,001 - $50,000
+n/a
+157
+Joint
+BCSSX
+Brown Capital Management Small Company Fd Inst C
+Purchase
+03/04/2022
+$15,001 - $50,000
+n/a
+158
+Joint
+VNQ
+Vanguard Real Estate ETF
+Purchase
+03/14/2022
+$1,001 - $15,000
+n/a
+159
+Joint
+VWO
+Vanguard FTSE Emerging Markets ETF
+Purchase
+03/14/2022
+$15,001 - $50,000
+n/a
+160
+Joint
+VEA
+Vanguard FTSE Developed Markets ETF
+Purchase
+03/14/2022
+$15,001 - $50,000
+n/a
+161
+Joint
+VIG
+Vanguard Div Appreciation ETF
+Purchase
+03/14/2022
+$1,001 - $15,000
+n/a
+162
+Joint
+CMCYX
+Van Eck Cm Commodity Index Fd Cl Y
+Purchase
+03/14/2022
+$1,001 - $15,000
+n/a
+163
+Joint
+SMCFX
+Smallcap World Fund Inc. Class F-2 Shs
+Purchase
+03/14/2022
+$15,001 - $50,000
+n/a
+164
+Joint
+SCHM
+Schwab U.S. Mid Cap ETF
+Purchase
+03/14/2022
+$15,001 - $50,000
+n/a
+165
+Joint
+RYPNX
+Royce Opportunity Fund Investment Class
+Purchase
+03/14/2022
+$1,001 - $15,000
+n/a
+166
+Joint
+TRBCX
+T. Rowe Price Blue Chip Growth Fund Inc.
+Purchase
+03/14/2022
+$15,001 - $50,000
+n/a
+167
+Joint
+PCLPX
+Pimco Commoditiesplus Strategy Fund Class I-2
+Purchase
+03/14/2022
+$1,001 - $15,000
+n/a
+168
+Joint
+SRVR
+Pacer Benchmark &amp; Infrastructure Real Estate ETF
+Purchase
+03/14/2022
+$1,001 - $15,000
+n/a
+169
+Joint
+NFFFX
+New World Fund Inc. Class F-2 Shs
+Purchase
+03/14/2022
+$15,001 - $50,000
+n/a
+170
+Joint
+ANWFX
+New Perspective Fund Class F-2 Shares
+Purchase
+03/14/2022
+$15,001 - $50,000
+n/a
+171
+Joint
+MFAIX
+Morgan Stanley Insti Fd International Advantage
+Purchase
+03/14/2022
+$15,001 - $50,000
+n/a
+172
+Joint
+MFAIX
+Morgan Stanley Insti Fd International Advantage
+Purchase
+03/14/2022
+$15,001 - $50,000
+n/a
+173
+Joint
+JHMM
+John Hancock Multifactor Mid Cap ETF
+Purchase
+03/14/2022
+$15,001 - $50,000
+n/a
+174
+Joint
+IJR
+iShares Core S&amp;P Small-Cap ETF
+Purchase
+03/14/2022
+$1,001 - $15,000
+n/a
+175
+Joint
+IWB
+iShares Russell 1000 ETF
+Purchase
+03/14/2022
+$15,001 - $50,000
+n/a
+176
+Joint
+IJH
+iShares Core S&amp;P Mid-Cap ETF
+Purchase
+03/14/2022
+$15,001 - $50,000
+n/a
+177
+Joint
+DVY
+iShares Select Dividend ETF
+Purchase
+03/14/2022
+$1,001 - $15,000
+n/a
+178
+Joint
+PDBC
+Invesco Optimum Yield Diversified Commodity Strate
+Purchase
+03/14/2022
+$1,001 - $15,000
+n/a
+179
+Joint
+OAYIX
+Oakmark International Fund Advisor Class
+Purchase
+03/14/2022
+$15,001 - $50,000
+n/a
+180
+Joint
+GFFFX
+The Growth Fund of America Class F-2 Shares
+Purchase
+03/14/2022
+$15,001 - $50,000
+n/a
+181
+Joint
+FRIRX
+Fidelity Advisor Real Estate Income Fund Class
+Purchase
+03/14/2022
+$1,001 - $15,000
+n/a
+182
+Joint
+DODGX
+Dodge &amp; Cox Stock Fund
+Purchase
+03/14/2022
+$15,001 - $50,000
+n/a
+183
+Joint
+BCSSX
+Brown Capital Management Small Company Fd Inst C
+Purchase
+03/15/2022
+$1,001 - $15,000
+n/a
+184
+Joint
+VNQ
+Vanguard Real Estate ETF
+Purchase
+03/23/2022
+$15,001 - $50,000
+n/a
+185
+Joint
+VWO
+Vanguard FTSE Emerging Markets ETF
+Purchase
+03/23/2022
+$15,001 - $50,000
+n/a
+186
+Joint
+VEA
+Vanguard FTSE Developed Markets ETF
+Purchase
+03/23/2022
+$50,001 - $100,000
+n/a
+187
+Joint
+VIG
+Vanguard Div Appreciation ETF
+Purchase
+03/23/2022
+$15,001 - $50,000
+n/a
+188
+Joint
+VIG
+Vanguard Div Appreciation ETF
+Purchase
+03/23/2022
+$15,001 - $50,000
+n/a
+189
+Joint
+CMCYX
+Van Eck Cm Commodity Index Fd Cl Y
+Purchase
+03/23/2022
+$15,001 - $50,000
+n/a
+190
+Joint
+SMCFX
+Smallcap World Fund Inc. Class F-2 Shs
+Purchase
+03/23/2022
+$50,001 - $100,000
+n/a
+191
+Joint
+SCHM
+Schwab U.S. Mid Cap ETF
+Purchase
+03/23/2022
+$15,001 - $50,000
+n/a
+192
+Joint
+RYPNX
+Royce Opportunity Fund Investment Class
+Purchase
+03/23/2022
+$15,001 - $50,000
+n/a
+193
+Joint
+TRBCX
+T. Rowe Price Blue Chip Growth Fund Inc.
+Purchase
+03/23/2022
+$15,001 - $50,000
+n/a
+194
+Joint
+PCLPX
+Pimco Commoditiesplus Strategy Fund Class I-2
+Purchase
+03/23/2022
+$15,001 - $50,000
+n/a
+195
+Joint
+SRVR
+Pacer Benchmark &amp; Infrastructure Real Estate ETF
+Purchase
+03/23/2022
+$15,001 - $50,000
+n/a
+196
+Joint
+NFFFX
+New World Fund Inc. Class F-2 Shs
+Purchase
+03/23/2022
+$50,001 - $100,000
+n/a
+197
+Joint
+ANWFX
+New Perspective Fund Class F-2 Shares
+Purchase
+03/23/2022
+$15,001 - $50,000
+n/a
+198
+Joint
+MFAIX
+Morgan Stanley Insti Fd International Advantage
+Purchase
+03/23/2022
+$15,001 - $50,000
+n/a
+199
+Joint
+JHMM
+John Hancock Multifactor Mid Cap ETF
+Purchase
+03/23/2022
+$15,001 - $50,000
+n/a
+200
+Joint
+IJR
+iShares Core S&amp;P Small-Cap ETF
+Purchase
+03/23/2022
+$15,001 - $50,000
+n/a
+201
+Joint
+IWB
+iShares Russell 1000 ETF
+Purchase
+03/23/2022
+$100,001 - $250,000
+n/a
+202
+Joint
+IJH
+iShares Core S&amp;P Mid-Cap ETF
+Purchase
+03/23/2022
+$15,001 - $50,000
+n/a
+203
+Joint
+DVY
+iShares Select Dividend ETF
+Purchase
+03/23/2022
+$15,001 - $50,000
+n/a
+204
+Joint
+PDBC
+Invesco Optimum Yield Diversified Commodity Strate
+Purchase
+03/23/2022
+$1,001 - $15,000
+n/a
+205
+Joint
+OAYIX
+Oakmark International Fund Advisor Class
+Purchase
+03/23/2022
+$15,001 - $50,000
+n/a
+206
+Joint
+GFFFX
+The Growth Fund of America Class F-2 Shares
+Purchase
+03/23/2022
+$50,001 - $100,000
+n/a
+207
+Joint
+FRIRX
+Fidelity Advisor Real Estate Income Fund Class
+Purchase
+03/23/2022
+$15,001 - $50,000
+n/a
+208
+Joint
+DODGX
+Dodge &amp; Cox Stock Fund
+Purchase
+03/23/2022
+$50,001 - $100,000
+n/a
+209
+Joint
+BCSSX
+Brown Capital Management Small Company Fd Inst C
+Purchase
+03/23/2022
+$15,001 - $50,000
+n/a
+210
+Joint
+VNQ
+Vanguard Real Estate ETF
+Purchase
+04/04/2022
+$1,001 - $15,000
+n/a
+211
+Joint
+VWO
+Vanguard FTSE Emerging Markets ETF
+Purchase
+04/04/2022
+$15,001 - $50,000
+n/a
+212
+Joint
+VEA
+Vanguard FTSE Developed Markets ETF
+Purchase
+04/04/2022
+$50,001 - $100,000
+n/a
+213
+Joint
+VIG
+Dividend Appreciation ETF Vanguard
+Purchase
+04/04/2022
+$15,001 - $50,000
+n/a
+214
+Joint
+CMCYX
+Van Eck Cm Commodity Index Fd Cl Y
+Purchase
+04/04/2022
+$1,001 - $15,000
+n/a
+215
+Joint
+SMCFX
+Smallcap World Fund Inc. Class F-2 Shs
+Purchase
+04/04/2022
+$50,001 - $100,000
+n/a
+216
+Joint
+SCHM
+Schwab U.S. Mid Cap ETF
+Purchase
+04/04/2022
+$15,001 - $50,000
+n/a
+217
+Joint
+RYPNX
+Royce Opportunity Fund Investment Class
+Purchase
+04/04/2022
+$15,001 - $50,000
+n/a
+218
+Joint
+TRBCX
+T. Rowe Price Blue Chip Growth Fund Inc.
+Purchase
+04/04/2022
+$50,001 - $100,000
+n/a
+219
+Joint
+PCLPX
+Pimco Commoditiesplus Strategy Fund Class I-2
+Purchase
+04/04/2022
+$15,001 - $50,000
+n/a
+220
+Joint
+SRVR
+Pacer Benchmark &amp; Infrastructure Real Estate ETF
+Purchase
+04/04/2022
+$1,001 - $15,000
+n/a
+221
+Joint
+NFFFX
+New World Fund Inc. Class F-2 Shs
+Purchase
+04/04/2022
+$15,001 - $50,000
+n/a
+222
+Joint
+ANWFX
+New Perspective Fund Class F-2 Shares
+Purchase
+04/04/2022
+$15,001 - $50,000
+n/a
+223
+Joint
+MFAIX
+Morgan Stanley Insti Fd International Advantage
+Purchase
+04/04/2022
+$50,001 - $100,000
+n/a
+224
+Joint
+JHMM
+John Hancock Multifactor Mid Cap ETF
+Purchase
+04/04/2022
+$15,001 - $50,000
+n/a
+225
+Joint
+IJR
+iShares Core S&amp;P Small-Cap ETF
+Purchase
+04/04/2022
+$15,001 - $50,000
+n/a
+226
+Joint
+IWB
+iShares Russell 1000 ETF
+Purchase
+04/04/2022
+$50,001 - $100,000
+n/a
+227
+Joint
+IJH
+iShares Core S&amp;P Mid-Cap ETF
+Purchase
+04/04/2022
+$15,001 - $50,000
+n/a
+228
+Joint
+DVY
+iShares Select Dividend ETF
+Purchase
+04/04/2022
+$15,001 - $50,000
+n/a
+229
+Joint
+PDBC
+Invesco Optimum Yield Diversified Commodity Strate
+Purchase
+04/04/2022
+$15,001 - $50,000
+n/a
+230
+Joint
+OAYIX
+Oakmark International Fund Advisor Class
+Purchase
+04/04/2022
+$50,001 - $100,000
+n/a
+231
+Joint
+GFFFX
+The Growth Fund of America Class F-2 Shares
+Purchase
+04/04/2022
+$50,001 - $100,000
+n/a
+232
+Joint
+FRIRX
+Fidelity Advisor Real Estate Income Fund Class
+Purchase
+04/04/2022
+$1,001 - $15,000
+n/a
+233
+Joint
+DODGX
+Dodge &amp; Cox Stock Fund
+Purchase
+04/04/2022
+$50,001 - $100,000
+n/a
+234
+Joint
+BCSSX
+Brown Capital Management Small Company Fd Inst C
+Purchase
+04/04/2022
+$15,001 - $50,000
+n/a
+235
+Joint
+VNQ
+Vanguard Real Estate ETF
+Purchase
+04/05/2022
+$1,001 - $15,000
+n/a
+236
+Joint
+VWO
+Vanguard FTSE Emerging Markets ETF
+Purchase
+04/05/2022
+$50,001 - $100,000
+n/a
+237
+Joint
+VEA
+Vanguard FTSE Developed Markets ETF
+Purchase
+04/05/2022
+$50,001 - $100,000
+n/a
+238
+Joint
+VIG
+Vanguard Div Appreciation ETF
+Purchase
+04/05/2022
+$15,001 - $50,000
+n/a
+239
+Joint
+CMCYX
+Van Eck Cm Commodity Index Fd Cl Y
+Purchase
+04/05/2022
+$1,001 - $15,000
+n/a
+240
+Joint
+SMCFX
+Smallcap World Fund Inc. Class F-2 Shs
+Purchase
+04/05/2022
+$15,001 - $50,000
+n/a
+241
+Joint
+SCHM
+Schwab U.S. Mid Cap ETF
+Purchase
+04/05/2022
+$15,001 - $50,000
+n/a
+242
+Joint
+RYPNX
+Royce Opportunity Fund Investment Class
+Purchase
+04/05/2022
+$15,001 - $50,000
+n/a
+243
+Joint
+TRBCX
+T. Rowe Price Blue Chip Growth Fund Inc.
+Purchase
+04/05/2022
+$50,001 - $100,000
+n/a
+244
+Joint
+PCLPX
+Pimco Commoditiesplus Strategy Fund Class I-2
+Purchase
+04/05/2022
+$1,001 - $15,000
+n/a
+245
+Joint
+SRVR
+Pacer Benchmark &amp; Infrastructure Real Estate ETF
+Purchase
+04/05/2022
+$1,001 - $15,000
+n/a
+246
+Joint
+NFFFX
+New World Fund Inc. Class F-2 Shs
+Purchase
+04/05/2022
+$15,001 - $50,000
+n/a
+247
+Joint
+ANWFX
+New Perspective Fund Class F-2 Shares
+Purchase
+04/05/2022
+$15,001 - $50,000
+n/a
+248
+Joint
+MFAIX
+Morgan Stanley Insti Fd International Advantage
+Purchase
+04/05/2022
+$15,001 - $50,000
+n/a
+249
+Joint
+JHMM
+John Hancock Multifactor Mid Cap ETF
+Purchase
+04/05/2022
+$15,001 - $50,000
+n/a
+250
+Joint
+IJR
+iShares Core S&amp;P Small-Cap ETF
+Purchase
+04/05/2022
+$15,001 - $50,000
+n/a
+251
+Joint
+IWB
+iShares Russell 1000 ETF
+Purchase
+04/05/2022
+$100,001 - $250,000
+n/a
+252
+Joint
+IJH
+iShares Core S&amp;P Mid-Cap ETF
+Purchase
+04/05/2022
+$15,001 - $50,000
+n/a
+253
+Joint
+DVY
+iShares Select Dividend ETF
+Purchase
+04/05/2022
+$15,001 - $50,000
+n/a
+254
+Joint
+PDBC
+Invesco Optimum Yield Diversified Commodity Strate
+Purchase
+04/05/2022
+$1,001 - $15,000
+n/a
+255
+Joint
+OAYIX
+Oakmark International Fund Advisor Class
+Purchase
+04/05/2022
+$15,001 - $50,000
+n/a
+256
+Joint
+GFFFX
+The Growth Fund of America Class F-2 Shares
+Purchase
+04/05/2022
+$50,001 - $100,000
+n/a
+257
+Joint
+FRIRX
+Fidelity Advisor Real Estate Income Fund Class
+Purchase
+04/05/2022
+$1,001 - $15,000
+n/a
+258
+Joint
+DODGX
+Dodge &amp; Cox Stock Fund
+Purchase
+04/05/2022
+$50,001 - $100,000
+n/a
+259
+Joint
+BCSSX
+Brown Capital Management Small Company Fd Inst C
+Purchase
+04/05/2022
+$15,001 - $50,000
+n/a
+260
+Joint
+VNQ
+Vanguard Real Estate ETF
+Purchase
+04/06/2022
+$1,001 - $15,000
+n/a
+261
+Joint
+VWO
+Vanguard FTSE Emerging Markets ETF
+Purchase
+04/06/2022
+$15,001 - $50,000
+n/a
+262
+Joint
+VEA
+Vanguard FTSE Developed Markets ETF
+Purchase
+04/06/2022
+$15,001 - $50,000
+n/a
+263
+Joint
+VIG
+Vanguard Div Appreciation ETF
+Purchase
+04/06/2022
+$1,001 - $15,000
+n/a
+264
+Joint
+CMCYX
+Van Eck Cm Commodity Index Fd Cl Y
+Purchase
+04/06/2022
+$1,001 - $15,000
+n/a
+265
+Joint
+SMCFX
+Smallcap World Fund Inc. Class F-2 Shs
+Purchase
+04/06/2022
+$15,001 - $50,000
+n/a
+266
+Joint
+SCHM
+Schwab U.S. Mid Cap ETF
+Purchase
+04/06/2022
+$15,001 - $50,000
+n/a
+267
+Joint
+RYPNX
+Royce Opportunity Fund Investment Class
+Purchase
+04/06/2022
+$1,001 - $15,000
+n/a
+268
+Joint
+TRBCX
+T. Rowe Price Blue Chip Growth Fund Inc.
+Purchase
+04/06/2022
+$15,001 - $50,000
+n/a
+269
+Joint
+PCLPX
+Pimco Commoditiesplus Strategy Fund Class I-2
+Purchase
+04/06/2022
+$1,001 - $15,000
+n/a
+270
+Joint
+SRVR
+Pacer Benchmark &amp; Infrastructure Real Estate ETF
+Purchase
+04/06/2022
+$1,001 - $15,000
+n/a
+271
+Joint
+NFFFX
+New World Fund Inc. Class F-2 Shs
+Purchase
+04/06/2022
+$15,001 - $50,000
+n/a
+272
+Joint
+ANWFX
+New Perspective Fund Class F-2 Shares
+Purchase
+04/06/2022
+$15,001 - $50,000
+n/a
+273
+Joint
+MFAIX
+Morgan Stanley Insti Fd International Advantage
+Purchase
+04/06/2022
+$15,001 - $50,000
+n/a
+274
+Joint
+JHMM
+John Hancock Multifactor Mid Cap ETF
+Purchase
+04/06/2022
+$15,001 - $50,000
+n/a
+275
+Joint
+IJR
+iShares Core S&amp;P Small-Cap ETF
+Purchase
+04/06/2022
+$1,001 - $15,000
+n/a
+276
+Joint
+IWB
+iShares Russell 1000 ETF
+Purchase
+04/06/2022
+$50,001 - $100,000
+n/a
+277
+Joint
+IJH
+iShares Core S&amp;P Mid-Cap ETF
+Purchase
+04/06/2022
+$15,001 - $50,000
+n/a
+278
+Joint
+DVY
+iShares Select Dividend ETF
+Purchase
+04/06/2022
+$1,001 - $15,000
+n/a
+279
+Joint
+PDBC
+Invesco Optimum Yield Diversified Commodity Strate
+Purchase
+04/06/2022
+$1,001 - $15,000
+n/a
+280
+Joint
+OAYIX
+Oakmark International Fund Advisor Class
+Purchase
+04/06/2022
+$15,001 - $50,000
+n/a
+281
+Joint
+GFFFX
+The Growth Fund of America Class F-2 Shares
+Purchase
+04/06/2022
+$15,001 - $50,000
+n/a
+282
+Joint
+FRIRX
+Fidelity Advisor Real Estate Income Fund Class
+Purchase
+04/06/2022
+$1,001 - $15,000
+n/a
+283
+Joint
+DODGX
+Dodge &amp; Cox Stock Fund
+Purchase
+04/06/2022
+$15,001 - $50,000
+n/a
+284
+Joint
+BCSSX
+Brown Capital Management Small Company Fd Inst C
+Purchase
+04/06/2022
+$1,001 - $15,000
+n/a
+285
+Joint
+VNQ
+Vanguard Real Estate ETF
+Purchase
+04/26/2022
+$15,001 - $50,000
+n/a
+286
+Joint
+VWO
+Vanguard FTSE Emerging Markets ETF
+Purchase
+04/26/2022
+$100,001 - $250,000
+n/a
+287
+Joint
+VEA
+Vanguard FTSE Developed Markets ETF
+Purchase
+04/26/2022
+$100,001 - $250,000
+n/a
+288
+Joint
+VIG
+Vanguard Div Appreciation ETF
+Purchase
+04/26/2022
+$50,001 - $100,000
+n/a
+289
+Joint
+CMCYX
+Van Eck Cm Commodity Index Fd Cl Y
+Purchase
+04/26/2022
+$15,001 - $50,000
+n/a
+290
+Joint
+SMCFX
+Smallcap World Fund Inc. Class F-2 Shs
+Purchase
+04/26/2022
+$100,001 - $250,000
+n/a
+291
+Joint
+SCHM
+Schwab U.S. Mid Cap ETF
+Purchase
+04/26/2022
+$50,001 - $100,000
+n/a
+292
+Joint
+RYPNX
+Royce Opportunity Fund Investment Class
+Purchase
+04/26/2022
+$15,001 - $50,000
+n/a
+293
+Joint
+TRBCX
+T. Rowe Price Blue Chip Growth Fund Inc.
+Purchase
+04/26/2022
+$100,001 - $250,000
+n/a
+294
+Joint
+PCLPX
+Pimco Commoditiesplus Strategy Fund Class I-2
+Purchase
+04/26/2022
+$15,001 - $50,000
+n/a
+295
+Joint
+SRVR
+Pacer Benchmark &amp; Infrastructure Real Estate ETF
+Purchase
+04/26/2022
+$15,001 - $50,000
+n/a
+296
+Joint
+NFFFX
+New World Fund Inc. Class F-2 Shs
+Purchase
+04/26/2022
+$100,001 - $250,000
+n/a
+297
+Joint
+ANWFX
+New Perspective Fund Class F-2 Shares
+Purchase
+04/26/2022
+$100,001 - $250,000
+n/a
+298
+Joint
+MFAIX
+Morgan Stanley Insti Fd International Advantage
+Purchase
+04/26/2022
+$100,001 - $250,000
+n/a
+299
+Joint
+JHMM
+John Hancock Multifactor Mid Cap ETF
+Purchase
+04/26/2022
+$50,001 - $100,000
+n/a
+300
+Joint
+IJR
+iShares Core S&amp;P Small-Cap ETF
+Purchase
+04/26/2022
+$15,001 - $50,000
+n/a
+301
+Joint
+IWB
+iShares Russell 1000 ETF
+Purchase
+04/26/2022
+$100,001 - $250,000
+n/a
+302
+Joint
+IJH
+iShares Core S&amp;P Mid-Cap ETF
+Purchase
+04/26/2022
+$50,001 - $100,000
+n/a
+303
+Joint
+DVY
+iShares Select Dividend ETF
+Purchase
+04/26/2022
+$15,001 - $50,000
+n/a
+304
+Joint
+OAYIX
+Oakmark International Fund Advisor Class
+Purchase
+04/26/2022
+$50,001 - $100,000
+n/a
+305
+Joint
+GFFFX
+The Growth Fund of America Class F-2 Shares
+Purchase
+04/26/2022
+$100,001 - $250,000
+n/a
+306
+Joint
+FRIRX
+Fidelity Advisor Real Estate Income Fund Class
+Purchase
+04/26/2022
+$15,001 - $50,000
+n/a
+307
+Joint
+DODGX
+Dodge &amp; Cox Stock Fund
+Purchase
+04/26/2022
+$100,001 - $250,000
+n/a
+308
+Joint
+VWO
+Vanguard FTSE Emerging Markets ETF
+Purchase
+04/27/2022
+$1,001 - $15,000
+n/a
+309
+Joint
+VEA
+Vanguard FTSE Developed Markets ETF
+Purchase
+04/27/2022
+$15,001 - $50,000
+n/a
+310
+Joint
+SMCFX
+Smallcap World Fund Inc. Class F-2 Shs
+Purchase
+04/27/2022
+$15,001 - $50,000
+n/a
+311
+Joint
+SCHM
+Schwab U.S. Mid Cap ETF
+Purchase
+04/27/2022
+$1,001 - $15,000
+n/a
+312
+Joint
+RYPNX
+Royce Opportunity Fund Investment Class
+Purchase
+04/27/2022
+$1,001 - $15,000
+n/a
+313
+Joint
+TRBCX
+T. Rowe Price Blue Chip Growth Fund Inc.
+Purchase
+04/27/2022
+$50,001 - $100,000
+n/a
+314
+Joint
+NFFFX
+New World Fund Inc. Class F-2 Shs
+Purchase
+04/27/2022
+$15,001 - $50,000
+n/a
+315
+Joint
+ANWFX
+New Perspective Fund Class F-2 Shares
+Purchase
+04/27/2022
+$15,001 - $50,000
+n/a
+316
+Joint
+MFAIX
+Morgan Stanley Insti Fd International Advantage
+Purchase
+04/27/2022
+$15,001 - $50,000
+n/a
+317
+Joint
+JHMM
+John Hancock Multifactor Mid Cap ETF
+Purchase
+04/27/2022
+$1,001 - $15,000
+n/a
+318
+Joint
+IJR
+iShares Core S&amp;P Small-Cap ETF
+Purchase
+04/27/2022
+$1,001 - $15,000
+n/a
+319
+Joint
+IWB
+iShares Russell 1000 ETF
+Purchase
+04/27/2022
+$15,001 - $50,000
+n/a
+320
+Joint
+IJH
+iShares Core S&amp;P Mid-Cap ETF
+Purchase
+04/27/2022
+$1,001 - $15,000
+n/a
+321
+Joint
+DVY
+iShares Select Dividend ETF
+Purchase
+04/27/2022
+$1,001 - $15,000
+n/a
+322
+Joint
+PDBC
+Invesco Optimum Yield Diversified Commodity Strate
+Purchase
+04/27/2022
+$15,001 - $50,000
+n/a
+323
+Joint
+OAYIX
+Oakmark International Fund Advisor Class
+Purchase
+04/27/2022
+$15,001 - $50,000
+n/a
+324
+Joint
+GFFFX
+The Growth Fund of America Class F-2 Shares
+Purchase
+04/27/2022
+$15,001 - $50,000
+n/a
+325
+Joint
+DODGX
+Dodge &amp; Cox Stock Fund
+Purchase
+04/27/2022
+$15,001 - $50,000
+n/a
+326
+Joint
+BCSSX
+Brown Capital Management Small Company Fd Inst C
+Purchase
+04/27/2022
+$1,001 - $15,000
+n/a
+327
+Joint
+BCSSX
+Brown Capital Management Small Company Fd Inst C
+Purchase
+04/27/2022
+$15,001 - $50,000
+n/a
+328
+Joint
+VNQ
+Vanguard Real Estate ETF
+Purchase
+05/02/2022
+$15,001 - $50,000
+n/a
+329
+Joint
+VWO
+Vanguard FTSE Emerging Markets ETF
+Purchase
+05/02/2022
+$50,001 - $100,000
+n/a
+330
+Joint
+VEA
+Vanguard FTSE Developed Markets ETF
+Purchase
+05/02/2022
+$50,001 - $100,000
+n/a
+331
+Joint
+VIG
+Vanguard Div Appreciation ETF
+Purchase
+05/02/2022
+$15,001 - $50,000
+n/a
+332
+Joint
+CMCYX
+Van Eck Cm Commodity Index Fd Cl Y
+Purchase
+05/02/2022
+$15,001 - $50,000
+n/a
+333
+Joint
+SMCFX
+Smallcap World Fund Inc. Class F-2 Shs
+Purchase
+05/02/2022
+$50,001 - $100,000
+n/a
+334
+Joint
+SCHM
+Schwab U.S. Mid Cap ETF
+Purchase
+05/02/2022
+$50,001 - $100,000
+n/a
+335
+Joint
+RYPNX
+Royce Opportunity Fund Investment Class
+Purchase
+05/02/2022
+$15,001 - $50,000
+n/a
+336
+Joint
+TRBCX
+T. Rowe Price Blue Chip Growth Fund Inc.
+Purchase
+05/02/2022
+$50,001 - $100,000
+n/a
+337
+Joint
+PCLPX
+Pimco Commoditiesplus Strategy Fund Class I-2
+Purchase
+05/02/2022
+$15,001 - $50,000
+n/a
+338
+Joint
+SRVR
+Pacer Benchmark &amp; Infrastructure Real Estate ETF
+Purchase
+05/02/2022
+$15,001 - $50,000
+n/a
+339
+Joint
+NFFFX
+New World Fund Inc. Class F-2 Shs
+Purchase
+05/02/2022
+$50,001 - $100,000
+n/a
+340
+Joint
+ANWFX
+New Perspective Fund Class F-2 Shares
+Purchase
+05/02/2022
+$50,001 - $100,000
+n/a
+341
+Joint
+MFAIX
+Morgan Stanley Insti Fd International Advantage
+Purchase
+05/02/2022
+$15,001 - $50,000
+n/a
+342
+Joint
+JHMM
+John Hancock Multifactor Mid Cap ETF
+Purchase
+05/02/2022
+$50,001 - $100,000
+n/a
+343
+Joint
+IJR
+iShares Core S&amp;P Small-Cap ETF
+Purchase
+05/02/2022
+$15,001 - $50,000
+n/a
+344
+Joint
+IWB
+iShares Russell 1000 ETF
+Purchase
+05/02/2022
+$100,001 - $250,000
+n/a
+345
+Joint
+IJH
+iShares Core S&amp;P Mid-Cap ETF
+Purchase
+05/02/2022
+$50,001 - $100,000
+n/a
+346
+Joint
+DVY
+iShares Select Dividend ETF
+Purchase
+05/02/2022
+$15,001 - $50,000
+n/a
+347
+Joint
+PDBC
+Invesco Optimum Yield Diversified Commodity Strate
+Purchase
+05/02/2022
+$1,001 - $15,000
+n/a
+348
+Joint
+OAYIX
+Oakmark International Fund Advisor Class
+Purchase
+05/02/2022
+$50,001 - $100,000
+n/a
+349
+Joint
+GFFFX
+The Growth Fund of America Class F-2 Shares
+Purchase
+05/02/2022
+$50,001 - $100,000
+n/a
+350
+Joint
+FRIRX
+Fidelity Advisor Real Estate Income Fund Class
+Purchase
+05/02/2022
+$15,001 - $50,000
+n/a
+351
+Joint
+DODGX
+Dodge &amp; Cox Stock Fund - Class I
+Purchase
+05/03/2022
+$50,001 - $100,000
+n/a
+352
+Joint
+BCSSX
+Brown Capital Management Small Company Fd Inst C
+Purchase
+05/03/2022
+$15,001 - $50,000
+n/a
+353
+Joint
+VWO
+Vanguard FTSE Emerging Markets ETF
+Purchase
+05/04/2022
+$15,001 - $50,000
+n/a
+354
+Joint
+VEA
+Vanguard FTSE Developed Markets ETF
+Purchase
+05/04/2022
+$15,001 - $50,000
+n/a
+355
+Joint
+VIG
+Vanguard Div Appreciation ETF
+Purchase
+05/04/2022
+$1,001 - $15,000
+n/a
+356
+Joint
+CMCYX
+Van Eck Cm Commodity Index Fd Cl Y
+Purchase
+05/04/2022
+$1,001 - $15,000
+n/a
+357
+Joint
+SMCFX
+Smallcap World Fund Inc. Class F-2 Shs
+Purchase
+05/04/2022
+$15,001 - $50,000
+n/a
+358
+Joint
+SCHM
+Schwab U.S. Mid Cap ETF
+Purchase
+05/04/2022
+$1,001 - $15,000
+n/a
+359
+Joint
+RYPNX
+Royce Opportunity Fund Investment Class
+Purchase
+05/04/2022
+$1,001 - $15,000
+n/a
+360
+Joint
+TRBCX
+T. Rowe Price Blue Chip Growth Fund Inc.
+Purchase
+05/04/2022
+$15,001 - $50,000
+n/a
+361
+Joint
+PCLPX
+Pimco Commoditiesplus Strategy Fund Class I-2
+Purchase
+05/04/2022
+$1,001 - $15,000
+n/a
+362
+Joint
+NFFFX
+New World Fund Inc. Class F-2 Shs
+Purchase
+05/04/2022
+$15,001 - $50,000
+n/a
+363
+Joint
+ANWFX
+New Perspective Fund Class F-2 Shares
+Purchase
+05/04/2022
+$15,001 - $50,000
+n/a
+364
+Joint
+MFAIX
+Morgan Stanley Insti Fd International Advantage
+Purchase
+05/04/2022
+$50,001 - $100,000
+n/a
+365
+Joint
+JHMM
+John Hancock Multifactor Mid Cap ETF
+Purchase
+05/04/2022
+$1,001 - $15,000
+n/a
+366
+Joint
+IWB
+iShares Russell 1000 ETF
+Purchase
+05/04/2022
+$15,001 - $50,000
+n/a
+367
+Joint
+IJH
+iShares Core S&amp;P Mid-Cap ETF
+Purchase
+05/04/2022
+$1,001 - $15,000
+n/a
+368
+Joint
+OAYIX
+Oakmark International Fund Advisor Class
+Purchase
+05/04/2022
+$15,001 - $50,000
+n/a
+369
+Joint
+GFFFX
+The Growth Fund of America Class F-2 Shares
+Purchase
+05/04/2022
+$15,001 - $50,000
+n/a
+370
+Joint
+FRIRX
+Fidelity Advisor Real Estate Income Fund Class
+Purchase
+05/04/2022
+$1,001 - $15,000
+n/a
+371
+Joint
+DODGX
+Dodge &amp; Cox Stock Fund - Class I
+Purchase
+05/04/2022
+$15,001 - $50,000
+n/a
+372
+Joint
+BCSSX
+Brown Capital Management Small Company Fd Inst C
+Purchase
+05/04/2022
+$1,001 - $15,000
+n/a
+373
+Joint
+VNQ
+Vanguard Real Estate ETF
+Purchase
+05/05/2022
+$15,001 - $50,000
+n/a
+374
+Joint
+VWO
+Vanguard FTSE Emerging Markets ETF
+Purchase
+05/05/2022
+$50,001 - $100,000
+n/a
+375
+Joint
+VEA
+Vanguard FTSE Developed Markets ETF
+Purchase
+05/05/2022
+$100,001 - $250,000
+n/a
+376
+Joint
+VIG
+Vanguard Div Appreciation ETF
+Purchase
+05/05/2022
+$15,001 - $50,000
+n/a
+377
+Joint
+SMCFX
+Smallcap World Fund Inc. Class F-2 Shs
+Purchase
+05/05/2022
+$15,001 - $50,000
+n/a
+378
+Joint
+SCHM
+Schwab U.S. Mid Cap ETF
+Purchase
+05/05/2022
+$50,001 - $100,000
+n/a
+379
+Joint
+RYPNX
+Royce Opportunity Fund Investment Class
+Purchase
+05/05/2022
+$15,001 - $50,000
+n/a
+380
+Joint
+TRBCX
+T. Rowe Price Blue Chip Growth Fund Inc.
+Purchase
+05/05/2022
+$15,001 - $50,000
+n/a
+381
+Joint
+SRVR
+Pacer Benchmark &amp; Infrastructure Real Estate ETF
+Purchase
+05/05/2022
+$15,001 - $50,000
+n/a
+382
+Joint
+NFFFX
+New World Fund Inc. Class F-2 Shs
+Purchase
+05/05/2022
+$15,001 - $50,000
+n/a
+383
+Joint
+ANWFX
+New Perspective Fund Class F-2 Shares
+Purchase
+05/05/2022
+$15,001 - $50,000
+n/a
+384
+Joint
+MFAIX
+Morgan Stanley Insti Fd International Advantage
+Purchase
+05/05/2022
+$15,001 - $50,000
+n/a
+385
+Joint
+JHMM
+John Hancock Multifactor Mid Cap ETF
+Purchase
+05/05/2022
+$50,001 - $100,000
+n/a
+386
+Joint
+IJR
+iShares Core S&amp;P Small-Cap ETF
+Purchase
+05/05/2022
+$15,001 - $50,000
+n/a
+387
+Joint
+IWB
+iShares Russell 1000 ETF
+Purchase
+05/05/2022
+$100,001 - $250,000
+n/a
+388
+Joint
+IJH
+iShares Core S&amp;P Mid-Cap ETF
+Purchase
+05/05/2022
+$50,001 - $100,000
+n/a
+389
+Joint
+DVY
+iShares Select Dividend ETF
+Purchase
+05/05/2022
+$15,001 - $50,000
+n/a
+390
+Joint
+PDBC
+Invesco Optimum Yield Diversified Commodity Strate
+Purchase
+05/05/2022
+$15,001 - $50,000
+n/a
+391
+Joint
+OAYIX
+Oakmark International Fund Advisor Class
+Purchase
+05/05/2022
+$15,001 - $50,000
+n/a
+392
+Joint
+GFFFX
+The Growth Fund of America Class F-2 Shares
+Purchase
+05/05/2022
+$15,001 - $50,000
+n/a
+393
+Joint
+FRIRX
+Fidelity Advisor Real Estate Income Fund Class
+Purchase
+05/05/2022
+$1,001 - $15,000
+n/a
+394
+Joint
+DODGX
+Dodge &amp; Cox Stock Fund - Class I
+Purchase
+05/05/2022
+$15,001 - $50,000
+n/a
+395
+Joint
+BCSSX
+Brown Capital Management Small Company Fd Inst C
+Purchase
+05/05/2022
+$15,001 - $50,000
+n/a
+396
+Joint
+VNQ
+Vanguard Real Estate ETF
+Purchase
+05/09/2022
+$1,001 - $15,000
+n/a
+397
+Joint
+VWO
+Vanguard FTSE Emerging Markets ETF
+Purchase
+05/09/2022
+$15,001 - $50,000
+n/a
+398
+Joint
+VEA
+Vanguard FTSE Developed Markets ETF
+Purchase
+05/09/2022
+$15,001 - $50,000
+n/a
+399
+Joint
+CMCYX
+Van Eck Cm Commodity Index Fd Cl Y
+Purchase
+05/09/2022
+$1,001 - $15,000
+n/a
+400
+Joint
+SMCFX
+Smallcap World Fund Inc. Class F-2 Shs
+Purchase
+05/09/2022
+$15,001 - $50,000
+n/a
+401
+Joint
+SCHM
+Schwab U.S. Mid Cap ETF
+Purchase
+05/09/2022
+$15,001 - $50,000
+n/a
+402
+Joint
+RYPNX
+Royce Opportunity Fund Investment Class
+Purchase
+05/09/2022
+$1,001 - $15,000
+n/a
+403
+Joint
+TRBCX
+T. Rowe Price Blue Chip Growth Fund Inc.
+Purchase
+05/09/2022
+$15,001 - $50,000
+n/a
+404
+Joint
+PCLPX
+Pimco Commoditiesplus Strategy Fund Class I-2
+Purchase
+05/09/2022
+$1,001 - $15,000
+n/a
+405
+Joint
+SRVR
+Pacer Benchmark &amp; Infrastructure Real Estate ETF
+Purchase
+05/09/2022
+$1,001 - $15,000
+n/a
+406
+Joint
+NFFFX
+New World Fund Inc. Class F-2 Shs
+Purchase
+05/09/2022
+$15,001 - $50,000
+n/a
+407
+Joint
+ANWFX
+New Perspective Fund Class F-2 Shares
+Purchase
+05/09/2022
+$15,001 - $50,000
+n/a
+408
+Joint
+MFAIX
+Morgan Stanley Insti Fd International Advantage
+Purchase
+05/09/2022
+$15,001 - $50,000
+n/a
+409
+Joint
+JHMM
+John Hancock Multifactor Mid Cap ETF
+Purchase
+05/09/2022
+$1,001 - $15,000
+n/a
+410
+Joint
+IJR
+iShares Core S&amp;P Small-Cap ETF
+Purchase
+05/09/2022
+$1,001 - $15,000
+n/a
+411
+Joint
+IJH
+iShares Core S&amp;P Mid-Cap ETF
+Purchase
+05/09/2022
+$1,001 - $15,000
+n/a
+412
+Joint
+PDBC
+Invesco Optimum Yield Diversified Commodity Strate
+Purchase
+05/09/2022
+$1,001 - $15,000
+n/a
+413
+Joint
+OAYIX
+Oakmark International Fund Advisor Class
+Purchase
+05/09/2022
+$15,001 - $50,000
+n/a
+414
+Joint
+GFFFX
+The Growth Fund of America Class F-2 Shares
+Purchase
+05/09/2022
+$15,001 - $50,000
+n/a
+415
+Joint
+DODGX
+Dodge &amp; Cox Stock Fund - Class I
+Purchase
+05/09/2022
+$1,001 - $15,000
+n/a
+416
+Joint
+BCSSX
+Brown Capital Management Small Company Fd Inst C
+Purchase
+05/09/2022
+$15,001 - $50,000
+n/a
+417
+Joint
+CBHIX
+Victory Market Neutral Income Fund - Class I
+Purchase
+05/10/2022
+$100,001 - $250,000
+n/a
+418
+Joint
+VNQ
+Vanguard Real Estate ETF
+Purchase
+05/12/2022
+$1,001 - $15,000
+n/a
+419
+Joint
+VWO
+Vanguard FTSE Emerging Markets ETF
+Purchase
+05/12/2022
+$1,001 - $15,000
+n/a
+420
+Joint
+VEA
+Vanguard FTSE Developed Markets ETF
+Purchase
+05/12/2022
+$1,001 - $15,000
+n/a
+421
+Joint
+VIG
+Vanguard Div Appreciation ETF
+Purchase
+05/12/2022
+$1,001 - $15,000
+n/a
+422
+Joint
+SMCFX
+Smallcap World Fund Inc. Class F-2 Shs
+Purchase
+05/12/2022
+$15,001 - $50,000
+n/a
+423
+Joint
+SCHM
+Schwab U.S. Mid Cap ETF
+Purchase
+05/12/2022
+$1,001 - $15,000
+n/a
+424
+Joint
+RYPNX
+Royce Opportunity Fund Investment Class
+Purchase
+05/12/2022
+$15,001 - $50,000
+n/a
+425
+Joint
+TRBCX
+T. Rowe Price Blue Chip Growth Fund Inc.
+Purchase
+05/12/2022
+$15,001 - $50,000
+n/a
+426
+Joint
+PCLPX
+Pimco Commoditiesplus Strategy Fund Class I-2
+Purchase
+05/12/2022
+$1,001 - $15,000
+n/a
+427
+Joint
+SRVR
+Pacer Benchmark &amp; Infrastructure Real Estate ETF
+Purchase
+05/12/2022
+$1,001 - $15,000
+n/a
+428
+Joint
+NFFFX
+New World Fund Inc. Class F-2 Shs
+Purchase
+05/12/2022
+$15,001 - $50,000
+n/a
+429
+Joint
+ANWFX
+New Perspective Fund Class F-2 Shares
+Purchase
+05/12/2022
+$15,001 - $50,000
+n/a
+430
+Joint
+MFAIX
+Morgan Stanley Insti Fd International Advantage
+Purchase
+05/12/2022
+$15,001 - $50,000
+n/a
+431
+Joint
+JHMM
+John Hancock Multifactor Mid Cap ETF
+Purchase
+05/12/2022
+$1,001 - $15,000
+n/a
+432
+Joint
+IJR
+iShares Core S&amp;P Small-Cap ETF
+Purchase
+05/12/2022
+$1,001 - $15,000
+n/a
+433
+Joint
+IWB
+iShares Russell 1000 ETF
+Purchase
+05/12/2022
+$15,001 - $50,000
+n/a
+434
+Joint
+IJH
+iShares Core S&amp;P Mid-Cap ETF
+Purchase
+05/12/2022
+$1,001 - $15,000
+n/a
+435
+Joint
+OAYIX
+Oakmark International Fund Advisor Class
+Purchase
+05/12/2022
+$1,001 - $15,000
+n/a
+436
+Joint
+GFFFX
+The Growth Fund of America Class F-2 Shares
+Purchase
+05/12/2022
+$15,001 - $50,000
+n/a
+437
+Joint
+FRIRX
+Fidelity Advisor Real Estate Income Fund Class
+Purchase
+05/12/2022
+$1,001 - $15,000
+n/a
+438
+Joint
+DODGX
+Dodge &amp; Cox Stock Fund - Class I
+Purchase
+05/12/2022
+$15,001 - $50,000
+n/a
+439
+Joint
+BCSSX
+Brown Capital Management Small Company Fd Inst C
+Purchase
+05/12/2022
+$15,001 - $50,000
+n/a
+440
+Joint
+VNQ
+Vanguard Real Estate ETF
+Purchase
+05/18/2022
+$15,001 - $50,000
+n/a
+441
+Joint
+VWO
+Vanguard FTSE Emerging Markets ETF
+Purchase
+05/18/2022
+$100,001 - $250,000
+n/a
+442
+Joint
+VEA
+Vanguard FTSE Developed Markets ETF
+Purchase
+05/18/2022
+$100,001 - $250,000
+n/a
+443
+Joint
+VIG
+Vanguard Div Appreciation ETF
+Purchase
+05/18/2022
+$50,001 - $100,000
+n/a
+444
+Joint
+CMCYX
+Van Eck Cm Commodity Index Fd Cl Y
+Purchase
+05/18/2022
+$15,001 - $50,000
+n/a
+445
+Joint
+SMCFX
+Smallcap World Fund Inc. Class F-2 Shs
+Purchase
+05/18/2022
+$100,001 - $250,000
+n/a
+446
+Joint
+SCHM
+Schwab U.S. Mid Cap ETF
+Purchase
+05/18/2022
+$100,001 - $250,000
+n/a
+447
+Joint
+RYPNX
+Royce Opportunity Fund Investment Class
+Purchase
+05/18/2022
+$15,001 - $50,000
+n/a
+448
+Joint
+TRBCX
+T. Rowe Price Blue Chip Growth Fund Inc.
+Purchase
+05/18/2022
+$100,001 - $250,000
+n/a
+449
+Joint
+PCLPX
+Pimco Commoditiesplus Strategy Fund Class I-2
+Purchase
+05/18/2022
+$15,001 - $50,000
+n/a
+450
+Joint
+SRVR
+Pacer Benchmark &amp; Infrastructure Real Estate ETF
+Purchase
+05/18/2022
+$15,001 - $50,000
+n/a
+451
+Joint
+NFFFX
+New World Fund Inc. Class F-2 Shs
+Purchase
+05/18/2022
+$100,001 - $250,000
+n/a
+452
+Joint
+ANWFX
+New Perspective Fund Class F-2 Shares
+Purchase
+05/18/2022
+$100,001 - $250,000
+n/a
+453
+Joint
+MFAIX
+Morgan Stanley Insti Fd International Advantage
+Purchase
+05/18/2022
+$100,001 - $250,000
+n/a
+454
+Joint
+JHMM
+John Hancock Multifactor Mid Cap ETF
+Purchase
+05/18/2022
+$100,001 - $250,000
+n/a
+455
+Joint
+IJR
+iShares Core S&amp;P Small-Cap ETF
+Purchase
+05/18/2022
+$50,001 - $100,000
+n/a
+456
+Joint
+IWB
+iShares Russell 1000 ETF
+Purchase
+05/18/2022
+$250,001 - $500,000
+n/a
+457
+Joint
+IJH
+iShares Core S&amp;P Mid-Cap ETF
+Purchase
+05/18/2022
+$100,001 - $250,000
+n/a
+458
+Joint
+DVY
+iShares Select Dividend ETF
+Purchase
+05/18/2022
+$50,001 - $100,000
+n/a
+459
+Joint
+PDBC
+Invesco Optimum Yield Diversified Commodity Strate
+Purchase
+05/18/2022
+$15,001 - $50,000
+n/a
+460
+Joint
+OAYIX
+Oakmark International Fund Advisor Class
+Purchase
+05/18/2022
+$100,001 - $250,000
+n/a
+461
+Joint
+GFFFX
+The Growth Fund of America Class F-2 Shares
+Purchase
+05/18/2022
+$100,001 - $250,000
+n/a
+462
+Joint
+FRIRX
+Fidelity Advisor Real Estate Income Fund Class
+Purchase
+05/18/2022
+$15,001 - $50,000
+n/a
+463
+Joint
+DODGX
+Dodge &amp; Cox Stock Fund - Class I
+Purchase
+05/18/2022
+$100,001 - $250,000
+n/a
+464
+Joint
+BCSSX
+Brown Capital Management Small Company Fd Inst C
+Purchase
+05/18/2022
+$15,001 - $50,000
+n/a
+465
+Joint
+VNQ
+Vanguard Real Estate ETF
+Purchase
+05/20/2022
+$1,001 - $15,000
+n/a
+466
+Joint
+VWO
+Vanguard FTSE Emerging Markets ETF
+Purchase
+05/20/2022
+$15,001 - $50,000
+n/a
+467
+Joint
+VEA
+Vanguard FTSE Developed Markets ETF
+Purchase
+05/20/2022
+$15,001 - $50,000
+n/a
+468
+Joint
+VIG
+Vanguard Div Appreciation ETF
+Purchase
+05/20/2022
+$15,001 - $50,000
+n/a
+469
+Joint
+SMCFX
+Smallcap World Fund Inc. Class F-2 Shs
+Purchase
+05/20/2022
+$15,001 - $50,000
+n/a
+470
+Joint
+SCHM
+Schwab U.S. Mid Cap ETF
+Purchase
+05/20/2022
+$15,001 - $50,000
+n/a
+471
+Joint
+RYPNX
+Royce Opportunity Fund Investment Class
+Purchase
+05/20/2022
+$15,001 - $50,000
+n/a
+472
+Joint
+TRBCX
+T. Rowe Price Blue Chip Growth Fund Inc.
+Purchase
+05/20/2022
+$50,001 - $100,000
+n/a
+473
+Joint
+NFFFX
+New World Fund Inc. Class F-2 Shs
+Purchase
+05/20/2022
+$15,001 - $50,000
+n/a
+474
+Joint
+ANWFX
+New Perspective Fund Class F-2 Shares
+Purchase
+05/20/2022
+$15,001 - $50,000
+n/a
+475
+Joint
+MFAIX
+Morgan Stanley Insti Fd International Advantage
+Purchase
+05/20/2022
+$15,001 - $50,000
+n/a
+476
+Joint
+JHMM
+John Hancock Multifactor Mid Cap ETF
+Purchase
+05/20/2022
+$15,001 - $50,000
+n/a
+477
+Joint
+IJR
+iShares Core S&amp;P Small-Cap ETF
+Purchase
+05/20/2022
+$15,001 - $50,000
+n/a
+478
+Joint
+IWB
+iShares Russell 1000 ETF
+Purchase
+05/20/2022
+$100,001 - $250,000
+n/a
+479
+Joint
+IJH
+iShares Core S&amp;P Mid-Cap ETF
+Purchase
+05/20/2022
+$15,001 - $50,000
+n/a
+480
+Joint
+DVY
+iShares Select Dividend ETF
+Purchase
+05/20/2022
+$15,001 - $50,000
+n/a
+481
+Joint
+OAYIX
+Oakmark International Fund Advisor Class
+Purchase
+05/20/2022
+$15,001 - $50,000
+n/a
+482
+Joint
+GFFFX
+The Growth Fund of America Class F-2 Shares
+Purchase
+05/20/2022
+$50,001 - $100,000
+n/a
+483
+Joint
+BCSSX
+Brown Capital Management Small Company Fd Inst C
+Purchase
+05/20/2022
+$1,001 - $15,000
+n/a
+484
+Joint
+DODGX
+Dodge &amp; Cox Stock Fund - Class I
+Purchase
+05/23/2022
+$50,001 - $100,000
+n/a
+485
+Joint
+VWO
+Vanguard FTSE Emerging Markets ETF
+Purchase
+05/25/2022
+$15,001 - $50,000
+n/a
+486
+Joint
+VEA
+Vanguard FTSE Developed Markets ETF
+Purchase
+05/25/2022
+$15,001 - $50,000
+n/a
+487
+Joint
+CMCYX
+Van Eck Cm Commodity Index Fd Cl Y
+Purchase
+05/25/2022
+$1,001 - $15,000
+n/a
+488
+Joint
+SMCFX
+Smallcap World Fund Inc. Class F-2 Shs
+Purchase
+05/25/2022
+$15,001 - $50,000
+n/a
+489
+Joint
+RYPNX
+Royce Opportunity Fund Investment Class
+Purchase
+05/25/2022
+$15,001 - $50,000
+n/a
+490
+Joint
+TRBCX
+T. Rowe Price Blue Chip Growth Fund Inc.
+Purchase
+05/25/2022
+$50,001 - $100,000
+n/a
+491
+Joint
+PCLPX
+Pimco Commoditiesplus Strategy Fund Class I-2
+Purchase
+05/25/2022
+$1,001 - $15,000
+n/a
+492
+Joint
+NFFFX
+New World Fund Inc. Class F-2 Shs
+Purchase
+05/25/2022
+$15,001 - $50,000
+n/a
+493
+Joint
+ANWFX
+New Perspective Fund Class F-2 Shares
+Purchase
+05/25/2022
+$15,001 - $50,000
+n/a
+494
+Joint
+MFAIX
+Morgan Stanley Insti Fd International Advantage
+Purchase
+05/25/2022
+$15,001 - $50,000
+n/a
+495
+Joint
+OAYIX
+Oakmark International Fund Advisor Class
+Purchase
+05/25/2022
+$15,001 - $50,000
+n/a
+496
+Joint
+GFFFX
+The Growth Fund of America Class F-2 Shares
+Purchase
+05/25/2022
+$50,001 - $100,000
+n/a
+497
+Joint
+FRIRX
+Fidelity Advisor Real Estate Income Fund Class
+Purchase
+05/25/2022
+$1,001 - $15,000
+n/a
+498
+Joint
+DODGX
+Dodge &amp; Cox Stock Fund - Class I
+Purchase
+05/25/2022
+$15,001 - $50,000
+n/a
+499
+Joint
+BCSSX
+Brown Capital Management Small Company Fd Inst C
+Purchase
+05/25/2022
+$15,001 - $50,000
+n/a
+500
+Joint
+VNQ
+Vanguard Real Estate ETF
+Purchase
+06/02/2022
+$1,001 - $15,000
+n/a
+501
+Joint
+VWO
+Vanguard FTSE Emerging Markets ETF
+Purchase
+06/02/2022
+$1,001 - $15,000
+n/a
+502
+Joint
+VEA
+Vanguard FTSE Developed Markets ETF
+Purchase
+06/02/2022
+$15,001 - $50,000
+n/a
+503
+Joint
+VIG
+Vanguard Div Appreciation ETF
+Purchase
+06/02/2022
+$1,001 - $15,000
+n/a
+504
+Joint
+CMCYX
+Van Eck Cm Commodity Index Fd Cl Y
+Purchase
+06/02/2022
+$1,001 - $15,000
+n/a
+505
+Joint
+SMCFX
+Smallcap World Fund Inc. Class F-2 Shs
+Purchase
+06/02/2022
+$15,001 - $50,000
+n/a
+506
+Joint
+SCHM
+Schwab U.S. Mid Cap ETF
+Purchase
+06/02/2022
+$1,001 - $15,000
+n/a
+507
+Joint
+PCLPX
+Pimco Commoditiesplus Strategy Fund Class I-2
+Purchase
+06/02/2022
+$1,001 - $15,000
+n/a
+508
+Joint
+SRVR
+Pacer Benchmark &amp; Infrastructure Real Estate ETF
+Purchase
+06/02/2022
+$1,001 - $15,000
+n/a
+509
+Joint
+NFFFX
+New World Fund Inc. Class F-2 Shs
+Purchase
+06/02/2022
+$15,001 - $50,000
+n/a
+510
+Joint
+ANWFX
+New Perspective Fund Class F-2 Shares
+Purchase
+06/02/2022
+$15,001 - $50,000
+n/a
+511
+Joint
+MFAIX
+Morgan Stanley Insti Fd International Advantage
+Purchase
+06/02/2022
+$15,001 - $50,000
+n/a
+512
+Joint
+JHMM
+John Hancock Multifactor Mid Cap ETF
+Purchase
+06/02/2022
+$1,001 - $15,000
+n/a
+513
+Joint
+IJR
+iShares Core S&amp;P Small-Cap ETF
+Purchase
+06/02/2022
+$1,001 - $15,000
+n/a
+514
+Joint
+IJH
+iShares Core S&amp;P Mid-Cap ETF
+Purchase
+06/02/2022
+$1,001 - $15,000
+n/a
+515
+Joint
+DVY
+iShares Select Dividend ETF
+Purchase
+06/02/2022
+$15,001 - $50,000
+n/a
+516
+Joint
+PDBC
+Invesco Optimum Yield Diversified Commodity Strate
+Purchase
+06/02/2022
+$1,001 - $15,000
+n/a
+517
+Joint
+OAYIX
+Oakmark International Fund Advisor Class
+Purchase
+06/02/2022
+$15,001 - $50,000
+n/a
+518
+Joint
+GFFFX
+The Growth Fund of America Class F-2 Shares
+Purchase
+06/02/2022
+$1,001 - $15,000
+n/a
+519
+Joint
+FRIRX
+Fidelity Advisor Real Estate Income Fund Class
+Purchase
+06/02/2022
+$1,001 - $15,000
+n/a
+520
+Joint
+DODGX
+Dodge &amp; Cox Stock Fund - Class I
+Purchase
+06/02/2022
+$15,001 - $50,000
+n/a
+521
+Joint
+BCSSX
+Brown Capital Management Small Company Fd Inst C
+Purchase
+06/02/2022
+$1,001 - $15,000
+n/a
+522
+Joint
+VNQ
+Vanguard Real Estate ETF
+Purchase
+06/08/2022
+$1,001 - $15,000
+n/a
+523
+Joint
+VWO
+Vanguard FTSE Emerging Markets ETF
+Purchase
+06/08/2022
+$15,001 - $50,000
+n/a
+524
+Joint
+VEA
+Vanguard FTSE Developed Markets ETF
+Purchase
+06/08/2022
+$50,001 - $100,000
+n/a
+525
+Joint
+VIG
+Vanguard Div Appreciation ETF
+Purchase
+06/08/2022
+$15,001 - $50,000
+n/a
+526
+Joint
+SMCFX
+Smallcap World Fund Inc. Class F-2 Shs
+Purchase
+06/08/2022
+$1,001 - $15,000
+n/a
+527
+Joint
+SCHM
+Schwab U.S. Mid Cap ETF
+Purchase
+06/08/2022
+$15,001 - $50,000
+n/a
+528
+Joint
+SRVR
+Pacer Benchmark &amp; Infrastructure Real Estate ETF
+Purchase
+06/08/2022
+$1,001 - $15,000
+n/a
+529
+Joint
+NFFFX
+New World Fund Inc. Class F-2 Shs
+Purchase
+06/08/2022
+$1,001 - $15,000
+n/a
+530
+Joint
+ANWFX
+New Perspective Fund Class F-2 Shares
+Purchase
+06/08/2022
+$1,001 - $15,000
+n/a
+531
+Joint
+JHMM
+John Hancock Multifactor Mid Cap ETF
+Purchase
+06/08/2022
+$15,001 - $50,000
+n/a
+532
+Joint
+IJR
+iShares Core S&amp;P Small-Cap ETF
+Purchase
+06/08/2022
+$15,001 - $50,000
+n/a
+533
+Joint
+IWB
+iShares Russell 1000 ETF
+Purchase
+06/08/2022
+$50,001 - $100,000
+n/a
+534
+Joint
+IJH
+iShares Core S&amp;P Mid-Cap ETF
+Purchase
+06/08/2022
+$15,001 - $50,000
+n/a
+535
+Joint
+DVY
+iShares Select Dividend ETF
+Purchase
+06/08/2022
+$15,001 - $50,000
+n/a
+536
+Joint
+OAYIX
+Oakmark International Fund Advisor Class
+Purchase
+06/08/2022
+$1,001 - $15,000
+n/a
+537
+Joint
+GFFFX
+The Growth Fund of America Class F-2 Shares
+Purchase
+06/08/2022
+$1,001 - $15,000
+n/a
+538
+Joint
+FRIRX
+Fidelity Advisor Real Estate Income Fund Class
+Purchase
+06/08/2022
+$1,001 - $15,000
+n/a
+539
+Joint
+DODGX
+Dodge &amp; Cox Stock Fund - Class I
+Purchase
+06/08/2022
+$15,001 - $50,000
+n/a
+540
+Joint
+VWO
+Vanguard FTSE Emerging Markets ETF
+Purchase
+06/10/2022
+$1,001 - $15,000
+n/a
+541
+Joint
+VEA
+Vanguard FTSE Developed Markets ETF
+Purchase
+06/10/2022
+$15,001 - $50,000
+n/a
+542
+Joint
+VIG
+Vanguard Div Appreciation ETF
+Purchase
+06/10/2022
+$1,001 - $15,000
+n/a
+543
+Joint
+SMCFX
+Smallcap World Fund Inc. Class F-2 Shs
+Purchase
+06/10/2022
+$1,001 - $15,000
+n/a
+544
+Joint
+SCHM
+Schwab U.S. Mid Cap ETF
+Purchase
+06/10/2022
+$15,001 - $50,000
+n/a
+545
+Joint
+TRBCX
+T. Rowe Price Blue Chip Growth Fund Inc.
+Purchase
+06/10/2022
+$15,001 - $50,000
+n/a
+546
+Joint
+PCLPX
+Pimco Commoditiesplus Strategy Fund Class I-2
+Purchase
+06/10/2022
+$1,001 - $15,000
+n/a
+547
+Joint
+SRVR
+Pacer Benchmark &amp; Infrastructure Real Estate ETF
+Purchase
+06/10/2022
+$1,001 - $15,000
+n/a
+548
+Joint
+NFFFX
+New World Fund Inc. Class F-2 Shs
+Purchase
+06/10/2022
+$1,001 - $15,000
+n/a
+549
+Joint
+ANWFX
+New Perspective Fund Class F-2 Shares
+Purchase
+06/10/2022
+$1,001 - $15,000
+n/a
+550
+Joint
+MFAIX
+Morgan Stanley Insti Fd International Advantage
+Purchase
+06/10/2022
+$15,001 - $50,000
+n/a
+551
+Joint
+JHMM
+John Hancock Multifactor Mid Cap ETF
+Purchase
+06/10/2022
+$15,001 - $50,000
+n/a
+552
+Joint
+IJR
+iShares Core S&amp;P Small-Cap ETF
+Purchase
+06/10/2022
+$1,001 - $15,000
+n/a
+553
+Joint
+IWB
+iShares Russell 1000 ETF
+Purchase
+06/10/2022
+$50,001 - $100,000
+n/a
+554
+Joint
+IJH
+iShares Core S&amp;P Mid-Cap ETF
+Purchase
+06/10/2022
+$15,001 - $50,000
+n/a
+555
+Joint
+DVY
+iShares Select Dividend ETF
+Purchase
+06/10/2022
+$1,001 - $15,000
+n/a
+556
+Joint
+OAYIX
+Oakmark International Fund Advisor Class
+Purchase
+06/10/2022
+$1,001 - $15,000
+n/a
+557
+Joint
+GFFFX
+The Growth Fund of America Class F-2 Shares
+Purchase
+06/10/2022
+$15,001 - $50,000
+n/a
+558
+Joint
+DODGX
+Dodge &amp; Cox Stock Fund - Class I
+Purchase
+06/10/2022
+$15,001 - $50,000
+n/a
+559
+Joint
+VNQ
+Vanguard Real Estate ETF
+Purchase
+06/16/2022
+$1,001 - $15,000
+n/a
+560
+Joint
+VEA
+Vanguard FTSE Developed Markets ETF
+Purchase
+06/16/2022
+$15,001 - $50,000
+n/a
+561
+Joint
+SMCFX
+Smallcap World Fund Inc. Class F-2 Shs
+Purchase
+06/16/2022
+$15,001 - $50,000
+n/a
+562
+Joint
+SCHM
+Schwab U.S. Mid Cap ETF
+Purchase
+06/16/2022
+$15,001 - $50,000
+n/a
+563
+Joint
+RYPNX
+Royce Opportunity Fund Investment Class
+Purchase
+06/16/2022
+$1,001 - $15,000
+n/a
+564
+Joint
+TRBCX
+T. Rowe Price Blue Chip Growth Fund Inc.
+Purchase
+06/16/2022
+$15,001 - $50,000
+n/a
+565
+Joint
+ANWFX
+New Perspective Fund Class F-2 Shares
+Purchase
+06/16/2022
+$1,001 - $15,000
+n/a
+566
+Joint
+MFAIX
+Morgan Stanley Insti Fd International Advantage
+Purchase
+06/16/2022
+$15,001 - $50,000
+n/a
+567
+Joint
+JHMM
+John Hancock Multifactor Mid Cap ETF
+Purchase
+06/16/2022
+$15,001 - $50,000
+n/a
+568
+Joint
+IJR
+iShares Core S&amp;P Small-Cap ETF
+Purchase
+06/16/2022
+$15,001 - $50,000
+n/a
+569
+Joint
+IWB
+iShares Russell 1000 ETF
+Purchase
+06/16/2022
+$50,001 - $100,000
+n/a
+570
+Joint
+IJH
+iShares Core S&amp;P Mid-Cap ETF
+Purchase
+06/16/2022
+$15,001 - $50,000
+n/a
+571
+Joint
+DVY
+iShares Select Dividend ETF
+Purchase
+06/16/2022
+$15,001 - $50,000
+n/a
+572
+Joint
+OAYIX
+Oakmark International Fund Advisor Class
+Purchase
+06/16/2022
+$15,001 - $50,000
+n/a
+573
+Joint
+GFFFX
+The Growth Fund of America Class F-2 Shares
+Purchase
+06/16/2022
+$15,001 - $50,000
+n/a
+574
+Joint
+DODGX
+Dodge &amp; Cox Stock Fund - Class I
+Purchase
+06/16/2022
+$15,001 - $50,000
+n/a
+575
+Joint
+BCSSX
+Brown Capital Management Small Company Fd Inst C
+Purchase
+06/16/2022
+$1,001 - $15,000
+n/a
+576
+Joint
+VEA
+Vanguard FTSE Developed Markets ETF
+Purchase
+06/17/2022
+$15,001 - $50,000
+n/a
+577
+Joint
+SMCFX
+Smallcap World Fund Inc. Class F-2 Shs
+Purchase
+06/17/2022
+$15,001 - $50,000
+n/a
+578
+Joint
+RYPNX
+Royce Opportunity Fund Investment Class
+Purchase
+06/17/2022
+$15,001 - $50,000
+n/a
+579
+Joint
+TRBCX
+T. Rowe Price Blue Chip Growth Fund Inc.
+Purchase
+06/17/2022
+$15,001 - $50,000
+n/a
+580
+Joint
+NFFFX
+New World Fund Inc. Class F-2 Shs
+Purchase
+06/17/2022
+$15,001 - $50,000
+n/a
+581
+Joint
+ANWFX
+New Perspective Fund Class F-2 Shares
+Purchase
+06/17/2022
+$15,001 - $50,000
+n/a
+582
+Joint
+MFAIX
+Morgan Stanley Insti Fd International Advantage
+Purchase
+06/17/2022
+$15,001 - $50,000
+n/a
+583
+Joint
+OAYIX
+Oakmark International Fund Advisor Class
+Purchase
+06/17/2022
+$15,001 - $50,000
+n/a
+584
+Joint
+GFFFX
+The Growth Fund of America Class F-2 Shares
+Purchase
+06/17/2022
+$50,001 - $100,000
+n/a
+585
+Joint
+DODGX
+Dodge &amp; Cox Stock Fund - Class I
+Purchase
+06/17/2022
+$15,001 - $50,000
+n/a
+586
+Joint
+BCSSX
+Brown Capital Management Small Company Fd Inst C
+Purchase
+06/17/2022
+$15,001 - $50,000
+n/a
+587
+Joint
+VNQ
+Vanguard Real Estate ETF
+Purchase
+06/22/2022
+$1,001 - $15,000
+n/a
+588
+Joint
+VWO
+Vanguard FTSE Emerging Markets ETF
+Purchase
+06/22/2022
+$15,001 - $50,000
+n/a
+589
+Joint
+VEA
+Vanguard FTSE Developed Markets ETF
+Purchase
+06/22/2022
+$50,001 - $100,000
+n/a
+590
+Joint
+VIG
+Vanguard Div Appreciation ETF
+Purchase
+06/22/2022
+$15,001 - $50,000
+n/a
+591
+Joint
+CMCYX
+Van Eck Cm Commodity Index Fd Cl Y
+Purchase
+06/22/2022
+$1,001 - $15,000
+n/a
+592
+Joint
+SMCFX
+Smallcap World Fund Inc. Class F-2 Shs
+Purchase
+06/22/2022
+$15,001 - $50,000
+n/a
+593
+Joint
+SCHM
+Schwab U.S. Mid Cap ETF
+Purchase
+06/22/2022
+$15,001 - $50,000
+n/a
+594
+Joint
+RYPNX
+Royce Opportunity Fund Investment Class
+Purchase
+06/22/2022
+$1,001 - $15,000
+n/a
+595
+Joint
+TRBCX
+T. Rowe Price Blue Chip Growth Fund Inc.
+Purchase
+06/22/2022
+$1,001 - $15,000
+n/a
+596
+Joint
+SRVR
+Pacer Benchmark &amp; Infrastructure Real Estate ETF
+Purchase
+06/22/2022
+$1,001 - $15,000
+n/a
+597
+Joint
+NFFFX
+New World Fund Inc. Class F-2 Shs
+Purchase
+06/22/2022
+$15,001 - $50,000
+n/a
+598
+Joint
+ANWFX
+New Perspective Fund Class F-2 Shares
+Purchase
+06/22/2022
+$15,001 - $50,000
+n/a
+599
+Joint
+MFAIX
+Morgan Stanley Insti Fd International Advantage
+Purchase
+06/22/2022
+$1,001 - $15,000
+n/a
+600
+Joint
+JHMM
+John Hancock Multifactor Mid Cap ETF
+Purchase
+06/22/2022
+$15,001 - $50,000
+n/a
+601
+Joint
+IJR
+iShares Core S&amp;P Small-Cap ETF
+Purchase
+06/22/2022
+$1,001 - $15,000
+n/a
+602
+Joint
+IWB
+iShares Russell 1000 ETF
+Purchase
+06/22/2022
+$15,001 - $50,000
+n/a
+603
+Joint
+IJH
+iShares Core S&amp;P Mid-Cap ETF
+Purchase
+06/22/2022
+$15,001 - $50,000
+n/a
+604
+Joint
+DVY
+iShares Select Dividend ETF
+Purchase
+06/22/2022
+$15,001 - $50,000
+n/a
+605
+Joint
+PDBC
+Invesco Optimum Yield Diversified Commodity Strate
+Purchase
+06/22/2022
+$15,001 - $50,000
+n/a
+606
+Joint
+OAYIX
+Oakmark International Fund Advisor Class
+Purchase
+06/22/2022
+$15,001 - $50,000
+n/a
+607
+Joint
+GFFFX
+The Growth Fund of America Class F-2 Shares
+Purchase
+06/22/2022
+$1,001 - $15,000
+n/a
+608
+Joint
+FRIRX
+Fidelity Advisor Real Estate Income Fund Class
+Purchase
+06/22/2022
+$1,001 - $15,000
+n/a
+609
+Joint
+DODGX
+Dodge &amp; Cox Stock Fund - Class I
+Purchase
+06/22/2022
+$15,001 - $50,000
+n/a
+610
+Joint
+BCSSX
+Brown Capital Management Small Company Fd Inst C
+Purchase
+06/23/2022
+$1,001 - $15,000
+n/a
+611
+Joint
+VTV
+Vanguard Value ETF
+Purchase
+12/22/2022
+$1,000,001 - $5,000,000
+n/a
+612
+Joint
+VUG
+Vanguard Growth ETF
+Purchase
+12/22/2022
+$1,000,001 - $5,000,000
+n/a
+613
+Joint
+VO
+Vanguard Mid-Cap ETF
+Purchase
+12/22/2022
+$1,000,001 - $5,000,000
+n/a
+614
+Joint
+VGK
+Vanguard FTSEEuropean ETF
+Purchase
+12/22/2022
+$1,000,001 - $5,000,000
+n/a
+615
+Joint
+SCHH
+Schwab U.S. REIT ETF
+Purchase
+12/22/2022
+$100,001 - $250,000
+n/a
+616
+Joint
+SCHD
+Schwab US Dividend Equity ETF
+Purchase
+12/22/2022
+$500,001 - $1,000,000
+n/a
+617
+Joint
+SCHX
+Schwab U.S. Large-Cap ETF
+Purchase
+12/22/2022
+$1,000,001 - $5,000,000
+n/a
+618
+Joint
+PFPMX
+Parnassus Mid Cap Fund - Institutional Shares
+Purchase
+12/22/2022
+$500,001 - $1,000,000
+n/a
+619
+Joint
+NSRIX
+Northern Global Sustainability Index Fund
+Purchase
+12/22/2022
+$1,000,001 - $5,000,000
+n/a
+620
+Joint
+MQGIX
+MFS International Growth Fund - Class I
+Purchase
+12/22/2022
+$1,000,001 - $5,000,000
+n/a
+621
+Joint
+REET
+iShares Trust iShares Global REIT ETF
+Purchase
+12/22/2022
+$250,001 - $500,000
+n/a
+622
+Joint
+IWM
+iShares Russell 2000 ETF
+Purchase
+12/22/2022
+$250,001 - $500,000
+n/a
+623
+Joint
+IVV
+iShares Core S&amp;P 500 ETF
+Purchase
+12/22/2022
+$1,000,001 - $5,000,000
+n/a
+624
+Joint
+GICIX
+Goldman Sachs Intl Small Cap Insights Fd Inst
+Purchase
+12/22/2022
+$1,000,001 - $5,000,000
+n/a
+625
+Joint
+SKIRX
+Dws Enhanced Commodity Strategy Fund - Class Ins
+Purchase
+12/22/2022
+$500,001 - $1,000,000
+n/a
+626
+Joint
+COSVX
+Columbia Overseas Value Fund Class Adv
+Purchase
+12/22/2022
+$1,000,001 - $5,000,000
+n/a
+627
+Joint
+ANONX
+American Century Small Cap Growth Fund - I Class
+Purchase
+12/22/2022
+$250,001 - $500,000
+n/a
+628
+Joint
+VSMIX
+Invesco Small Cap Value Class Y
+Purchase
+12/22/2022
+$250,001 - $500,000
+n/a
+629
+Joint
+BSV
+Vanguard Short-Term Bond ETF
+Purchase
+01/24/2022
+$1,000,001 - $5,000,000
+n/a
+630
+Joint
+MINT
+PIMCO Enhanced Short Maturity Active Exchange-Trad
+Purchase
+01/24/2022
+$1,000,001 - $5,000,000
+n/a
+631
+Joint
+VMLUX
+Vanguard Limited-Term Tax-Exempt Fd Admiral Shs
+Purchase
+01/25/2022
+$1,000,001 - $5,000,000
+n/a
+632
+Joint
+FLTRX
+Nuveen Flagship Limited Term Municipal Bond Fd C
+Purchase
+01/25/2022
+$1,000,001 - $5,000,000
+n/a
+633
+Joint
+LLDYX
+Lord Abbett Inv Tr. Short Duration Income Fd Cl
+Purchase
+01/25/2022
+$1,000,001 - $5,000,000
+n/a
+634
+Joint
+FISHX
+Fidelity Advisor Limited Term Municipal Income F
+Purchase
+01/25/2022
+$1,000,001 - $5,000,000
+n/a
+635
+Joint
+CBHIX
+Victory Market Neutral Income Fund - Class I
+Purchase
+02/04/2022
+$100,001 - $250,000
+n/a
+636
+Joint
+HYD
+VanEck Vectors High Yield Municipal Index ETF
+Purchase
+02/04/2022
+$100,001 - $250,000
+n/a
+637
+Joint
+PPSIX
+Principal Funds Inc. - Spectrum Preferred and C
+Purchase
+02/04/2022
+$50,001 - $100,000
+n/a
+638
+Joint
+NHMRX
+Nuveen High Yield Municipal Bd Fd Class I
+Purchase
+02/04/2022
+$100,001 - $250,000
+n/a
+639
+Joint
+PFF
+iShares Preferred and Income Securities ETF
+Purchase
+02/04/2022
+$50,001 - $100,000
+n/a
+640
+Joint
+VRP
+Invesco Variable Rate Preferred ETF
+Purchase
+02/04/2022
+$50,001 - $100,000
+n/a
+641
+Joint
+JHBIX
+John Hancock Bond Fund Class I
+Purchase
+02/04/2022
+$15,001 - $50,000
+n/a
+642
+Joint
+PFFD
+Global X U.S. Preferred ETF
+Purchase
+02/04/2022
+$50,001 - $100,000
+n/a
+643
+Joint
+DODIX
+Dodge &amp; Cox Income Fund - Class I
+Purchase
+02/04/2022
+$50,001 - $100,000
+n/a
+644
+Joint
+CPXIX
+Cohen &amp; Steers Preferred Securities and Income F
+Purchase
+02/04/2022
+$50,001 - $100,000
+n/a
+645
+Joint
+ABNFX
+The Bond Fd of America Class F-2 Shares
+Purchase
+02/04/2022
+$15,001 - $50,000
+n/a
+646
+Joint
+AHMFX
+American Fds American High-Income Municipal Bon
+Purchase
+02/04/2022
+$100,001 - $250,000
+n/a
+647
+Joint
+CBHIX
+Victory Market Neutral Income Fund - Class I
+Purchase
+03/02/2022
+$100,001 - $250,000
+n/a
+648
+Joint
+HYD
+VanEck Vectors High Yield Municipal Index ETF
+Purchase
+03/02/2022
+$50,001 - $100,000
+n/a
+649
+Joint
+PPSIX
+Principal Funds Inc. - Spectrum Preferred and C
+Purchase
+03/02/2022
+$50,001 - $100,000
+n/a
+650
+Joint
+NHMRX
+Nuveen High Yield Municipal Bd Fd Class I
+Purchase
+03/02/2022
+$50,001 - $100,000
+n/a
+651
+Joint
+PFF
+iShares Preferred and Income Securities ETF
+Purchase
+03/02/2022
+$15,001 - $50,000
+n/a
+652
+Joint
+VRP
+Invesco Variable Rate Preferred ETF
+Purchase
+03/02/2022
+$50,001 - $100,000
+n/a
+653
+Joint
+JHBIX
+John Hancock Bond Fund Class I
+Purchase
+03/02/2022
+$50,001 - $100,000
+n/a
+654
+Joint
+PFFD
+Global X U.S. Preferred ETF
+Purchase
+03/02/2022
+$50,001 - $100,000
+n/a
+655
+Joint
+CPXIX
+Cohen &amp; Steers Preferred Securities and Income F
+Purchase
+03/02/2022
+$50,001 - $100,000
+n/a
+656
+Joint
+ABNFX
+The Bond Fd of America Class F-2 Shares
+Purchase
+03/02/2022
+$50,001 - $100,000
+n/a
+657
+Joint
+AHMFX
+American Fds American High-Income Municipal Bon
+Purchase
+03/02/2022
+$100,001 - $250,000
+n/a
+658
+Joint
+DODIX
+Dodge &amp; Cox Income Fund - Class I
+Purchase
+03/03/2022
+$15,001 - $50,000
+n/a
+659
+Joint
+CBHIX
+Victory Market Neutral Income Fund - Class I
+Purchase
+03/25/2022
+$50,001 - $100,000
+n/a
+660
+Joint
+HYD
+VanEck ETF Trust VanEck High Yield Muni ETF
+Purchase
+03/25/2022
+$15,001 - $50,000
+n/a
+661
+Joint
+NHMRX
+Nuveen High Yield Municipal Bd Fd Class I
+Purchase
+03/25/2022
+$50,001 - $100,000
+n/a
+662
+Joint
+PFF
+iShares Preferred and Income Securities ETF
+Purchase
+03/25/2022
+$50,001 - $100,000
+n/a
+663
+Joint
+VRP
+Invesco Variable Rate Preferred ETF
+Purchase
+03/25/2022
+$1,001 - $15,000
+n/a
+664
+Joint
+PFFD
+Global X U.S. Preferred ETF
+Purchase
+03/25/2022
+$15,001 - $50,000
+n/a
+665
+Joint
+DODIX
+Dodge &amp; Cox Income Fund
+Purchase
+03/25/2022
+$50,001 - $100,000
+n/a
+666
+Joint
+AHMFX
+American Fds American High-Income Municipal Bon
+Purchase
+03/25/2022
+$50,001 - $100,000
+n/a
+667
+Joint
+VWIUX
+Vanguard Intermediate-Term Tax-Exempt Fd Admiral
+Purchase
+05/10/2022
+$50,001 - $100,000
+n/a
+668
+Joint
+FLTRX
+Nuveen Flagship Limited Term Municipal Bond Fd C
+Purchase
+05/10/2022
+$15,001 - $50,000
+n/a
+669
+Joint
+NHMRX
+Nuveen High Yield Municipal Bd Fd Class I
+Purchase
+05/10/2022
+$15,001 - $50,000
+n/a
+670
+Spouse
+ALB
+Albemarle Corp
+Purchase
+01/05/2022
+$1,001 - $15,000
+n/a
+671
+Spouse
+AXP
+American Express Company
+Purchase
+01/05/2022
+$1,001 - $15,000
+n/a
+672
+Spouse
+AQUA
+Evoqua Water Technologies Corp. Common Stock
+Purchase
+01/05/2022
+$1,001 - $15,000
+n/a
+673
+Spouse
+HPQ
+HP Inc
+Purchase
+01/05/2022
+$1,001 - $15,000
+n/a
+674
+Spouse
+INVH
+Invitation Homes Inc
+Purchase
+01/05/2022
+$1,001 - $15,000
+n/a
+675
+Spouse
+NTR
+Nutrien Ltd
+Purchase
+01/05/2022
+$1,001 - $15,000
+n/a
+676
+Spouse
+ORCL
+Oracle Corp
+Purchase
+01/05/2022
+$1,001 - $15,000
+n/a
+677
+Spouse
+SITE
+SiteOne Landscape Supply, Inc. Common Stock
+Purchase
+01/05/2022
+$1,001 - $15,000
+n/a
+678
+Spouse
+TTEK
+Tetra Tech Inc
+Purchase
+01/05/2022
+$1,001 - $15,000
+n/a
+679
+Spouse
+VSTO
+Vista Outdoor Inc
+Purchase
+01/05/2022
+$1,001 - $15,000
+n/a
+680
+Spouse
+--
+30323G275 First Trust S&amp;P Div Arst TGT
+Purchase
+01/05/2022
+$50,001 - $100,000
+n/a
+681
+Spouse
+--
+30324H470 First Trust Capital Strength OPP
+Purchase
+02/23/2022
+$50,001 - $100,000
+n/a
+682
+Spouse
+AIMC
+Altra Industrial Motion Corp. - Common Stock
+Sale (Partial)
+01/05/2022
+$1,001 - $15,000
+n/a
+Part 5. Gifts
+Did you, your spouse, or dependent child receive any reportable gift during the reporting period?
+No
+Part 6. Travel
+Did you, your spouse, or dependent child receive any
+Close
+"data-template='
+'class="btn btn-link popover--textButton font-weight-bold" data-placement="auto" data-content="
+If you are reimbursed for more than one trip from the same sponsor, and the trips added together are worth more than $480, then you must report each trip individually, even if the reimbursement for each separate trip does not equal more than $480.
+">reportable travel
+?
+No
+Part 7. Liabilities
+Did you, your spouse, or dependent child have a reportable, non-revolving charge account liability worth more than $10,000 at any time or a revolving charge account whose value exceeded $10,000 as of the last day of the reporting period?
+Yes
+List of liabilities added to this report
+&#35;
+Incurred
+Debtor
+Type
+Points
+Rate
+(Term)
+Amount
+Creditor
+Comments
+1
+2022
+Joint
+Mortgage
+0
+3.95%
+(15 years)
+$1,000,001 - $5,000,000
+Regent Bank
+Tulsa, OK
+n/a
+Part 8. Positions
+Did you hold any reportable outside positions during the reporting period?
+No
+Part 9. Agreements
+Did you have any reportable agreement or arrangement with an outside entity?
+No
+Part 10. Compensation
+Only required if you are a candidate or this is your first report
+: Did any person or entity pay more than $5,000 to you or for services provided by you?
+No
+Attachments & Comments
+No attachments added.
+No comments added.

@@ -121,6 +121,29 @@ donors and must not be used. [P] `exhibits/fec_employer_botanic_tonics_schedA.js
 | **Botanic Tonics LLC -> MAHA PAC (C00821439)** | **$1,000,000** | [P] `exhibits/fec_botanic_tonics_schedA.json` |
 | **TRACEABLE FEDERAL TOTAL** | **$1,730,673** | [P] |
 
+### The RNC contribution is the statutory ceiling, exactly [P]
+
+The $443,000 is not a round number chosen by a donor. It is the **maximum an
+individual may give a national party committee in one calendar year**, across all
+four permitted accounts, under FEC's published 2025-2026 limits:
+
+    main account          $ 44,300
+    convention account    $132,900
+    headquarters account  $132,900
+    recount/legal account $132,900
+                          --------
+                          $443,000
+
+Ross gave that sum on a single day, 2026-02-17, in four transactions matching
+those four figures. FEC images `202603209853749439`, `...438`, `...743128`.
+
+**Qualification we raise ourselves:** all four rows carry the memo
+`PARTNERSHIP ATTRIBUTION` and three sit on the "Other Federal Receipts" line, so
+the funds arrived through an entity and were attributed to Ross as a partner.
+Whether they originated in personal accounts is **not established** [I].
+
+See `FINDING_23_ross_money.md`.
+
 ### Two conflicts in the reporting, both now resolved against the primary
 
 1. **$500K vs $1M to MAHA PAC.** Both were right. FEC shows **two** contributions
@@ -237,9 +260,13 @@ agency review and posting. Comment period closes 2026-09-10.
 
 - [ ] Obtain Mullin's **OGE Form 278e and ethics agreement** (OGE / Senate HSGAC nomination record)
 - [ ] Mullin House + Senate annual disclosures 2013-2025, test for prior Botanic Tonics reporting
-- [ ] Resume the blocked **FEC employer sweep** (needs an api.data.gov key or a rate-limit reset)
-- [ ] Identify the **joint fundraising committee** behind the 2025-01-02 allocation pattern
-- [ ] Pull **LDA filings** for Stop Gas Station Heroin / Checkmate and settle the $600K vs $750K conflict
+- [x] ~~Resume the blocked **FEC employer sweep**~~ **DONE 2026-08-28**, full API key obtained. Findings 22 update + 23
+- [x] ~~Identify the **joint fundraising committee**~~ **Kennedy Victory Fund 2024**, allocating outward to the LNC and state parties. Finding 23 s4
+- [x] ~~Settle the $600K vs $750K conflict~~ **$750,000**, Checkmate Government Relations for Stop Gas Station Heroin LLC. Confirmed again 2026-08-28 against the full 298-filing corpus
+- [ ] **Atallah's Botanic Tonics start date** vs the Feb 2024 publication. FEC places him there by 2025-09-30 and at JUUL Labs through Jan 2021; the gap is unresolved. Finding 06 addendum
+- [ ] **Patent search: 9-hydroxycorynantheidine synthesis routes.** Strongest forward indicator of a successor product. Finding 20
+- [ ] Identify the **partnership or LLC** behind the `PARTNERSHIP ATTRIBUTION` memo on the $443,000
+- [ ] Constituent letter to **Sen. Blackburn (TN)**, who signed the 2026-03-18 letter and takes no industry money
 - [ ] **PACER**: *Torres v. Botanic Tonics*; the 2023 in-rem seizure action and its Dec 2025 dismissal. The dismissal docket may state a reason
 - [ ] Obtain the **Wyden letters** themselves, all three
 - [ ] Re-capture the five **blocked sources** (DEA, Public Citizen x2, congress.gov, Missouri Independent) via an alternate path

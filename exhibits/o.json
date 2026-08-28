@@ -1,0 +1,58 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service. Submission of an adverse event report does not constitute an admission that a product caused or contributed to an event. The information in these reports has not been scientifically or otherwise verified as to a cause and effect relationship and cannot be used to estimate incidence (occurrence rate) or to estimate risk.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-07-07"
+  },
+  "results": [
+    {
+      "term": "Other Serious or Important Medical Event",
+      "count": 427
+    },
+    {
+      "term": "Death",
+      "count": 276
+    },
+    {
+      "term": "Hospitalization",
+      "count": 239
+    },
+    {
+      "term": "Disability",
+      "count": 135
+    },
+    {
+      "term": "Life Threatening",
+      "count": 134
+    },
+    {
+      "term": "Visited Emergency Room",
+      "count": 95
+    },
+    {
+      "term": "Visited a Health Care Provider",
+      "count": 70
+    },
+    {
+      "term": "Other Outcome",
+      "count": 39
+    },
+    {
+      "term": "Other Serious Outcome",
+      "count": 24
+    },
+    {
+      "term": "Required Intervention",
+      "count": 7
+    },
+    {
+      "term": "Injury",
+      "count": 6
+    },
+    {
+      "term": "Allergic Reaction",
+      "count": 1
+    }
+  ]
+}

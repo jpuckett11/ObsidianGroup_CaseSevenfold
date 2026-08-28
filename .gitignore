@@ -33,3 +33,8 @@ deliverables/wyden/
 
 # Filed FOIA copies carry a home address. Placeholders only in public.
 deliverables/foia/*_FILED.txt
+
+# scratch and build intermediates, added 2026-08-28
+*.err
+.opened
+deliverables/_*.html

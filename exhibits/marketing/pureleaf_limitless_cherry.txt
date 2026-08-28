@@ -1,0 +1,2502 @@
+-->
+Limitless Black Edition 7-Hydroxymitragynine Tablets Cherry 50mg Per Tablet
+<img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=1207026727889690&ev=PageView&noscript=1" />
+div#consent-manager {
+max-width: 100vw !important;
+}
+.beautify__mainHeader .container {
+height: 70px;
+}
+.beautify__mainHeader .container .header-logo {
+height: 70px;
+}
+@media screen and (max-width: 767px) {
+.beautify__mainHeader .container {
+height: 143px;
+}
+.beautify__mainHeader .container .header-logo {
+height: 67px;
+}
+}
+@media (min-width: 801px) {
+.navPages-list--user {
+display: none;
+}
+.navPages-container {
+height: 112px !important;
+}
+}
+@media (min-width: 1750px) {
+.navPages-container {
+height: unset !important;
+}
+}
+html {
+overflow: scroll !important;
+}
+// Global debug logging functions - must be defined before any other scripts use them
+window.logDebug = function() {
+// Check if debug mode is enabled via FILTER_SETTINGS (set below) or simple debugMode flag
+if ((window.FILTER_SETTINGS && window.FILTER_SETTINGS.debugMode) || window.debugMode) {
+console.log.apply(console, arguments);
+}
+};
+window.logDebugError = function() {
+// Check if debug mode is enabled via FILTER_SETTINGS (set below) or simple debugMode flag
+if ((window.FILTER_SETTINGS && window.FILTER_SETTINGS.debugMode) || window.debugMode) {
+console.error.apply(console, arguments);
+}
+};
+// Simple debugMode flag for early access (before FILTER_SETTINGS loads)
+window.debugMode = false; // Set to true to enable debug logging before FILTER_SETTINGS loads
+document.documentElement.className = document.documentElement.className.replace('no-js', 'js');
+function browserSupportsAllFeatures() {
+return window.Promise
+&& window.fetch
+&& window.URL
+&& window.URLSearchParams
+&& window.WeakMap
+// object-fit support
+&& ('objectFit' in document.documentElement.style);
+}
+function loadScript(src) {
+var js = document.createElement('script');
+js.src = src;
+js.onerror = function () {
+console.error('Failed to load polyfill script ' + src);
+};
+document.head.appendChild(js);
+}
+if (!browserSupportsAllFeatures()) {
+loadScript('https://cdn11.bigcommerce.com/s-9rfkclyxvm/stencil/408f6300-8469-013f-d74c-12eb58d82f3f/e/36cc1df0-2057-013c-9e4e-6e0327aaacfa/dist/theme-bundle.polyfills.js');
+}
+window.lazySizesConfig = window.lazySizesConfig || {};
+window.lazySizesConfig = {
+loadMode: 1,
+loadHidden: false
+}
+window._vwo_code || (function() {
+var account_id=1061871,
+version=2.1,
+settings_tolerance=2000,
+hide_element='body',
+hide_element_style = 'opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;transition:none !important;',
+/* DO NOT EDIT BELOW THIS LINE */
+f=false,w=window,d=document,v=d.querySelector('#vwoCode'),cK='_vwo_'+account_id+'_settings',cc={};try{var c=JSON.parse(localStorage.getItem('_vwo_'+account_id+'_config'));cc=c&&typeof c==='object'?c:{}}catch(e){}var stT=cc.stT==='session'?w.sessionStorage:w.localStorage;code={nonce:v&&v.nonce,use_existing_jquery:function(){return typeof use_existing_jquery!=='undefined'?use_existing_jquery:undefined},library_tolerance:function(){return typeof library_tolerance!=='undefined'?library_tolerance:undefined},settings_tolerance:function(){return cc.sT||settings_tolerance},hide_element_style:function(){return'{'+(cc.hES||hide_element_style)+'}'},hide_element:function(){if(performance.getEntriesByName('first-contentful-paint')[0]){return''}return typeof cc.hE==='string'?cc.hE:hide_element},getVersion:function(){return version},finish:function(e){if(!f){f=true;var t=d.getElementById('_vis_opt_path_hides');if(t)t.parentNode.removeChild(t);if(e)(new Image).src='https://dev.visualwebsiteoptimizer.com/ee.gif?a='+account_id+e}},finished:function(){return f},addScript:function(e){var t=d.createElement('script');t.type='text/javascript';if(e.src){t.src=e.src}else{t.text=e.text}v&&t.setAttribute('nonce',v.nonce);d.getElementsByTagName('head')[0].appendChild(t)},load:function(e,t){var n=this.getSettings(),i=d.createElement('script'),r=this;t=t||{};if(n){i.textContent=n;d.getElementsByTagName('head')[0].appendChild(i);if(!w.VWO||VWO.caE){stT.removeItem(cK);r.load(e)}}else{var o=new XMLHttpRequest;o.open('GET',e,true);o.withCredentials=!t.dSC;o.responseType=t.responseType||'text';o.onload=function(){if(t.onloadCb){return t.onloadCb(o,e)}if(o.status===200||o.status===304){_vwo_code.addScript({text:o.responseText})}else{_vwo_code.finish('&e=loading_failure:'+e)}};o.onerror=function(){if(t.onerrorCb){return t.onerrorCb(e)}_vwo_code.finish('&e=loading_failure:'+e)};o.send()}},getSettings:function(){try{var e=stT.getItem(cK);if(!e){return}e=JSON.parse(e);if(Date.now()>e.e){stT.removeItem(cK);return}return e.s}catch(e){return}},init:function(){if(d.URL.indexOf('__vwo_disable__')>-1)return;var e=this.settings_tolerance();w._vwo_settings_timer=setTimeout(function(){_vwo_code.finish();stT.removeItem(cK)},e);var t;if(this.hide_element()!=='body'){t=d.createElement('style');var n=this.hide_element(),i=n?n+this.hide_element_style():'',r=d.getElementsByTagName('head')[0];t.setAttribute('id','_vis_opt_path_hides');v&&t.setAttribute('nonce',v.nonce);t.setAttribute('type','text/css');if(t.styleSheet)t.styleSheet.cssText=i;else t.appendChild(d.createTextNode(i));r.appendChild(t)}else{t=d.getElementsByTagName('head')[0];var i=d.createElement('div');i.style.cssText='z-index: 2147483647 !important;position: fixed !important;left: 0 !important;top: 0 !important;width: 100% !important;height: 100% !important;background: white !important;display: block !important;';i.setAttribute('id','_vis_opt_path_hides');i.classList.add('_vis_hide_layer');t.parentNode.insertBefore(i,t.nextSibling)}var o=window._vis_opt_url||d.URL,s='https://dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(o)+'&vn='+version;if(w.location.search.indexOf('_vwo_xhr')!==-1){this.addScript({src:s})}else{this.load(s+'&x=true')}}};w._vwo_code=code;code.init();})();
+var BCData = {"product_attributes":{"sku":null,"upc":null,"mpn":null,"gtin":null,"weight":null,"base":false,"image":null,"price":{"without_tax":{"formatted":"$8.99","value":8.99,"currency":"USD"},"tax_label":"Tax","price_range":{"min":{"without_tax":{"formatted":"$8.99","value":8.99,"currency":"USD"},"tax_label":"Tax"},"max":{"without_tax":{"formatted":"$44.95","value":44.95,"currency":"USD"},"tax_label":"Tax"}}},"out_of_stock_behavior":"label_option","out_of_stock_message":"Out of stock","available_modifier_values":[],"available_variant_values":[],"in_stock_attributes":[],"selected_attributes":[],"stock":null,"instock":false,"stock_message":null,"purchasable":true,"purchasing_message":"The selected product combination is currently unavailable.","call_for_price_message":null,"disabled_option_values":[]}};
+//console.log('YPL: yotpo placeholder v5');
+window.onload = function () {
+const o = new MutationObserver((mutations) => {
+mutations.forEach((mutation) => {
+if (mutation.addedNodes) {
+mutation.addedNodes.forEach((node) => {
+if (node.nodeType === 1 && node.tagName === "DIV" && node.classList.contains("yotpo-reviews-star-ratings-widget")) {
+//console.log("YPL: Found the yotpo rating widget 3.0 div");
+const childDiv = node.querySelector('.yotpo-sr-bottom-line-text');
+if (childDiv) {
+//console.log('YPL: child div found');
+}
+if (childDiv && childDiv.innerHTML.includes('Review')) {
+//console.log("YPL: Found the yotpo rating widget child div with the expected content");
+const placeholders = document.querySelectorAll(".bp__yotpo_placeholder");
+if (placeholders.length) {
+placeholders.forEach((placeholder) => {
+placeholder.remove();
+});
+//console.log("YPL: Removed all bp__yotpo_placeholder divs");
+o.disconnect();
+}
+}
+}
+});
+}
+});
+});
+o.observe(document.body, {
+attributes: true,
+childList: true,
+characterData: true,
+subtree: true
+});
+};
+window.addEventListener("load", () => {
+setTimeout(() => {
+if (typeof yotpo !== "undefined") {
+yotpo.initWidgets();
+//console.log("loaded");
+} else {
+//console.log("yotpo not found, no widgets to initialize");
+}
+}, 2000);
+});
+/*
+Web Site Advantage: SEO Rich Snippets App 1 of 2 Graph [2.59.83245] Proprietary Runtime
+https://bigcommerce.websiteadvantage.com.au/rich-snippets/
+Licensed for use only by authorised Web Site Advantage customers.
+Copyright (C) 2019 - 2026 Web Site Advantage Pty Ltd.
+*/
+var webSiteAdvantage=webSiteAdvantage||{};webSiteAdvantage.momentnow='2026-08-27T23:57:33+00:00';function wsa_error(m){console.error('SEO Rich Snippets: '+m,arguments)};function wsa_tryCatch(m,f){try{f()}catch(e){wsa_error(m,e)}};var wsa_jsonLdIdPostfix="";"use strict";webSiteAdvantage._offerPropertiesCount=0,webSiteAdvantage.addOfferExtras=function(e,t,i,a,r){wsa_tryCatch("addOfferExtras",(function(){var n=document.querySelector(".wsa-offer-pricevaliduntil"),o=null,d=new Date;if(i){var c=new Date(i);o=[c.getFullYear(),("0"+(c.getMonth()+1)).slice(-2),("0"+c.getDate()).slice(-2)].join("-")}else if(n)o=n.getAttribute("data-content");else if(a)if(a.ProductPriceValidUntilFixedDate)o=a.ProductPriceValidUntilFixedDate;else if(a.ProductPriceValidUntilDays){var l=new Date(d.getFullYear(),d.getMonth(),d.getDate()+a.ProductPriceValidUntilDays);o=[l.getFullYear(),("0"+(l.getMonth()+1)).slice(-2),("0"+l.getDate()).slice(-2)].join("-")}if(o&&new Date(o)>d){var s=[];if(s.push({"@context":"https://schema.org","@id":e+t,priceValidUntil:o}),r.forEach((function(i){s.push({"@context":"https://schema.org","@id":e+"?sku="+i+t,priceValidUntil:o})})),webSiteAdvantage._offerPropertiesCount++,!webSiteAdvantage.excludeProduct){var u=document.createElement("script");u.type="application/ld+json",u.id="wsa-rich-snippets-jsonld-product-offer-extras-"+webSiteAdvantage._offerPropertiesCount+window.wsa_jsonLdIdPostfix.toLowerCase(),u.text=JSON.stringify(s),document.querySelector("head").appendChild(u)}}}))};window.addEventListener('load',function(){webSiteAdvantage.addOfferExtras("https://pureleafkratom.com/products/limitless-black-edition-7-hydroxymitragynine-tablets-cherry-50mg-per-tablet.html","#Offer",'',null,[])});var wsa_removeMicrodata=true;var wsa_removeDynamicJsonLd=true;var wsa_productUrl="https://pureleafkratom.com/products/limitless-black-edition-7-hydroxymitragynine-tablets-cherry-50mg-per-tablet.html";var wsa_productId="80516";var wsa_productReviewCounts="both";var wsa_productReviewMinAggregateRating=0;var wsa_log=function(t){performance.mark(t);console.log(''+performance.now()+': '+t)};var wsa_headLog=function(t){var ds=document.getElementsByTagName('head')[0].dataset;ds.reviewLog=(ds.reviewLog||'')+' '+t;if (window.htmlLog)window.htmlLog('headLog: '+t);};"use strict";wsa_tryCatch("yotpo3",(function(){!function(e,t){var a="",o=e.wsa_productId,r=e.wsa_productUrl;function getYotopAppKey(){if(e.wsa_yotpoAppKey)return e.wsa_yotpoAppKey;if(e.wsa_productReviewKey)return e.wsa_productReviewKey;var t=document.querySelector('script[src*="yotpo.com/v1/loader/"]');if(t)return t.getAttribute("src").split("/").pop();for(var a=document.getElementsByTagName("script"),o=/\/\/staticw2\.yotpo\.com\/(.+?)\/widget\.js/g,r=0;r
+0&&a.bottomline.averageScore>=window.wsa_productReviewMinAggregateRating){e.wsa_headLog("add");var o=a.bottomline.totalReview,i={"@context":"https://schema.org/","@type":"Product","@id":r+"#Product"+e.wsa_jsonLdIdPostfix,aggregateRating:{"@type":"AggregateRating",worstRating:"1",bestRating:"5",ratingValue:a.bottomline.averageScore},review:[]};switch(e.wsa_productReviewCounts){case"reviewCount":i.aggregateRating.reviewCount=o;break;case"ratingCount":i.aggregateRating.ratingCount=o;break;default:i.aggregateRating.reviewCount=o,i.aggregateRating.ratingCount=o}for(var n=0;n
+0)for(var s=0;s<n.length;s++){var d=n[s];e.wsa_headLog("remove1"),d.parentNode.removeChild(d)}new MutationObserver((function(t){wsa_tryCatch("yotpo mutation head",(function(){t.forEach(function(t){var a=t.addedNodes;if(a&&a.length)for(var o=0;o<a.length;o++){var r=a[o];"SCRIPT"===r.nodeName&&"application/ld+json"===r.getAttribute("type")&&void 0!==r.classList&&r.classList.contains("y-rich-snippet-script")&&(e.wsa_headLog("remove2"),r.parentNode.removeChild(r))}}.bind(this))}))})).observe(t.querySelector("head"),{attributes:!0,childList:!0,characterData:!0,subtree:!0})}(window,document)}));webSiteAdvantage.richSnippetsApp=["9rfkclyxvm","pureleafkratom.com",1901,"9rfkclyxvm",""];webSiteAdvantage.bcReviews=false;webSiteAdvantage.classyUnicode=webSiteAdvantage.classyUnicode||{};webSiteAdvantage.classyUnicode.options={querySelector:'.classyunicode,title,h1,h2,h3,h4,h5,.breadcrumb-label,.navPages-action,.footer-info-list,script[type="application/ld+json"]',processMetaTags:true};window.classySchemaOptions=window.classySchemaOptions||{};window.classySchemaOptions.scriptIdBase='wsa-rich-snippets-jsonld-classyschema-';window.classySchemaOptions.classNamePrefixes=["classyschema-","wsa-"];window.classySchemaOptions.customCssSelectors={"howto-name":"h1.page-heading"};window.classySchemaOptions.customCssSelectors = {
+"faqpage-question": "h4.shogun-accordion-title",
+"faqpage-answer": "div.shg-rich-text.shg-theme-text-content"
+};webSiteAdvantage.classyCleanUp=webSiteAdvantage.classyCleanUp||{};webSiteAdvantage.classyCleanUp.options={removeMicrodata:true,removeJsonLd:true,removeDynamicJsonLd:true,removeJsonLdRegexExcludeIdPatterns:['^wsa-rich-snippets-.*$','reviewsWidgetProductSnippets'],removeJsonLdRegexExcludeClassPatterns:['^jdgm-.*$']};!function(d){var s=d.createElement('script');s.src='https://classyschema.org/2_15/faq_video_howto_unicode_cleanup.min.js';s.async=true;s.setAttribute('fetchpriority','high');d.getElementsByTagName('head')[0].appendChild(s)}(document);
+/*
+Web Site Advantage: Tag Rocket App 1 of 2 Head [1.95.87043] Proprietary Runtime
+https://bigcommerce.websiteadvantage.com.au/tag-rocket/
+Licensed for use only by authorised Web Site Advantage customers.
+Copyright (C) 2020 - 2026 Web Site Advantage Pty Ltd.
+*/
+!function(w,d){if(d.location.href.indexOf('showHidden=true')
+=0)T.aeff=!0;if(T.aeff)return;try{if(!eei){eei=1;if(!w.gtag){w.gtag=function(){dataLayer.push(arguments)}}T.ec('config',eea,{groups:'TagRocketErrorTracking',send_page_view:false})}if(!eer){eer=1;T.ct=c;if(w.console)console.error('Tag Rocket: '+s+': '+e,o||'');T.ct=1;var z=e?e.substring(0,255):'-missing-';T.ec('event','app_error',{send_to:eea,scope:s,description:s+' 3.48.15 '+z,message:z,app_version:'3.48.15',automatic:1,tag_rocket_version:'1.95',pagedatetime:eet.toISOString(),datetime:new Date().toISOString(),ua:navigator.userAgent,tags:'US|'+T.tags,timesinceload:new Date-eet,environment:'Production'});eer=0}}catch(x){try{T.ec('event','app_error',{send_to:eea,scope:'AppErrorError',description:'3.48.15 '+x,message:''+x,app_version:'3.48.15',tag_rocket_version:'1.95',pagedatetime:eet.toISOString(),datetime:new Date().toISOString(),ua:navigator.userAgent,tags:'US|'+T.tags,timesinceload:new Date-eet,environment:'Production'})}catch(y){}}};T.eq=T.eq||[];if(w.addEventListener){w.addEventListener('error',function(){T.ef.apply(T,arguments)},{passive:!0,capture:!0})}else if(w.attachEvent){w.attachEvent('onerror',function(){T.ef.apply(T,arguments)})}if(!T.ef){T.ef=function(){T.eq.push(arguments)}};if(!T.cf){T.cq=T.cq||[];T.cf=function(){T.cq.push(arguments)};if(w.console){T.ce=console.error;console.error=function(){T.ce.apply(console,arguments);T.cf.apply(T,arguments)}}};try{T.dY=function(a){return typeof a!=='undefined'};T.dy='NewPromotionsAdded';T.dR=[];T.dS=0;T.cj=function(){T.dQ(function(a){a.forEach(function(b){T.e(b.addedNodes,function(c){if(T.bf(c,T.aY)=='promotion'&&T.bd(c,'found')){T.dR.push(c)}T.e(T.dO(c,"["+T.aY+"='promotion']"),function(e){if(T.bd(e,'found')){T.dR.push(e)}})})});if(T.aP(T.dR)&&!T.dS){T.ad(function(){T.dS=T.bg(function(){T.dS=0;T.f(T.dy,{elements:T.dR});T.dR=[]},100,'New Promotions Added')})}})};T.dK=[];T.dL=0;T.dM=function(a){T.e(a,function(b){if(T.bf(b,T.aY)=='list'&&T.dN(b)&&T.bd(b,'found')){T.dK.push(b)}T.e(T.dO(b,"["+T.aY+"='list']"),function(c){if(T.dN(c)&&T.bd(c,'found')){T.dK.push(c)}})})};T.dP=function(){T.ad(function(){if(T.aP(T.dK)){if(T.dL)T.dG(T.dL);T.dL=T.bg(function(){T.f(T.cR,{elements:T.dK});T.dK=[];T.dL=0},500,'New Products Added')}})};T.ci=function(e){T.dQ(function(f){f.forEach(function(g){T.dM(g.addedNodes)});T.dP()},e||d.body)};T.cR='NewProductsAdded';T.cx='UserDataUpdated';T.bl=function(a){return d.querySelector(a)};T.bm=function(a){return d.getElementById(a)};T.dU=function(a){return d.createElement(a)};T.dO=function(a,b){if(!a.querySelectorAll)return[];var c=a.querySelectorAll(b);if(Array.from)return Array.from(c);else return c};T.aX=function(a){return T.dO(d,a)};T.dN=function(a){var b=T.bf(a,T.aZ);return b&&!isNaN(parseInt(b,10))};T.q=function(a){return T.dY(a)&&a!==null};T.aA=function(a){return a===0||(T.q(a)&&a!==''&&!isNaN(a))};T.ea=function(a){var b=String.fromCodePoint;if(b){return b(a)}return ''};T.dZ=function(a,b,c){var e=[].slice.call(a).map(function(f){if(c||typeof(f)==='function')return f;try{return T.S(f)}catch(g){if(Array.isArray(f)){return[].concat(f)}else return f}});if(T.aP(e)){e[0]=T.ea(b)+' %cTag Rocket: %c'+e[0];e.splice(1,0,'color:none;');e.splice(1,0,'color:#28a300;')}return e};T.bT=function(){if(w.console)console.warn.apply(console,T.dZ(arguments,0x1F6A8,1))};T.cw=function(){if(w.console)console.error.apply(console,T.dZ(arguments,0x26A0,1))};T.R=function(a,b){return a.sort(function(c,e){return e.price*e.quantity-c.price*c.quantity}).slice(0,b)};T.cF=function(a,b,c,e){var f,g=function(h){if(h>=T.aP(a))c&&c();else T.bg(function(){T.t('SB95',function(){f=b(a[h],h);if(T.dY(f))c&&c(f);else g(h+1)},1)},0,'Yield '+h+' '+e)};g(0)};T.e=function(a,b){var c,e,f=T.aP(a);if(a&&f)for(c=0;c
+-1};T.db=function(a,b){if(a&&T.aP(a))for(var c=0;c
+0){var g='createCartMetafield',h='',i=T.cc(f,'data.site.cart.metafields.edges');if(i&&i.length){g='updateCartMetafield';h=' metafieldEntityId:'+i[0].node.entityId}T.dj('mutation '+g+'{cart{'+g+'(input:{cartEntityId:"'+a+'" data:{key:"'+b+'" value:"'+T.bN(c).replace(/"/g,'\\"')+'"}'+h+'}){metafield{id entityId key value}errors{...on Error{message}}}}}',function(e,j){T.t('SB83',function(){if(e>0){}},1)})}},1)})};T.dW=function(a){T.cn.appendChild(a)};T.dT=function(a,b,c){b=b||{};if(b.onvisible&&d.hidden){T.w('visibilitychange',function(){T.dT(a,b,c)});return};var e=T.dU(a),f;if(b.id&&T.bm(b.id))return;for(var g in b){T.dV(e,g,b[g])}e.onload=e.onreadystatechange=function(){f=e.readyState;if(!f||f=='loaded'||f=='complete'){if(c)c();c=null}};T.dW(e);return e};T.aN=function(a,b,c){b=b||{};b.src=a;if(!T.q(b.async))b.async=!0;if(T.cs)b.nonce=T.cs;if(!T.q(b.onvisible)&&T.pageType!='orderconfirmation')b.onvisible=!0;if(T.pageType!='orderconfirmation'||T.d.updated){T.dT('script',b,c)}else{T.o(T.cx,function(){T.dT('script',b,c)})}};T.dq=function(a){if(T.bh(a,'data-list-name'))return T.bf(a,'data-list-name');if(a.parentElement)return T.dq(a.parentElement)};T.m=function(){var a=T.bl('head meta[name="description"]');if(a)return T.bf(a,'content');};T.cv=function(a){var b=w.location.href.match(new RegExp('[?&]'+a+'=([^&]*)'));return decodeURIComponent(b&&b[1]||'')};T.dQ=function(a,b,c){if(w.MutationObserver)T.w(T.x,function(){c=c||{childList:!0,subtree:!0};b=b||d.body;if(!b)throw 'no target';new MutationObserver(a).observe(b,c)})};T.aE=function(a,b){if(a&&a.event_log)a.event_log+=b};T.dy='NewPromotionsAdded';T.dR=[];T.dS=0;T.cj=function(){T.dQ(function(a){a.forEach(function(b){T.e(b.addedNodes,function(c){if(T.bf(c,T.aY)=='promotion'&&T.bd(c,'found')){T.dR.push(c)}T.e(T.dO(c,"["+T.aY+"='promotion']"),function(e){if(T.bd(e,'found')){T.dR.push(e)}})})});if(T.aP(T.dR)&&!T.dS){T.ad(function(){T.dS=T.bg(function(){T.dS=0;T.f(T.dy,{elements:T.dR});T.dR=[];},100,'New Promotions Added')})}});};T.dK=[];T.dL=0;T.dM=function(a){T.e(a,function(b){if(T.bf(b,T.aY)=='list'&&T.dN(b)&&T.bd(b,'found')){T.dK.push(b)}T.e(T.dO(b,"["+T.aY+"='list']"),function(c){if(T.dN(c)&&T.bd(c,'found')){T.dK.push(c)}})})};T.dP=function(){T.ad(function(){if(T.aP(T.dK)){if(T.dL)T.dG(T.dL);T.dL=T.bg(function(){T.f(T.cR,{elements:T.dK});T.dK=[];T.dL=0},500,'New Products Added')}})};T.ci=function(e){T.dQ(function(f){f.forEach(function(g){T.dM(g.addedNodes);});T.dP();},e||d.body)};T.cR='NewProductsAdded';T.al='PromotionsVisible';T.dx=function(a){T.aV(T.al,a)};T.aT=function(a,b){if(T.db(['orderconfirmation','checkout','cart'],T.pageType))return;var c,e=[];T.e(a.infos||a.items||a,function(f){c=f.product||f;if(!c.completed){e.push(c);}});if (T.aP(e)&&T.cv('showHidden')!='true'&&!T.n(e[0].name,'Package Protection')&&!T.co){T.a('SB55e',''+T.aP(e)+' incomplete products on '+b+' '+e[0].productId+' '+e[0].name,1,e);}};T.dt=function(a,b){var c="["+T.aY+"='list']["+T.aZ+"='"+a+"']";if(b)c="[data-list-name='"+T.be(b,/['"\\]/g,'\\$&')+"'] "+c;return T.bl(c)};T.L='ProductsVisible';T.dv=function(a,b){if(T.aU||T.cb)a.search=T.aU||T.cb;T.aT(a,T.L);T.cJ(T.L,a,b)};T.dH=function(a){T.t('SB19b',function(){var b,c={},e;T.e(a,function(f){if(!f.seen){f.seen=1;b=f.callback.name+f.id;if(!c[b])c[b]=[];c[b].push(f)}});for(var g in c){e=c[g][0];e.callback({infos:c[g],list:e.list})}},1)};T.dJ=0;T.dI=[];T.dC=function(a){a.visibleTime=0;if(!T.q(a.minVisibleTime))a.minVisibleTime=2e3;var b,c=new IntersectionObserver(function(e){T.e(e,function(f){if(f.isIntersecting){a.lastVisible=new Date;a.trigger='visible';b=T.bg(function(){c.disconnect();T.dI.push(a);if(T.dJ)return;T.dJ=T.bg(function(){T.dJ=0;if(T.aP(T.dI)){T.dH(T.dI);T.dI=[];}},1e3,'Visible Ticking')},a.minVisibleTime-a.visibleTime,'On First Visible')}else{if(b)T.dG(b);if(a.lastVisible){a.visibleTime+=new Date-a.lastVisible;a.lastVisible=0}}})},{threshold:[0.5]});c.observe(a.e)};T.dE=[];T.dF=0;T.dD=function(a){T.dE.push(a)};T.ck=function(){T.t('SB18c',function(){var b,c,e=0,f=1,g=function(a){if(a.seen)return false;if(a.e&&a.e.getBoundingClientRect){try{b=a.e.getBoundingClientRect()}catch(h){}if(b){return b.top>-b.height/2&&b.left>-b.width/2&&b.bottom-b.height/2
+T.dF){T.dF=o;e=n;T.t('SB18b',function(){T.e(T.dE,function(a){a.trigger='scroll '+o;if(g(a)&&T.aP(m)
+1)T.a('SB30c','Fetch '+g.join('/')+' Success after fail '+a+' '+e,1,h);h.text().then(function(i){var j;try{j=T.bQ(i)}catch(k){throw 'JSON parse error '+k+' '+a}try{c(j?1:0,j||'-empty-')}catch(k){throw 'onComplete error '+k+' '+a}})}else{if(f
+body';if(b=='head')return 'html>head';if(a.id)return b+'#'+a.id;if(a.className&&T.aP(a.className))b+='.'+a.className.split(/[ ,]+/).join('.');if(a.parentElement)b=T.bM(a.parentElement)+'>'+b;return b}};T.r=function(a,b){if(isNaN(a))return a;if(!b)b=0;var c=Math.pow(10,b),e=Number.EPSILON||2.220446049250313e-16;return Math.round((a+e)*c)/c};T.dn='GetValue';T.getProductId=function(a,b,c,e,f){if(c.type=='giftCertificate')return c.type;var g=(c.isVariant&&f?f:e);if(g.length
+250)T.a('SB26','Can only get 250 variants. There are '+T.aP(n),1,n);f+='variants(first:250 entityIds:'+T.bN(n.slice(0,250))+'){edges{node{entityId mpn upc gtin options(first:50){edges{node{displayName values(first:50){edges{node{label}}}}}}}}}';}f+='twoVariants:variants(first:2){edges{node{entityId sku}}}';if(!h)f+='}}';f+='}}}';T.dj(f,function(p,q){T.t('SB32',function(){if(p>0){if(q.errors&&T.aP(q.errors))throw 'graphql '+q.errors[0].message;T.e(e,function(o){var r,s,t,u,v,x,y,z,aa,ab,ac,ad,ae;if(h){y=T.cc(q,'data.site.product');z=T.cc(q,'data.site.id.sku');aa=T.cc(q,'data.site.id.mpn');ab=T.cc(q,'data.site.id.upc');ac=T.cc(q,'data.site.id.gtin');x=T.cc(q,'data.site.id.variants.edges');if(x)o.variantId=T.cc(x[0],'node.entityId');delete o.productSku}else{ad=T.cc(q,'data.site.products.edges');if(!ad)T.a('SB32x',T.bN(q),1,q);y=T.e(ad,function(af){if(!af||!af.node)T.a('SB32z',T.bN(q),1,q);if(af&&af.node&&af.node.entityId==o.productId)return af.node});if(y)z=y.sku}if(y){o.completed=!0;var ag,ah=[],ai=o.sku,aj=y.name,ak=y.path,al=y.defaultImage,am=y.mpn,an=y.upc,ao=y.gtin,ap=y.brand,aq=o.variantId;ai=ai||h;if(z)o.productSku=z;if(ai&&z!=ai)o.variantSku=ai;if(aj)o.name=aj;if(al){o.defaultImage=al;if(al.url)al.data=T.be(al.url,'/1000w/','/{:size}/')};if(ak)o.url=T.cp+ak;if(h){if(aa)o.productMpn=aa;else delete o.productMpn;if(ab)o.productUpc=ab;else delete o.productUpc;if(ac)o.productGtin=ac;else delete o.productGtin;if(am&&aa!=am)o.variantMpn=am;if(an&&ab!=an)o.variantUpc=an;if(ao&&ac!=ao)o.variantGtin=ao;}else{if(am)o.productMpn=am;if(an)o.productUpc=an;if(ao)o.productGtin=ao;}if(ap&&ap.name)o.brand=ap.name;o.isVariant=(ai&&(!z||z!=ai))==!0;if(o.isVariant&&aq&&c){ae=T.dk(y,aq);if(ae){if(ae.options)o.variantName=T.dl(ae);if(ae.mpn)o.variantMpn=ae.mpn;if(ae.upc)o.variantUpc=ae.upc;if(ae.gtin)o.variantGtin=ae.gtin}else{T.a('SB27','Failed to get extra variant information for variant: '+aq,1,y);o.variantName='(id='+aq+')'}};v=T.cc(y,'twoVariants.edges');if(T.aP(v)>0){ag=v[0].node;if(!o.isVariant)o.hasVariants=T.aP(v)>1||!(o.productSku==ag.sku||ag.sku=='');if(T.aP(v)
+s.id)r=s}}});o.category=r}})}else{if(T.pageType!='orderconfirmation'&&p==0&&!T.co)T.a(a.reason,'Failed to get extra information for '+T.aP(m)+',ok='+p+',status='+q,1,m)}if(T.aP(i)>25){l(i.slice(25))}else{if(p>0&&!c&&!T.co){var at=[];T.e(e,function(o){if(!o.completed)at.push(o)});if(T.aP(at)&&!k){if(g)T.a('SB55d','Could not get extra product data for URL sku '+g,1,{issues:at,items:e});else if(h)T.a('SB55a','Could not get extra product data for sku '+h,1,{issues:at,items:e});else T.a('SB55b',a.reason+' '+a.requests+' Could not get extra product data for '+T.aP(at)+' out of '+T.aP(e)+' items. '+at[0].productId,1,{issues:at,items:e});T.a('SB55c',T.bN(q),1,q)}}if(a.reason==T.P&&T.aP(e)&&!e[0].variantId&&T.dm)e[0].variantId=T.dm;b(a)}},1)})};if(a.reason==T.P){g=T.cv('sku');h=a.items[0].sku||g;}if(c){c.items=[];var au=c.lineItems;if(au)T.e([].concat(au.physicalItems,au.digitalItems,au.giftCertificates),function(av){if(c.currency&&c.currency.code)av.currency=c.currency.code;if(!T.aA(av.price))av.price=av.salePrice;if(!T.aA(av.price))av.price=av.list_price;if(av.type=='giftCertificate'){av.price=av.amount;av.productId='giftCertificate';av.quantity=1;av.isTaxable=av.taxable;av.completed=!0}if(av&&!av.parentId)c.items.push(av)});else{T.a('SB26b','Missing lineItems '+a.reason+' '+T.bN(a.response||c),1,c);return}}e=a.items||c.items;a.items=e;if(c)c.items=e;T.products=T.products||[];T.products.push(e);var aw=0;if(c){if(T.g&&!c.currency)c.currency={code:T.g};var ax,ay=c.baseAmount,az=c.cartAmount,ba=c.coupons;if(ay&&az)c.totalDiscount=ay-az;if(ba)c.couponCodes=ba.map(function(bb){return bb.code}).join(', ')}T.e(e,function(o){var bc=o.discountAmount,bd=o.couponAmount;if(!o.productId&&o.product_id)o.productId=o.product_id;if(!o.variantId&&o.variant_id)o.variantId=o.variant_id;ax=0;if(bc)ax+=bc;if(bd){ax+=bd;if(c&&c.couponCodes)o.couponCodes=c.couponCodes}if(ax){o.totalDiscount=ax;aw+=ax}if(o.type!='giftCertificate'&&o.productId&&!T.db(i,o.productId))i.push(o.productId);if(o.variantId)j.push({p:o.productId,v:o.variantId});});if(c&&c.orderAmount)c.totalDiscount=(c.discountAmount||0)+aw;if(!T.aP(i)){T.ad(function(){b(a)})}else{a.requests=0;l(i);}},1)};T.t('SB33',function(){var a=T.cc(w,'prototype'),b=T.cc(a,'send'),c=T.cc(a,'open'),e=w.fetch;if(!T.xe){if(c){a.open=function(f,g){this.rurl=g;return c.apply(this,arguments)}}if(b&&b.apply){a.send=function(){var h=this;T.bi(h,'readystatechange',function(){if(h.readyState==4&&(h.status>399||h.status==0)){T.xe(h)}});return b.apply(this,arguments)}}}T.xq=T.xq||[];T.xe=function(i){T.xq.push(i)};if(!T.fe){if(e&&e.apply){w.fetch=function(g){/*This detects fetch errors.Please look up the stack for the real cause of the error*/return e.apply(this,arguments).then(function(j){if(j.status>399)T.fe({type:'status',url:j.url,message:j.status});return j}).catch(function(k){T.fe({type:T.ap,url:g.url||g,message:k.stack||k.message||k});throw k})}}}T.fq=T.fq||[];T.fe=function(l){T.fq.push(l)};},1);T.ch=function(){var a=0,b=0;T.av='XMLHttpRequestResponseError';T.o(T.av,function(a){var b=a.responseURL||a.rurl,c=a.status,e='XMLHttpRequest Response '+c,f=e+': '+b;if(b&&T.n(b,'/g/collect'))T.aw=1;if(b&&(T.n(b,'/api/storefront/carts/')||T.n(b,'/customer/current.jwt'))){}else{T.B(T.ap,{description:T.k(f),error_type:'network',error_message:T.k(e),error_filename:T.k(b),fatal:false})}},'GF30',1&&!T.aw);T.xe=function(c){a++;if(T.cn){T.cn.dataset.xhrErrors=a;T.cn.dataset.xhrErrorsInfo=(T.cn.dataset.xhrErrorsInfo||'')+' '+(c.responseURL||c.rurl)+' '+c.status+' '+c.statusText+' '+c.readyState;};if(d.visibilityState!='hidden'&&a
+0};T.bx=function(a){if(!localStorage)return;T.ad(function(){var b,c,e,f=T.bQ(T.bj('wsa-c')),g=f||{version:'n/a'},h,i,j={};T.bI=0;T.e(a.items,function(k){var l=k.productSku,m=k.variantName,n=k.brand,o=k.sku,p=k.quantity;if(T.bI
+99?'prerender-until-script':g)):g;T.bi(w,'pageshow',function(h){if(h.persisted)T.u='bfcache'});}w.dataLayer=w.dataLayer||[];T.cM=[];T.gp=[];T.aG=function(){if(!T.cN&&T.cO){T.cN=!0;try{while(T.aP(T.cM)){var a=T.cM[0];T.cM.splice(0, 1);gtag.apply(null,a)}if(T.cP){while(T.aP(T.gp)){var a=T.gp[0];T.gp.splice(0, 1);gtag.apply(null,a)}}}finally{T.cN=!1;}}};T.aD=function(b){if(!w.gtag||!w.gtag.tagrocket){w.gtag=function(c,e,f){var a=arguments;if(T.cO){var g=f&&f.send_to||[],h=Array.isArray(g)?g:[g],i=["g-93bqc61ymq","tagrocket","googleanalyticsfour"];if(c==T.z&&e&&T.n(i,e.toLowerCase())&&((f&&f.send_page_view===!1)!=!0)){T.cP=!0}if(c==T.aK){if(e==T.C){if(h.some(function(j){return T.n(i,j.toLowerCase())})){T.cQ=!0}}else if(!T.cP&&(h.some(function(j){return T.n(i,j.toLowerCase())}))){T.aE(f,'v');T.gp.push(a);return}}try{if(TextEncoder){var s=new TextEncoder().encode(T.bN(k)).byteLength;if(s>16e3)T.a('GT5','Gtag Payload Too Large '+s,1,arguments)}}catch(l){}T.aE(f,'e');dataLayer.push(a);if(T.cQ){T.cQ=!1;T.cP=!0;T.aG()}}else{if(c=='consent')dataLayer.push(a);else{T.aE(f,'p');T.cM.push(a)}}};w.gtag.tagrocket=!0;return!0}};T.aD('Start');dataLayer.splice(0).forEach(function(a){gtag.apply(null,a)});T.o(T.L,function(a){var b=[],c=a.list,e=c.listName,f={items:b},g;T.p(f,'currency',T.g);T.e(a.infos,function(h){g=T.J(h.product,(h.e?'element':'stencil')+' '+h.trigger+' '+(h.product.searchprovider?h.product.searchprovider:''));if(g)b.push(g)});if(c.category&&c.type!=c.category)e=c.type+':'+c.category;T.B('view_item_list',T.K(f,e,c.id))},'GF3d',1);T.o(T.al,function(a){T.e(a.infos,function(b){T.am('view_promotion',b.promotion)})},'GF40',1);T.o(T.I,function(a){var b=T.J(a.product),c={items:[b]};T.p(c,'currency',T.g);if(b)T.B('select_item',T.K(c,a.list.listName,a.list.id))},'GF3c',1);T.o(T.an,function(a){T.am('select_promotion',a)},'GF41',1);T.o(T.cR,function(a){T.aW(a.elements)});T.cS='consent';T.cT='default';T.cU='update';T.cV='denied';T.cW='granted';T.aH='ConsentChanged';T.cX='ConsentPreChanged';T.ae={gtagConsentModeV2:'basic',consentSource:'bc',bcEnabled:T.cr,enabled:T.cr};T.consent=T.ae;T.gtmConsent=function(a,b){T.cY(b||'gtm',a)};T.t('SB7',function(){var a,b,c=function(a){var e=!0;T.aF=T.cZ=T.da=e;T.ae.analytics=T.aF;T.ae.functional=T.cZ;T.ae.targetingAdvertising=T.da;};a=T.ag('bc_consent');c(a);T.bp('SB7b',1,function(){b=T.ag('bc_consent');if(a!=b){a=b;c(b);T.f(T.cX,T.ae);T.f(T.aH,T.ae)}},500)},1);T.dc='ConsentEstablished';T.w(T.x,function(){T.ae.established='bc';T.cO=!0;T.cJ(T.dc,T.ae)});T.ad=function(a){if(T.cO)a(!0);else T.o(T.dc,a)};T.t('SB84',function(){T.cY=function(a,b){var c='[US-] external Consent Mode '+a+" command detected while Tag Rocket is set to using the BC Banner. Possibly because BigCommerce's BODL GA4 solution is enabled.",e=T.S({o:b,c:T.ae}),f=T.ae.trLast;if(f&&!T.ae.errorSent&&(f.ad_storage!=b.ad_storage||f.analytics_storage!=b.analytics_storage||f.functionality_storage!=b.functionality_storage)){T.ae.errorSent=!0;if(T.bj('wsa-cme'))T.bT(c,e);else T.a('SB91',c,1,e);T.bk('wsa-cme','-')}}},1);T.dd=!0;T.de=function(){var a=w.google_tag_data,b=T.cT,c=a&&a.ics&&a.ics.entries,e={},f,g;if(c){for(f in c){g=c[f];if(T.q(g.update)){e[f]=g.update?T.cW:T.cV;b=T.cU}else if(T.q(g.default))e[f]=g.default?T.cW:T.cV}if(!T.df(e)){a=T.ae.googleTagData;if(!a||T.bN(e)!=T.bN(a)||(b==T.cU&&T.dd)){T.dd=!1;T.ae.googleTagData=T.S(e);T.cY('google_tag_data_'+b,e)}}}};T.bp('SB81',0,T.de,500);T.ad(function(){T.aD('WhenConsentEstablished');T.aG()});T.dg=0;T.t('SB15',function(){w.dataLayer=w.dataLayer||[];var a,b=w.dataLayer,c=b.push,e=function(f,g){if(f&&f.length>2&&f[0]==T.cS)T.cY('dl_'+f[1]+'_'+g,f[2])};for(a=0;a
+Global Settings')};T.w(T.x,function(){if(T.i)T.e(T.i,function(){T.init()});});T.aC=[];T.y=function(a,b,c){var e=T.aD('GtagAnalyticsConsent');T.aE(c,e?'r':'o');if(T.aF){T.aE(c,'d');gtag.apply(null,arguments);}else{T.aE(c,'q');T.aC.push(arguments)}T.aG()};T.o(T.aH,function(){T.aD('GtagAnalyticsConsent ConsentChanged');if(T.aF){T.e(T.aC,function(f){gtag.apply(null,f);});T.aC=[];T.aG()}});T.aI=0;T.aJ=0;T.au=Date.now();T.B=function(g,c){try{if(g==T.ap){T.aJ++;if(T.aJ>15)return};var h=T.A({},T.b,c);T.aI++;h['developer_id.dODEzZj']=true;if(!gtag)T.a('GF43',g+': No gtag',1,h);T.ad(function(i){T.t('GF91',function(){h.send_to="G-93BQC61YMQ";T.aE(h,i?'y':'n');T.y(T.aK,g,h)},1)});}catch(j){T.a('GF42',g+': '+j,1,j);throw j}};gtag('set','developer_id.dODEzZj',true);T.o(T.cX,function(){T.ae.trLast={analytics_storage:T.aF?T.cW:T.cV,functionality_storage:T.cZ?T.cW:T.cV,ad_storage:T.da?T.cW:T.cV};T.aD('ConsentChanged1');gtag(T.cS,T.cU,T.ae.trLast);dataLayer.push({event:'bc_consent_update'});T.aG()});T.o(T.aH,function(){if(T.aF&&T.ecq){T.aD('ConsentChanged2');T.e(T.ecq,function(a){gtag.apply(null,a)});T.ecq=[];T.aG()}});if(T.cr){T.ae.trLast={functionality_storage:T.cZ?T.cW:T.cV,ad_storage:T.da?T.cW:T.cV,analytics_storage:T.aF?T.cW:T.cV};gtag(T.cS,T.cT,T.ae.trLast);};T.bF('wsa-cm');gtag('js',new Date);T.aL='https://www.googletagmanager.com/gtag/js?id=G-93BQC61YMQ';T.ad(function(){T.t('GF1',function(){var a={},b={},c={send_page_view:false,groups:['TagRocket','GoogleAnalyticsFour']};T.b=a;var e={};T.p(e,'customer_id',T.d.id);T.p(e,'customer_group_name',T.d.customer_group_name);T.p(e,'customer_group_id',T.d.customer_group_id);T.p(e,'user_currency_code',T.g);gtag('set','user_properties',e);var f='',g=T.h(),h=T.j("resource"),i,j,k='unknown';b.meta_description=T.k(T.m());b.content_group=T.pageType;a.page_type=T.pageType;if(!w.arrowFunctions)f+='arrowFunctions ';if(!w.asyncFunctions)f+='asyncFunctions ';if(!w.fetch)f+='fetch ';if(!w.MutationObserver)f+='MutationObserver ';if(!w.addEventListener)f+='addEventListener ';b.missing_features=f.trim()||'(none)';if(h){j=h.find(function(l){return l.initiatorType=='early-hints'});i=h.find(function(l){return (T.n(l.name,'googleapis.com')||T.n(l.name,'fonts.gstatic.com'))&&!l.duration&&!l.transferSize});k=i?'hot':(j?'warm':'cold')}a.effective_connection_type=g&&g.effectiveType||'unknown';a.save_data=(g&&T.q(g.saveData))?''+g.saveData:'unknown';a.delivery_type=T.u;a.initially_hidden=T.v;a.resource_loading=k;var m=d.documentElement,n=d.body;a.width=w.innerWidth||(m&&m.clientWidth);a.height=w.innerHeight||(m&&m.clientHeight);a.pixel_ratio=w.devicePixelRatio;if(!a.width)T.w(T.x,function(){a.width=n&&n.clientWidth;a.height=n&&n.clientHeight});T.p(a,'active_currency_code',T.g);a.country_code='US';T.p(a,'user_id',T.d.id);T.y(T.z,"G-93BQC61YMQ",T.A(c,a));b=T.A(b,a);T.B(T.C,b)},1)})}catch(e){T.teh=T.teh||[];T.teh.push(e);if(T.a)T.a('HEAD',''+e,1,e);else if(T.tah)T.tah('Head Script ISSUE')}T.ts=1}}(window,document)
+document.sezzleConfig = {
+"configGroups": [{
+"targetXPath": ".price-withouttax/.price-value-wrapper/.price-value"
+},{
+"targetXPath": ".price-withtax/.price-value-wrapper/.price-value"
+},{
+"targetXPath": ".productView-price/.price-section/.price--withoutTax"
+},{
+"targetXPath": ".productView-price/.price-section/.price--withTax"
+},{
+"targetXPath": ".cart-total-grandTotal/SPAN-0",
+"renderToPath": "../..",
+"urlMatch": "cart"
+},{
+"targetXPath":".order-total/.cart-totals-value/.value-price"
+}]
+}
+/*
+Web Site Advantage: SEO Rich Snippets App 2 of 2 Product [2.59.83246] Proprietary Runtime
+https://bigcommerce.websiteadvantage.com.au/rich-snippets/
+Licensed for use only by authorised Web Site Advantage customers.
+Copyright (C) 2019 - 2026 Web Site Advantage Pty Ltd.
+*/
+!function (f, b, e, v, n, t, s) {
+if (f.fbq) return; n = f.fbq = function () {
+n.callMethod ?
+n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+};
+if (!f._fbq) f._fbq = n; n.push = n; n.loaded = !0; n.version = '2.0';
+n.queue = []; t = b.createElement(e); t.async = !0;
+t.src = v; s = b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t, s)
+}(window, document, 'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '1207026727889690');
+fbq('track', 'PageView');
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NB56N59M');
+/* >> TriplePixel :: start*/
+window.TriplePixelData={TripleName:"store-9rfkclyxvm.mybigcommerce.com",ver:"2.17",plat:"bigcommerce",isHeadless:false,product:{id:"80516",name:"Limitless Black Edition 7-Hydroxymitragynine Tablets Cherry 50mg Per Tablet",price:""},checkout:{id:"",ship_email:""},user:{em:""}},function(W,H,A,L,E,_,B,N){function O(U,T,P,H,R){void 0===R&&(R=!1),H=new XMLHttpRequest,P?(H.open("POST",U,!0),H.setRequestHeader("Content-Type","text/plain")):H.open("GET",U,!0),H.send(JSON.stringify(P||{})),H.onreadystatechange=function(){4===H.readyState&&200===H.status?(R=H.responseText,U.includes("/first")?eval(R):P||(N[B]=R)):(299<H.status||H.status<200)&&T&&!R&&(R=!0,O(U,T-1,P))}}if(N=window,!N[H+"sn"]){N[H+"sn"]=1,L=function(){return Date.now().toString(36)+"_"+Math.random().toString(36)};try{A.setItem(H,1+(0|A.getItem(H)||0)),(E=JSON.parse(A.getItem(H+"U")||"[]")).push({u:location.href,r:document.referrer,t:Date.now(),id:L()}),A.setItem(H+"U",JSON.stringify(E))}catch(e){}var i,m,p;A.getItem('"!nC`')||(_=A,A=N,A[H]||(E=A[H]=function(t,e,a){return void 0===a&&(a=[]),"State"==t?E.s:(W=L(),(E._q=E._q||[]).push([W,t,e].concat(a)),W)},E.s="Installed",E._q=[],E.ch=W,B="configSecurityConfModel",N[B]=1,O("https://conf.config-security.com/model",5),i=L(),m=A[atob("c2NyZWVu")],_.setItem("di_pmt_wt",i),p={id:i,action:"profile",avatar:_.getItem("auth-security_rand_salt_"),time:m[atob("d2lkdGg=")]+":"+m[atob("aGVpZ2h0")],host:A.TriplePixelData.TripleName,plat:A.TriplePixelData.plat,url:window.location.href.slice(0,500),ref:document.referrer,ver:A.TriplePixelData.ver},O("https://api.config-security.com/event",5,p),O("https://api.config-security.com/first?host=store-9rfkclyxvm.mybigcommerce.com&plat=bigcommerce",5)))}}("","TriplePixel",localStorage);
+/* << TriplePixel :: end*/
+(function() {
+function decodeBase64(base64) {
+const text = atob(base64);
+const length = text.length;
+const bytes = new Uint8Array(length);
+for (let i = 0; i < length; i++) {
+bytes[i] = text.charCodeAt(i);
+}
+const decoder = new TextDecoder();
+return decoder.decode(bytes);
+}
+window.bodl = JSON.parse(decodeBase64("eyJzZXNzaW9uIjp7ImlkIjoiMWQ1ZGIxZWUtZjAyOS00Y2UxLWI0MDQtYmI1YjYzOTU0MGYzIiwiZmlyc3RfdG91Y2hfdGltZXN0YW1wIjoiMjAyNi0wOC0yN1QyMzo1NzozMiIsImZpcnN0X3RvdWNoX3JlZmVycmFsX3VybCI6Imh0dHBzOi8vd3d3Lmdvb2dsZS5jb20vIiwiZmlyc3RfdG91Y2hfcmVxdWVzdF91cmwiOiJodHRwczovL3B1cmVsZWFma3JhdG9tLmNvbS9wcm9kdWN0cy9saW1pdGxlc3MtYmxhY2stZWRpdGlvbi03LWh5ZHJveHltaXRyYWd5bmluZS10YWJsZXRzLWNoZXJyeS01MG1nLXBlci10YWJsZXQuaHRtbCJ9LCJzaG9wcGVyIjp7InZpc2l0b3JfaWQiOiIiLCJjdXN0b21lcl9pZCI6bnVsbCwiZW1haWwiOm51bGwsImZpcnN0X25hbWUiOm51bGwsImxhc3RfbmFtZSI6bnVsbH0sImRhdGFfY29uc2VudCI6eyJmdW5jdGlvbmFsIjp0cnVlLCJhbmFseXRpY3MiOnRydWUsImFkdmVydGlzaW5nIjp0cnVlfSwiZXZlbnRzIjpbeyJib2RsX3YxX3Byb2R1Y3RfcGFnZV92aWV3ZWQiOnsiZXZlbnRfaWQiOiJhOWEzZDVmMy1lNzkxLTRjY2UtOGM1Yy00Zjk4NjM2MjJiZTkiLCJjaGFubmVsX2lkIjoxLCJjdXJyZW5jeSI6IlVTRCIsInByb2R1Y3RfdmFsdWUiOjguOTksImxpbmVfaXRlbXMiOlt7InByb2R1Y3RfaWQiOiI4MDUxNiIsInNrdSI6bnVsbCwidmFyaWFudF9pZCI6bnVsbCwicHJvZHVjdF9uYW1lIjoiTGltaXRsZXNzIEJsYWNrIEVkaXRpb24gNy1IeWRyb3h5bWl0cmFneW5pbmUgVGFibGV0cyBDaGVycnkgNTBtZyBQZXIgVGFibGV0IiwiZ2lmdF9jZXJ0aWZpY2F0ZV9pZCI6bnVsbCwiZ2lmdF9jZXJ0aWZpY2F0ZV9uYW1lIjpudWxsLCJnaWZ0X2NlcnRpZmljYXRlX3RoZW1lIjpudWxsLCJwdXJjaGFzZV9wcmljZSI6OC45OSwic2FsZV9wcmljZSI6bnVsbCwiYmFzZV9wcmljZSI6bnVsbCwicmV0YWlsX3ByaWNlIjpudWxsLCJxdWFudGl0eSI6bnVsbCwiZGlzY291bnQiOm51bGwsImNvdXBvbl9hbW91bnQiOm51bGwsImluZGV4IjowLCJicmFuZF9uYW1lIjoiTGltaXRsZXNzIiwiY2F0ZWdvcnlfbmFtZXMiOlsiNyBPSCIsIjcgT0gvNyBPSCBUYWJsZXRzIl0sImN1cnJlbmN5IjoiVVNEIn1dfX1dfQ=="));
+})()
+(function () {
+var xmlHttp = new XMLHttpRequest();
+xmlHttp.open('POST', 'https://bes.gcp.data.bigcommerce.com/nobot');
+xmlHttp.setRequestHeader('Content-Type', 'application/json');
+xmlHttp.send('{"store_id":"1002892261","timezone_offset":"-7.0","timestamp":"2026-08-27T23:57:32.84144800Z","visit_id":"43bad510-d186-4b93-8fb2-3eb385e8196f","channel_id":1}');
+})();
+<body style="overflow-x: hidden;" class="csscolumns supermarket-layout--default
+supermarket-style--
+supermarket-pageType--product
+supermarket-page--pages-product
+supermarket--hideContentNav
+" id="topOfPage">
+<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NB56N59M"
+height="0" width="0" style="display:none;visibility:hidden">
+[data-sub-layout-container="9206b3a3-b11f-4264-abd1-4d7b3dae024c"] {
+box-sizing: border-box;
+display: flex;
+flex-wrap: wrap;
+z-index: 0;
+position: relative;
+height: ;
+padding-top: 0px;
+padding-right: 0px;
+padding-bottom: 0px;
+padding-left: 0px;
+margin-top: 0px;
+margin-right: 0px;
+margin-bottom: 0px;
+margin-left: 0px;
+border-width: 0px;
+border-style: solid;
+border-color: #333333;
+}
+[data-sub-layout-container="9206b3a3-b11f-4264-abd1-4d7b3dae024c"]:after {
+display: block;
+position: absolute;
+top: 0;
+left: 0;
+bottom: 0;
+right: 0;
+background-size: cover;
+z-index: auto;
+}
+[data-sub-layout="d120c3e0-2471-4967-b6ef-1c9d3f1cd49a"] {
+display: flex;
+flex-direction: column;
+box-sizing: border-box;
+flex-basis: 100%;
+max-width: 100%;
+z-index: 0;
+position: relative;
+height: ;
+padding-top: 0px;
+padding-right: 0px;
+padding-bottom: 0px;
+padding-left: 0px;
+margin-top: 0px;
+margin-right: 0px;
+margin-bottom: 0px;
+margin-left: 0px;
+border-width: 0px;
+border-style: solid;
+border-color: #333333;
+justify-content: center;
+}
+[data-sub-layout="d120c3e0-2471-4967-b6ef-1c9d3f1cd49a"]:after {
+display: block;
+position: absolute;
+top: 0;
+left: 0;
+bottom: 0;
+right: 0;
+background-size: cover;
+z-index: auto;
+}
+@media only screen and (max-width: 700px) {
+[data-sub-layout="d120c3e0-2471-4967-b6ef-1c9d3f1cd49a"] {
+flex-basis: 100%;
+max-width: 100%;
+}
+}
+.bp__announcement-bar {
+display: flex;
+justify-content: center;
+box-shadow: 0px 6px 5px -6px rgba(0, 0, 0, 0.1);
+padding: 8px 0px;
+min-height: 40px;
+background: linear-gradient(355deg, #b38954, #f5c481, #b38954);
+position: relative;
+align-items: center;
+font-size: 15px;
+}
+.bp__announcement-bar p {
+font-weight: bold;
+font-size: 17px;
+text-align: center;
+color: #333333;
+margin-bottom: 0px;
+}
+.bp__announcement-bar a {
+text-decoration: none;
+font-weight: bold;
+color: #222;
+margin-bottom: 0px;
+}
+.announcement {
+position: absolute;
+opacity: 0;
+transform: translateX(100%);
+transition: all 300ms ease-in-out;
+/* other styles... */
+}
+.announcement.active {
+opacity: 1;
+transform: translateX(0);
+}
+.announcement.exiting {
+opacity: 0;
+transform: translateX(-100%);
+}
+@media (max-width: 800px) {
+.navPages-container {
+z-index: 9999999999;
+}
+.has-activeNavPages .navPages-container-overlay {
+z-index: 9999;
+}
+.bp__announcement-bar {
+background: linear-gradient(72deg, #fbd39d, #ffe5c3, #f3cc98);
+}
+.bp__announcement-bar p {
+font-size: 16px;
+}
+}
+Free Standard Shipping on Orders over $35
+Join Our Exclusive Rewards and Save
+Check out Our Deals!
+var announcements = document.querySelectorAll('.announcement');
+if (announcements.length > 0) {
+announcements[0].classList.add('active'); // Initialize the first announcement as active
+}
+var currentIndex = 0;
+function updateAnnouncements() {
+var exitingIndex = currentIndex;
+var nextIndex = (currentIndex + 1) % announcements.length;
+// Prepare the next announcement
+announcements[nextIndex].classList.add('active');
+announcements[nextIndex].style.opacity = '0'; // Ensure it starts from 0 opacity
+announcements[nextIndex].style.transform = 'translateX(100%)'; // Positioned to slide in
+setTimeout(() => {
+// Start the exit animation for the current announcement
+announcements[exitingIndex].classList.add('exiting');
+announcements[exitingIndex].style.opacity = '0';
+announcements[exitingIndex].style.transform = 'translateX(-100%)';
+// Start the enter animation for the next announcement
+announcements[nextIndex].style.opacity = '1';
+announcements[nextIndex].style.transform = 'translateX(0)';
+}, 50); // A short delay to ensure CSS transitions take effect
+setTimeout(() => {
+// Cleanup after animations complete
+announcements[exitingIndex].classList.remove('active', 'exiting');
+}, 350); // Slightly longer than the CSS transition time to ensure it completes
+currentIndex = nextIndex;
+}
+setInterval(updateAnnouncements, 6300); // Adjust timing to include the animation duration
+Call us: (562) 304-5089
+Menu
+<img class="bp__header-logo-image"
+src="https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/67w/pure_leaf_golden_logo_small_1680828470__33151.original.png"
+srcset="https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/101w/pure_leaf_golden_logo_small_1680828470__33151.original.png 1.5x,
+https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/134w/pure_leaf_golden_logo_small_1680828470__33151.original.png 2x,
+https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/168w/pure_leaf_golden_logo_small_1680828470__33151.original.png 2.5x,
+https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/201w/pure_leaf_golden_logo_small_1680828470__33151.original.png 3x"
+alt="Pure Leaf Kratom"
+title="Pure Leaf Kratom">
+PURE LEAF KRATOM
+Sign In
+<a class="navUser-action navUser-action--cart"
+data-options="align:right"
+href="https://pureleafkratom.com/cart.php"
+title="Cart">
+Cart
+-->
+Search
+<img class="bp__header-logo-image"
+src="https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/67w/pure_leaf_golden_logo_small_1680828470__33151.original.png"
+srcset="https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/101w/pure_leaf_golden_logo_small_1680828470__33151.original.png 1.5x,
+https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/134w/pure_leaf_golden_logo_small_1680828470__33151.original.png 2x,
+https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/168w/pure_leaf_golden_logo_small_1680828470__33151.original.png 2.5x,
+https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/201w/pure_leaf_golden_logo_small_1680828470__33151.original.png 3x"
+alt="Pure Leaf Kratom"
+title="Pure Leaf Kratom">
+PURE LEAF KRATOM
+Search
+Close
+Sign In
+&amp; Register
+Compare
+Recently Viewed
+<a
+class="navUser-action navUser-action--cart"
+data-cart-preview
+data-dropdown="cart-preview-dropdown-new"
+data-options="align:right"
+href="https://pureleafkratom.com/cart.php"
+title="Cart">
+Cart
+<img class="bp__header-logo-image"
+src="https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/67w/pure_leaf_golden_logo_small_1680828470__33151.original.png"
+srcset="https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/101w/pure_leaf_golden_logo_small_1680828470__33151.original.png 1.5x,
+https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/134w/pure_leaf_golden_logo_small_1680828470__33151.original.png 2x,
+https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/168w/pure_leaf_golden_logo_small_1680828470__33151.original.png 2.5x,
+https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/201w/pure_leaf_golden_logo_small_1680828470__33151.original.png 3x"
+alt="Pure Leaf Kratom"
+title="Pure Leaf Kratom">
+PURE LEAF KRATOM
+Call us: (562) 304-5089
+Sign In
+&amp; Register
+Compare
+Recently Viewed
+<a
+class="navUser-action navUser-action--cart"
+data-cart-preview
+data-dropdown="cart-preview-dropdown-original"
+data-options="align:right"
+href="https://pureleafkratom.com/cart.php"
+title="Cart">
+Cart
+Menu
+Search
+Close
+Menu
+Sign In
+Register
+Deals
+More
+Less
+7 OH
+7 OH Tablets
+7 OH Shots
+Kratom Shots
+More
+Less
+Accessories
+Empty Capsules
+Scales
+Brands
+Pure Leaf Kratom
+Raw Kratom
+OPMS Kratom
+Mit 45
+Krave Kratom
+Hush Kratom
+K Shot
+K Tropix
+View All
+More
+Less
+Kratom Extract
+Extract Powder
+Extract Tablets
+Extract Soft Gels
+Extract Capsules
+More
+Less
+Kratom
+More
+Less
+Kratom Strains
+Bali Kratom
+Borneo Kratom
+Dragon Kratom
+Hulu Kratom
+Indo Kratom
+Kali Kratom
+Maeng Da Kratom
+Malay Kratom
+Sumatra
+Thai Kratom
+Trainwreck Kratom
+More
+Less
+Kratom Capsules
+Blend Kratom Capsules
+Gold Kratom Capsules
+Green Kratom Capsules
+Red Kratom Capsules
+White Kratom Capsules
+More
+Less
+Kratom Powder
+Blend Kratom Powder
+Extra Strength Kratom Powders
+Gold Kratom Powder
+Green Kratom Powder
+Red Kratom Powder
+White Kratom Powder
+More
+Less
+Kratom Edibles
+Kratom Drinks
+Kratom Edibles
+Kratom Energy
+Kava
+More
+Less
+Mushrooms
+Natural Energy
+More
+Less
+Value Packs
+Bundle
+Mega Bundle
+Sampler
+Promo Hub
+<a
+class="navPages-action navPages-action--cart"
+data-cart-preview
+data-dropdown="cart-preview-dropdown"
+data-options="align:right"
+href="https://pureleafkratom.com/cart.php"
+title="Cart">
+Cart
+(function() {
+let retryCount = 0;
+const MAX_RETRIES = 100;
+function hideNavItemsByText(pattern, reason) {
+const navItems = document.querySelectorAll('.navPages-item a, .navPage-subMenu-item a');
+let count = 0;
+navItems.forEach(function(link) {
+const text = link.textContent.trim();
+if (pattern.test(text)) {
+const parentLi = link.closest('li');
+if (parentLi && parentLi.style.display !== 'none') {
+parentLi.style.display = 'none';
+count++;
+logDebug('🚫 [NAVIGATION] Hiding:', text, '- Reason:', reason);
+}
+}
+});
+if (count > 0) {
+logDebug('✅ [NAVIGATION] Hid', count, 'item(s) matching:', reason);
+}
+return count;
+}
+// Hide specific TOP-LEVEL categories from the main nav bar by exact name.
+// Only matches top-level category links (not identically-named submenu links).
+function hideTopLevelCategories(names) {
+const targets = names.map(function(n) { return n.trim().toLowerCase(); });
+const topLinks = document.querySelectorAll('.navPages-list > .navPages-item > a.navPages-action');
+let count = 0;
+topLinks.forEach(function(link) {
+const text = link.textContent.trim().toLowerCase();
+if (targets.indexOf(text) !== -1) {
+const parentLi = link.closest('li');
+if (parentLi && parentLi.style.display !== 'none') {
+parentLi.style.display = 'none';
+count++;
+logDebug('🚫 [NAVIGATION] Hiding category:', link.textContent.trim());
+}
+}
+});
+if (count > 0) {
+logDebug('✅ [NAVIGATION] Hid', count, 'top-level categor(ies)');
+}
+return count;
+}
+// After hiding items, any top-level category whose submenu has no visible
+// items left would still show an empty dropdown on hover. Strip the dropdown
+// (remove the submenu + caret) so it behaves as a plain link.
+function cleanupEmptySubmenus() {
+const items = document.querySelectorAll('.navPages-list > .navPages-item');
+items.forEach(function(item) {
+const subMenu = item.querySelector('.navPage-subMenu');
+if (!subMenu) return;
+const subItems = subMenu.querySelectorAll('.navPage-subMenu-item');
+if (subItems.length === 0) return;
+let visible = 0;
+subItems.forEach(function(si) {
+if (si.style.display !== 'none' && window.getComputedStyle(si).display !== 'none') {
+visible++;
+}
+});
+if (visible === 0) {
+const action = item.querySelector('.navPages-action.has-subMenu');
+const label = action ? action.textContent.trim() : '(unknown)';
+subMenu.remove();
+if (action) {
+action.classList.remove('has-subMenu');
+}
+const toggles = item.querySelectorAll('.navPages-action-toggle, .navPages-action-toggle-desktop');
+toggles.forEach(function(t) { t.style.display = 'none'; });
+logDebug('🧹 [NAVIGATION] Removed empty submenu for:', label);
+}
+});
+}
+async function filterNavigationLinks() {
+// Wait for ProductFilterUtils to be available
+if (!window.ProductFilterUtils || typeof window.ProductFilterUtils.canSeeRestrictedProducts !== 'function') {
+retryCount++;
+if (retryCount >= MAX_RETRIES) {
+console.error('❌ ProductFilterUtils failed to load - navigation 7OH links will not be filtered');
+return;
+}
+setTimeout(filterNavigationLinks, 50);
+return;
+}
+logDebug('🔧 [NAVIGATION] Starting navigation link filtering...');
+const should7OHFilter = window.ProductFilterUtils.is7OHFilteringEnabled();
+const shouldHempFilter = window.ProductFilterUtils.isHempFilteringEnabled();
+logDebug('📋 [NAVIGATION] Filtering settings - 7OH:', should7OHFilter, 'Hemp:', shouldHempFilter);
+if (!should7OHFilter && !shouldHempFilter) {
+logDebug('✅ [NAVIGATION] 7OH/Hemp filtering disabled - skipping order-based checks');
+return;
+}
+// Check if user can see restricted products (logged in with orders)
+logDebug('🔍 [NAVIGATION] Checking user order history...');
+const canSeeRestricted = await window.ProductFilterUtils.canSeeRestrictedProducts();
+logDebug('📊 [NAVIGATION] Order check complete - canSeeRestricted:', canSeeRestricted);
+// Get all navigation links
+const navItems = document.querySelectorAll('.navPages-item a, .navPage-subMenu-item a');
+logDebug('📌 [NAVIGATION] Found', navItems.length, 'navigation items to check');
+let hiddenCount = 0;
+navItems.forEach(function(link) {
+const text = link.textContent.trim();
+const href = link.href || '';
+let shouldHide = false;
+let reason = '';
+// Check 7OH filtering - hide if filtering enabled AND user cannot see restricted
+if (should7OHFilter && !canSeeRestricted && window.ProductFilterUtils.is7OHLink(text, href)) {
+shouldHide = true;
+reason = '7OH (no order history)';
+}
+// Check hemp filtering - hide if filtering enabled AND user is not a customer
+if (shouldHempFilter && !window.ProductFilterUtils.isCustomer() && window.ProductFilterUtils.isHempLink(text, href)) {
+shouldHide = true;
+reason = 'Hemp (not logged in)';
+}
+if (shouldHide) {
+logDebug('🚫 [NAVIGATION] Hiding:', text, '- Reason:', reason);
+const parentLi = link.closest('li');
+if (parentLi) {
+parentLi.style.display = 'none';
+hiddenCount++;
+}
+}
+});
+logDebug('✅ [NAVIGATION] Filtering complete - Hidden', hiddenCount, 'items');
+// Re-run in case 7OH/hemp filtering emptied out any submenu
+cleanupEmptySubmenus();
+}
+// Static category hiding — runs independently of 7OH/hemp filtering and
+// does not depend on ProductFilterUtils being loaded.
+function hideStaticNavCategories() {
+// Always hide "Promo Hub" category
+hideNavItemsByText(/promo\s*hub/i, 'Promo Hub (always hidden)');
+// Always hide these top-level categories from the nav bar
+hideTopLevelCategories(['Kratom Energy', 'Natural Energy', 'Accessories', 'Value Packs']);
+// Always hide these subcategories (exact name match)
+hideNavItemsByText(/^extract soft gels$/i, 'Extract Soft Gels (subcategory)');
+hideNavItemsByText(/^mushroom candy$/i, 'Mushroom Candy (subcategory)');
+// Remove now-empty dropdowns (e.g. Mushrooms after its only sub is hidden)
+cleanupEmptySubmenus();
+}
+// Run when DOM is ready
+if (document.readyState === 'loading') {
+document.addEventListener('DOMContentLoaded', function() {
+hideStaticNavCategories();
+filterNavigationLinks();
+});
+} else {
+hideStaticNavCategories();
+filterNavigationLinks();
+}
+})();
+-->
+Home
+Home
+7 OH
+7 OH Tablets
+Limitless Black Edition 7-Hydroxymitragynine Tablets Cherry 50mg Per Tablet
+{
+"@context": "https://schema.org",
+"@type": "BreadcrumbList",
+"itemListElement":
+[
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https:\u002f\u002fpureleafkratom.com\u002f",
+"name": "Home"
+}
+},
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https:\u002f\u002fpureleafkratom.com\u002f7-oh\u002f",
+"name": "7 OH"
+}
+},
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https:\u002f\u002fpureleafkratom.com\u002f7-oh-tablets\u002f",
+"name": "7 OH Tablets"
+}
+},
+{
+"@type": "ListItem",
+"position": 4,
+"item": {
+"@id": "https:\u002f\u002fpureleafkratom.com\u002fproducts\u002flimitless-black-edition-7-hydroxymitragynine-tablets-cherry-50mg-per-tablet.html",
+"name": "Limitless Black Edition 7-Hydroxymitragynine Tablets Cherry 50mg Per Tablet"
+}
+}
+]
+}
+<div class="productView"
+>
+Limitless
+Add to Wish List
+Create New Wish List
+Limitless Black Edition 7-Hydroxymitragynine Tablets Cherry 50mg Per Tablet
+.bp__yotpo_placeholder{position:relative;height:18px;display:flex;align-items:flex-start}
+-->
+MSRP:
+$8.99 - $44.95
+You save
+.splide:not(.is-initialized) .splide__slide:not(:first-child) {
+display: none;
+}
+.gallery-wrapper {
+height: 682px;
+/* background: #e1e1e1; */
+overflow: hidden;
+}
+.carousel_placeholder {
+display: flex;
+margin: 1rem auto 0;
+padding: 0;
+justify-content: center;
+}
+.splide__placeholder {
+display: flex;
+padding: 0;
+justify-content: center;
+}
+.splide {
+margin: 0 auto;
+}
+.thumbnails {
+display: none;
+margin: 1rem auto 0;
+padding: 0;
+justify-content: center;
+display: none;
+}
+.thumbnail {
+width: 70px;
+height: 70px;
+overflow: hidden;
+list-style: none;
+margin: 0 0.2rem;
+cursor: pointer;
+opacity: 0.3;
+}
+.thumbnail.is-active {
+opacity: 1;
+}
+.thumbnail img {
+width: 100%;
+height: auto;
+}
+.splide__list li {
+list-style-type: none !important;
+}
+@media screen and (max-width: 768px) {
+.gallery-wrapper {
+height: 474px;
+overflow: hidden;
+/* background: #e1e1e1; */
+}
+.splide:not(.is-initialized) .splide__slide:not(:first-child) {
+display: none;
+}
+}
+<img data-bp-info="responsive-img-v28.html" src="https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/160w/products/80516/99040/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-Cherry-50mg-Per-Tablet-set__15530.1773155622.jpg?c=1" alt="Limitless Black Edition 7-Hydroxymitragynine Tablets Cherry 50mg Per Tablet | Set" title="Limitless Black Edition 7-Hydroxymitragynine Tablets Cherry 50mg Per Tablet | Set" data-sizes="auto"
+srcset="https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/80w/products/80516/99040/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-Cherry-50mg-Per-Tablet-set__15530.1773155622.jpg?c=1 80w, https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/160w/products/80516/99040/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-Cherry-50mg-Per-Tablet-set__15530.1773155622.jpg?c=1 160w, https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/320w/products/80516/99040/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-Cherry-50mg-Per-Tablet-set__15530.1773155622.jpg?c=1 320w, https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/640w/products/80516/99040/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-Cherry-50mg-Per-Tablet-set__15530.1773155622.jpg?c=1 640w, https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/960w/products/80516/99040/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-Cherry-50mg-Per-Tablet-set__15530.1773155622.jpg?c=1 960w, https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/1280w/products/80516/99040/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-Cherry-50mg-Per-Tablet-set__15530.1773155622.jpg?c=1 1280w, https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/1920w/products/80516/99040/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-Cherry-50mg-Per-Tablet-set__15530.1773155622.jpg?c=1 1920w, https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/2560w/products/80516/99040/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-Cherry-50mg-Per-Tablet-set__15530.1773155622.jpg?c=1 2560w"
+class=""
+width=608 height=608 />
+<li
+class="splide__slide">
+<img data-bp-info="responsive-img-v28.html" src="https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/160w/products/80516/99040/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-Cherry-50mg-Per-Tablet-set__15530.1773155622.jpg?c=1" alt="Limitless Black Edition 7-Hydroxymitragynine Tablets Cherry 50mg Per Tablet | Set" title="Limitless Black Edition 7-Hydroxymitragynine Tablets Cherry 50mg Per Tablet | Set" data-sizes="auto"
+srcset="https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/80w/products/80516/99040/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-Cherry-50mg-Per-Tablet-set__15530.1773155622.jpg?c=1 80w, https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/160w/products/80516/99040/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-Cherry-50mg-Per-Tablet-set__15530.1773155622.jpg?c=1 160w, https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/320w/products/80516/99040/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-Cherry-50mg-Per-Tablet-set__15530.1773155622.jpg?c=1 320w, https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/640w/products/80516/99040/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-Cherry-50mg-Per-Tablet-set__15530.1773155622.jpg?c=1 640w, https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/960w/products/80516/99040/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-Cherry-50mg-Per-Tablet-set__15530.1773155622.jpg?c=1 960w, https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/1280w/products/80516/99040/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-Cherry-50mg-Per-Tablet-set__15530.1773155622.jpg?c=1 1280w, https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/1920w/products/80516/99040/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-Cherry-50mg-Per-Tablet-set__15530.1773155622.jpg?c=1 1920w, https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/2560w/products/80516/99040/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-Cherry-50mg-Per-Tablet-set__15530.1773155622.jpg?c=1 2560w"
+class=""
+width=608 height=608 />
+<li
+class="splide__slide">
+<img width="100%"
+data-splide-lazy-srcset="
+https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/80w/products/80516/86265/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-Cherry-50mg-Per-Tablet-2ct__03382.1773155621.jpg?c=1 80w,
+https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/160w/products/80516/86265/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-Cherry-50mg-Per-Tablet-2ct__03382.1773155621.jpg?c=1 160w,
+https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/320w/products/80516/86265/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-Cherry-50mg-Per-Tablet-2ct__03382.1773155621.jpg?c=1 320w,
+https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/640w/products/80516/86265/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-Cherry-50mg-Per-Tablet-2ct__03382.1773155621.jpg?c=1 640w,
+https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/960w/products/80516/86265/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-Cherry-50mg-Per-Tablet-2ct__03382.1773155621.jpg?c=1 960w,
+https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/1280w/products/80516/86265/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-Cherry-50mg-Per-Tablet-2ct__03382.1773155621.jpg?c=1 1280w,
+https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/1920w/products/80516/86265/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-Cherry-50mg-Per-Tablet-2ct__03382.1773155621.jpg?c=1 1920w,
+https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/2560w/products/80516/86265/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-Cherry-50mg-Per-Tablet-2ct__03382.1773155621.jpg?c=1 2560w"
+sizes="50vw"
+data-splide-lazy="https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/160w/products/80516/86265/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-Cherry-50mg-Per-Tablet-2ct__03382.1773155621.jpg?c=1"
+alt="Limitless Black Edition 7-Hydroxymitragynine Tablets Cherry 50mg Per Tablet | 2ct"
+>
+<li
+class="splide__slide">
+<img width="100%"
+data-splide-lazy-srcset="
+https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/80w/products/80516/86264/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-Cherry-50mg-Per-Tablet-2ct-back__53364.1773155621.jpg?c=1 80w,
+https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/160w/products/80516/86264/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-Cherry-50mg-Per-Tablet-2ct-back__53364.1773155621.jpg?c=1 160w,
+https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/320w/products/80516/86264/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-Cherry-50mg-Per-Tablet-2ct-back__53364.1773155621.jpg?c=1 320w,
+https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/640w/products/80516/86264/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-Cherry-50mg-Per-Tablet-2ct-back__53364.1773155621.jpg?c=1 640w,
+https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/960w/products/80516/86264/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-Cherry-50mg-Per-Tablet-2ct-back__53364.1773155621.jpg?c=1 960w,
+https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/1280w/products/80516/86264/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-Cherry-50mg-Per-Tablet-2ct-back__53364.1773155621.jpg?c=1 1280w,
+https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/1920w/products/80516/86264/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-Cherry-50mg-Per-Tablet-2ct-back__53364.1773155621.jpg?c=1 1920w,
+https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/2560w/products/80516/86264/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-Cherry-50mg-Per-Tablet-2ct-back__53364.1773155621.jpg?c=1 2560w"
+sizes="50vw"
+data-splide-lazy="https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/160w/products/80516/86264/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-Cherry-50mg-Per-Tablet-2ct-back__53364.1773155621.jpg?c=1"
+alt="Limitless Black Edition 7-Hydroxymitragynine Tablets Cherry 50mg Per Tablet | 2ct Back"
+>
+<li
+class="splide__slide">
+<img width="100%"
+data-splide-lazy-srcset="
+https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/80w/products/80516/86263/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-Cherry-50mg-Per-Tablet-2ct-box__75789.1773155621.jpg?c=1 80w,
+https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/160w/products/80516/86263/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-Cherry-50mg-Per-Tablet-2ct-box__75789.1773155621.jpg?c=1 160w,
+https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/320w/products/80516/86263/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-Cherry-50mg-Per-Tablet-2ct-box__75789.1773155621.jpg?c=1 320w,
+https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/640w/products/80516/86263/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-Cherry-50mg-Per-Tablet-2ct-box__75789.1773155621.jpg?c=1 640w,
+https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/960w/products/80516/86263/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-Cherry-50mg-Per-Tablet-2ct-box__75789.1773155621.jpg?c=1 960w,
+https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/1280w/products/80516/86263/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-Cherry-50mg-Per-Tablet-2ct-box__75789.1773155621.jpg?c=1 1280w,
+https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/1920w/products/80516/86263/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-Cherry-50mg-Per-Tablet-2ct-box__75789.1773155621.jpg?c=1 1920w,
+https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/2560w/products/80516/86263/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-Cherry-50mg-Per-Tablet-2ct-box__75789.1773155621.jpg?c=1 2560w"
+sizes="50vw"
+data-splide-lazy="https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/160w/products/80516/86263/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-Cherry-50mg-Per-Tablet-2ct-box__75789.1773155621.jpg?c=1"
+alt="Limitless Black Edition 7-Hydroxymitragynine Tablets Cherry 50mg Per Tablet | 2ct Box"
+>
+<li
+class="splide__slide">
+<img width="100%"
+data-splide-lazy-srcset="
+https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/80w/products/80516/99042/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-Cherry-50mg-Per-Tablet-10ct__54021.1773155622.jpg?c=1 80w,
+https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/160w/products/80516/99042/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-Cherry-50mg-Per-Tablet-10ct__54021.1773155622.jpg?c=1 160w,
+https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/320w/products/80516/99042/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-Cherry-50mg-Per-Tablet-10ct__54021.1773155622.jpg?c=1 320w,
+https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/640w/products/80516/99042/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-Cherry-50mg-Per-Tablet-10ct__54021.1773155622.jpg?c=1 640w,
+https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/960w/products/80516/99042/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-Cherry-50mg-Per-Tablet-10ct__54021.1773155622.jpg?c=1 960w,
+https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/1280w/products/80516/99042/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-Cherry-50mg-Per-Tablet-10ct__54021.1773155622.jpg?c=1 1280w,
+https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/1920w/products/80516/99042/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-Cherry-50mg-Per-Tablet-10ct__54021.1773155622.jpg?c=1 1920w,
+https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/2560w/products/80516/99042/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-Cherry-50mg-Per-Tablet-10ct__54021.1773155622.jpg?c=1 2560w"
+sizes="50vw"
+data-splide-lazy="https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/160w/products/80516/99042/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-Cherry-50mg-Per-Tablet-10ct__54021.1773155622.jpg?c=1"
+alt="Limitless Black Edition 7-Hydroxymitragynine Tablets Cherry 50mg Per Tablet | 10ct"
+>
+<li
+class="splide__slide">
+<img width="100%"
+data-splide-lazy-srcset="
+https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/80w/products/80516/99041/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-50mg-back__30540.1773155622.jpg?c=1 80w,
+https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/160w/products/80516/99041/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-50mg-back__30540.1773155622.jpg?c=1 160w,
+https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/320w/products/80516/99041/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-50mg-back__30540.1773155622.jpg?c=1 320w,
+https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/640w/products/80516/99041/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-50mg-back__30540.1773155622.jpg?c=1 640w,
+https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/960w/products/80516/99041/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-50mg-back__30540.1773155622.jpg?c=1 960w,
+https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/1280w/products/80516/99041/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-50mg-back__30540.1773155622.jpg?c=1 1280w,
+https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/1920w/products/80516/99041/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-50mg-back__30540.1773155622.jpg?c=1 1920w,
+https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/2560w/products/80516/99041/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-50mg-back__30540.1773155622.jpg?c=1 2560w"
+sizes="50vw"
+data-splide-lazy="https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/160w/products/80516/99041/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-50mg-back__30540.1773155622.jpg?c=1"
+alt="Limitless Black Edition 7-Hydroxymitragynine Tablets Cherry 50mg Per Tablet | 10ct Back"
+>
+<img data-bp-info="responsive-img-v28.html" data-carousel="true" src="https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/58w/products/80516/99040/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-Cherry-50mg-Per-Tablet-set__15530.1773155622.jpg?c=1"
+srcset="https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/87w/products/80516/99040/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-Cherry-50mg-Per-Tablet-set__15530.1773155622.jpg?c=1 1.5x,
+https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/116w/products/80516/99040/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-Cherry-50mg-Per-Tablet-set__15530.1773155622.jpg?c=1 2x,
+https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/145w/products/80516/99040/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-Cherry-50mg-Per-Tablet-set__15530.1773155622.jpg?c=1 2.5x,
+https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/174w/products/80516/99040/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-Cherry-50mg-Per-Tablet-set__15530.1773155622.jpg?c=1 3x"
+alt="Limitless Black Edition 7-Hydroxymitragynine Tablets Cherry 50mg Per Tablet | Set" title="Limitless Black Edition 7-Hydroxymitragynine Tablets Cherry 50mg Per Tablet | Set"
+class=""
+width=80 height=80 />
+<img data-bp-info="responsive-img-v28.html" data-carousel="true" src="https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/58w/products/80516/86265/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-Cherry-50mg-Per-Tablet-2ct__03382.1773155621.jpg?c=1"
+srcset="https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/87w/products/80516/86265/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-Cherry-50mg-Per-Tablet-2ct__03382.1773155621.jpg?c=1 1.5x,
+https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/116w/products/80516/86265/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-Cherry-50mg-Per-Tablet-2ct__03382.1773155621.jpg?c=1 2x,
+https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/145w/products/80516/86265/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-Cherry-50mg-Per-Tablet-2ct__03382.1773155621.jpg?c=1 2.5x,
+https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/174w/products/80516/86265/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-Cherry-50mg-Per-Tablet-2ct__03382.1773155621.jpg?c=1 3x"
+alt="Limitless Black Edition 7-Hydroxymitragynine Tablets Cherry 50mg Per Tablet | 2ct" title="Limitless Black Edition 7-Hydroxymitragynine Tablets Cherry 50mg Per Tablet | 2ct"
+class=""
+width=80 height=80 />
+<img data-bp-info="responsive-img-v28.html" data-carousel="true" src="https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/58w/products/80516/86264/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-Cherry-50mg-Per-Tablet-2ct-back__53364.1773155621.jpg?c=1"
+srcset="https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/87w/products/80516/86264/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-Cherry-50mg-Per-Tablet-2ct-back__53364.1773155621.jpg?c=1 1.5x,
+https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/116w/products/80516/86264/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-Cherry-50mg-Per-Tablet-2ct-back__53364.1773155621.jpg?c=1 2x,
+https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/145w/products/80516/86264/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-Cherry-50mg-Per-Tablet-2ct-back__53364.1773155621.jpg?c=1 2.5x,
+https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/174w/products/80516/86264/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-Cherry-50mg-Per-Tablet-2ct-back__53364.1773155621.jpg?c=1 3x"
+alt="Limitless Black Edition 7-Hydroxymitragynine Tablets Cherry 50mg Per Tablet | 2ct Back" title="Limitless Black Edition 7-Hydroxymitragynine Tablets Cherry 50mg Per Tablet | 2ct Back"
+class=""
+width=80 height=80 />
+<img data-bp-info="responsive-img-v28.html" data-carousel="true" src="https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/58w/products/80516/86263/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-Cherry-50mg-Per-Tablet-2ct-box__75789.1773155621.jpg?c=1"
+srcset="https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/87w/products/80516/86263/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-Cherry-50mg-Per-Tablet-2ct-box__75789.1773155621.jpg?c=1 1.5x,
+https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/116w/products/80516/86263/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-Cherry-50mg-Per-Tablet-2ct-box__75789.1773155621.jpg?c=1 2x,
+https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/145w/products/80516/86263/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-Cherry-50mg-Per-Tablet-2ct-box__75789.1773155621.jpg?c=1 2.5x,
+https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/174w/products/80516/86263/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-Cherry-50mg-Per-Tablet-2ct-box__75789.1773155621.jpg?c=1 3x"
+alt="Limitless Black Edition 7-Hydroxymitragynine Tablets Cherry 50mg Per Tablet | 2ct Box" title="Limitless Black Edition 7-Hydroxymitragynine Tablets Cherry 50mg Per Tablet | 2ct Box"
+class=""
+width=80 height=80 />
+<img data-bp-info="responsive-img-v28.html" data-carousel="true" src="https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/58w/products/80516/99042/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-Cherry-50mg-Per-Tablet-10ct__54021.1773155622.jpg?c=1"
+srcset="https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/87w/products/80516/99042/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-Cherry-50mg-Per-Tablet-10ct__54021.1773155622.jpg?c=1 1.5x,
+https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/116w/products/80516/99042/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-Cherry-50mg-Per-Tablet-10ct__54021.1773155622.jpg?c=1 2x,
+https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/145w/products/80516/99042/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-Cherry-50mg-Per-Tablet-10ct__54021.1773155622.jpg?c=1 2.5x,
+https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/174w/products/80516/99042/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-Cherry-50mg-Per-Tablet-10ct__54021.1773155622.jpg?c=1 3x"
+alt="Limitless Black Edition 7-Hydroxymitragynine Tablets Cherry 50mg Per Tablet | 10ct" title="Limitless Black Edition 7-Hydroxymitragynine Tablets Cherry 50mg Per Tablet | 10ct"
+class=""
+width=80 height=80 />
+<img data-bp-info="responsive-img-v28.html" data-carousel="true" src="https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/58w/products/80516/99041/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-50mg-back__30540.1773155622.jpg?c=1"
+srcset="https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/87w/products/80516/99041/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-50mg-back__30540.1773155622.jpg?c=1 1.5x,
+https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/116w/products/80516/99041/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-50mg-back__30540.1773155622.jpg?c=1 2x,
+https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/145w/products/80516/99041/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-50mg-back__30540.1773155622.jpg?c=1 2.5x,
+https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/174w/products/80516/99041/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-50mg-back__30540.1773155622.jpg?c=1 3x"
+alt="Limitless Black Edition 7-Hydroxymitragynine Tablets Cherry 50mg Per Tablet | 10ct Back" title="Limitless Black Edition 7-Hydroxymitragynine Tablets Cherry 50mg Per Tablet | 10ct Back"
+class=""
+width=80 height=80 />
+//Load the slider
+document.addEventListener('DOMContentLoaded', function () {
+logDebug('splide v6')
+var splide = new Splide( '#main-carousel', {
+pagination: false,
+lazyLoad: true,
+} );
+var thumbnails = document.getElementsByClassName("thumbnail");
+var current;
+for (var i = 0; i < thumbnails.length; i++) {
+initThumbnail(thumbnails[i], i);
+}
+function initThumbnail(thumbnail, index) {
+thumbnail.addEventListener("click", function () {
+splide.go(index);
+});
+}
+splide.on("mounted move", function () {
+var thumbnail = thumbnails[splide.index];
+if (thumbnail) {
+if (current) {
+current.classList.remove("is-active");
+}
+thumbnail.classList.add("is-active");
+current = thumbnail;
+}
+});
+splide.on("ready", function () {
+let carousel_placeholder = document.querySelector(".carousel_placeholder");
+let slider_placeholder = document.querySelector(".splide__placeholder");
+let thumbnails = document.querySelector(".thumbnails");
+carousel_placeholder.style.display = "none";
+slider_placeholder.style.display = "none";
+thumbnails.style.display = "flex";
+});
+splide.mount();
+});
+Bulk discount rates
+Below are the available bulk discount rates for each individual item when you purchase a certain amount
+Buy 1 - 4
+$8.99
+Buy 5 - 9
+$8.70 (3.25%)
+Buy 10 - 19
+$8.43 (6.25%)
+Buy 20 - 29
+$8.16 (9.25%)
+Buy 30 - 39
+$7.89 (12.25%)
+Buy 40 or above
+$7.62 (15.25%)
+SKU:
+UPC:
+MPN:
+Current Stock:
+logDebug('This product has product options or customizations, so I WILL load the product option UI.');
+Size:
+*
+<input
+class="bp-variant-buttons form-radio"
+type="radio"
+id="attribute_radio_3136_5232"
+name="attribute[3136]"
+value="5232"
+required>
+<label
+data-product-attribute-value="5232"
+class="form-label variant-button "
+for="attribute_radio_3136_5232">
+2 Tablets
+<input
+class="bp-variant-buttons form-radio"
+type="radio"
+id="attribute_radio_3136_6024"
+name="attribute[3136]"
+value="6024"
+required>
+<label
+data-product-attribute-value="6024"
+class="form-label variant-button "
+for="attribute_radio_3136_6024">
+10 Tablets
+// Run this code after your Handlebars template has rendered
+let maxLen = 0;
+// Query for all option display names (change the query to suit your markup)
+const optionNames = document.querySelectorAll('.form-label.variant-button');
+optionNames.forEach(nameElement => {
+logDebug(nameElement.textContent);
+const len = nameElement.textContent.trim().length;
+logDebug(len);
+maxLen = Math.max(maxLen, len);
+});
+// Get the higher-level div
+const highLevelDiv = document.querySelector('.papathemes-productView-optionsGrid');
+// Conditionally add a class based on max length
+if (maxLen >= 17) {
+highLevelDiv.classList.add('long-variant');
+} else {
+highLevelDiv.classList.add('short-variant');
+}
+.form-increment button.button.button--icon {
+width: 48px;
+}
+.bp__product-form_qty-atc-wrapper {
+display: flex;
+justify-content: space-between;
+align-items: flex-start;
+margin-bottom: 14px;
+gap: 10px;
+}
+Quantity:
+Decrease Quantity of Limitless Black Edition 7-Hydroxymitragynine Tablets Cherry 50mg Per Tablet
+<input class="form-input form-input--incrementTotal"
+id="qty[]"
+name="qty[]"
+type="tel"
+value="1"
+data-quantity-min="0"
+data-quantity-max="0"
+min="1"
+pattern="[0-9]*"
+aria-live="polite">
+Increase Quantity of Limitless Black Edition 7-Hydroxymitragynine Tablets Cherry 50mg Per Tablet
+Add to Cart
+Shipping: Free Standard Shipping on Orders over $35
+<section class="productView-alsoBought productView-alsoBought--right u-hiddenVisually" data-also-bought='{
+"samplePriceWithTax": "",
+"samplePriceWithoutTax": "$8.99",
+"requireLogin": false,
+"includeTax": false,
+"showTaxLabel": false
+}'>
+Frequently Bought Together:
+Add %str% to cart
+Inc. Tax
+Ex. Tax
+Description
+Description
+Hide
+Show
+Limitless Black Edition 7-Hydroxymitragynine Tablets Cherry 50mg Per Tablet
+Limitless Black Edition 7-Hydroxymitragynine Tablets Cherry
+deliver a bold balance of potency, flavor, and convenience in a sleek chewable format. Each tablet is infused with
+50mg of 7-hydroxymitragynine
+, making it a reliable option for seasoned users who demand consistency and strength in every serving. The Black Edition is designed for those who want premium quality paired with precision dosing, offering a modern way to enjoy this powerful botanical extract.
+The
+Cherry flavor
+adds a sweet and slightly tart twist, enhancing the overall experience by masking the natural bitterness of alkaloids. This fruity profile transforms each serving into something smooth and enjoyable, allowing users to appreciate both the potency and flavor without compromise. Instead of being just another high-strength option, the Cherry Black Edition stands out by combining robust power with a taste that&rsquo;s satisfying.
+Convenience is at the heart of the Limitless Black Edition design. Each chewable tablet is
+pre-dosed at 50mg
+, eliminating the need for scoops, scales, or preparation. Compact and discreet, they&rsquo;re easy to carry anywhere, making them ideal for use at home, work, or on the go. Simply chew and enjoy a reliable, consistent serving whenever you need it.
+Limitless created the Black Edition to highlight
+strength, quality, and innovation
+. With precise dosing and flavorful options, these tablets provide a dependable way to elevate your kratom experience while ensuring premium-grade consistency in every batch.
+For advanced users who want powerful potency combined with a bold fruit flavor,
+Limitless Black Edition 7-Hydroxymitragynine Tablets Cherry 50mg
+are the perfect choice. They deliver reliability, convenience, and taste in one high-quality chewable, making them a standout option for those who expect more from their kratom products.
+Key Details:
+50mg of 7-hydroxymitragynine per chewable tablet
+Sweet, tart Cherry flavor for a smooth experience
+Black Edition crafted for advanced kratom users
+Pre-dosed tablets for accuracy and consistency
+Compact, portable format for on-the-go convenience
+Serving Size:
+1/4 Tablet
+Amount Per Tablet:
+50mg
+Ingredients:
+Mitragyna Speciosa, (Kratom Leaf Extract, Natural Binders &amp; Fillers), Microcrystalline Cellulose, Magnesium Stearate, Silica Oxide, Di- Calcium Phosphate, Food Grade Colorant, (F,D&amp;C Red #3, Yellow #5).
+**These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure or prevent any disease.**
+Read Entire Label Before Use.
+&nbsp;
+{
+"__shgImageV2Elements": { "uuid": "s-d154c1be-5ad7-4ad0-8036-32d138081bc6" }
+}
+Limitless Black Edition 7-Hydroxymitragynine Tablets Cherry 50mg Per Tablet
+Experience the smooth and powerful effects of
+Limitless Black Edition 7-Hydroxymitragynine Tablets
+in a vibrant cherry flavor. Each tablet contains
+50mg
+of carefully crafted 7-hydroxymitragynine, offering a strong yet balanced experience. The recommended
+serving size is &frac14; tablet
+, allowing you to easily customize your intake for just the right amount of smooth energy and calm focus. These cherry-flavored tablets are designed for convenience and consistency, delivering the same great effect with every dose. The flavorful coating makes taking them simple and enjoyable, while the precise dosing lets you tailor your experience without any guesswork. Whether you want a light boost or something a little stronger, Limitless Black Edition offers a premium, tasty option that combines quality, reliability, and ease of use. Enjoy the natural strength of kratom in a compact, flavorful tablet designed to fit seamlessly into your day.
+{
+"__shgImageV2Elements": { "uuid": "s-b8401370-41dd-4664-9584-1d0cdea07758" }
+}
+Benefit of 7-OH
+The key to the unique experience of
+Limitless Black Edition 7-Hydroxymitragynine Tablets
+lies in the powerful ingredient known as
+7-OH
+. This special component is a natural part of kratom that offers a smooth and long-lasting effect, making these tablets stand out from regular options. 7-OH provides a clear, balanced feeling that combines a gentle lift in energy with a calm, focused mindset. This means you can enjoy steady motivation and clarity without feeling jittery or overwhelmed. The 7-OH in these tablets helps create a reliable and consistent experience, so every dose delivers the same smooth, enjoyable boost. With the tasty cherry flavor and a convenient tablet form, the 7-OH content makes it easy to control how much you take, letting you tailor your experience perfectly. Whether you want a subtle lift or a stronger effect, Limitless Black Edition offers a refined way to enjoy kratom&rsquo;s natural strength with confidence and ease.
+{
+"__shgImageV2Elements": { "uuid": "s-e6d6cccd-98b3-44cf-a6e8-b6817f8aec02" }
+}
+&nbsp;
+FAQ
+What are Limitless Black Edition 7-Hydroxymitragynine Tablets?
+They are cherry-flavored tablets containing 50mg of 7-hydroxymitragynine, designed to deliver a smooth, balanced, and reliable experience.
+What is the recommended serving size?
+The suggested serving size is
+&frac14; tablet
+, allowing you to adjust the amount to your preferred level.
+How do I take the tablets?
+Simply take the desired portion of the tablet&mdash;starting with &frac14; tablet is best&mdash;and let it dissolve or swallow with water.
+What makes these tablets different from regular kratom products?
+These tablets contain 7-hydroxymitragynine, a special part of kratom known for a stronger, longer-lasting effect, all in a tasty cherry flavor and easy-to-use tablet form.
+Can I expect consistent effects?
+Yes, the tablets are precisely dosed to provide a consistent and smooth experience every time.
+<div class="yotpo-widget-instance" data-yotpo-instance-id="454938" data-yotpo-product-id="80516" data-yotpo-name="Limitless Black Edition 7-Hydroxymitragynine Tablets Cherry 50mg Per Tablet" data-yotpo-url="https://pureleafkratom.com/products/limitless-black-edition-7-hydroxymitragynine-tablets-cherry-50mg-per-tablet.html" data-yotpo-image-url="https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/original/products/80516/99040/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-Cherry-50mg-Per-Tablet-set__15530.1773155622.jpg?c=1" data-yotpo-price="8.99" data-yotpo-currency="USD" data-yotpo-description="&lt;div class=&quot;shogun-root&quot; data-shogun-id=&quot;68fa56d984f4c2741fbd31d6&quot; data-shogun-site-id=&quot;92b2b767-f462-4d6e-9d48-2f58f995c9af&quot; data-shogun-page-id=&quot;68fa56d984f4c2741fbd31d6&quot; data-shogun-page-version-id=&quot;6903d42b52463b9b6d5f1527&quot; data-shogun-platform-type=&quot;big_commerce&quot; data-shogun-variant-id=&quot;6903d42b52463b9b6d5f1619&quot; data-shogun-page-type=&quot;product&quot; data-shogun-power-up-type=&quot;&quot; data-shogun-power-up-id=&quot;&quot; data-region=&quot;main&quot;&gt;
+&lt;script type=&quot;text/javascript&quot; src=&quot;https://a.shgcdn2.com/js-2025-09-16-1610/global-assets-e0a3cf438b6ce162ff2dec766d2e274cae1e8216.js&quot; defer=&quot;defer&quot;&gt;&lt;/script&gt;
+&lt;div id=&quot;s-e4174609-285b-4abe-b590-fe745d765bab&quot; class=&quot;shg-c &quot;&gt;
+&lt;div class=&quot;shogun-heading-component&quot;&gt;
+&lt;h2&gt;Limitless Black Edition 7-Hydroxymitragynine Tablets Cherry 50mg Per Tablet&lt;/h2&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&quot;s-06b9cb5f-37d4-45f6-a033-e169c936c062&quot; class=&quot;shg-c &quot;&gt;
+&lt;div class=&quot;shg-hr-wrapper&quot;&gt;&lt;hr /&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&quot;s-5c8a398a-7702-4788-aea9-510923eb5be0&quot; class=&quot;shg-c &quot;&gt;
+&lt;div class=&quot;shg-rich-text shg-theme-text-content&quot;&gt;
+&lt;p data-start=&quot;0&quot; data-end=&quot;474&quot;&gt;&lt;strong data-start=&quot;0&quot; data-end=&quot;63&quot;&gt;Limitless Black Edition 7-Hydroxymitragynine Tablets Cherry&lt;/strong&gt; deliver a bold balance of potency, flavor, and convenience in a sleek chewable format. Each tablet is infused with &lt;strong data-start=&quot;179&quot; data-end=&quot;211&quot;&gt;50mg of 7-hydroxymitragynine&lt;/strong&gt;, making it a reliable option for seasoned users who demand consistency and strength in every serving. The Black Edition is designed for those who want premium quality paired with precision dosing, offering a modern way to enjoy this powerful botanical extract.&lt;/p&gt;
+&lt;p data-start=&quot;476&quot; data-end=&quot;922&quot;&gt;The &lt;strong data-start=&quot;480&quot; data-end=&quot;497&quot;&gt;Cherry flavor&lt;/strong&gt; adds a sweet and slightly tart twist, enhancing the overall experience by masking the natural bitterness of alkaloids. This fruity profile transforms each serving into something smooth and enjoyable, allowing users to appreciate both the potency and flavor without compromise. Instead of being just another high-strength option, the Cherry Black Edition stands out by combining robust power with a taste that&amp;rsquo;s satisfying.&lt;/p&gt;
+&lt;p data-start=&quot;924&quot; data-end=&quot;1280&quot;&gt;Convenience is at the heart of the Limitless Black Edition design. Each chewable tablet is &lt;strong data-start=&quot;1015&quot; data-end=&quot;1036&quot;&gt;pre-dosed at 50mg&lt;/strong&gt;, eliminating the need for scoops, scales, or preparation. Compact and discreet, they&amp;rsquo;re easy to carry anywhere, making them ideal for use at home, work, or on the go. Simply chew and enjoy a reliable, consistent serving whenever you need it.&lt;/p&gt;
+&lt;p data-start=&quot;1282&quot; data-end=&quot;1544&quot;&gt;Limitless created the Black Edition to highlight &lt;strong data-start=&quot;1331&quot; data-end=&quot;1368&quot;&gt;strength, quality, and innovation&lt;/strong&gt;. With precise dosing and flavorful options, these tablets provide a dependable way to elevate your kratom experience while ensuring premium-grade consistency in every batch.&lt;/p&gt;
+&lt;p data-start=&quot;1546&quot; data-end=&quot;1883&quot;&gt;For advanced users who want powerful potency combined with a bold fruit flavor, &lt;strong data-start=&quot;1626&quot; data-end=&quot;1694&quot;&gt;Limitless Black Edition 7-Hydroxymitragynine Tablets Cherry 50mg&lt;/strong&gt; are the perfect choice. They deliver reliability, convenience, and taste in one high-quality chewable, making them a standout option for those who expect more from their kratom products.&lt;/p&gt;
+&lt;p data-start=&quot;1611&quot; data-end=&quot;1869&quot;&gt;&lt;strong&gt;Key Details:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li data-start=&quot;447&quot; data-end=&quot;497&quot;&gt;50mg of 7-hydroxymitragynine per chewable tablet&lt;/li&gt;
+&lt;li data-start=&quot;500&quot; data-end=&quot;551&quot;&gt;Sweet, tart Cherry flavor for a smooth experience&lt;/li&gt;
+&lt;li data-start=&quot;554&quot; data-end=&quot;603&quot;&gt;Black Edition crafted for advanced kratom users&lt;/li&gt;
+&lt;li data-start=&quot;606&quot; data-end=&quot;654&quot;&gt;Pre-dosed tablets for accuracy and consistency&lt;/li&gt;
+&lt;li data-start=&quot;657&quot; data-end=&quot;709&quot;&gt;Compact, portable format for on-the-go convenience&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Serving Size:&lt;/strong&gt; 1/4 Tablet&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Amount Per Tablet:&lt;/strong&gt; 50mg&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ingredients:&lt;/strong&gt; Mitragyna Speciosa, (Kratom Leaf Extract, Natural Binders &amp;amp; Fillers), Microcrystalline Cellulose, Magnesium Stearate, Silica Oxide, Di- Calcium Phosphate, Food Grade Colorant, (F,D&amp;amp;C Red #3, Yellow #5).&lt;/p&gt;
+&lt;p class=&quot;pf0&quot;&gt;&lt;span class=&quot;cf0&quot;&gt;**These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure or prevent any disease.**&lt;/span&gt;&lt;/p&gt;
+&lt;p class=&quot;pf0&quot;&gt;&lt;strong&gt;&lt;span class=&quot;cf1&quot;&gt;Read Entire Label Before Use.&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&quot;s-e2d69b93-67db-44ae-90c7-5364450ce429&quot; class=&quot;shg-c &quot;&gt;
+&lt;div class=&quot;shg-hr-wrapper&quot;&gt;&lt;hr /&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;shg-box-vertical-align-wrapper&quot;&gt;
+&lt;div id=&quot;s-b3ce1d6d-ed6a-42eb-9ba3-afb82ef19257&quot; class=&quot;shg-box shg-c &quot;&gt;
+&lt;div class=&quot;shg-box-overlay&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;shg-box-content&quot;&gt;
+&lt;div id=&quot;s-2bd7c74f-85e6-429a-8111-02ba239efd5d&quot; class=&quot;shg-c &quot;&gt;
+&lt;div class=&quot;shg-row&quot; data-col-grid-mode-on=&quot;&quot;&gt;
+&lt;div class=&quot;shg-c-lg-6 shg-c-md-6 shg-c-sm-6 shg-c-xs-12&quot;&gt;
+&lt;div id=&quot;s-d154c1be-5ad7-4ad0-8036-32d138081bc6-root&quot;&gt;
+&lt;div id=&quot;wrap-s-d154c1be-5ad7-4ad0-8036-32d138081bc6&quot; class=&quot;shg-image-margin-container-s-d154c1be-5ad7-4ad0-8036-32d138081bc6&quot;&gt;
+&lt;div class=&quot;s-d154c1be-5ad7-4ad0-8036-32d138081bc6 shg-align-container&quot;&gt;
+&lt;div id=&quot;s-d154c1be-5ad7-4ad0-8036-32d138081bc6&quot; class=&quot;shg-c s-d154c1be-5ad7-4ad0-8036-32d138081bc6 shogun-image-container shg-align-center&quot;&gt;
+&lt;div class=&quot;shg-image-content-wrapper&quot;&gt;&lt;img class=&quot;shogun-image &quot; src=&quot;https://i.shgcdn.com/359bc32a-c5e2-413e-a090-2c1eda5277d1/-/format/auto/-/quality/normal/&quot; alt=&quot;A packet of Limitless cherry-flavored supplement on a staircase background.&quot; /&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;script class=&quot;__SHG_DATA__&quot; type=&quot;application/json&quot;&gt;
+{
+&quot;__shgImageV2Elements&quot;: { &quot;uuid&quot;: &quot;s-d154c1be-5ad7-4ad0-8036-32d138081bc6&quot; }
+}
+&lt;/script&gt;
+&lt;div id=&quot;s-8b938037-ddd3-4ff6-b670-244eb9da2c07&quot; class=&quot;shg-c shg-align-center&quot;&gt;
+&lt;div class=&quot;shogun-heading-component&quot;&gt;
+&lt;h1&gt;Limitless Black Edition 7-Hydroxymitragynine Tablets Cherry 50mg Per Tablet&lt;/h1&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&quot;s-ebbee585-8891-454d-9992-ad4f9b29e1e8&quot; class=&quot;shg-c &quot;&gt;
+&lt;div class=&quot;shg-rich-text shg-theme-text-content&quot;&gt;
+&lt;article class=&quot;text-token-text-primary w-full focus:outline-none [--shadow-height:45px] has-data-writing-block:pointer-events-none has-data-writing-block:-mt-(--shadow-height) has-data-writing-block:pt-(--shadow-height) [&amp;amp;:has([data-writing-block])&amp;gt;*]:pointer-events-auto [content-visibility:auto] supports-[content-visibility:auto]:[contain-intrinsic-size:auto_100lvh] scroll-mt-[calc(var(--header-height)+min(200px,max(70px,20svh)))]&quot; dir=&quot;auto&quot; tabindex=&quot;-1&quot; data-turn-id=&quot;request-WEB:d3a744b1-c5e8-4897-bdf9-f56e2a803c15-12&quot; data-testid=&quot;conversation-turn-26&quot; data-scroll-anchor=&quot;true&quot; data-turn=&quot;assistant&quot;&gt;
+&lt;div class=&quot;text-base my-auto mx-auto pb-10 [--thread-content-margin:--spacing(4)] thread-sm:[--thread-content-margin:--spacing(6)] thread-lg:[--thread-content-margin:--spacing(16)] px-(--thread-content-margin)&quot;&gt;
+&lt;div class=&quot;[--thread-content-max-width:40rem] thread-lg:[--thread-content-max-width:48rem] mx-auto max-w-(--thread-content-max-width) flex-1 group/turn-messages focus-visible:outline-hidden relative flex w-full min-w-0 flex-col agent-turn&quot; tabindex=&quot;-1&quot;&gt;
+&lt;div class=&quot;flex max-w-full flex-col grow&quot;&gt;
+&lt;div class=&quot;min-h-8 text-message relative flex w-full flex-col items-end gap-2 text-start break-words whitespace-normal [.text-message+&amp;amp;]:mt-1&quot; dir=&quot;auto&quot; data-message-author-role=&quot;assistant&quot; data-message-id=&quot;afe46480-8657-435d-bc69-ac4215e97a0a&quot; data-message-model-slug=&quot;gpt-4-1-mini&quot;&gt;
+&lt;div class=&quot;flex w-full flex-col gap-1 empty:hidden first:pt-[1px]&quot;&gt;
+&lt;div class=&quot;markdown prose dark:prose-invert w-full break-words dark markdown-new-styling&quot;&gt;
+&lt;p style=&quot;text-align: justify;&quot; data-start=&quot;160&quot; data-end=&quot;558&quot;&gt;Experience the smooth and powerful effects of &lt;strong data-start=&quot;206&quot; data-end=&quot;262&quot;&gt;Limitless Black Edition 7-Hydroxymitragynine Tablets&lt;/strong&gt; in a vibrant cherry flavor. Each tablet contains &lt;strong data-start=&quot;312&quot; data-end=&quot;320&quot;&gt;50mg&lt;/strong&gt; of carefully crafted 7-hydroxymitragynine, offering a strong yet balanced experience. The recommended &lt;strong data-start=&quot;423&quot; data-end=&quot;451&quot;&gt;serving size is &amp;frac14; tablet&lt;/strong&gt;, allowing you to easily customize your intake for just the right amount of smooth energy and calm focus. These cherry-flavored tablets are designed for convenience and consistency, delivering the same great effect with every dose. The flavorful coating makes taking them simple and enjoyable, while the precise dosing lets you tailor your experience without any guesswork. Whether you want a light boost or something a little stronger, Limitless Black Edition offers a premium, tasty option that combines quality, reliability, and ease of use. Enjoy the natural strength of kratom in a compact, flavorful tablet designed to fit seamlessly into your day.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/article&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;shg-c-lg-6 shg-c-md-6 shg-c-sm-6 shg-c-xs-12&quot;&gt;
+&lt;div id=&quot;s-b8401370-41dd-4664-9584-1d0cdea07758-root&quot;&gt;
+&lt;div id=&quot;wrap-s-b8401370-41dd-4664-9584-1d0cdea07758&quot; class=&quot;shg-image-margin-container-s-b8401370-41dd-4664-9584-1d0cdea07758&quot;&gt;
+&lt;div class=&quot;s-b8401370-41dd-4664-9584-1d0cdea07758 shg-align-container&quot;&gt;
+&lt;div id=&quot;s-b8401370-41dd-4664-9584-1d0cdea07758&quot; class=&quot;shg-c s-b8401370-41dd-4664-9584-1d0cdea07758 shogun-image-container shg-align-center&quot;&gt;
+&lt;div class=&quot;shg-image-content-wrapper&quot;&gt;&lt;img class=&quot;shogun-image &quot; src=&quot;https://i.shgcdn.com/c7b5a525-b3f8-42b0-88b0-ef1584890651/-/format/auto/-/quality/normal/&quot; alt=&quot;Black packaging of Limitless supplement on a circular stone pedestal.&quot; /&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;script class=&quot;__SHG_DATA__&quot; type=&quot;application/json&quot;&gt;
+{
+&quot;__shgImageV2Elements&quot;: { &quot;uuid&quot;: &quot;s-b8401370-41dd-4664-9584-1d0cdea07758&quot; }
+}
+&lt;/script&gt;
+&lt;div id=&quot;s-9d22cabc-a562-4f50-9980-24300d51b349&quot; class=&quot;shg-c shg-align-center&quot;&gt;
+&lt;div class=&quot;shogun-heading-component&quot;&gt;
+&lt;h1&gt;Benefit of 7-OH&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/h1&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&quot;s-9f604224-c2c1-40ed-b9ea-aa6b83e898e7&quot; class=&quot;shg-c &quot;&gt;
+&lt;div class=&quot;shg-rich-text shg-theme-text-content&quot;&gt;
+&lt;article class=&quot;text-token-text-primary w-full focus:outline-none [--shadow-height:45px] has-data-writing-block:pointer-events-none has-data-writing-block:-mt-(--shadow-height) has-data-writing-block:pt-(--shadow-height) [&amp;amp;:has([data-writing-block])&amp;gt;*]:pointer-events-auto [content-visibility:auto] supports-[content-visibility:auto]:[contain-intrinsic-size:auto_100lvh] scroll-mt-[calc(var(--header-height)+min(200px,max(70px,20svh)))]&quot; dir=&quot;auto&quot; tabindex=&quot;-1&quot; data-turn-id=&quot;request-WEB:d3a744b1-c5e8-4897-bdf9-f56e2a803c15-13&quot; data-testid=&quot;conversation-turn-28&quot; data-scroll-anchor=&quot;true&quot; data-turn=&quot;assistant&quot;&gt;
+&lt;div class=&quot;text-base my-auto mx-auto pb-10 [--thread-content-margin:--spacing(4)] thread-sm:[--thread-content-margin:--spacing(6)] thread-lg:[--thread-content-margin:--spacing(16)] px-(--thread-content-margin)&quot;&gt;
+&lt;div class=&quot;[--thread-content-max-width:40rem] thread-lg:[--thread-content-max-width:48rem] mx-auto max-w-(--thread-content-max-width) flex-1 group/turn-messages focus-visible:outline-hidden relative flex w-full min-w-0 flex-col agent-turn&quot; tabindex=&quot;-1&quot;&gt;
+&lt;div class=&quot;flex max-w-full flex-col grow&quot;&gt;
+&lt;div class=&quot;min-h-8 text-message relative flex w-full flex-col items-end gap-2 text-start break-words whitespace-normal [.text-message+&amp;amp;]:mt-1&quot; dir=&quot;auto&quot; data-message-author-role=&quot;assistant&quot; data-message-id=&quot;51703ee3-02ac-4c34-a55d-b77b3f695974&quot; data-message-model-slug=&quot;gpt-4-1-mini&quot;&gt;
+&lt;div class=&quot;flex w-full flex-col gap-1 empty:hidden first:pt-[1px]&quot;&gt;
+&lt;div class=&quot;markdown prose dark:prose-invert w-full break-words dark markdown-new-styling&quot;&gt;
+&lt;p style=&quot;text-align: justify;&quot; data-start=&quot;107&quot; data-end=&quot;402&quot;&gt;The key to the unique experience of &lt;strong data-start=&quot;143&quot; data-end=&quot;199&quot;&gt;Limitless Black Edition 7-Hydroxymitragynine Tablets&lt;/strong&gt; lies in the powerful ingredient known as &lt;strong data-start=&quot;241&quot; data-end=&quot;249&quot;&gt;7-OH&lt;/strong&gt;. This special component is a natural part of kratom that offers a smooth and long-lasting effect, making these tablets stand out from regular options. 7-OH provides a clear, balanced feeling that combines a gentle lift in energy with a calm, focused mindset. This means you can enjoy steady motivation and clarity without feeling jittery or overwhelmed. The 7-OH in these tablets helps create a reliable and consistent experience, so every dose delivers the same smooth, enjoyable boost. With the tasty cherry flavor and a convenient tablet form, the 7-OH content makes it easy to control how much you take, letting you tailor your experience perfectly. Whether you want a subtle lift or a stronger effect, Limitless Black Edition offers a refined way to enjoy kratom&amp;rsquo;s natural strength with confidence and ease.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/article&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&quot;s-e6d6cccd-98b3-44cf-a6e8-b6817f8aec02-root&quot;&gt;
+&lt;div id=&quot;wrap-s-e6d6cccd-98b3-44cf-a6e8-b6817f8aec02&quot; class=&quot;shg-image-margin-container-s-e6d6cccd-98b3-44cf-a6e8-b6817f8aec02&quot;&gt;
+&lt;div class=&quot;s-e6d6cccd-98b3-44cf-a6e8-b6817f8aec02 shg-align-container&quot;&gt;
+&lt;div id=&quot;s-e6d6cccd-98b3-44cf-a6e8-b6817f8aec02&quot; class=&quot;shg-c s-e6d6cccd-98b3-44cf-a6e8-b6817f8aec02 shogun-image-container shg-align-center&quot;&gt;
+&lt;div class=&quot;shg-image-content-wrapper&quot;&gt;&lt;img class=&quot;shogun-image &quot; src=&quot;https://i.shgcdn.com/ead1c255-0518-4566-96d7-9c1763186c34/-/format/auto/-/quality/normal/&quot; alt=&quot;Limitless Cherry product packaging displayed on a pedestal with dramatic lighting.&quot; /&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;script class=&quot;__SHG_DATA__&quot; type=&quot;application/json&quot;&gt;
+{
+&quot;__shgImageV2Elements&quot;: { &quot;uuid&quot;: &quot;s-e6d6cccd-98b3-44cf-a6e8-b6817f8aec02&quot; }
+}
+&lt;/script&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;shg-box-vertical-align-wrapper&quot;&gt;
+&lt;div id=&quot;s-33d5412d-f300-41e9-aa50-828c62ba3a32&quot; class=&quot;shg-box shg-c &quot;&gt;
+&lt;div class=&quot;shg-box-overlay&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;shg-box-content&quot;&gt;
+&lt;div id=&quot;s-86ad3f0d-7812-4201-9d1d-9431c1451461&quot; class=&quot;shg-c &quot;&gt;
+&lt;div class=&quot;shg-hr-wrapper&quot;&gt;&lt;hr /&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&quot;s-bf567e73-35dd-4984-8425-f02eeecc65cf&quot; class=&quot;shg-c &quot;&gt;
+&lt;div class=&quot;shg-rich-text shg-theme-text-content&quot;&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-size: 36px;&quot;&gt;FAQ&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&quot;s-0a27bea4-b5e0-46e8-a59a-ea2c6452c343&quot; class=&quot;shg-c &quot;&gt;
+&lt;div class=&quot;shogun-accordion-wrapper&quot; data-multi=&quot;&quot;&gt;
+&lt;div class=&quot;shogun-accordion shogun-accordion-active&quot;&gt;
+&lt;div class=&quot;shogun-accordion-heading&quot;&gt;
+&lt;div class=&quot;shogun-accordion-header&quot;&gt;
+&lt;h4 class=&quot;shogun-accordion-title&quot;&gt;What are Limitless Black Edition 7-Hydroxymitragynine Tablets?&lt;/h4&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;shogun-accordion-body shogun-accordion-active&quot;&gt;
+&lt;div id=&quot;s-e7a7e449-2539-49f6-9951-cdeced95f7ba&quot; class=&quot;shg-c &quot;&gt;
+&lt;div class=&quot;shg-rich-text shg-theme-text-content&quot;&gt;
+&lt;p&gt;They are cherry-flavored tablets containing 50mg of 7-hydroxymitragynine, designed to deliver a smooth, balanced, and reliable experience.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;shogun-accordion&quot;&gt;
+&lt;div class=&quot;shogun-accordion-heading&quot;&gt;
+&lt;div class=&quot;shogun-accordion-header&quot;&gt;
+&lt;h4 class=&quot;shogun-accordion-title&quot;&gt;What is the recommended serving size?&lt;/h4&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;shogun-accordion-body&quot;&gt;
+&lt;div id=&quot;s-ce80fd6e-75b3-4fe5-8d7f-78c4243e8f5a&quot; class=&quot;shg-c &quot;&gt;
+&lt;div class=&quot;shg-rich-text shg-theme-text-content&quot;&gt;
+&lt;p&gt;The suggested serving size is &lt;strong data-start=&quot;405&quot; data-end=&quot;417&quot;&gt;&amp;frac14; tablet&lt;/strong&gt;, allowing you to adjust the amount to your preferred level.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;shogun-accordion&quot;&gt;
+&lt;div class=&quot;shogun-accordion-heading&quot;&gt;
+&lt;div class=&quot;shogun-accordion-header&quot;&gt;
+&lt;h4 class=&quot;shogun-accordion-title&quot;&gt;How do I take the tablets?&lt;/h4&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;shogun-accordion-body&quot;&gt;
+&lt;div id=&quot;s-59ca0040-3a78-482b-8750-d59150414705&quot; class=&quot;shg-c &quot;&gt;
+&lt;div class=&quot;shg-rich-text shg-theme-text-content&quot;&gt;
+&lt;p&gt;Simply take the desired portion of the tablet&amp;mdash;starting with &amp;frac14; tablet is best&amp;mdash;and let it dissolve or swallow with water.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;shogun-accordion&quot;&gt;
+&lt;div class=&quot;shogun-accordion-heading&quot;&gt;
+&lt;div class=&quot;shogun-accordion-header&quot;&gt;
+&lt;h4 class=&quot;shogun-accordion-title&quot;&gt;What makes these tablets different from regular kratom products?&lt;/h4&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;shogun-accordion-body&quot;&gt;
+&lt;div id=&quot;s-9f321e32-82cb-48b7-b68c-bc624c313340&quot; class=&quot;shg-c &quot;&gt;
+&lt;div class=&quot;shg-rich-text shg-theme-text-content&quot;&gt;
+&lt;p&gt;These tablets contain 7-hydroxymitragynine, a special part of kratom known for a stronger, longer-lasting effect, all in a tasty cherry flavor and easy-to-use tablet form.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;shogun-accordion&quot;&gt;
+&lt;div class=&quot;shogun-accordion-heading&quot;&gt;
+&lt;div class=&quot;shogun-accordion-header&quot;&gt;
+&lt;h4 class=&quot;shogun-accordion-title&quot;&gt;Can I expect consistent effects?&lt;/h4&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;shogun-accordion-body&quot;&gt;
+&lt;div id=&quot;s-1f9a2746-bc7e-491e-9f9e-8464a1d3c09a&quot; class=&quot;shg-c &quot;&gt;
+&lt;div class=&quot;shg-rich-text shg-theme-text-content&quot;&gt;
+&lt;p&gt;Yes, the tablets are precisely dosed to provide a consistent and smooth experience every time.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;">
+WARNING:
+This product contains
+7-Hydroxymitragynine (7-OH)
+and should always be used responsibly and only as directed.
+Keep Out of Reach of Children.
+This product is not intended to diagnose, treat, cure, or prevent any medical condition or disease and may be harmful to your health. FDA has not approved 7OH for therapeutic uses. Consult a health provider for questions regarding 7OH use.
+Do not use this product:
+(1) if the product is damaged or has been opened prior to use; (2) in combination with any psychoactive, intoxicating or impairing substance including other botanical products , alcohol, nicotine, cannabinoids, or illicit substances; (3) if you have health conditions (including but not limited to any heart or liver disease or disorder, or high blood pressure) or use prescription medicine, over-the-counter drugs or dietary supplements except under physician supervision; (4)
+if you are pregnant, may become pregnant, or are breastfeeding
+; or (5) before engaging in dangerous activities, operating machinery or operating a motor vehicle. This product is not intended to be used or sold as an alternative to alcohol, nicotine, cannabinoids, prescription medications, or any other substance.  This product is not intended to be used or sold for the treatment of any disease, illness or injury for which physician care should be sought.  7OH may be habit forming. If you struggle with addiction or dependency or have questions regarding 7OH, consult a physician before using this product. If you experience any adverse effects from using this product, seek immediate medical attention.
+These statements have not been evaluated by the United States Food and Drug Administration.
+WARNING:
+This product contains
+Delta 8
+and should always be used responsibly and only as directed.
+Keep Out of Reach of Children.
+This product is not intended to diagnose, treat, cure, or prevent any medical condition or disease and may be harmful to your health. FDA has not approved Delta 8 for therapeutic uses. Consult a health provider for questions regarding Delta 8 use.
+Do not use this product:
+(1) if the product is damaged or has been opened prior to use; (2) in combination with any psychoactive, intoxicating or impairing substance including other botanical products , alcohol, nicotine, cannabinoids, or illicit substances; (3) if you have health conditions (including but not limited to any heart or liver disease or disorder, or high blood pressure) or use prescription medicine, over-the-counter drugs or dietary supplements except under physician supervision; (4)
+if you are pregnant, may become pregnant, or are breastfeeding
+; or (5) before engaging in dangerous activities, operating machinery or operating a motor vehicle. This product is not intended to be used or sold as an alternative to alcohol, nicotine, cannabinoids, prescription medications, or any other substance.  This product is not intended to be used or sold for the treatment of any disease, illness or injury for which physician care should be sought.  Delta 8 may be habit forming. If you struggle with addiction or dependency or have questions regarding Delta 8, consult a physician before using this product. If you experience any adverse effects from using this product, seek immediate medical attention.
+These statements have not been evaluated by the United States Food and Drug Administration.
+WARNING:
+This product contains
+Delta 9
+and should always be used responsibly and only as directed.
+Keep Out of Reach of Children.
+This product is not intended to diagnose, treat, cure, or prevent any medical condition or disease and may be harmful to your health. FDA has not approved Delta 9 for therapeutic uses. Consult a health provider for questions regarding Delta 9 use.
+Do not use this product:
+(1) if the product is damaged or has been opened prior to use; (2) in combination with any psychoactive, intoxicating or impairing substance including other botanical products , alcohol, nicotine, cannabinoids, or illicit substances; (3) if you have health conditions (including but not limited to any heart or liver disease or disorder, or high blood pressure) or use prescription medicine, over-the-counter drugs or dietary supplements except under physician supervision; (4)
+if you are pregnant, may become pregnant, or are breastfeeding
+; or (5) before engaging in dangerous activities, operating machinery or operating a motor vehicle. This product is not intended to be used or sold as an alternative to alcohol, nicotine, cannabinoids, prescription medications, or any other substance.  This product is not intended to be used or sold for the treatment of any disease, illness or injury for which physician care should be sought.  Delta 9 may be habit forming. If you struggle with addiction or dependency or have questions regarding Delta 9, consult a physician before using this product. If you experience any adverse effects from using this product, seek immediate medical attention.
+These statements have not been evaluated by the United States Food and Drug Administration.
+Related Products
+.productCarousel:not(.slick-initialized) {
+position: relative;
+width: 100%;
+overflow-x: scroll;
+overflow-y: hidden;
+white-space: nowrap;
+transition: all 0.2s;
+transform: scale(0.98);
+will-change: transform;
+user-select: none;
+cursor: pointer;
+}
+.productView-imageCarousel-nav.slick-initialized {
+overflow: hidden !important;
+}
+.productCarousel:not(.slick-initialized) .productCarousel-slide {
+width: 25%;
+display: inline-block;
+margin: 2em 1em;
+float:none;
+}
+@media screen and (max-width:767px) {
+.productCarousel:not(.slick-initialized) .productCarousel-slide {
+width: 50%;
+}
+}
+[data-sub-layout-container="ce0dbdca-218e-465f-b218-5a2b472791cf"] {
+min-height:300px;
+}
+<section class="productCarousel productCarousel--maxCol4"
+data-slick='{
+"dots": true,
+"arrows": false,
+"infinite": true,
+"mobileFirst": true,
+"slidesToShow": 2,
+"slidesToScroll": 1,
+"swipeToSlide": true,
+"touchThreshold": 10,
+"autoplay": false,
+"autoplaySpeed": 3000,
+"responsive": [
+{
+"breakpoint": 1260,
+"settings": {
+"dots": false,
+"arrows": true,
+"slidesToShow": 4
+}
+},
+{
+"breakpoint": 800,
+"settings": {
+"dots": false,
+"arrows": true,
+"slidesToShow": 4
+}
+},
+{
+"breakpoint": 550,
+"settings": {
+"slidesToShow": 2
+}
+}
+]
+}'
+>
+<article class="card "
+>
+<img data-bp-info="responsive-img-v28.html" src="https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/160w/products/93837/99047/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-Strawberry-50mg-Per-Tablet-10ct__05863.1773155769.jpg?c=1" alt="Limitless Black Edition 7-Hydroxymitragynine Tablets Strawberry 50mg Per Tablet | 10ct" title="Limitless Black Edition 7-Hydroxymitragynine Tablets Strawberry 50mg Per Tablet | 10ct" data-sizes="auto"
+srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+data-srcset="https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/80w/products/93837/99047/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-Strawberry-50mg-Per-Tablet-10ct__05863.1773155769.jpg?c=1 80w, https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/160w/products/93837/99047/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-Strawberry-50mg-Per-Tablet-10ct__05863.1773155769.jpg?c=1 160w, https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/320w/products/93837/99047/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-Strawberry-50mg-Per-Tablet-10ct__05863.1773155769.jpg?c=1 320w, https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/640w/products/93837/99047/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-Strawberry-50mg-Per-Tablet-10ct__05863.1773155769.jpg?c=1 640w, https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/960w/products/93837/99047/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-Strawberry-50mg-Per-Tablet-10ct__05863.1773155769.jpg?c=1 960w, https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/1280w/products/93837/99047/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-Strawberry-50mg-Per-Tablet-10ct__05863.1773155769.jpg?c=1 1280w, https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/1920w/products/93837/99047/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-Strawberry-50mg-Per-Tablet-10ct__05863.1773155769.jpg?c=1 1920w, https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/2560w/products/93837/99047/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-Strawberry-50mg-Per-Tablet-10ct__05863.1773155769.jpg?c=1 2560w"
+class="lazyload card-image"
+width=590 height=590 />
+Quick view
+Limitless Black Edition 7-Hydroxymitragynine Tablets Strawberry 50mg Per Tablet
+.bp__yotpo_placeholder{position:relative;height:18px;display:flex;align-items:flex-start}
+.yotpo-sr-bottom-line-summary {
+flex-wrap: wrap;
+}
+-->
+$8.99
+Notify Me
+<article class="card "
+>
+<img data-bp-info="responsive-img-v28.html" src="https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/160w/products/80515/86262/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-Original-50mg-Per-Tablet-2ct__45243.1756496344.jpg?c=1" alt="Limitless Black Edition 7-Hydroxymitragynine Tablets Original 50mg Per Tablet | 2ct" title="Limitless Black Edition 7-Hydroxymitragynine Tablets Original 50mg Per Tablet | 2ct" data-sizes="auto"
+srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+data-srcset="https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/80w/products/80515/86262/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-Original-50mg-Per-Tablet-2ct__45243.1756496344.jpg?c=1 80w, https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/160w/products/80515/86262/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-Original-50mg-Per-Tablet-2ct__45243.1756496344.jpg?c=1 160w, https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/320w/products/80515/86262/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-Original-50mg-Per-Tablet-2ct__45243.1756496344.jpg?c=1 320w, https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/640w/products/80515/86262/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-Original-50mg-Per-Tablet-2ct__45243.1756496344.jpg?c=1 640w, https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/960w/products/80515/86262/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-Original-50mg-Per-Tablet-2ct__45243.1756496344.jpg?c=1 960w, https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/1280w/products/80515/86262/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-Original-50mg-Per-Tablet-2ct__45243.1756496344.jpg?c=1 1280w, https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/1920w/products/80515/86262/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-Original-50mg-Per-Tablet-2ct__45243.1756496344.jpg?c=1 1920w, https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/2560w/products/80515/86262/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-Original-50mg-Per-Tablet-2ct__45243.1756496344.jpg?c=1 2560w"
+class="lazyload card-image"
+width=590 height=590 />
+Quick view
+Limitless Black Edition 7-Hydroxymitragynine Tablets Original 50mg Per Tablet
+.bp__yotpo_placeholder{position:relative;height:18px;display:flex;align-items:flex-start}
+.yotpo-sr-bottom-line-summary {
+flex-wrap: wrap;
+}
+-->
+$8.99
+Notify Me
+<article class="card "
+>
+<img data-bp-info="responsive-img-v28.html" src="https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/160w/products/80517/99043/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-Mango-50mg-Per-Tablet-set__46480.1773155710.jpg?c=1" alt="Limitless Black Edition 7-Hydroxymitragynine Tablets Mango 50mg Per Tablet | Set" title="Limitless Black Edition 7-Hydroxymitragynine Tablets Mango 50mg Per Tablet | Set" data-sizes="auto"
+srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+data-srcset="https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/80w/products/80517/99043/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-Mango-50mg-Per-Tablet-set__46480.1773155710.jpg?c=1 80w, https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/160w/products/80517/99043/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-Mango-50mg-Per-Tablet-set__46480.1773155710.jpg?c=1 160w, https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/320w/products/80517/99043/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-Mango-50mg-Per-Tablet-set__46480.1773155710.jpg?c=1 320w, https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/640w/products/80517/99043/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-Mango-50mg-Per-Tablet-set__46480.1773155710.jpg?c=1 640w, https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/960w/products/80517/99043/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-Mango-50mg-Per-Tablet-set__46480.1773155710.jpg?c=1 960w, https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/1280w/products/80517/99043/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-Mango-50mg-Per-Tablet-set__46480.1773155710.jpg?c=1 1280w, https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/1920w/products/80517/99043/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-Mango-50mg-Per-Tablet-set__46480.1773155710.jpg?c=1 1920w, https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/2560w/products/80517/99043/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-Mango-50mg-Per-Tablet-set__46480.1773155710.jpg?c=1 2560w"
+class="lazyload card-image"
+width=590 height=590 />
+Quick view
+Limitless Black Edition 7-Hydroxymitragynine Tablets Mango 50mg Per Tablet
+.bp__yotpo_placeholder{position:relative;height:18px;display:flex;align-items:flex-start}
+.yotpo-sr-bottom-line-summary {
+flex-wrap: wrap;
+}
+-->
+$8.99
+Notify Me
+<article class="card "
+>
+<img data-bp-info="responsive-img-v28.html" src="https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/160w/products/93838/101931/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-Blue-Razz-50mg-Per-Tablet-set__31495.1779209909.jpg?c=1" alt="Limitless Black Edition 7-Hydroxymitragynine Tablets Blue Razz 50mg Per Tablet | Set" title="Limitless Black Edition 7-Hydroxymitragynine Tablets Blue Razz 50mg Per Tablet | Set" data-sizes="auto"
+srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+data-srcset="https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/80w/products/93838/101931/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-Blue-Razz-50mg-Per-Tablet-set__31495.1779209909.jpg?c=1 80w, https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/160w/products/93838/101931/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-Blue-Razz-50mg-Per-Tablet-set__31495.1779209909.jpg?c=1 160w, https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/320w/products/93838/101931/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-Blue-Razz-50mg-Per-Tablet-set__31495.1779209909.jpg?c=1 320w, https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/640w/products/93838/101931/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-Blue-Razz-50mg-Per-Tablet-set__31495.1779209909.jpg?c=1 640w, https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/960w/products/93838/101931/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-Blue-Razz-50mg-Per-Tablet-set__31495.1779209909.jpg?c=1 960w, https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/1280w/products/93838/101931/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-Blue-Razz-50mg-Per-Tablet-set__31495.1779209909.jpg?c=1 1280w, https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/1920w/products/93838/101931/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-Blue-Razz-50mg-Per-Tablet-set__31495.1779209909.jpg?c=1 1920w, https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/2560w/products/93838/101931/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-Blue-Razz-50mg-Per-Tablet-set__31495.1779209909.jpg?c=1 2560w"
+class="lazyload card-image"
+width=590 height=590 />
+Quick view
+Limitless Black Edition 7-Hydroxymitragynine Tablets Blue Razz 50mg Per Tablet
+.bp__yotpo_placeholder{position:relative;height:18px;display:flex;align-items:flex-start}
+.yotpo-sr-bottom-line-summary {
+flex-wrap: wrap;
+}
+-->
+$8.99
+Notify Me
+<article class="card "
+>
+<img data-bp-info="responsive-img-v28.html" src="https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/160w/products/80538/86317/dopium-7-Hydroxymitragynine-Chewable-Tablets-Cherry-Bomb-50mg-Per-Tablet-15ct__78787.1757008475.jpg?c=1" alt="dopium 7-Hydroxymitragynine Chewable Tablets Cherry Bomb 50mg Per Tablet | 15ct" title="dopium 7-Hydroxymitragynine Chewable Tablets Cherry Bomb 50mg Per Tablet | 15ct" data-sizes="auto"
+srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+data-srcset="https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/80w/products/80538/86317/dopium-7-Hydroxymitragynine-Chewable-Tablets-Cherry-Bomb-50mg-Per-Tablet-15ct__78787.1757008475.jpg?c=1 80w, https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/160w/products/80538/86317/dopium-7-Hydroxymitragynine-Chewable-Tablets-Cherry-Bomb-50mg-Per-Tablet-15ct__78787.1757008475.jpg?c=1 160w, https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/320w/products/80538/86317/dopium-7-Hydroxymitragynine-Chewable-Tablets-Cherry-Bomb-50mg-Per-Tablet-15ct__78787.1757008475.jpg?c=1 320w, https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/640w/products/80538/86317/dopium-7-Hydroxymitragynine-Chewable-Tablets-Cherry-Bomb-50mg-Per-Tablet-15ct__78787.1757008475.jpg?c=1 640w, https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/960w/products/80538/86317/dopium-7-Hydroxymitragynine-Chewable-Tablets-Cherry-Bomb-50mg-Per-Tablet-15ct__78787.1757008475.jpg?c=1 960w, https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/1280w/products/80538/86317/dopium-7-Hydroxymitragynine-Chewable-Tablets-Cherry-Bomb-50mg-Per-Tablet-15ct__78787.1757008475.jpg?c=1 1280w, https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/1920w/products/80538/86317/dopium-7-Hydroxymitragynine-Chewable-Tablets-Cherry-Bomb-50mg-Per-Tablet-15ct__78787.1757008475.jpg?c=1 1920w, https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/2560w/products/80538/86317/dopium-7-Hydroxymitragynine-Chewable-Tablets-Cherry-Bomb-50mg-Per-Tablet-15ct__78787.1757008475.jpg?c=1 2560w"
+class="lazyload card-image"
+width=590 height=590 />
+Quick view
+dopium 7-Hydroxymitragynine Chewable Tablets Cherry Bomb 50mg Per Tablet
+.bp__yotpo_placeholder{position:relative;height:18px;display:flex;align-items:flex-start}
+.yotpo-sr-bottom-line-summary {
+flex-wrap: wrap;
+}
+-->
+$45.33
+Notify Me
+document.addEventListener('DOMContentLoaded', function() {
+logDebug('=== CAROUSEL FILTERING SCRIPT STARTING ===');
+logDebug('window.ProductFilterUtils available:', !!window.ProductFilterUtils);
+logDebug('is7OHFilteringEnabled:', window.ProductFilterUtils ? window.ProductFilterUtils.is7OHFilteringEnabled() : 'N/A');
+logDebug('isCustomer:', window.ProductFilterUtils ? window.ProductFilterUtils.isCustomer() : 'N/A');
+// Filter products from product carousels for non-customers
+if (!window.ProductFilterUtils || window.ProductFilterUtils.isCustomer()) {
+logDebug('CAROUSEL FILTERING SKIPPED - Reason:',
+!window.ProductFilterUtils ? 'ProductFilterUtils not available' : 'User is a customer'
+);
+return; // Don't filter if user is a customer
+}
+// Check if any filtering is enabled
+const should7OHFilter = window.ProductFilterUtils.is7OHFilteringEnabled();
+const shouldHempFilter = window.ProductFilterUtils.isHempFilteringEnabled();
+if (!should7OHFilter && !shouldHempFilter) {
+logDebug('CAROUSEL FILTERING SKIPPED - No filtering enabled');
+return; // Don't filter if no filtering is enabled
+}
+const carouselProducts = document.querySelectorAll('.productCarousel-slide[data-product-name]');
+logDebug('Found', carouselProducts.length, 'carousel products to check');
+carouselProducts.forEach(function(item) {
+const productData = {
+name: item.getAttribute('data-product-name'),
+categories: item.getAttribute('data-product-categories'),
+brand: item.getAttribute('data-product-brand'),
+url: item.getAttribute('data-product-url')
+};
+logDebug('Checking carousel product:', productData);
+let shouldFilter = false;
+// Check 7OH filtering
+if (should7OHFilter && window.ProductFilterUtils.is7OHProduct(productData)) {
+logDebug('Filtering 7OH product from carousel:', productData.name);
+shouldFilter = true;
+}
+// Check hemp filtering
+if (shouldHempFilter && window.ProductFilterUtils.isHempProduct(productData)) {
+logDebug('Filtering hemp product from carousel:', productData.name);
+shouldFilter = true;
+}
+if (shouldFilter) {
+item.remove();
+} else {
+logDebug('Keeping product:', productData.name);
+}
+});
+// Re-initialize carousel after removing items
+setTimeout(function() {
+const carousels = document.querySelectorAll('.productCarousel[data-slick]');
+carousels.forEach(function(carousel) {
+if (typeof jQuery !== 'undefined' && jQuery(carousel).hasClass('slick-initialized')) {
+jQuery(carousel).slick('refresh');
+}
+});
+}, 100);
+});
+OK
+VIP Emails
+Receive updates about new products and special promotions
+Email Address
+<input class="form-input"
+id="nl_email"
+name="nl_email"
+type="email"
+value=""
+placeholder="Enter your email address">
+Subscribe Now
+<input type="checkbox"
+name="newsletter_consent"
+value="1"
+required>
+I agree to receive marketing emails from Pure Leaf Kratom
+Footer Start
+(562) 304-5089
+info@pureleafkratom.net
+-->
+Pure Leaf Kratom is committed to providing premium, affordable kratom products that enhance your wellness journey while maintaining the highest standards of quality and transparency.
+Quick Links
+About Us
+Knowledge
+Kratom FAQ
+Sezzle FAQ
+Payment FAQ
+COA's
+-->
+Shipping
+Order Status
+Return Policy
+Rewards
+Referral
+Holiday Sales
+-->
+Disclaimer
+Contact Us
+<a data-fillout-id="rTtSSToJaNus" data-fillout-embed-type="popup" data-fillout-button-text="wholesale inquiry"
+data-fillout-dynamic-resize data-fillout-inherit-parameters data-fillout-popup-size="medium">Wholesale Inquiry
+Sitemap
+Popular Brands
+7Tabz
+Press'd
+EDP
+Hydroxie
+7 O'Heaven
+7Ohmz
+MIT45
+Rave Kratom
+View All
+Categories
+All Products
+Deals
+7-OH
+Kratom + Energy
+Kratom Capsules
+Kratom Extract
+Kratom Powder
+Kratom Strains
+Kava
+Nano Kratom
+Contact Us
+(562) 304-5089
+Email us
+Chat with us
+Follow Us
+-->
+<!--
+-->
+This product is not available for shipment to the following states: Alabama, Arkansas, Indiana, Rhode Island, Wisconsin; or the following counties: Sarasota County (Florida), San Diego (California), Oceanside (California), Alton (Illinois), Jerseyville (Illinois), Edwardsville County (Illinois), Columbus (Mississippi), Union County (Mississippi), Ascension (Louisiana), Franklin (Louisiana), Rapides (Louisiana)
+Sale of Kratom to New York persons under 21 years of age is prohibited by law.
+These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease.
+Products on site contain No THC or a value of 0.3% or less THC
+© 2026 Pure Leaf Kratom. All Rights Reserved |
+Terms and Conditions
+|
+Privacy Policy
+|
+Update Email Preferences
+|
+Consumer Health Data Privacy Policy
+|
+Notice at Collection
+|
+Do Not Share or Sell My Personal Information
+|
+Site Map
+// Ensure ProductFilterUtils is loaded before running
+(function() {
+let retryCount = 0;
+const MAX_RETRIES = 100; // 5 seconds max (100 * 50ms)
+// Filter 7OH footer links (async to check order history)
+async function filterFooter7OHLinks() {
+// Wait for ProductFilterUtils to be available
+if (!window.ProductFilterUtils || typeof window.ProductFilterUtils.canSeeRestrictedProducts !== 'function') {
+retryCount++;
+if (retryCount >= MAX_RETRIES) {
+console.error('❌ [FOOTER] ProductFilterUtils failed to load after 5 seconds - footer 7OH links will not be filtered');
+return;
+}
+// Only log every 10 attempts to avoid spam
+if (retryCount % 10 === 0) {
+logDebug('⏳ [FOOTER] Waiting for ProductFilterUtils... (attempt ' + retryCount + '/' + MAX_RETRIES + ')');
+}
+setTimeout(filterFooter7OHLinks, 50);
+return;
+}
+logDebug('🔧 [FOOTER] Starting footer link filtering...');
+const should7OHFilter = window.ProductFilterUtils.is7OHFilteringEnabled();
+logDebug('📋 [FOOTER] 7OH filtering enabled:', should7OHFilter);
+if (!should7OHFilter) {
+logDebug('✅ [FOOTER] 7OH filtering disabled - showing all footer links');
+return;
+}
+// Check if user can see restricted products (logged in with orders)
+logDebug('🔍 [FOOTER] Checking user order history...');
+const canSeeRestricted = await window.ProductFilterUtils.canSeeRestrictedProducts();
+logDebug('📊 [FOOTER] Order check complete - canSeeRestricted:', canSeeRestricted);
+if (canSeeRestricted) {
+logDebug('✅ [FOOTER] User has orders - showing all 7OH footer links');
+return;
+}
+logDebug('🚫 [FOOTER] User has no orders - filtering 7OH links from footer');
+// Hide all 7OH links in footer
+const footer7OHLinks = document.querySelectorAll('[data-7oh-link], .footer-7oh-brand, .footer-7oh-category');
+logDebug('📌 [FOOTER] Found', footer7OHLinks.length, '7OH links to hide');
+footer7OHLinks.forEach(function(element) {
+element.style.display = 'none';
+});
+logDebug('✅ [FOOTER] Footer filtering complete');
+}
+// Run when DOM is ready
+if (document.readyState === 'loading') {
+document.addEventListener('DOMContentLoaded', filterFooter7OHLinks);
+} else {
+// DOM already loaded
+filterFooter7OHLinks();
+}
+})();
+[data-sub-layout-container="c2c2058f-334f-4540-b3b5-dfa5d2916193"] {
+box-sizing: border-box;
+display: flex;
+flex-wrap: wrap;
+z-index: 0;
+position: relative;
+height: ;
+padding-top: 0px;
+padding-right: 0px;
+padding-bottom: 0px;
+padding-left: 0px;
+margin-top: 0px;
+margin-right: 0px;
+margin-bottom: 0px;
+margin-left: 0px;
+border-width: 0px;
+border-style: solid;
+border-color: #333333;
+}
+[data-sub-layout-container="c2c2058f-334f-4540-b3b5-dfa5d2916193"]:after {
+display: block;
+position: absolute;
+top: 0;
+left: 0;
+bottom: 0;
+right: 0;
+background-size: cover;
+z-index: auto;
+}
+[data-sub-layout="9127fc59-28d1-451e-aca1-516cf8738160"] {
+display: flex;
+flex-direction: column;
+box-sizing: border-box;
+flex-basis: 100%;
+max-width: 100%;
+z-index: 0;
+position: relative;
+height: ;
+padding-top: 0px;
+padding-right: 10.5px;
+padding-bottom: 0px;
+padding-left: 10.5px;
+margin-top: 0px;
+margin-right: 0px;
+margin-bottom: 0px;
+margin-left: 0px;
+border-width: 0px;
+border-style: solid;
+border-color: #333333;
+justify-content: center;
+}
+[data-sub-layout="9127fc59-28d1-451e-aca1-516cf8738160"]:after {
+display: block;
+position: absolute;
+top: 0;
+left: 0;
+bottom: 0;
+right: 0;
+background-size: cover;
+z-index: auto;
+}
+@media only screen and (max-width: 700px) {
+[data-sub-layout="9127fc59-28d1-451e-aca1-516cf8738160"] {
+flex-basis: 100%;
+max-width: 100%;
+}
+}
+.sd-simple-text-9d437798-6602-4555-8bed-3fa592bdf53f {
+padding-top: 0px;
+padding-right: 0px;
+padding-bottom: 0px;
+padding-left: 0px;
+margin-top: 0px;
+margin-right: 0px;
+margin-bottom: 0px;
+margin-left: 0px;
+}
+.sd-simple-text-9d437798-6602-4555-8bed-3fa592bdf53f * {
+margin: 0;
+padding: 0;
+color: #333333;
+font-family: inherit;
+font-weight: 500;
+font-size: 11px;
+min-height: 11px;
+}
+.sd-simple-text-9d437798-6602-4555-8bed-3fa592bdf53f {
+text-align: left;
+}
+#sd-simple-text-editable-9d437798-6602-4555-8bed-3fa592bdf53f {
+min-width: 14px;
+line-height: 1.5;
+display: inline-block;
+}
+#sd-simple-text-editable-9d437798-6602-4555-8bed-3fa592bdf53f[data-edit-mode="true"]:hover,
+#sd-simple-text-editable-9d437798-6602-4555-8bed-3fa592bdf53f[data-edit-mode="true"]:active,
+#sd-simple-text-editable-9d437798-6602-4555-8bed-3fa592bdf53f[data-edit-mode="true"]:focus {
+outline: 1px dashed #3C64F4;
+}
+#sd-simple-text-editable-9d437798-6602-4555-8bed-3fa592bdf53f strong,
+#sd-simple-text-editable-9d437798-6602-4555-8bed-3fa592bdf53f strong * {
+font-weight: bold;
+}
+#sd-simple-text-editable-9d437798-6602-4555-8bed-3fa592bdf53f a {
+color: inherit;
+}
+@supports (color: color-mix(in srgb, #000 50%, #fff 50%)) {
+#sd-simple-text-editable-9d437798-6602-4555-8bed-3fa592bdf53f a:hover,
+#sd-simple-text-editable-9d437798-6602-4555-8bed-3fa592bdf53f a:active,
+#sd-simple-text-editable-9d437798-6602-4555-8bed-3fa592bdf53f a:focus {
+color: color-mix(in srgb, currentColor 68%, white 32%);
+}
+}
+@supports not (color: color-mix(in srgb, #000 50%, #fff 50%)) {
+#sd-simple-text-editable-9d437798-6602-4555-8bed-3fa592bdf53f a:hover,
+#sd-simple-text-editable-9d437798-6602-4555-8bed-3fa592bdf53f a:active,
+#sd-simple-text-editable-9d437798-6602-4555-8bed-3fa592bdf53f a:focus {
+filter: brightness(2);
+}
+}
+This product is not available for shipment to the following states: Alabama, Arkansas, Indiana, Rhode Island, Wisconsin; or the following counties: Sarasota County (Florida), San Diego (California), Oceanside (California), Alton (Illinois), Jerseyville (Illinois), Edwardsville County (Illinois), Columbus (Mississippi), Union County (Mississippi), Ascension (Louisiana), Franklin (Louisiana), Rapides (Louisiana)
+&nbsp;
+These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease.
+&nbsp;
+Products on site contain No THC or a value of 0.3% or less THC
+-->
+// Parse jsContext and make filtering settings globally available
+try {
+var jsContext = JSON.parse("{\"add_to_cart_popup\":\"default\",\"redirect_cart\":false,\"alsobought_thumbnail_size\":\"50x50\",\"pdp_price_label\":\"\",\"pdp_sale_price_label\":\"\",\"pdp_non_sale_price_label\":\"\",\"pdp_retail_price_label\":\"MSRP:\",\"alsobought_checked\":true,\"homepage_show_carousel\":false,\"product_new_count\":8,\"product_featured_count\":8,\"product_top_count\":8,\"homepage_blog_posts_count\":2,\"sidebar_shop_by_brand\":10,\"productpage_videos_count\":8,\"productpage_reviews_count\":10,\"productpage_related_products_count\":8,\"productpage_similar_by_views_count\":8,\"categorypage_products_per_page\":12,\"brandpage_products_per_page\":12,\"categorypage_search\":\"show\",\"categorypage_search_subs\":false,\"instantload\":false,\"navPages_animation\":\"fade\",\"show_bulk_order_mode\":true,\"swatch_option_display_type\":\"both\",\"zoom_size\":\"1280x1280\",\"product_size\":\"608x608\",\"product_image_responsive\":true,\"restrict_to_login\":false,\"genericError\":\"Oops! Something went wrong.\",\"urls\":{\"home\":\"https://pureleafkratom.com/\",\"brands\":\"https://pureleafkratom.com/brands/\",\"search\":\"https://pureleafkratom.com/search.php\",\"compare\":\"https://pureleafkratom.com/compare\",\"sitemap\":\"https://pureleafkratom.com/sitemap.php\",\"contact_us_submit\":\"https://pureleafkratom.com/pages.php?action=sendContactForm\",\"subscribe\":{\"action\":\"https://pureleafkratom.com/subscribe.php\"},\"checkout\":{\"single_address\":\"https://pureleafkratom.com/checkout\",\"multiple_address\":\"https://pureleafkratom.com/checkout.php?action=multiple\"},\"account\":{\"orders\":{\"all\":\"https://pureleafkratom.com/account.php?action=order_status\",\"completed\":\"https://pureleafkratom.com/account.php?action=view_orders\",\"save_new_return\":\"https://pureleafkratom.com/account.php?action=save_new_return\"},\"returns\":\"https://pureleafkratom.com/account.php?action=view_returns\",\"addresses\":\"https://pureleafkratom.com/account.php?action=address_book\",\"inbox\":\"https://pureleafkratom.com/account.php?action=inbox\",\"send_message\":\"https://pureleafkratom.com/account.php?action=send_message\",\"add_address\":\"https://pureleafkratom.com/account.php?action=add_shipping_address\",\"update_action\":\"https://pureleafkratom.com/account.php?action=update_account\",\"details\":\"https://pureleafkratom.com/account.php?action=account_details\",\"recent_items\":\"https://pureleafkratom.com/account.php?action=recent_items\",\"index\":\"https://pureleafkratom.com/account.php\",\"wishlists\":{\"all\":\"https://pureleafkratom.com/wishlist.php\",\"add\":\"https://pureleafkratom.com/wishlist.php?action=addwishlist\",\"edit\":\"https://pureleafkratom.com/wishlist.php?action=editwishlist\",\"delete\":\"https://pureleafkratom.com/wishlist.php?action=deletewishlist\"}},\"auth\":{\"login\":\"https://pureleafkratom.com/login.php\",\"check_login\":\"https://pureleafkratom.com/login.php?action=check_login\",\"create_account\":\"https://pureleafkratom.com/login.php?action=create_account\",\"save_new_account\":\"https://pureleafkratom.com/login.php?action=save_new_account\",\"forgot_password\":\"https://pureleafkratom.com/login.php?action=reset_password\",\"send_password_email\":\"https://pureleafkratom.com/login.php?action=send_password_email\",\"save_new_password\":\"https://pureleafkratom.com/login.php?action=save_new_password\",\"logout\":\"https://pureleafkratom.com/login.php?action=logout\"},\"cart\":\"https://pureleafkratom.com/cart.php\",\"product\":{\"post_review\":\"https://pureleafkratom.com/postreview.php\"},\"gift_certificate\":{\"purchase\":\"https://pureleafkratom.com/giftcertificates.php\",\"redeem\":\"https://pureleafkratom.com/giftcertificates.php?action=redeem\",\"balance\":\"https://pureleafkratom.com/giftcertificates.php?action=balance\"},\"rss\":{\"products\":[]}},\"secureBaseUrl\":\"https://pureleafkratom.com\",\"cartId\":null,\"template\":\"pages/product\",\"pageType\":\"product\",\"validationDictionaryJSON\":\"{\\\"locale\\\":\\\"en\\\",\\\"locales\\\":{\\\"validation_messages.valid_email\\\":\\\"en\\\",\\\"validation_messages.password\\\":\\\"en\\\",\\\"validation_messages.password_match\\\":\\\"en\\\",\\\"validation_messages.invalid_password\\\":\\\"en\\\",\\\"validation_messages.field_not_blank\\\":\\\"en\\\",\\\"validation_messages.certificate_amount\\\":\\\"en\\\",\\\"validation_messages.certificate_amount_range\\\":\\\"en\\\",\\\"validation_messages.price_min_evaluation\\\":\\\"en\\\",\\\"validation_messages.price_max_evaluation\\\":\\\"en\\\",\\\"validation_messages.price_min_not_entered\\\":\\\"en\\\",\\\"validation_messages.price_max_not_entered\\\":\\\"en\\\",\\\"validation_messages.price_invalid_value\\\":\\\"en\\\",\\\"validation_messages.invalid_gift_certificate\\\":\\\"en\\\"},\\\"translations\\\":{\\\"validation_messages.valid_email\\\":\\\"You must enter a valid email.\\\",\\\"validation_messages.password\\\":\\\"You must enter a password.\\\",\\\"validation_messages.password_match\\\":\\\"Your passwords do not match.\\\",\\\"validation_messages.invalid_password\\\":\\\"Passwords must be at least 7 characters and contain both alphabetic and numeric characters.\\\",\\\"validation_messages.field_not_blank\\\":\\\" field cannot be blank.\\\",\\\"validation_messages.certificate_amount\\\":\\\"You must enter a gift certificate amount.\\\",\\\"validation_messages.certificate_amount_range\\\":\\\"You must enter a certificate amount between [MIN] and [MAX]\\\",\\\"validation_messages.price_min_evaluation\\\":\\\"Min. price must be less than max. price.\\\",\\\"validation_messages.price_max_evaluation\\\":\\\"Min. price must be less than max. price.\\\",\\\"validation_messages.price_min_not_entered\\\":\\\"Min. price is required.\\\",\\\"validation_messages.price_max_not_entered\\\":\\\"Max. price is required.\\\",\\\"validation_messages.price_invalid_value\\\":\\\"Input must be greater than 0.\\\",\\\"validation_messages.invalid_gift_certificate\\\":\\\"Please enter your valid certificate code.\\\"}}\",\"validationFallbackDictionaryJSON\":\"{\\\"locale\\\":\\\"en\\\",\\\"locales\\\":{\\\"validation_fallback_messages.valid_email\\\":\\\"en\\\",\\\"validation_fallback_messages.password\\\":\\\"en\\\",\\\"validation_fallback_messages.password_match\\\":\\\"en\\\",\\\"validation_fallback_messages.invalid_password\\\":\\\"en\\\",\\\"validation_fallback_messages.field_not_blank\\\":\\\"en\\\",\\\"validation_fallback_messages.certificate_amount\\\":\\\"en\\\",\\\"validation_fallback_messages.certificate_amount_range\\\":\\\"en\\\",\\\"validation_fallback_messages.price_min_evaluation\\\":\\\"en\\\",\\\"validation_fallback_messages.price_max_evaluation\\\":\\\"en\\\",\\\"validation_fallback_messages.price_min_not_entered\\\":\\\"en\\\",\\\"validation_fallback_messages.price_max_not_entered\\\":\\\"en\\\",\\\"validation_fallback_messages.price_invalid_value\\\":\\\"en\\\",\\\"validation_fallback_messages.invalid_gift_certificate\\\":\\\"en\\\"},\\\"translations\\\":{\\\"validation_fallback_messages.valid_email\\\":\\\"You must enter a valid email.\\\",\\\"validation_fallback_messages.password\\\":\\\"You must enter a password.\\\",\\\"validation_fallback_messages.password_match\\\":\\\"Your passwords do not match.\\\",\\\"validation_fallback_messages.invalid_password\\\":\\\"Passwords must be at least 7 characters and contain both alphabetic and numeric characters.\\\",\\\"validation_fallback_messages.field_not_blank\\\":\\\" field cannot be blank.\\\",\\\"validation_fallback_messages.certificate_amount\\\":\\\"You must enter a gift certificate amount.\\\",\\\"validation_fallback_messages.certificate_amount_range\\\":\\\"You must enter a certificate amount between [MIN] and [MAX]\\\",\\\"validation_fallback_messages.price_min_evaluation\\\":\\\"Min. price must be less than max. price.\\\",\\\"validation_fallback_messages.price_max_evaluation\\\":\\\"Min. price must be less than max. price.\\\",\\\"validation_fallback_messages.price_min_not_entered\\\":\\\"Min. price is required.\\\",\\\"validation_fallback_messages.price_max_not_entered\\\":\\\"Max. price is required.\\\",\\\"validation_fallback_messages.price_invalid_value\\\":\\\"Input must be greater than 0.\\\",\\\"validation_fallback_messages.invalid_gift_certificate\\\":\\\"Please enter your valid certificate code.\\\"}}\",\"validationDefaultDictionaryJSON\":\"{\\\"locale\\\":\\\"en\\\",\\\"locales\\\":{\\\"validation_default_messages.valid_email\\\":\\\"en\\\",\\\"validation_default_messages.password\\\":\\\"en\\\",\\\"validation_default_messages.password_match\\\":\\\"en\\\",\\\"validation_default_messages.invalid_password\\\":\\\"en\\\",\\\"validation_default_messages.field_not_blank\\\":\\\"en\\\",\\\"validation_default_messages.certificate_amount\\\":\\\"en\\\",\\\"validation_default_messages.certificate_amount_range\\\":\\\"en\\\",\\\"validation_default_messages.price_min_evaluation\\\":\\\"en\\\",\\\"validation_default_messages.price_max_evaluation\\\":\\\"en\\\",\\\"validation_default_messages.price_min_not_entered\\\":\\\"en\\\",\\\"validation_default_messages.price_max_not_entered\\\":\\\"en\\\",\\\"validation_default_messages.price_invalid_value\\\":\\\"en\\\",\\\"validation_default_messages.invalid_gift_certificate\\\":\\\"en\\\"},\\\"translations\\\":{\\\"validation_default_messages.valid_email\\\":\\\"You must enter a valid email.\\\",\\\"validation_default_messages.password\\\":\\\"You must enter a password.\\\",\\\"validation_default_messages.password_match\\\":\\\"Your passwords do not match.\\\",\\\"validation_default_messages.invalid_password\\\":\\\"Passwords must be at least 7 characters and contain both alphabetic and numeric characters.\\\",\\\"validation_default_messages.field_not_blank\\\":\\\"The field cannot be blank.\\\",\\\"validation_default_messages.certificate_amount\\\":\\\"You must enter a gift certificate amount.\\\",\\\"validation_default_messages.certificate_amount_range\\\":\\\"You must enter a certificate amount between [MIN] and [MAX]\\\",\\\"validation_default_messages.price_min_evaluation\\\":\\\"Min. price must be less than max. price.\\\",\\\"validation_default_messages.price_max_evaluation\\\":\\\"Min. price must be less than max. price.\\\",\\\"validation_default_messages.price_min_not_entered\\\":\\\"Min. price is required.\\\",\\\"validation_default_messages.price_max_not_entered\\\":\\\"Max. price is required.\\\",\\\"validation_default_messages.price_invalid_value\\\":\\\"Input must be greater than 0.\\\",\\\"validation_default_messages.invalid_gift_certificate\\\":\\\"Please enter your valid certificate code.\\\"}}\",\"ajaxAddToCartEnterQty\":\"Please enter quantity\",\"bulkOrderEnterQty\":\"Please enter quantity\",\"compareAddonLang_compare\":\"Compare\",\"compareAddonLang_quick_view\":\"Quick view\",\"compareAddonLang_remove\":\"Remove\",\"compareAddonLang_clear_all\":\"Clear All\",\"loadingImg\":\"https://cdn11.bigcommerce.com/s-9rfkclyxvm/stencil/408f6300-8469-013f-d74c-12eb58d82f3f/e/36cc1df0-2057-013c-9e4e-6e0327aaacfa/img/loading.svg\",\"money\":{\"currency_token\":\"$\",\"currency_location\":\"Left\",\"decimal_token\":\".\",\"decimal_places\":2,\"thousands_token\":\",\"},\"graphQLToken\":\"eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzI1NiJ9.eyJjaWQiOlsxXSwiY29ycyI6WyJodHRwczovL3B1cmVsZWFma3JhdG9tLmNvbSJdLCJlYXQiOjE3ODgwMDAwNzksImlhdCI6MTc4NzgyNzI3OSwiaXNzIjoiQkMiLCJzaWQiOjEwMDI4OTIyNjEsInN1YiI6IkJDIiwic3ViX3R5cGUiOjAsInRva2VuX3R5cGUiOjF9.km_B-bKWlQTronxH81RzKZPoUtd125qN9E54mZQP_qOVSa46E4Vm2vxMMCqGyJKv3IHIEaI-kI5CjT1qAnJTuQ\",\"loginUrl\":\"https://pureleafkratom.com/login.php\",\"activeCurrencyCode\":\"USD\",\"defaultCurrencyCode\":\"USD\",\"defaultProductImage\":\"https://cdn11.bigcommerce.com/s-9rfkclyxvm/stencil/408f6300-8469-013f-d74c-12eb58d82f3f/e/36cc1df0-2057-013c-9e4e-6e0327aaacfa/img/ProductDefault.svg\",\"priceWithTaxTxt\":\"Inc. Tax\",\"priceWithoutTaxTxt\":\"Ex. Tax\",\"includingTaxTxt\":\"Including Tax\",\"excludingTaxTxt\":\"Excluding Tax\",\"chooseOptionsTxt\":\"Options\",\"loginForPriceTxt\":\"products.login_for_price\",\"txtAlsoBoughtNumberArray\":\",both,three,four,five,six,seven,eight,nine,ten\",\"txtAlsoBoughtAllNumberArray\":\"all,all two,all three,all four,all five,all six,all seven,all eight,all nine,all ten\",\"txtSelectOne\":\"Please select one\",\"customerRecentlyViewedProductIds\":[],\"customerId\":null,\"currencyCode\":\"USD\",\"enable7OHFiltering\":false,\"enableHempFiltering\":false,\"debugMode\":false,\"enableAlsoBought\":true}");
+window.FILTER_SETTINGS = {
+enable7OHFiltering: jsContext.enable7OHFiltering === true,
+enableHempFiltering: jsContext.enableHempFiltering === true,
+debugMode: jsContext.debugMode === true
+};
+window.jsContext = jsContext; // Also set jsContext globally
+logDebug('Filter settings loaded:', window.FILTER_SETTINGS);
+} catch (e) {
+console.error('Error parsing jsContext:', e);
+window.FILTER_SETTINGS = {
+enable7OHFiltering: false,
+enableHempFiltering: false,
+debugMode: false
+};
+}
+window.stencilBootstrap("product", "{\"add_to_cart_popup\":\"default\",\"redirect_cart\":false,\"alsobought_thumbnail_size\":\"50x50\",\"pdp_price_label\":\"\",\"pdp_sale_price_label\":\"\",\"pdp_non_sale_price_label\":\"\",\"pdp_retail_price_label\":\"MSRP:\",\"alsobought_checked\":true,\"homepage_show_carousel\":false,\"product_new_count\":8,\"product_featured_count\":8,\"product_top_count\":8,\"homepage_blog_posts_count\":2,\"sidebar_shop_by_brand\":10,\"productpage_videos_count\":8,\"productpage_reviews_count\":10,\"productpage_related_products_count\":8,\"productpage_similar_by_views_count\":8,\"categorypage_products_per_page\":12,\"brandpage_products_per_page\":12,\"categorypage_search\":\"show\",\"categorypage_search_subs\":false,\"instantload\":false,\"navPages_animation\":\"fade\",\"show_bulk_order_mode\":true,\"swatch_option_display_type\":\"both\",\"zoom_size\":\"1280x1280\",\"product_size\":\"608x608\",\"product_image_responsive\":true,\"restrict_to_login\":false,\"genericError\":\"Oops! Something went wrong.\",\"urls\":{\"home\":\"https://pureleafkratom.com/\",\"brands\":\"https://pureleafkratom.com/brands/\",\"search\":\"https://pureleafkratom.com/search.php\",\"compare\":\"https://pureleafkratom.com/compare\",\"sitemap\":\"https://pureleafkratom.com/sitemap.php\",\"contact_us_submit\":\"https://pureleafkratom.com/pages.php?action=sendContactForm\",\"subscribe\":{\"action\":\"https://pureleafkratom.com/subscribe.php\"},\"checkout\":{\"single_address\":\"https://pureleafkratom.com/checkout\",\"multiple_address\":\"https://pureleafkratom.com/checkout.php?action=multiple\"},\"account\":{\"orders\":{\"all\":\"https://pureleafkratom.com/account.php?action=order_status\",\"completed\":\"https://pureleafkratom.com/account.php?action=view_orders\",\"save_new_return\":\"https://pureleafkratom.com/account.php?action=save_new_return\"},\"returns\":\"https://pureleafkratom.com/account.php?action=view_returns\",\"addresses\":\"https://pureleafkratom.com/account.php?action=address_book\",\"inbox\":\"https://pureleafkratom.com/account.php?action=inbox\",\"send_message\":\"https://pureleafkratom.com/account.php?action=send_message\",\"add_address\":\"https://pureleafkratom.com/account.php?action=add_shipping_address\",\"update_action\":\"https://pureleafkratom.com/account.php?action=update_account\",\"details\":\"https://pureleafkratom.com/account.php?action=account_details\",\"recent_items\":\"https://pureleafkratom.com/account.php?action=recent_items\",\"index\":\"https://pureleafkratom.com/account.php\",\"wishlists\":{\"all\":\"https://pureleafkratom.com/wishlist.php\",\"add\":\"https://pureleafkratom.com/wishlist.php?action=addwishlist\",\"edit\":\"https://pureleafkratom.com/wishlist.php?action=editwishlist\",\"delete\":\"https://pureleafkratom.com/wishlist.php?action=deletewishlist\"}},\"auth\":{\"login\":\"https://pureleafkratom.com/login.php\",\"check_login\":\"https://pureleafkratom.com/login.php?action=check_login\",\"create_account\":\"https://pureleafkratom.com/login.php?action=create_account\",\"save_new_account\":\"https://pureleafkratom.com/login.php?action=save_new_account\",\"forgot_password\":\"https://pureleafkratom.com/login.php?action=reset_password\",\"send_password_email\":\"https://pureleafkratom.com/login.php?action=send_password_email\",\"save_new_password\":\"https://pureleafkratom.com/login.php?action=save_new_password\",\"logout\":\"https://pureleafkratom.com/login.php?action=logout\"},\"cart\":\"https://pureleafkratom.com/cart.php\",\"product\":{\"post_review\":\"https://pureleafkratom.com/postreview.php\"},\"gift_certificate\":{\"purchase\":\"https://pureleafkratom.com/giftcertificates.php\",\"redeem\":\"https://pureleafkratom.com/giftcertificates.php?action=redeem\",\"balance\":\"https://pureleafkratom.com/giftcertificates.php?action=balance\"},\"rss\":{\"products\":[]}},\"secureBaseUrl\":\"https://pureleafkratom.com\",\"cartId\":null,\"template\":\"pages/product\",\"pageType\":\"product\",\"validationDictionaryJSON\":\"{\\\"locale\\\":\\\"en\\\",\\\"locales\\\":{\\\"validation_messages.valid_email\\\":\\\"en\\\",\\\"validation_messages.password\\\":\\\"en\\\",\\\"validation_messages.password_match\\\":\\\"en\\\",\\\"validation_messages.invalid_password\\\":\\\"en\\\",\\\"validation_messages.field_not_blank\\\":\\\"en\\\",\\\"validation_messages.certificate_amount\\\":\\\"en\\\",\\\"validation_messages.certificate_amount_range\\\":\\\"en\\\",\\\"validation_messages.price_min_evaluation\\\":\\\"en\\\",\\\"validation_messages.price_max_evaluation\\\":\\\"en\\\",\\\"validation_messages.price_min_not_entered\\\":\\\"en\\\",\\\"validation_messages.price_max_not_entered\\\":\\\"en\\\",\\\"validation_messages.price_invalid_value\\\":\\\"en\\\",\\\"validation_messages.invalid_gift_certificate\\\":\\\"en\\\"},\\\"translations\\\":{\\\"validation_messages.valid_email\\\":\\\"You must enter a valid email.\\\",\\\"validation_messages.password\\\":\\\"You must enter a password.\\\",\\\"validation_messages.password_match\\\":\\\"Your passwords do not match.\\\",\\\"validation_messages.invalid_password\\\":\\\"Passwords must be at least 7 characters and contain both alphabetic and numeric characters.\\\",\\\"validation_messages.field_not_blank\\\":\\\" field cannot be blank.\\\",\\\"validation_messages.certificate_amount\\\":\\\"You must enter a gift certificate amount.\\\",\\\"validation_messages.certificate_amount_range\\\":\\\"You must enter a certificate amount between [MIN] and [MAX]\\\",\\\"validation_messages.price_min_evaluation\\\":\\\"Min. price must be less than max. price.\\\",\\\"validation_messages.price_max_evaluation\\\":\\\"Min. price must be less than max. price.\\\",\\\"validation_messages.price_min_not_entered\\\":\\\"Min. price is required.\\\",\\\"validation_messages.price_max_not_entered\\\":\\\"Max. price is required.\\\",\\\"validation_messages.price_invalid_value\\\":\\\"Input must be greater than 0.\\\",\\\"validation_messages.invalid_gift_certificate\\\":\\\"Please enter your valid certificate code.\\\"}}\",\"validationFallbackDictionaryJSON\":\"{\\\"locale\\\":\\\"en\\\",\\\"locales\\\":{\\\"validation_fallback_messages.valid_email\\\":\\\"en\\\",\\\"validation_fallback_messages.password\\\":\\\"en\\\",\\\"validation_fallback_messages.password_match\\\":\\\"en\\\",\\\"validation_fallback_messages.invalid_password\\\":\\\"en\\\",\\\"validation_fallback_messages.field_not_blank\\\":\\\"en\\\",\\\"validation_fallback_messages.certificate_amount\\\":\\\"en\\\",\\\"validation_fallback_messages.certificate_amount_range\\\":\\\"en\\\",\\\"validation_fallback_messages.price_min_evaluation\\\":\\\"en\\\",\\\"validation_fallback_messages.price_max_evaluation\\\":\\\"en\\\",\\\"validation_fallback_messages.price_min_not_entered\\\":\\\"en\\\",\\\"validation_fallback_messages.price_max_not_entered\\\":\\\"en\\\",\\\"validation_fallback_messages.price_invalid_value\\\":\\\"en\\\",\\\"validation_fallback_messages.invalid_gift_certificate\\\":\\\"en\\\"},\\\"translations\\\":{\\\"validation_fallback_messages.valid_email\\\":\\\"You must enter a valid email.\\\",\\\"validation_fallback_messages.password\\\":\\\"You must enter a password.\\\",\\\"validation_fallback_messages.password_match\\\":\\\"Your passwords do not match.\\\",\\\"validation_fallback_messages.invalid_password\\\":\\\"Passwords must be at least 7 characters and contain both alphabetic and numeric characters.\\\",\\\"validation_fallback_messages.field_not_blank\\\":\\\" field cannot be blank.\\\",\\\"validation_fallback_messages.certificate_amount\\\":\\\"You must enter a gift certificate amount.\\\",\\\"validation_fallback_messages.certificate_amount_range\\\":\\\"You must enter a certificate amount between [MIN] and [MAX]\\\",\\\"validation_fallback_messages.price_min_evaluation\\\":\\\"Min. price must be less than max. price.\\\",\\\"validation_fallback_messages.price_max_evaluation\\\":\\\"Min. price must be less than max. price.\\\",\\\"validation_fallback_messages.price_min_not_entered\\\":\\\"Min. price is required.\\\",\\\"validation_fallback_messages.price_max_not_entered\\\":\\\"Max. price is required.\\\",\\\"validation_fallback_messages.price_invalid_value\\\":\\\"Input must be greater than 0.\\\",\\\"validation_fallback_messages.invalid_gift_certificate\\\":\\\"Please enter your valid certificate code.\\\"}}\",\"validationDefaultDictionaryJSON\":\"{\\\"locale\\\":\\\"en\\\",\\\"locales\\\":{\\\"validation_default_messages.valid_email\\\":\\\"en\\\",\\\"validation_default_messages.password\\\":\\\"en\\\",\\\"validation_default_messages.password_match\\\":\\\"en\\\",\\\"validation_default_messages.invalid_password\\\":\\\"en\\\",\\\"validation_default_messages.field_not_blank\\\":\\\"en\\\",\\\"validation_default_messages.certificate_amount\\\":\\\"en\\\",\\\"validation_default_messages.certificate_amount_range\\\":\\\"en\\\",\\\"validation_default_messages.price_min_evaluation\\\":\\\"en\\\",\\\"validation_default_messages.price_max_evaluation\\\":\\\"en\\\",\\\"validation_default_messages.price_min_not_entered\\\":\\\"en\\\",\\\"validation_default_messages.price_max_not_entered\\\":\\\"en\\\",\\\"validation_default_messages.price_invalid_value\\\":\\\"en\\\",\\\"validation_default_messages.invalid_gift_certificate\\\":\\\"en\\\"},\\\"translations\\\":{\\\"validation_default_messages.valid_email\\\":\\\"You must enter a valid email.\\\",\\\"validation_default_messages.password\\\":\\\"You must enter a password.\\\",\\\"validation_default_messages.password_match\\\":\\\"Your passwords do not match.\\\",\\\"validation_default_messages.invalid_password\\\":\\\"Passwords must be at least 7 characters and contain both alphabetic and numeric characters.\\\",\\\"validation_default_messages.field_not_blank\\\":\\\"The field cannot be blank.\\\",\\\"validation_default_messages.certificate_amount\\\":\\\"You must enter a gift certificate amount.\\\",\\\"validation_default_messages.certificate_amount_range\\\":\\\"You must enter a certificate amount between [MIN] and [MAX]\\\",\\\"validation_default_messages.price_min_evaluation\\\":\\\"Min. price must be less than max. price.\\\",\\\"validation_default_messages.price_max_evaluation\\\":\\\"Min. price must be less than max. price.\\\",\\\"validation_default_messages.price_min_not_entered\\\":\\\"Min. price is required.\\\",\\\"validation_default_messages.price_max_not_entered\\\":\\\"Max. price is required.\\\",\\\"validation_default_messages.price_invalid_value\\\":\\\"Input must be greater than 0.\\\",\\\"validation_default_messages.invalid_gift_certificate\\\":\\\"Please enter your valid certificate code.\\\"}}\",\"ajaxAddToCartEnterQty\":\"Please enter quantity\",\"bulkOrderEnterQty\":\"Please enter quantity\",\"compareAddonLang_compare\":\"Compare\",\"compareAddonLang_quick_view\":\"Quick view\",\"compareAddonLang_remove\":\"Remove\",\"compareAddonLang_clear_all\":\"Clear All\",\"loadingImg\":\"https://cdn11.bigcommerce.com/s-9rfkclyxvm/stencil/408f6300-8469-013f-d74c-12eb58d82f3f/e/36cc1df0-2057-013c-9e4e-6e0327aaacfa/img/loading.svg\",\"money\":{\"currency_token\":\"$\",\"currency_location\":\"Left\",\"decimal_token\":\".\",\"decimal_places\":2,\"thousands_token\":\",\"},\"graphQLToken\":\"eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzI1NiJ9.eyJjaWQiOlsxXSwiY29ycyI6WyJodHRwczovL3B1cmVsZWFma3JhdG9tLmNvbSJdLCJlYXQiOjE3ODgwMDAwNzksImlhdCI6MTc4NzgyNzI3OSwiaXNzIjoiQkMiLCJzaWQiOjEwMDI4OTIyNjEsInN1YiI6IkJDIiwic3ViX3R5cGUiOjAsInRva2VuX3R5cGUiOjF9.km_B-bKWlQTronxH81RzKZPoUtd125qN9E54mZQP_qOVSa46E4Vm2vxMMCqGyJKv3IHIEaI-kI5CjT1qAnJTuQ\",\"loginUrl\":\"https://pureleafkratom.com/login.php\",\"activeCurrencyCode\":\"USD\",\"defaultCurrencyCode\":\"USD\",\"defaultProductImage\":\"https://cdn11.bigcommerce.com/s-9rfkclyxvm/stencil/408f6300-8469-013f-d74c-12eb58d82f3f/e/36cc1df0-2057-013c-9e4e-6e0327aaacfa/img/ProductDefault.svg\",\"priceWithTaxTxt\":\"Inc. Tax\",\"priceWithoutTaxTxt\":\"Ex. Tax\",\"includingTaxTxt\":\"Including Tax\",\"excludingTaxTxt\":\"Excluding Tax\",\"chooseOptionsTxt\":\"Options\",\"loginForPriceTxt\":\"products.login_for_price\",\"txtAlsoBoughtNumberArray\":\",both,three,four,five,six,seven,eight,nine,ten\",\"txtAlsoBoughtAllNumberArray\":\"all,all two,all three,all four,all five,all six,all seven,all eight,all nine,all ten\",\"txtSelectOne\":\"Please select one\",\"customerRecentlyViewedProductIds\":[],\"customerId\":null,\"currencyCode\":\"USD\",\"enable7OHFiltering\":false,\"enableHempFiltering\":false,\"debugMode\":false,\"enableAlsoBought\":true}").load();
+if (typeof window.PapaThemesWidgetCustomerReviewsExtraSettings !== 'object') {
+window.PapaThemesWidgetCustomerReviewsExtraSettings = {};
+}
+window.PapaThemesWidgetCustomerReviewsExtraSettings.slidesToShow = 4;
+const loadScriptsTimer = setTimeout(loadLiveChatScript, 8000);
+const userInteractionEvents = ["mouseover","keydown","touchmove","touchstart"];
+userInteractionEvents.forEach(function (event) {
+window.addEventListener(event, triggerScriptLoader, {
+passive: true
+})
+});
+function triggerScriptLoader() {
+loadLiveChatScript();
+clearTimeout(loadScriptsTimer);
+userInteractionEvents.forEach(function (event) {
+window.removeEventListener(event, triggerScriptLoader, {
+passive: true
+})
+});
+}
+function loadLiveChatScript() {
+// LiveChat code
+var $jscomp=$jscomp||{};$jscomp.scope={};$jscomp.arrayIteratorImpl=function(a){var b=0;return function(){return b<a.length?{done:!1,value:a[b++]}:{done:!0}}};$jscomp.arrayIterator=function(a){return{next:$jscomp.arrayIteratorImpl(a)}};$jscomp.makeIterator=function(a){var b="undefined"!=typeof Symbol&&Symbol.iterator&&a[Symbol.iterator];return b?b.call(a):$jscomp.arrayIterator(a)};$jscomp.arrayFromIterator=function(a){for(var b,c=[];!(b=a.next()).done;)c.push(b.value);return c};$jscomp.arrayFromIterable=function(a){return a instanceof Array?a:$jscomp.arrayFromIterator($jscomp.makeIterator(a))};window.__lc=window.__lc||{};window.__lc.license||(window.__lc.license=parseInt("15425568"),window.__lc.integration_name="BigCommerce",function(a,b,c){function e(a){return d._h?d._h.apply(null,a):d._q.push(a)}var d={_q:[],_h:null,_v:"2.0",on:function(){e(["on",c.call(arguments)])},off:function(){e(["off",c.call(arguments)])},get:function(){if(!d._h)throw Error("[LiveChatWidget] You can't use getters before load.");return e(["get",c.call(arguments)])},call:function(){e(["call",c.call(arguments)])},init:function(){var a=b.createElement("script");a.async=!0;a.type="text/javascript";a.src="https://cdn.livechatinc.com/tracking.js";b.head.appendChild(a)}};!a.__lc.asyncInit&&d.init();a.LiveChatWidget=a.LiveChatWidget||d}(window,document,[].slice));window.LiveChatCustomerCenter={storeUUID:"28a8f634-e26f-491e-a616-7f743750e360",bcCustomerId:null,cart:null,getAjax:function(a,b){try{var c=new XMLHttpRequest}catch(e){return!1}c.open("GET",a);c.onreadystatechange=function(){3<c.readyState&&200===c.status&&b&&b(c.responseText)};c.setRequestHeader("X-Requested-With","XMLHttpRequest");c.send();return c},getPrice:function(a){return a.toFixed(2)},prepareVariables:function(){var a={cca_platform:"bigcommerce",cca_store_id:this.storeUUID,cca_cart_content:JSON.stringify(this.cart)};this.bcCustomerId&&(a.cca_customer_id=this.bcCustomerId);return a},prepareLegacyVariables:function(){var a=[{name:"cca_platform",value:"bigcommerce"},{name:"cca_store_id",value:this.storeUUID},{name:"cca_cart_content",value:JSON.stringify(this.cart)}];this.bcCustomerId&&a.push({name:"cca_customer_id",value:this.bcCustomerId});return a},decodeJWT:function(a){try{var b=window.atob(a.split(".")[1]);return JSON.parse(b).customer.id}catch(c){return null}},setCustomerId:function(){var a=this;this.getAjax("/customer/current.jwt?app_client_id=1o43cemeeqbnwjv3lcup5cb0fxfjv1f",function(b){a.bcCustomerId=a.decodeJWT(b);a.updateVariables()})},mapDiscounts:function(a){var b=this;return a.map(function(a){return{title:null,amount:b.getPrice(a.discountedAmount)}})},mapCartItems:function(a){var b=this;return a.map(function(a){return{id:a.productId,variantId:a.variantId,qty:a.quantity,discounts:b.mapDiscounts(a.discounts)}})},setCartVariables:function(a){try{var b=JSON.parse(a)[0]}catch(c){return}b&&(this.cart={subTotal:this.getPrice(b.baseAmount),total:this.getPrice(b.cartAmount),currency:b.currency.code,items:this.mapCartItems([].concat($jscomp.arrayFromIterable(b.lineItems.physicalItems),$jscomp.arrayFromIterable(b.lineItems.digitalItems)))})},setCart:function(){var a=this;this.getAjax("/api/storefront/carts",function(b){a.setCartVariables(b);a.updateVariables()})},updateVariables:function(){window.LiveChatWidget?window.LiveChatWidget.call("update_session_variables",this.prepareVariables()):window.LC_API.update_custom_variables(this.prepareLegacyVariables())},init:function(){this.setCustomerId();this.setCart();setInterval(this.setCart.bind(this),"900000")}};if(window.LiveChatWidget)window.LiveChatWidget.on("ready",function(){window.LiveChatCustomerCenter.init()});else if(window.LC_API||(window.LC_API={}),"function"===typeof window.LC_API.is_loaded&&window.LC_API.is_loaded())window.LiveChatCustomerCenter.init();else{var primalOnAfterLoad=window.LC_API.on_after_load||function(){};window.LC_API.on_after_load=function(){primalOnAfterLoad();window.LiveChatCustomerCenter.init()}};
+}
+//console.log('testing rich snippet hotfix');
+/*
+Web Site Advantage: Yotpo via API [v1.1]
+Gathers Yotpo reviews via their API and creates structured data for th SEO Rich Snippets app
+https://bigcommerce.websiteadvantage.com.au/
+Copyright (C) 2023 Web Site Advantage
+*/
+!function(w,d){
+var yotpoAppKey = 'dihLbmJitrkzg4FDnEo3K2WXL6eFEDRfAo5OwUhF'; // if left blank the code will attempt to discover the app key from the Yotpo widget
+var productId = 80516;
+var productUrl = "https:\u002f\u002fpureleafkratom.com\u002fproducts\u002flimitless-black-edition-7-hydroxymitragynine-tablets-cherry-50mg-per-tablet.html";
+// let someone specify the key from outside the script
+if (w.wsa_yotpoAppKey && !yotpoAppKey) {
+yotpoAppKey = w.wsa_yotpoAppKey;
+}
+function getYotopAppKey() {
+// V3 script
+var scriptElement = document.querySelector('script[src*="yotpo.com/v1/loader/"]');
+if (scriptElement) {
+var src = scriptElement.getAttribute('src');
+return src.split('/').pop();
+}
+// older script
+var scripts = document.getElementsByTagName('script');
+var pattern = /\/\/staticw2\.yotpo\.com\/(.*?)\/widget\.js/g;
+for (var i = 0; i < scripts.length; i++) {
+var scriptContent = scripts[i].textContent || scripts[i].innerText;
+var match;
+while ((match = pattern.exec(scriptContent)) !== null) {
+var key = match[1];
+return key;
+}
+}
+}
+function getReviews() {
+var apiUrl = 'https://api-cdn.yotpo.com/v3/storefront/store/' + yotpoAppKey + '/product/' + productId +'/reviews?page=1&perPage=5&sort=date,images,badge,rating';
+fetch(apiUrl, {
+method: 'GET'
+})
+.then(function (response) {
+return response.json();
+})
+.then(function (result) {
+if (result.reviews.length > 0) {
+let jsonLd = {
+"@context": "https://schema.org/",
+"@type": "Product",
+"@id": productUrl + "#Product" + w.wsa_jsonLdIdPostfix, // add postfix
+"aggregateRating": {
+"@type": "AggregateRating",
+"worstRating": "1",
+"bestRating": "5",
+"ratingValue": result.bottomline.averageScore,
+"reviewCount": result.bottomline.totalReview
+},
+"review": []
+};
+for (var i = 0; i < result.reviews.length; i++) {
+var review = result.reviews[i];
+jsonLd.review.push({
+"@type": "Review",
+"author": {
+"@type": "Person",
+"name": review.user.displayName
+},
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": review.score
+},
+"name": review.title,
+"reviewBody": review.content,
+"datePublished": review.createdAt
+});
+}
+//console.log('jsonLd', jsonLd);
+if (!webSiteAdvantage.excludeProduct) {
+let aggregateRatingScriptElement = d.createElement('script');
+aggregateRatingScriptElement.type = 'application/ld+json';
+aggregateRatingScriptElement.setAttribute("id", 'wsa-rich-snippets-jsonld-yotpo-product' + w.wsa_jsonLdIdPostfix.toLowerCase());
+let inlineScript = d.createTextNode(JSON.stringify(jsonLd));
+aggregateRatingScriptElement.appendChild(inlineScript);
+d.querySelector('head').appendChild(aggregateRatingScriptElement);
+}
+}
+});
+}
+if (yotpoAppKey) {
+getReviews();
+}
+else {
+yotpoAppKey = getYotopAppKey();
+if (yotpoAppKey) {
+getReviews();
+}
+else {
+addEventListener('DOMContentLoaded', function() {
+yotpoAppKey = getYotopAppKey();
+if (yotpoAppKey) {
+getReviews();
+}
+});
+}
+}
+}(window, document)
+/*
+Web Site Advantage: Tag Rocket App 2 of 2 Footer [1.95.87042] Proprietary Runtime
+Licensed for use only by authorised Web Site Advantage customers.
+Copyright (C) 2020 - 2026 Web Site Advantage Pty Ltd.
+*/
+!function(w,d){if(d.location.href.indexOf('showHidden=true')
+0)T.f(T.P,b.items[0])})},1);T.N='SearchPage';T.o(T.N,function(a){T.B('search',{search_term:a.term})},'GF5',1);if(T.aU){T.aV(T.N,{term:T.aU})}T.t('SB21',function(){if(T.aO()){T.aW(T.aX("["+T.aY+"='list']["+T.aZ+"]"))}},1);if(T.aO()){T.t('SB21b',function(){T.ba(T.bb());T.bc()},1)}if(!T.aO()){ }T.aj='LinkClick';T.o(T.aj,function(a){var b={link_url:T.k(a.href),description:T.k(a.label),value:a.value};T.p(b,'currency',T.g);T.B('click_'+(T.ak(T.k(a.category)).split(" ")[0]),b)},'GF22',1);T.t('SB17',function(){var a='Social',b=function(c){return new RegExp('^https?://[a-zA-Z.]*'+c,'i')},e=[{f:/^tel:/i,g:'Phone',h:'@',i:1.0},{f:/^mailto:/i,g:'Email',h:'@',i:1.0},{f:/^https?:\/\//i,j:1,g:'Outbound Link',h:'@',i:0.0},{f:/^.*\.(pdf|zip|docx|doc|txt|msi|xlsx|xls|rtf|csv|exe|7z|pkg|rar|gz|zip|avi|mov|mp4|wmv|mp3|wav|wma)?(\?.*)?$/i,g:'Download',h:'@',i:1.0},{f:b('facebook.com/'),g:a,h:'Facebook',i:1.0},{f:b('plus.google.com/'),g:a,h:'Google+',i:1.0},{f:b('linkedin.com/'),g:a,h:'LinkedIn',i:1.0},{f:b('youtube.com/'),g:a,h:'YouTube',i:1.0},{f:b('twitter.com/'),g:a,h:'Twitter',i:1.0},{f:b('instagram.com/'),g:a,h:'Instagram',i:1.0},{f:b('pinterest.com/'),g:a,h:'Pinterest',i:1.0},{f:b('tumblr.com/'),g:a,h:'Tumblr',i:1.0}],k=[/^https?:\/\/cdn[0-9]+\.bigcommerce\.com\//i,/^https?:\/\/[^\/]*\.mybigcommerce\.com\//i],l=function(m){return T.e(k,function(n){if(m.match(n))return 1})},o=function(p){if(T.bd(p.tag,'clicked-'+T.be(p.category,/\s+/g))){if(T.bf(p.tag,'target')=='_blank'){T.bg(function(){T.aV(T.aj,p)},0,'LinkClick Yield')}else{T.aV(T.aj,p)}}return true},m,q=d.getElementsByTagName('a');T.e(q,function(r){if(T.bh(r,'href')){m=T.bf(r,'href');if(!l(m)){T.e(e,function(s){if((!s.j||w.location.host!=r.host)&&m.match(s.f)){T.bi(r,'click',(function(){var p={tag:r,href:m,category:s.g,label:T.be(s.h,'@',m),value:s.i};return function(){return o(p)}})())}})}}})},1)});T.Y='SiteLogin';T.Z='SiteLogout';T.o(T.Y,function(a){T.B('login',{method:a.method})},'GF17',1);T.o(T.Z,function(){T.B('logout',{method:'site'})},'GF18',1);T.t('SB1',function(){var a=T.d.id?'y':'n',b=T.bj('wsa-l')||'n',c='site';if(b!=a){if(a=='y'){T.aV(T.Y,{method:c})}else{T.aV(T.Z,{})}T.bk('wsa-l',a)}},1);T.t('SB8b',function(){var a=T.bl("form[action='/subscribe.php']"),b=T.bm('nl_email');if(a&&b){T.bi(a,'submit',function(){T.bk('wsa-se',T.ak(b.value))})}},1);T.Q='CheckoutStep5OrderCompleted';T.o(T.Q,function(a){var b=a.couponCodes,c=a.paymentMethod,e=a.shippingMethod,f,g={method:'www',tax:a.taxTotal,shipping:a.shippingCostTotal,value:a.orderAmount,currency:a.currency.code,transaction_id:''+a.orderId,items:[]},h;T.p(g,'new_customer',a.new_customer);T.p(g,'coupon',b);T.p(g,'payment_type',c);T.p(g,'shipping_tier',e);T.e(T.R(a.items,200),function(i){f=T.J(i);if(f)g.items.push(f)});h=T.S(g);T.B('add_payment_info',g);T.B('purchase',h)},'GF8',1);T.processOrder=function(a){T.t('SB11',function(){var b=new Date(),c=T.bj('wsa-ci');if(c!=a){T.bC=a;T.bw('/api/storefront/orders/'+a,function(e,f){T.t('SB11b',function(){if(e>0){try{var g=new Date("2025-05-21"),h=new Date("2023-07-26"),i=new Date(b.getTime()-466560e5),j=T.bj('wsa-lo'),k;if(j){k=new Date(j);f.new_customer=k
+0&&'add_to_cart'||'remove_from_cart',f=T.J(b),g={currency:b.currency,value:T.r(Math.abs(b.price*c),3),items:[f]};if(f){f.quantity=Math.abs(c);T.B(e,g)}},'GF4',1);T.o(T.T,function(a){var b,c=[];T.e(T.R(a.items,200),function(e){b=T.J(e);if(b)c.push(b)});T.B('view_cart',{value:a.grandTotal,currency:a.currency.code,items:c})},'GF10',1);T.bH=function(a,b,c){T.bI++;var e={change:a,cart:c,item:b,currency:c.currency.code,price:b.price,quantity:b.quantity,productId:b.productId,productSku:b.productSku,name:b.name};T.aV(T.M,e)};T.checkCart=function(f){var g='Check';if(!localStorage||Math.abs(new Date-T.bG)
+0){if(i&&T.aP(i)){T.aQ({reason:g,cart:i[0],response:i},function(e){T.aT(e,g);var c=e.cart;T.bx(c)})}else{T.bx({items:[],currency:{code:T.g}})}}},1)})},1)};if(!T.bj('wsa-c')||T.bj('wsa-cc')=='y')T.checkCart();T.ao='JavaScriptError';T.bJ=0;T.o(T.ao,function(a){if(typeof T.k!="function")T.a('GF24','LimitText is not a function',1,a);if(typeof T.B!="function")T.a('GF24','GoogleAnalyticsFourEventAsync is not a function',1,a);T.B(T.ap,{description:T.k('JavaScript: '+a.action+' * '+a.label),error_type:'javascript',error_object_type:T.k(a.type),error_message:T.k(a.message),error_filename:T.k(a.filename),error_lineno:a.lineno,error_colno:a.colno,fatal:false})},'GF24',1);T.ay='LoadError';T.bK=0;T.o(T.ay,function(a){var b=a.targetUrl,c=(a.target&&a.target.nodeName)||'',e='Load '+T.ak(c)+' tag error '+a.targetPath;T.B(T.ap,{description:T.k(e+': '+b),error_type:'network',error_message:T.k(e),error_object_type:T.k(c),error_filename:T.k(b),fatal:false})},'GF32',1);T.ef=function(a,b,c,e,f){if(!T.bL){var g,h,i='',j='',k,l,m=a.target;T.bL=1;try{if(m&&m!=w&&m.nodeName){T.bL=a;l=m.getAttribute('src');if(!l)l=m.getAttribute('href');if(l){if(!l.indexOf||l.indexOf('bat.bing')
+c){e=a[c];if(b)b+=', ';if(typeof e=='string')b+=e;else b+=T.bN(e);c++};if(b)T.aV(T.aq,{message:b})}};T.cf=function(){T.bP(arguments)};if(T.cq)T.e(T.cq,function(a){T.bP(a)});T.ar='JsonLdError';T.o(T.ar,function(a){T.B(T.ap,{description:T.k('JSON-LD: '+a.error),error_message:T.k(a.error),error_type:'jsonld',fatal:false})},'GF26',1);T.o(T.ar,function(a){T.a((a.element.id&&a.element.id.startsWith('wsa-rich-snippets'))?'JsonLdUs':'JsonLdOther',a.error,0,a.element)},1);T.bg(function(){T.e(T.aX("script[type='application/ld+json']"),function(a){if(a.text.trim()!=''){try{T.bQ(T.be(T.be(a.text.trim(),/^(\/\/\s*)?
+$/g),/\n|\r|\t/g))}catch(b){T.aV(T.ar,{error:''+b,element:a})}}})},6e3,'Json-LD Check');T.as='WebVitalsComplete';T.bR='WebVitalsPending';T.bS={};T.o(T.as,function(a){var b=a.metric,c=b.attribution,e=T.h(),f={metric_id:b.id,metric_value:T.r(b.value,3),value:T.r(b.delta,3)};f.metric_rating=b.rating;if(b.debugTarget){f.debug_target=b.debugTarget.substring(0,100);f.debug_target2=b.debugTarget.substring(100)}T.p(f,'load_state',c.loadState);T.p(f,'lcp_url',c.url);T.p(f,'ttfb',c.timeToFirstByte);T.p(f,'lcp_resource_load_delay',c.resourceLoadDelay);T.p(f,'lcp_element_render_delay',c.elementRenderDelay);T.p(f,'inp_interaction_type',c.interactionType);T.p(f,'inp_interaction_time',c.interactionTime);T.p(f,'cls_largest_shift_time',c.largestShiftTime);T.p(f,'ttfb_waiting_duration',c.waitingDuration);if(e){T.p(f,'downlink',e.downlink);T.p(f,'rtt',e.rtt)}T.B(b.name,f)},'GF28',1);T.t('SB16',function(){var a=function(b){if(!b.value&&b.value!=0){T.a('SB16b','Web Vital '+b.name+' missing value',1,b);T.bT('Web Vital '+b.name+' missing value',b);return}var c=b.attribution;if(c)b.debugTarget=c.element||c.target||c.interactionTarget||c.largestShiftTarget;T.bS[b.name]=b;T.ad(function(){if(T.aB(T.bR,{metric:b})){T.f(T.as,{metric:b});T.bS[b.name]=b}})};T.aN('https://unpkg.com/web-vitals@6.0.0/dist/web-vitals.attribution.iife.js',{crossOrigin:"anonymous",fetchPriority:"low",onvisible:!1},function(){var e=webVitals;e.onFCP(a);e.onLCP(a);e.onCLS(a);e.onTTFB(a);e.onINP(a);if(T.bU)T.bU()})},1);T.at='PerformanceMetrics';T.o(T.at,function(a){var b=a.metrics,c=b.responseEnd,e=T.h(),f={},g={};if(e){T.p(f,'downlink',e.downlink);T.p(f,'rtt',e.rtt);T.p(g,'downlink',e.downlink);T.p(g,'rtt',e.rtt)}if(c){f.metric_value=c;f.metric_id='ttlb'+T.au;f.metric_rating=c
+1800?'poor':'needs-improvement');T.B('TTLB',f)}c=b.finalResponseHeadersStart;if(c){g.metric_value=c;g.metric_id='frhs'+T.au;g.metric_rating=c
+1800?'poor':'needs-improvement');T.B('FRHS',g)}},'GF33b',1);T.bV=1;T.bW=function(){if(T.bV&&d.visibilityState=='hidden'){T.bV=0;T.bX('hidden')}};T.bY=function(){if(T.bV){T.bV=0;T.bX('hidden')}};T.bX=function(a){var b={},c=T.bS,e=T.bZ;if(e){['activationStart','fetchStart','requestStart','responseStart','responseEnd','domContentLoadedEventStart','domContentLoadedEventEnd','loadEventStart','loadEventEnd','transferSize','finalResponseHeadersStart','type','redirectCount'].forEach(function(f){if(e[f]||e[f]==0)b[f]=T.r(e[f])});if(c.FCP)b.fcp=T.r(c.FCP.value);if(c.CLS){b.cls=T.r(c.CLS.value,3);if(c.CLS.debugTarget){b.clsSelectorPart1=c.CLS.debugTarget.slice(0,100);b.clsSelectorPart2=c.CLS.debugTarget.slice(100)}}if(c.LCP){b.lcp=T.r(c.LCP.value);if(c.LCP.debugTarget){b.lcpSelectorPart1=c.LCP.debugTarget.slice(0,100);b.lcpSelectorPart2=c.LCP.debugTarget.slice(100)}}T.e(T.j('paint'),function(g){if(g.name=='first-paint')b.fp=T.r(g.startTime)});T.ca=b;T.aV(T.at,{eventType:a,metrics:b})}};T.bU=function(){T.bi(w,'visibilitychange',T.bW);T.w('pagehide',T.bY)};T.ad(function(){var a=0,b='StencilUtils',c=b+' Check ';e=function(){a++;if(w.stencilUtils){T.aV(b,w.stencilUtils);['cart-item-add-remote','cart-item-remove-remote'].forEach(function(a){w.stencilUtils.hooks.on(a,function(b){T.t('SB13',function(){T.checkCart()},1)})});T.O='QuickSearch';T.o(T.O,function(a){T.B('quick_search',{search_term:a.term})},'GF5b',1);w.stencilUtils.hooks.on('search-quick',function(a){T.cb=T.cc(a,'target.value');T.cd=T.cg(T.cd,function(){if(T.cb&&T.aP(T.cb)>2)T.aV(T.O,{term:T.cb})},1e3)})}else a<9&&T.bg(e,1e3,c+a)};T.bg(e,1,c)});T.ch();T.ci();T.cj();T.ck()}catch(e){T.tef=T.tef||[];T.tef.push(e);if(T.a)T.a('FOOT',''+e,1,e);else if(T.taf)T.taf('Footer Script ISSUE')}T.tm=1}}(window,document)
+// SOUNDEST-V6-SM
+window.SOUNDEST = window.SOUNDEST || {};
+SOUNDEST.shopID = "9rfkclyxvm";
+SOUNDEST.shopType = "bigcommerce";
+SOUNDEST.baseURL = "https://omnisnippet1.com/";
+SOUNDEST.jsFile = "bigcommerce-launcher.js";
+SOUNDEST.version = new Date().toISOString().slice(0, 13);
+SOUNDEST.pageType = "product";
+SOUNDEST.productTitle = "Limitless Black Edition 7-Hydroxymitragynine Tablets Cherry 50mg Per Tablet";
+SOUNDEST.productID = "80516";
+SOUNDEST.categoryTitle = "";
+SOUNDEST.categoryID = "";
+SOUNDEST.token = "eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzI1NiJ9.eyJjaWQiOlsxXSwiY29ycyI6WyJodHRwczovL3B1cmVsZWFma3JhdG9tLmNvbSJdLCJlYXQiOjE3ODgwMDAwNzksImlhdCI6MTc4NzgyNzI3OSwiaXNzIjoiQkMiLCJzaWQiOjEwMDI4OTIyNjEsInN1YiI6IkJDIiwic3ViX3R5cGUiOjAsInRva2VuX3R5cGUiOjF9.km_B-bKWlQTronxH81RzKZPoUtd125qN9E54mZQP_qOVSa46E4Vm2vxMMCqGyJKv3IHIEaI-kI5CjT1qAnJTuQ";
+!(function (baseURL, version) {
+for (
+var t = document.getElementsByTagName("script"), o = !1, s = 0;
+s < t.length;
+s++
+)
+"string" == typeof t[s].src &&
+0 < t[s].src.indexOf(SOUNDEST.jsFile) &&
+(o = !0);
+if (!o) {
+var i = document.createElement("script");
+(i.type = "text/javascript"),
+(i.async = !0),
+(i.src = baseURL + "inshop/" + SOUNDEST.jsFile + "?v=" + version);
+var r = document.getElementsByTagName("script")[0];
+r.parentNode.insertBefore(i, r);
+}
+})(SOUNDEST.baseURL, SOUNDEST.version);
+(function() {
+window.shogunVariables = {};
+window.shogunVariables.orderId = '';
+})();
+window.dataLayer = window.dataLayer || [];
+window.dataLayer.push({
+event: 'ecommerce_view_item',                          // name of the event. In this case, it always must be view_item
+ecommerce: {
+currency: 'USD',
+value: parseFloat(8.99),
+items: [
+{
+item_id: '80516',
+item_name: 'Limitless Black Edition 7-Hydroxymitragynine Tablets Cherry 50mg Per Tablet',
+currency: 'USD',
+discount: parseFloat(),
+item_brand: 'Limitless',
+price: parseFloat(8.99),
+quantity: 1,
+item_category:'7 OH',item_category1:'7 OH/7 OH Tablets'
+}
+]
+}
+});
+window.dataLayer = window.dataLayer || [];
+(function() {
+function injectStyle(css) { var s = document.createElement('style'); s.textContent = css; document.head.appendChild(s); }
+injectStyle('@keyframes anvasoft-spin{to{transform:rotate(360deg)}}.anvasoft-spinner{width:20px;height:20px;border:2px solid #ddd;border-top-color:#555;border-radius:50%;animation:anvasoft-spin 0.7s linear infinite;margin:8px 0}');
+}());
+Age Verification
+The products on this website are only for use in states where the sale and consumption of such products are legal.
+By clicking enter, I certify that I am over the age of 21 and will comply with the above statement.
+Enter
+Or
+Exit
+Always enjoy responsibly.
+window.onload = function() {
+// console.log("Page loaded");
+var modal = document.getElementById('age-verification-modal');
+var acceptBtn = document.querySelector('.btn-enter');
+var exitBtn = document.querySelector('.btn-exit');
+if (!getCookie('ageVerified')) {
+// console.log("Cookie not found, showing modal");
+modal.style.display = "flex";
+} else {
+// console.log("Cookie found, not showing modal");
+}
+// Check for newsletter subscription cookie
+if (getCookie('newsletterSubscribed')) {
+const newsletterDiv = document.querySelector('.beautify__newsletter');
+if (newsletterDiv) {
+newsletterDiv.style.display = 'none';
+}
+}
+acceptBtn.onclick = function() {
+// console.log("Accept button clicked");
+setCookie('ageVerified', 'true', 7);
+modal.style.display = "none";
+}
+exitBtn.onclick = function() {
+// console.log("Exit button clicked");
+window.location.href = "https://google.com";
+}
+}
+function setCookie(cname, cvalue, exdays) {
+// console.log("Setting cookie");
+var d = new Date();
+d.setTime(d.getTime() + (exdays*24*60*60*1000));
+var expires = "expires="+ d.toUTCString();
+document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
+}
+function getCookie(cname) {
+// console.log("Getting cookie");
+var name = cname + "=";
+var decodedCookie = decodeURIComponent(document.cookie);
+var ca = decodedCookie.split(';');
+for(var i = 0; i <ca.length; i++) {
+var c = ca[i];
+while (c.charAt(0) == ' ') {
+c = c.substring(1);
+}
+if (c.indexOf(name) == 0) {
+return c.substring(name.length, c.length);
+}
+}
+return "";
+}
+(function() {
+// Toggle and schedule for DEA lock behavior.
+// Set enabled=false to fully disable lock enforcement.
+var DEA_LOCK_CONFIG = {
+enabled: true,
+previewParam: "7oh_test"
+};
+var query = new URLSearchParams(window.location.search);
+var forceLockPreview = query.get(DEA_LOCK_CONFIG.previewParam) === "1"
+|| query.get("mgm_test") === "1"
+|| query.get("pseudo_test") === "1"
+|| query.get("lock_preview") === "1";
+if (!DEA_LOCK_CONFIG.enabled) {
+return;
+}
+var RESTRICTED_PATTERN = /(mgm|pseudo(?:[\s-]?indoxyl)?)/i;
+var RESTRICTED_DEA_MESSAGE = "These products are currently unavailable due to legal status changes.";
+function normalized(value) {
+return String(value || "").toLowerCase();
+}
+function isRestrictedString(value) {
+return RESTRICTED_PATTERN.test(String(value || ""));
+}
+function isRestrictedUrl(href) {
+if (!href) {
+return false;
+}
+try {
+var parsed = new URL(href, window.location.origin);
+var target = decodeURIComponent(parsed.pathname + parsed.search);
+return isRestrictedString(target);
+} catch (error) {
+return isRestrictedString(href);
+}
+}
+function hideContainer(element) {
+if (!element) {
+return;
+}
+var node = element.closest("li") || element.closest("tr") || element;
+node.style.display = "none";
+}
+function addLockStyles() {
+if (document.getElementById("plk-dea-lock-styles")) {
+return;
+}
+var style = document.createElement("style");
+style.id = "plk-dea-lock-styles";
+style.textContent = [
+".plk-dea-lock-notice{",
+"background:#fde3e1;",
+"border:1px solid #f1b1ac;",
+"border-radius:6px;",
+"color:#7a1f1f;",
+"font-size:13px;",
+"font-weight:700;",
+"line-height:1.35;",
+"margin-top:10px;",
+"padding:10px 12px;",
+"}",
+".plk-dea-card-locked .plk-dea-lock-notice{margin-top:8px;}",
+".plk-dea-card-locked .card-text--price,",
+".plk-dea-card-locked [data-test-info-type='price'],",
+".plk-dea-card-locked .price-section,",
+".plk-dea-card-locked .price,",
+".plk-dea-card-locked .card-bulkOrder-price,",
+".plk-dea-card-locked .card-bulkOrder-subtotal{display:none !important;}",
+".plk-dea-hidden{display:none !important;}"
+].join("");
+document.head.appendChild(style);
+}
+function hideRestrictedNavigationLinks() {
+var links = document.querySelectorAll("header a, footer a, .navPages a");
+links.forEach(function(link) {
+var text = normalized(link.textContent);
+var href = link.getAttribute("href") || "";
+if (isRestrictedString(text) || isRestrictedUrl(href)) {
+hideContainer(link);
+}
+});
+}
+function lockBanNoticeContent() {
+if (!pageLooksRestricted()) {
+return;
+}
+var bodies = document.querySelectorAll(".plk-ban-notice .plk-ban-notice__body");
+bodies.forEach(function(body) {
+if (body.dataset.deaLocked === "1" && body.textContent === RESTRICTED_DEA_MESSAGE) {
+return;
+}
+body.textContent = RESTRICTED_DEA_MESSAGE;
+body.dataset.deaLocked = "1";
+});
+}
+function pageLooksRestricted() {
+var parts = [
+window.location.pathname,
+document.title,
+(document.querySelector(".productView-title") || {}).textContent,
+(document.querySelector(".page-heading") || {}).textContent
+];
+return parts.some(isRestrictedString);
+}
+function lockProductView() {
+if (!pageLooksRestricted()) {
+return;
+}
+var hiddenSelectors = [
+".productView-info-bulkPricing",
+".productView-price",
+".productView-info-name--sku",
+".productView-info-value--sku",
+".productView-info-name--shippingCalc",
+".productView-info-value--shippingCalc",
+".productView-info-name--shippingFree",
+".productView-info-value--shippingFree",
+".productView-info-name--shippingFixed",
+".productView-info-value--shippingFixed",
+".bp-product_below_addtocart--shipping-info",
+".plk-shipping-delay-notice",
+".form-field--increments",
+".form-action--addToCart",
+".productView-options",
+"[data-product-option-change]"
+];
+hiddenSelectors.forEach(function(selector) {
+document.querySelectorAll(selector).forEach(function(node) {
+node.classList.add("plk-dea-hidden");
+});
+});
+document.querySelectorAll("form[data-cart-item-add]").forEach(function(form) {
+form.classList.add("plk-dea-hidden");
+form.addEventListener("submit", function(event) {
+event.preventDefault();
+event.stopPropagation();
+}, true);
+});
+var detailsRoot = document.querySelector(".productView-details")
+|| document.querySelector(".productView")
+|| document.querySelector("main");
+if (detailsRoot && !detailsRoot.querySelector(".plk-dea-lock-notice")) {
+var notice = document.createElement("div");
+notice.className = "plk-dea-lock-notice";
+notice.textContent = RESTRICTED_DEA_MESSAGE;
+detailsRoot.appendChild(notice);
+}
+}
+function cardLooksRestricted(card, forceRestricted) {
+if (forceRestricted) {
+return true;
+}
+var title = normalized((card.querySelector(".card-title, .product-title, .card-text") || {}).textContent);
+var href = "";
+var firstLink = card.querySelector("a[href]");
+if (firstLink) {
+href = firstLink.getAttribute("href") || "";
+}
+return isRestrictedString(title) || isRestrictedUrl(href);
+}
+function lockRestrictedProductCards() {
+var forceRestricted = isRestrictedString(window.location.pathname);
+var cards = document.querySelectorAll("article.card, article.card--image-only, .productGrid .product, .productList .product");
+cards.forEach(function(card) {
+if (!cardLooksRestricted(card, forceRestricted)) {
+return;
+}
+card.classList.add("plk-dea-card-locked");
+[
+".quickview",
+".card-figcaption",
+".card-actions",
+".card-buttons",
+".card-footer",
+"[data-papathemes-cart-item-add]",
+".card-text--price",
+"[data-test-info-type='price']",
+".price-section",
+".price"
+].forEach(function(selector) {
+card.querySelectorAll(selector).forEach(function(node) {
+node.classList.add("plk-dea-hidden");
+});
+});
+if (!card.querySelector(".plk-dea-lock-notice")) {
+var body = card.querySelector(".card-body") || card;
+var notice = document.createElement("div");
+notice.className = "plk-dea-lock-notice";
+notice.textContent = RESTRICTED_DEA_MESSAGE;
+body.appendChild(notice);
+}
+});
+}
+function applyDEAComplianceLock() {
+addLockStyles();
+hideRestrictedNavigationLinks();
+lockBanNoticeContent();
+lockProductView();
+lockRestrictedProductCards();
+}
+function boot() {
+applyDEAComplianceLock();
+var lockApplyQueued = false;
+var observer = new MutationObserver(function() {
+if (lockApplyQueued) {
+return;
+}
+lockApplyQueued = true;
+var schedule = window.requestAnimationFrame || function(callback) {
+return setTimeout(callback, 16);
+};
+schedule(function() {
+lockApplyQueued = false;
+applyDEAComplianceLock();
+});
+});
+observer.observe(document.body, { childList: true, subtree: true });
+}
+if (document.readyState === "loading") {
+document.addEventListener("DOMContentLoaded", boot);
+} else {
+boot();
+}
+})();
+var _learnq = _learnq || [];
+var product_categories = [];
+product_categories.push('7 OH')
+product_categories.push('7 OH/7 OH Tablets')
+var item = {
+Name: "Limitless Black Edition 7-Hydroxymitragynine Tablets Cherry 50mg Per Tablet",
+ProductID: "80516",
+ImageURL: "https://cdn11.bigcommerce.com/s-9rfkclyxvm/images/stencil/608x608/products/80516/99040/Limitless-Black-Edition-7-Hydroxymitragynine-Tablets-Cherry-50mg-Per-Tablet-set__15530.1773155622.jpg?c=1",
+URL: "https://pureleafkratom.com/products/limitless-black-edition-7-hydroxymitragynine-tablets-cherry-50mg-per-tablet.html",
+Brand: "Limitless",
+Categories: product_categories,
+Price: "8.99",
+CompareAtPrice:""
+};
+_learnq.push(['track', 'Viewed Product', item]);
+_learnq.push(['trackViewedItem', {
+Title: item.Name,
+ItemId: item.ProductID,
+Categories: item.Categories,
+ImageUrl: item.ImageURL,
+Url: item.URL,
+Metadata: {
+Brand: item.Brand,
+Price: item.Price,
+CompareAtPrice: item.CompareAtPrice
+}
+}]);
+// Show disclaimers if conditions are met
+(function() {
+var productTitle = "Limitless Black Edition 7-Hydroxymitragynine Tablets Cherry 50mg Per Tablet".toLowerCase();
+var productCategories = ["7 OH","7 OH/7 OH Tablets"];
+// Check for 7-OH products
+var show7OHDisclaimer = false;
+// Check if in 7 OH category
+for (var i = 0; i < productCategories.length; i++) {
+if (productCategories[i].toLowerCase().indexOf('7 oh') !== -1) {
+show7OHDisclaimer = true;
+break;
+}
+}
+// Check product title for 7-OH keywords
+if (!show7OHDisclaimer) {
+var keywords7OH = ['7', 'heaven', 'ohmz', 'seven', 'se7en'];
+for (var j = 0; j < keywords7OH.length; j++) {
+if (productTitle.indexOf(keywords7OH[j]) !== -1) {
+show7OHDisclaimer = true;
+break;
+}
+}
+}
+if (show7OHDisclaimer) {
+var disclaimerEl = document.getElementById('product-disclaimer-7oh');
+if (disclaimerEl) {
+disclaimerEl.style.display = 'block';
+}
+}
+// Check for Delta 8 products
+var showDelta8Disclaimer = false;
+// Check if in Delta 8 category
+for (var i = 0; i < productCategories.length; i++) {
+var category = productCategories[i].toLowerCase();
+if (category.indexOf('delta-8') !== -1 || category.indexOf('delta 8') !== -1) {
+showDelta8Disclaimer = true;
+break;
+}
+}
+// Check product title for Delta 8 keywords
+if (!showDelta8Disclaimer) {
+if (productTitle.indexOf('delta-8') !== -1 || productTitle.indexOf('delta 8') !== -1) {
+showDelta8Disclaimer = true;
+}
+}
+if (showDelta8Disclaimer) {
+var disclaimerEl = document.getElementById('product-disclaimer-delta8');
+if (disclaimerEl) {
+disclaimerEl.style.display = 'block';
+}
+}
+// Check for Delta 9 products
+var showDelta9Disclaimer = false;
+// Check if in Delta 9 category
+for (var i = 0; i < productCategories.length; i++) {
+var category = productCategories[i].toLowerCase();
+if (category.indexOf('delta-9') !== -1 || category.indexOf('delta 9') !== -1) {
+showDelta9Disclaimer = true;
+break;
+}
+}
+// Check product title for Delta 9 keywords
+if (!showDelta9Disclaimer) {
+if (productTitle.indexOf('delta-9') !== -1 || productTitle.indexOf('delta 9') !== -1) {
+showDelta9Disclaimer = true;
+}
+}
+if (showDelta9Disclaimer) {
+var disclaimerEl = document.getElementById('product-disclaimer-delta9');
+if (disclaimerEl) {
+disclaimerEl.style.display = 'block';
+}
+}
+})();
+//VWO - Viewed Product
+// Do not change anything in the following two lines
+window.VWO = window.VWO || [];
+VWO.event = VWO.event || function () {VWO.push(["event"].concat([].slice.call(arguments)))};
+VWO.event("viewedProduct", {
+"productName": item.Name,
+"productId": item.ProductID,
+"productUrl": item.URL,
+"productPrice": item.Price,
+"productBrand": item.Brand
+});

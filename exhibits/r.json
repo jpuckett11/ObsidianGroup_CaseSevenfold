@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service. Submission of an adverse event report does not constitute an admission that a product caused or contributed to an event. The information in these reports has not been scientifically or otherwise verified as to a cause and effect relationship and cannot be used to estimate incidence (occurrence rate) or to estimate risk.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-07-07"
+  },
+  "results": [
+    {
+      "term": "Death",
+      "count": 276
+    },
+    {
+      "term": "Dependence",
+      "count": 256
+    },
+    {
+      "term": "Toxicity to various agents",
+      "count": 134
+    },
+    {
+      "term": "Withdrawal syndrome",
+      "count": 98
+    },
+    {
+      "term": "Vomiting",
+      "count": 80
+    },
+    {
+      "term": "Nausea",
+      "count": 72
+    },
+    {
+      "term": "Anxiety",
+      "count": 63
+    },
+    {
+      "term": "Diarrhoea",
+      "count": 53
+    },
+    {
+      "term": "Malaise",
+      "count": 53
+    },
+    {
+      "term": "Overdose",
+      "count": 52
+    },
+    {
+      "term": "Drug withdrawal syndrome",
+      "count": 44
+    },
+    {
+      "term": "Convulsion",
+      "count": 43
+    },
+    {
+      "term": "Insomnia",
+      "count": 42
+    },
+    {
+      "term": "Hyperhidrosis",
+      "count": 41
+    },
+    {
+      "term": "Accidental death",
+      "count": 38
+    },
+    {
+      "term": "Depression",
+      "count": 38
+    },
+    {
+      "term": "Tremor",
+      "count": 38
+    },
+    {
+      "term": "Drug screen positive",
+      "count": 36
+    },
+    {
+      "term": "Headache",
+      "count": 36
+    },
+    {
+      "term": "Seizure",
+      "count": 35
+    },
+    {
+      "term": "Weight decreased",
+      "count": 30
+    },
+    {
+      "term": "Fatigue",
+      "count": 29
+    },
+    {
+      "term": "Pain",
+      "count": 29
+    },
+    {
+      "term": "Pulmonary oedema",
+      "count": 29
+    },
+    {
+      "term": "Hospitalisation",
+      "count": 27
+    }
+  ]
+}

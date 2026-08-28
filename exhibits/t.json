@@ -1,0 +1,46 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service. Submission of an adverse event report does not constitute an admission that a product caused or contributed to an event. The information in these reports has not been scientifically or otherwise verified as to a cause and effect relationship and cannot be used to estimate incidence (occurrence rate) or to estimate risk.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-07-07",
+    "results": {
+      "skip": 0,
+      "limit": 1,
+      "total": 39
+    }
+  },
+  "results": [
+    {
+      "report_number": "2022-CFS-000312",
+      "outcomes": [
+        "Life Threatening"
+      ],
+      "date_created": "20220106",
+      "reactions": [
+        "Dependence",
+        "Suicidal ideation"
+      ],
+      "date_started": "20220105",
+      "consumer": {
+        "age": "33",
+        "age_unit": "year(s)",
+        "gender": "Male"
+      },
+      "products": [
+        {
+          "role": "SUSPECT",
+          "name_brand": "MIT45",
+          "industry_code": "54",
+          "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+        },
+        {
+          "role": "SUSPECT",
+          "name_brand": "OPMS",
+          "industry_code": "54",
+          "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+        }
+      ]
+    }
+  ]
+}

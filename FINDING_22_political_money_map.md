@@ -90,3 +90,72 @@ its own name is notable but not in itself suspicious.
 
 **[I] All four need a free api.data.gov key. DEMO_KEY caps at 40 calls an hour and
 has been the binding constraint on the money map for this entire investigation.**
+
+---
+
+## UPDATE 2026-08-28: the rate-limited queries are now complete
+
+Finding 22 was published with a stated limitation: two of five planned employer
+queries had not run because the FEC DEMO_KEY caps at 40 calls an hour. A full API
+key was obtained and the remaining queries have been executed. **The limitation is
+lifted. Nothing in the original finding required correction.**
+
+### Completed queries
+
+| Employer queried | Rows | Result |
+|---|---|---|
+| MILLER STRATEGIES | 2,870 | Republican fundraising firm, no kratom client identified |
+| CHECKMATE GOVERNMENT RELATIONS | 51 | $750,000 kratom registrant (Stop Gas Station Heroin LLC) |
+| BOTANIC TONICS | 37 | $730,673, see Finding 23 |
+| MIT45 | 28 | confirms the original figures |
+
+### Mullin's own receipts: a clean negative [P]
+
+Every kratom-sector employer tested against **MULLIN FOR AMERICA (C00498345)**:
+
+| Employer | Rows |
+|---|---|
+| Botanic Tonics | 0 |
+| MIT45 | 0 |
+| American Kratom Association | 0 |
+| Johnson Foods | 0 |
+| Della Terra | 0 |
+
+**Control:** C00498345 has **22,978** itemized receipt rows. The endpoint returns
+data for that committee, so the zeros above are genuine absences, not a broken
+query.
+
+No kratom company or trade association gave Markwayne Mullin's campaign anything.
+That is now established as firmly as the holding in Finding 01 is established.
+Both facts belong in any account of this case.
+
+### A link tested and discarded
+
+Two Holland & Knight lobbyists appear in Mullin's receipts: **Kathryn Lehman**
+($500, 2022-06-21) and Gregory Louer ($500, 2022-08-09). Holland & Knight is the
+registrant on the **$700,000 Johnson Foods** account (Finding 06), and Lehman is a
+**named lobbyist on that account** [P, LDA filing detail]. Her contribution falls
+in the same quarter the Johnson Foods engagement opened.
+
+That looked like a connection. It does not survive its control test.
+
+Pulling Lehman's complete Holland & Knight giving history by keyset pagination,
+**345 itemized contributions across 137 distinct recipients** since the early
+2000s, roughly ninety of them $500 gifts to House and Senate campaigns of both
+parties' Republican caucus. Mullin's $500 is indistinguishable from the other
+eighty-nine.
+
+**We record this as a negative.** Routine lobbyist giving, no kratom signal. Had
+we reported the first query without the second, we would have published a
+connection that is not there.
+
+### Method note for anyone reproducing this
+
+`lda.senate.gov` now 301-redirects to `lda.gov`; requests without redirect
+following return an nginx error page, not JSON. The FEC `per_page` parameter caps
+below the requested value on some endpoints and offset paging silently drops rows,
+so contributor histories must be pulled with **keyset pagination**
+(`last_index` + `last_contribution_receipt_date`) and de-duplicated on `sub_id`.
+An earlier pass at Lehman's history using a single 100-row page appeared to show
+Mullin absent from her recipients. That was a truncation artifact, caught and
+corrected before it reached any finding.

@@ -1,0 +1,170 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service. Submission of an adverse event report does not constitute an admission that a product caused or contributed to an event. The information in these reports has not been scientifically or otherwise verified as to a cause and effect relationship and cannot be used to estimate incidence (occurrence rate) or to estimate risk.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-07-07"
+  },
+  "results": [
+    {
+      "term": "KRATOM",
+      "count": 421
+    },
+    {
+      "term": "Kratom",
+      "count": 19
+    },
+    {
+      "term": "OPMS KRATOM",
+      "count": 10
+    },
+    {
+      "term": "FEEL FREE KRATOM",
+      "count": 7
+    },
+    {
+      "term": "KRATOM POWDER",
+      "count": 7
+    },
+    {
+      "term": "KRATOM TEA",
+      "count": 6
+    },
+    {
+      "term": "Melatonin",
+      "count": 5
+    },
+    {
+      "term": "VITAMIN D",
+      "count": 5
+    },
+    {
+      "term": "7-HYDROXYMITRAGYNINE KRATOM",
+      "count": 4
+    },
+    {
+      "term": "KRATOM 7OH",
+      "count": 4
+    },
+    {
+      "term": "KRATOM PILLS",
+      "count": 4
+    },
+    {
+      "term": "MELATONIN",
+      "count": 4
+    },
+    {
+      "term": "VITAMIN C",
+      "count": 4
+    },
+    {
+      "term": "Vitamin D",
+      "count": 4
+    },
+    {
+      "term": "magnesium",
+      "count": 4
+    },
+    {
+      "term": "B12",
+      "count": 3
+    },
+    {
+      "term": "BALI KRATOM",
+      "count": 3
+    },
+    {
+      "term": "BOTANIC TONICS FEEL FREE KRATOM",
+      "count": 3
+    },
+    {
+      "term": "FEEL FREE CLASSIC KRATOM",
+      "count": 3
+    },
+    {
+      "term": "FISH OIL",
+      "count": 3
+    },
+    {
+      "term": "GREEN MALAY KRATOM",
+      "count": 3
+    },
+    {
+      "term": "KRATOM EXTRACT",
+      "count": 3
+    },
+    {
+      "term": "KRAVE KRATOM",
+      "count": 3
+    },
+    {
+      "term": "MULTIVITAMIN",
+      "count": 3
+    },
+    {
+      "term": "Magnesium",
+      "count": 3
+    },
+    {
+      "term": "VITAMIN D3",
+      "count": 3
+    },
+    {
+      "term": "melatonin",
+      "count": 3
+    },
+    {
+      "term": "7 HYDROXYMITRAGYNINE KRATOM",
+      "count": 2
+    },
+    {
+      "term": "7 OH KRATOM",
+      "count": 2
+    },
+    {
+      "term": "7-OH KRATOM",
+      "count": 2
+    },
+    {
+      "term": "7OH KRATOM",
+      "count": 2
+    },
+    {
+      "term": "ADRN BOTANICALS KRATOM",
+      "count": 2
+    },
+    {
+      "term": "B Vitamins",
+      "count": 2
+    },
+    {
+      "term": "BOOSTED KRATOM",
+      "count": 2
+    },
+    {
+      "term": "BOTANIC TONICS FEEL FREE PLANT BASED KRATOM HERBAL SUPPLEMENT",
+      "count": 2
+    },
+    {
+      "term": "CALCIUM",
+      "count": 2
+    },
+    {
+      "term": "DLPA",
+      "count": 2
+    },
+    {
+      "term": "EARTH KRATOM",
+      "count": 2
+    },
+    {
+      "term": "FEEL FREE TONIC KRATOM",
+      "count": 2
+    },
+    {
+      "term": "GOLDEN MONK KRATOM",
+      "count": 2
+    }
+  ]
+}
