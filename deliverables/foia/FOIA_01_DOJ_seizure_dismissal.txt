@@ -7,7 +7,7 @@ To:   United States Department of Justice
 
 From: Jay Puckett, Principal Security Researcher
       Obsidian Watch Group
-      obsidianinvestigations@pm.me
+      jay.puckett@obsidianwatchgroup.com
 
 Date: [DATE]
 

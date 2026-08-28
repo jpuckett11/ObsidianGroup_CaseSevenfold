@@ -7,7 +7,7 @@ To:      Federal Trade Commission
 
 From:    Jay Puckett, Principal Security Researcher
          Obsidian Watch Group
-         obsidianinvestigations@pm.me
+         jay.puckett@obsidianwatchgroup.com
 
 Date:    28 August 2026
 

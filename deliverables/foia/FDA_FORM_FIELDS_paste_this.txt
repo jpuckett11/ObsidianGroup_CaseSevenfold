@@ -5,6 +5,17 @@ accessdata.fda.gov/scripts/foi/foirequest/requestform.cfm
 The form has a CAPTCHA, so it has to be you. Everything below is sized to the
 field limits the form actually enforces.
 
+------------------------------------------------------------- CONTACT FIELDS
+Name        Jay Puckett
+Organization Obsidian Watch Group
+Email       jay.puckett@obsidianwatchgroup.com
+Confirm     jay.puckett@obsidianwatchgroup.com
+
+Note the form's tight limits: first name 20 chars, last name 20, street 40,
+city 30, zip 11. They will hold. Requester category: "Other" -> news media or
+educational is worth considering, since it affects fee treatment; the fee waiver
+request in Block 2 is made regardless.
+
 ------------------------------------------------------------------ DATE RANGE
 From:  01/01/2025
 To:    08/29/2026
