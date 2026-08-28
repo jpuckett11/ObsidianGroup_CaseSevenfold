@@ -8,7 +8,7 @@ TWO ROUTES. DO BOTH.
                               that state AGs and other agencies can see
 
    Path: "Something else" -> "Products and services"
-   Paste: FTC_REPORTFRAUD_paste_this.txt   (3,572 chars, sized for the form)
+   Paste: FTC_REPORTFRAUD_paste_this.txt   (4,919 chars, sized for the form)
 
    If the field is shorter than that, keep the first three sections. The two
    quotes from one domain on the same day are the whole complaint; everything
@@ -18,7 +18,7 @@ TWO ROUTES. DO BOTH.
                               <- the substantive one
 
    Mail: 600 Pennsylvania Avenue NW, Washington DC 20580
-   Send: OWG_FTC_Complaint_2026-08-28.pdf  (4 pages, the full complaint)
+   Send: OWG_FTC_Complaint_2026-08-29.pdf  (the full complaint)
 
    Call the Consumer Response Center, 877-382-4357, for the current mailing
    address for the Division, and say it is an industry complaint rather than an
@@ -41,6 +41,17 @@ interest finding, or on any rulemaking. It is a labelling case and it stands
 alone.
 
 NEW SINCE THE FIRST DRAFT
+
+A section on who is actually being sold to. In a structured-interview cohort of
+1,274 treatment-seeking SUD patients, childhood trauma exposure was present in
+53.5 percent, and comorbid adult ADHD in 14.1 percent against 2.5-5 percent in the
+general adult population. A majority of the people who end up in treatment were
+traumatised as children.
+
+That matters legally, not just morally. A representation that would mislead an
+ordinary consumer is treated more seriously when the foreseeable audience is a
+vulnerable one, and these products are sold beside the register without age
+verification.
 
 Requested action 4 now cites Utah Poison Control's alert of 22 July 2026 and the
 Utah death linked to mislabelled tablets sold under a different botanical name
