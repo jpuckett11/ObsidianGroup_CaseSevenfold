@@ -76,17 +76,35 @@ absolute limit.** Neither AKA, GKC nor HART raised it.
 
 ## READY, NOT SENT
 
-### 2. Senate Finance Committee — Wyden inquiry
+### 3. Senate Finance Committee, Wyden inquiry — **SENT 2026-08-27**
 
 | | |
 |---|---|
-| Document | `deliverables/wyden/OWG_Submission_SenateFinance_2026-08-27.pdf`, 6 pages |
-| Committee response date for its own letters | **2026-08-31** |
-| Status | **BLOCKED: no published staff email address.** |
-| Known channels | Phone **(202) 224-4515** · Mail: 219 Dirksen Senate Office Building, Washington DC 20510-6200 |
+| **To** | `Whistleblower_complaints@wyden.senate.gov` |
+| Sent | 2026-08-28 04:41:45 UTC (evening of 2026-08-27 local) |
+| Message-ID | `<mFxaAzKPtn71j8ZxXQtOlTCUIa3Oi3FNrNRZ254FWR8b0yDAhtx2ucmTSCKr-L2AzYDo3hb0yJ3lGDFbJ6PE5n0dBj2dg7L-VyRQTMYddrs=@obsidianwatchgroup.com>` |
+| Attachment | `OWG_Submission_SenateFinance_2026-08-27.pdf`, 6 pages |
+| Verified | Present in Sent folder via IMAP |
+| Committee response date for its own letters | 2026-08-31 |
 
-Senate committees do not publish staff email addresses. A named staffer is
-required for this to land in the inquiry file rather than general correspondence.
+Sent via the channel Senator Wyden's office publishes for information about
+potential violations of law and threats to public safety. **The covering email
+states in its first line that the sender is not an insider and this is not a
+protected disclosure**, to prevent misrouting.
+
+**The four questions put to the Committee:**
+
+1. Who funds Botanicals for Better Health and Wellness, and what did its
+   lobbyists seek from DEA, DOJ, OMB and the Executive Office of the President?
+2. On what date did Secretary Mullin acquire his interest in Botanic Tonics, and
+   who were the two investors who provided $22,572,324 to close that company's
+   offering in the interval ending 2025-01-07?
+3. Why did the government dismiss *United States v. 250,000 Filled Bottles of
+   Liquid Product*, 4:23-cv-00168-GAG-CDL (N.D. Okla.), on 2025-12-22?
+4. Who requested the extension of the comment period on HHS-OASH-2026-0232?
+
+**[I] These are the four things a committee can compel and we cannot.** Everything
+else in this case is already public.
 
 ### 3. FOIA — DOJ / EOUSA / USAO-NDOkla
 
