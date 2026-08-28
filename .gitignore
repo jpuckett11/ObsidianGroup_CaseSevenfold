@@ -30,3 +30,6 @@ FINDING_13A*
 
 # Committee submission: held until filed. Contains clinical detail kept internal per 13A.
 deliverables/wyden/
+
+# Filed FOIA copies carry a home address. Placeholders only in public.
+deliverables/foia/*_FILED.txt

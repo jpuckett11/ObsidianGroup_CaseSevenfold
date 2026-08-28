@@ -112,12 +112,30 @@ else in this case is already public.
 address. Subject: the dismissal of *United States v. 250,000 Filled Bottles of
 Liquid Product*, 4:23-cv-00168-GAG-CDL, on 2025-12-22.
 
-### 4. FOIA — FDA / HHS OASH
+### 4. FOIA — FDA Division of Freedom of Information — **SENT 2026-08-27**
 
-`deliverables/foia/FOIA_02_HHS_FDA_website_changes.txt`. Needs date and return
-address. Subject: 2025 alterations to FDA kratom consumer content, the unnamed
-extension requester, the Kruegel 2019 citation, and conflict review of cited
-literature.
+| | |
+|---|---|
+| **To** | `FDAFOIA@FDA.HHS.GOV` |
+| Sent | 2026-08-28 UTC, verified in Sent via IMAP |
+| Statutory response clock | **20 business days** from receipt |
+
+**Asks FDA for:** every alteration to kratom consumer content on Department web
+properties from 2025-01-01, with the requesting party and scientific basis for
+each; all communications with any Member of Congress or other department about
+that content, expressly including the office of Senator Mullin and the Office of
+the Secretary of Homeland Security; any record of a decision to decline a
+requested change; the source intended by the **"Kruegel et al., 2019"** citation
+absent from FDA's own bibliography; any conflict-of-interest review of the cited
+literature including the Johnson-Foods-funded Huestis/Atallah study; the
+analytical methodology behind the 0.05% threshold; and the identity of the party
+that requested the comment-period extension on HHS-OASH-2026-0232.
+
+Fee waiver and expedited processing requested, keyed to the open docket.
+
+**[I] A comment can be read and set aside. A FOIA cannot.** This is the only
+instrument in the case that creates a statutory duty to answer or to refuse in
+writing, and a refusal is itself informative.
 
 **[I] FOIA 02 is the highest-value unfiled item.** It creates a statutory
 obligation to respond, on three discrete questions that each have a documentary
