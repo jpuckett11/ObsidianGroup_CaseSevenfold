@@ -26,7 +26,45 @@ documented body count are unscheduled, their laws were drafted almost verbatim b
 the trade association, and their federal consumer warnings were pressed for
 deletion by an official holding a stake in them. The links came down.
 
-Start with **[REPORT.md](REPORT.md)**.
+---
+
+## What this is actually about
+
+The scheduling fight is the surface. Underneath it is this:
+
+| | |
+|---|---|
+| Americans with a substance use disorder | **48.4 million**, 16.8%, roughly **1 in 6** |
+| Who received any treatment | **6.0 million** |
+| **Who received nothing** | **42.4 million — 87.6%** |
+| Annual economic cost of leaving it alone | **$425 billion** |
+
+*Source: SAMHSA 2024 NSDUH. Arithmetic shown in full in `REMEDIATION.md` s4, including
+why we use 87.6% rather than SAMHSA's headline 80.7%, and why 48.4M is an undercount
+by the survey's own admission.*
+
+**That is why there is a market.** Take away the 42.4 million and every company,
+lobbyist and political contribution documented in this file has no customers. The
+abandonment is not a consequence of this market. **It is its input.**
+
+Scheduling one molecule moves the market to the next molecule. This case watched that
+happen in real time, from 7-OH to MGM-15 and MGM-16 to products built on **corynoxine
+B** and sold under a different plant's name, with a **death in Utah County** in July.
+The demand never moved, because nothing was ever done for the people generating it.
+
+**Read [REMEDIATION.md](REMEDIATION.md) if you read nothing else here.** It is the
+argument, separated from the evidence and labelled as argument, with sixteen citations,
+its own falsification criteria, and a record of the three places this case has already
+corrected itself against its own interest.
+
+We do not ask for prohibition of anything. We ask that scope be drawn by quantity and
+product form rather than by molecule name, that the labelling law already on the books
+be enforced, and that **the exit be funded**.
+
+---
+
+Start with **[REPORT.md](REPORT.md)** for the evidence, or
+**[REMEDIATION.md](REMEDIATION.md)** for what it means.
 
 **Filed:** a public comment is on federal docket **HHS-OASH-2026-0232**, tracking
 number **`mtc-56yj-nmij`**, submitted 2026-08-27. See **[FILINGS.md](FILINGS.md)**
