@@ -156,3 +156,100 @@ the federal government has never assessed it.*
 
 That belongs in the third comment to HHS-OASH-2026-0232 before the 2026-09-10
 deadline, and the comment has been updated to carry it.
+
+---
+
+## ADDENDUM, 2026-08-28: who Mitradyne Corporation is
+
+Finding 25 closed with "Mitradyne Corporation has no SEC filings. It is Canadian
+and its corporate and funding records were not obtained." That item was worked.
+**The corporate registration itself was still not obtained**, for reasons recorded
+in section C below, but the people behind it are now established from primaries.
+
+### A. The inventors are one University of Guelph laboratory group [P]
+
+The EPO record lists four inventors, none of them in Toronto:
+
+| Inventor as filed | Location as filed |
+|---|---|
+| CASARETTO, Jose | Guelph, N1G 5K3 |
+| AKTAR, Tariq A. | Guelph, N1E 1B7 |
+| ROTHSTEIN, Steven | Guelph, N1G 1K4 |
+| SOUBEYRAND, Eric | Kitchener, N2P 1N9 |
+
+All four appear together in the peer-reviewed literature as members of the
+**Department of Molecular and Cellular Biology, University of Guelph** [P,
+PubMed]. José A. Casaretto, Tariq Akhtar (the patent spells it "Aktar"; the
+corresponding-author address on the group's own paper is `takhtar@uoguelph.ca`),
+Steven J. Rothstein and Eric Soubeyrand co-author repeatedly:
+
+- *Cell-Free Synthesis of Cannabistilbene I: A Dual Acting Anti-Inflammatory from
+  Cannabis sativa*, J. Nat. Prod., 2026
+- *Prenylated apigenin derivatives from Cannabis sativa L.: isolation,
+  biosynthesis, and anti-inflammatory activity*, J. Cannabis Res., 2026
+- *Bibenzyl synthesis in Cannabis sativa L.*, The Plant Journal, 2022
+
+### B. Their published method is the patent's method [P]
+
+Read the first title again. The group's own 2026 paper is **cell-free synthesis**
+of a plant natural product. Claim 11 of EP4538367 is *"wherein the system is
+cell-free."*
+
+This is not a pharmaceutical company that decided to enter kratom. It is an
+academic plant-biochemistry group that spent years building a cell-free platform
+for making cannabis secondary metabolites, and then pointed the same platform at
+*Mitragyna speciosa*. That is a coherent scientific lineage, and it explains how a
+company with no visible commercial footprint produced a filing this specific.
+
+The European agent of record is **Dehns, 10 Old Bailey, London** [P].
+
+### C. What we could not get, and why it is stated rather than glossed
+
+**The corporate registration was not obtained.** Every free route failed, and each
+failure is recorded so the next person does not repeat it:
+
+| Route | Outcome |
+|---|---|
+| MRAS federated registry (`searchapi.mrasservice.ca`) | host no longer resolves; service appears decommissioned |
+| `beta.canadasbusinessregistries.ca` | does not resolve |
+| Canada's Business Registries (`ised-isde.canada.ca/cbr-rec`) | WAF block page, identical bytes for the target and for a control query |
+| Corporations Canada legacy federal search | returns the search form only; a control query for a known federal corporation also returned nothing, so **no conclusion about federal incorporation may be drawn** |
+| OpenCorporates | hCaptcha wall |
+| CIPO patent database | redirect loop / timeout |
+
+**We therefore do not assert that Mitradyne is or is not federally incorporated.**
+An earlier pass in this session appeared to show zero federal matches; the control
+proved the parser broken and the result was discarded rather than published.
+
+Obtaining it requires an Ontario Business Registry search, which is free to run
+but requires an interactive session, or a paid intermediary.
+
+### D. Two controlled negatives that we can state [P]
+
+- **No SEC filings.** Consistent with a private Canadian company.
+- **No Canadian federal grants or contributions.** Searched Canada's proactive
+  disclosure database: `mitradyne` returns **0**. Controls run in the same
+  session: an empty query returns 1,193,970 records, a nonsense string returns 0,
+  "University of Guelph" returns 924,163. The engine filters, and the zero is a
+  real absence.
+- **No meaningful public web presence.** A search returns the patent itself and
+  the inventors' university profiles. No company website, product, funding
+  announcement or press coverage was located.
+
+### E. What this does and does not mean
+
+**[I]** A company whose registered office is in Toronto while all four of its
+inventors work in Guelph and Kitchener, roughly a hundred kilometres away, with no
+public funding, no web presence and no SEC trail, is most consistent with an
+early-stage university-adjacent venture holding intellectual property. That is an
+ordinary and lawful structure. Thousands of them exist.
+
+**It is not evidence of concealment**, and we do not present it as such. We record
+it because Finding 25 asserts that industrial capability for this compound has
+been claimed, and a reader is entitled to know exactly how much is known about who
+claimed it: four named academic scientists at a public university, a London patent
+agent, and a Toronto address we could not resolve to a filing.
+
+**Still open:** the Ontario registration, its directors and incorporation date;
+whether the University of Guelph holds any interest through its commercialisation
+office; and whether Mitradyne has raised capital.
