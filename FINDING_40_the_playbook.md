@@ -54,7 +54,70 @@ identified in the death reported on 30 July 2026 (Finding 29). Mitragynine
 pseudoindoxyl is the compound the industry argued against scheduling in the Utah
 litigation (Finding 37 §5).
 
-## 4. The playbook, in four states [P]
+## 4. CORRECTION, 2026-08-29, before anything else in this section
+
+**Section 4 as originally written claimed a playbook "in four states." That was
+wrong and the error was ours.**
+
+The Missouri and Ohio complaints were pulled and read on 2026-08-29. **Neither is a
+kratom case.**
+
+| Case | "kratom" hits | "hemp" hits | Actually about |
+|---|---|---|---|
+| *Mohemp Trade Association v. Kehoe*, W.D. Mo. | **0** | **189** | Missouri HB 2641, **hemp** |
+| *Delta Beverages v. Canepa*, N.D. Ohio (TRO order) | **0** | 16 | Ohio SB 56, **intoxicating hemp** |
+
+Missouri's complaint says so in its first line: HB 2641 "attempts to restrict and
+regulate the production and sale of **hemp and hemp products**."
+
+**How the error happened, recorded because this case records them.** The LFTD 10-Q
+lists these actions in its litigation note without separating product lines. This
+finding read them as part of the kratom pattern and did not check the underlying
+pleadings before publishing. **That is an inference presented as a finding, and it is
+the same failure recorded in Finding 36 section 8 eight hours earlier.**
+
+## 4a. What the record actually supports
+
+**The kratom playbook is two states, both brought by Botanic Tonics:**
+
+| Filed | Plaintiff | Defendants | Target |
+|---|---|---|---|
+| **2025-11-19** | Botanic Tonics | **Kent Leonhardt**, WV Agriculture Commissioner, **in his individual capacity** | WVDA registration refusal |
+| **2026-03-31** | Botanic Tonics **+ Global Kratom Coalition** | **Kelly Pherson**, **Amber Brown**, **Bradon Forsyth**, **AG Derek Brown** | Utah Kratom Regulation Act |
+
+**And a separate, genuinely interesting fact rather than the one we claimed.** The
+*same legal theory* is being run by a *different* company in two more states on an
+*adjacent* product:
+
+| Filed | Plaintiffs | Defendants | Target |
+|---|---|---|---|
+| **2026-07-16** | **Lifted Liquids** + MoHemp Trade Association + MNG 2005 | **Gov. Mike Kehoe**, **AG Catherine Hanaway**, **Sarah Wilson**, Director, Missouri DHSS, all in official capacity | Missouri **HB 2641**, hemp |
+| **2026-07-30** | **Lifted Liquids** + 13 others incl. **Great Lakes Brewing Company** | **Jim Canepa** and what appears to be **most of Ohio's county prosecutors**, dozens of named defendants | Ohio **SB 56**, hemp |
+
+**The theories match across all four:** preemption, Dormant Commerce Clause,
+vagueness under Due Process. **What this shows is not a kratom conspiracy across four
+states. It is that preemption litigation against state officials is the standard
+industry tool across intoxicant categories, and the same company runs it on both its
+product lines.** That is a weaker claim than the one we made and it is the one the
+documents support.
+
+## 4b. And the outcome differs, which is the part worth keeping [P]
+
+**Utah, kratom, 4 May 2026: preliminary injunction DENIED** on state police powers
+(Finding 37).
+
+**Ohio, hemp, 7 August 2026: temporary restraining order GRANTED.** Judge Jeffrey J.
+Helmick denied the State of Ohio's motion to stay and granted the TRO. **It was
+extended on 19 August to 4 September 2026**, with preliminary-injunction responses due
+26 August.
+
+**As of this writing an Ohio statute is enjoined and a Utah statute is not.** Same
+theory, two products, two results, four months apart. **Whether that difference is
+about hemp versus kratom, about the Farm Bill's express federal definition of hemp
+having no kratom equivalent, or about the two courts, is not established here and is
+worth someone establishing.**
+
+
 
 The same filing discloses that this company is suing states too. Set against Findings
 37 and 38, the shape is unmistakable:

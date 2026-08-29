@@ -1,0 +1,215 @@
+Case: 3:26-cv-01793-JJH Doc #: 23 Filed: 08/07/26 1 of 7. PageID #: 272
+
+UNITED STATES DISTRICT COURT
+FOR THE NORTHERN DISTRICT OF OHIO
+WESTERN DIVISION
+
+Delta Beverage, Inc., et al.,
+
+Case No. 3:26-cv-17893
+
+Plaintiffs,
+v.
+
+MEMORANDUM OPINION
+AND ORDER
+
+Jim Canepa, et al.,
+Defendants.
+I.
+
+INTRODUCTION AND BACKGROUND
+
+Plaintiffs Delta Beverages, Inc., Crescent Distributions NC, LLC, d/b/a Crescent Canna,
+Opta Nevada Group LLC, d/b/a/ Cheech and Chong’s Beverages, Torch Drinks LLC, Fifty West
+Brewing Company LLC, Athens Beverage LLC, The Great Lakes Brewing Company, Green Room
+Brewing LLC, d/b/a Seventh Son Brewing, Florageist, LLC, d/b/a Rhinegeist, SS Beverages 1, Inc.,
+d/b/a Uncle Arnie’s, Mile High Cure Corp., Sky Marketing Corp., d/b/a Hometown Hero,
+Wellness of Willoughby, LLC, d/b/a Thee Hemp Co., and Lifted Liquids, Inc., are companies that
+manufacture and sell intoxicating hemp-derived products. (Doc. No. 1). Plaintiffs either are located
+in states other than Ohio or manufacture their products with hemp sourced from states other than
+Ohio, or both.
+The Cannabis sativa L. plant contains three intoxicating tetrahydrocannabinol compounds
+(“THC”) – delta-8, delta-9, and delta-10. Delta-9 is the cannabinoid most associated with marijuana,
+while hemp-derived products most often contain delta-8. Ohio law previously defined hemp as that
+
+Case: 3:26-cv-01793-JJH Doc #: 23 Filed: 08/07/26 2 of 7. PageID #: 273
+
+plant, or any of its parts, with a concentration of no more than 0.3% of delta-9 THC, a statutory
+definition consistent with that found in federal law. See 7 U.S.C. § 1639o(1).
+On December 9, 2025, the Ohio General Assembly passed a bill known as Senate Bill 56.
+Ohio Governor Mike DeWine signed the bill into law on December 19, 2025, and the legislation
+took effect on March 20, 2026. Among other things, Senate Bill 56 narrowed the definition of hemp
+to exclude any substance with a total concentration of no more than 0.3% of any intoxicating THC
+compound. Ohio Rev. Code § 928.01(C). Any substance with a THC concentration greater than
+0.3% constitutes marijuana. Ohio Rev. Code § 3719.01(M). While the cultivation and sale of
+marijuana generally is prohibited by federal and state law, Ohio permits companies to do so if they
+have obtained a license. See Ohio Rev. Code § 3796.18. In order to obtain and maintain a license, a
+company may not “dispense marijuana from, obtain marijuana from, or transfer marijuana to, a
+location outside of the state of Ohio.” Ohio Admin. Code § 3796:6-3-01(C).
+Plaintiffs filed suit against the State of Ohio, the Superintendent of the Ohio Division of
+Cannabis Control, the Executive Director of the Ohio Investigative Unit, the Superintendent of the
+Ohio State Highway Patrol, and 96 county and municipal prosecutor’s offices, seeking to enjoin
+those Defendants from taking “any criminal, civil, or adverse administrative government actions”
+against Plaintiffs “for participating in this State and in an otherwise federally legal market involving
+hemp and hemp-derived products so long as their conduct comports with federal law and valid State
+laws predating Senate Bill 56.” (Doc. No. 1 at 28). Plaintiffs allege Senate Bill 56 has created an
+impermissible burden on interstate commerce and deprived them of their right to participate in the
+interstate market for federally legal intoxicating hemp products in violation of the United States
+Constitution. (Id. at 27-28).
+Plaintiffs also filed a motion for a temporary restraining order contemporaneously with their
+Complaint. (Doc. No. 2). In response to that motion, the State of Ohio filed a motion to stay these
+2
+
+Case: 3:26-cv-01793-JJH Doc #: 23 Filed: 08/07/26 3 of 7. PageID #: 274
+
+proceedings while the United States Court of Appeals for the Sixth Circuit hears its appeal of a
+preliminary injunction I entered in Titan Logistics Group, LLC v. Tischler, Case No. 3:26-cv-1300 (N.D.
+Ohio), No. 26-3648 (6th Cir.). Plaintiffs oppose that motion. (Doc. No. 20). For the reasons stated
+below, I deny the State of Ohio’s motion to stay and grant Plaintiffs’ motion for a temporary
+restraining order.
+II.
+A.
+
+DISCUSSION
+
+MOTION TO STAY
+The State of Ohio moves to stay this litigation while its appeal of my decision in Titan
+
+Logistics is pending before the Sixth Circuit. (See Doc. No. 17).
+“[T]he power to stay proceedings is incidental to the power inherent in every court to
+control the disposition of the causes on its docket with economy of time and effort for itself, for
+counsel, and for litigants.” Landis v. N. Am. Co., 299 U.S. 248, 254 (1936). A court may conclude a
+stay is appropriate because of the “‘pending resolution of independent proceedings which bear upon
+the case at hand.’” Deluca v. Blue Cross Blue Shield of Michigan, No. 06-12552, 2007 WL 715304, at *1
+(E.D. Mich. Mar. 7, 2007) (quoting Mediterranean Enter. v. Ssangyong Corp., 708 F.2d 1458, 1465 (9th
+Cir. 1983)) (further citations and internal quotation marks omitted). “The proponent of a stay bears
+the burden of establishing its need.” Clinton v. Jones, 520 U.S. 681, 708 (1997) (citing Landis, 299 U.S.
+at 255).
+The parties do not agree on the standard a movant must meet in order to prevail on a
+motion to stay. The State of Ohio contends I must “consider the following factors: (1) the need for
+a stay; (2) the stage of litigation; (3) whether the non-moving party will be unduly prejudiced or
+tactically disadvantaged; (4) whether a stay will simplify the issues; and (5) whether the burden of
+litigation will be reduced for both the parties and the court.” (Doc. No. 17 at 6) (citing Fowler v.
+
+3
+
+Case: 3:26-cv-01793-JJH Doc #: 23 Filed: 08/07/26 4 of 7. PageID #: 275
+
+AT&T, Inc., No. 2:23-cv-3172, 2024 WL 2239821, at *2, 2024 U.S. Dist. LEXIS 88454, at *4 (S.D.
+Ohio May 16, 2024)).
+But these factors are not to be applied as neutrally as it might appear at first glance. Rather,
+“the burden is on the party seeking the stay to show that there is pressing need for delay, and that
+neither the other party nor the public will suffer harm from entry of the order.” Ohio Env’t Council v.
+U.S. Dist. Ct., S. Dist. of Ohio, E. Div., 565 F.2d 393, 396 (6th Cir. 1977) (emphasis added). See also
+Int’l Bhd. of Elec. Workers, Loc. Union No. 2020, AFL-CIO v. AT&T Network Sys. (Columbia Works), 879
+F.2d 864, 1989 WL 78212, at *8 (6th Cir. 1989) (unreported table decision) (“The most important
+consideration is the balance of hardships; the moving party has the burden of proving that it will
+suffer irreparable injury if the case moves forward, and that the non-moving party will not be injured
+by a stay.”).
+For their part, Plaintiffs assert that, because the issues in this case are “identical to Titan
+Logistics . . .,” I should apply the standard applicable to a motion to stay an injunction pending
+appeal. (Doc. No. 20 at 3). But Plaintiffs have not identified a case in which a court applied that
+standard to a motion to stay proceedings because of a pending appeal in a different case. And I see
+no reason to adopt that standard as applicable in this case when the Sixth Circuit has identified the
+relevant parameters of the State of Ohio’s burden. See, e.g., Ohio Env’t Council, 565 F.2d at 396.
+The State of Ohio has failed to carry its burden to show Plaintiffs will not suffer harm in this
+case is stayed. As I concluded in Titan Logistics, and as I conclude below, the State of Ohio’s
+exclusion of out-of-state companies from the Ohio market for federally legal intoxicating hemp
+products violates the dormant Commerce Clause and, consequently, Plaintiffs’ constitutional rights.
+Therefore, I deny the motion to stay.
+
+4
+
+Case: 3:26-cv-01793-JJH Doc #: 23 Filed: 08/07/26 5 of 7. PageID #: 276
+
+B.
+
+TEMPORARY RESTRAINING ORDER
+To determine whether a party is entitled to a temporary restraining order pursuant to Rule
+
+65(b) of the Federal Rules of Civil Procedure, I must examine and weigh the following four factors:
+(1) whether the moving party has shown a strong likelihood of success on the merits; (2) whether
+the moving party will suffer irreparable harm if the injunction is not issued; (3) whether the issuance
+of the injunction would cause substantial harm to others; and (4) whether the public interest would
+be served by issuing the injunction. Overstreet v. Lexington–Fayette Urban Cnty. Gov’t, 305 F.3d 566, 573
+(6th Cir. 2002); McPherson v. Mich. High Sch. Athletic Ass’n, 119 F.3d 453, 459 (6th Cir. 1997) (en banc).
+As I previously stated:
+“[A]bsent discrimination, ‘a State may exclude from its territory, or prohibit the sale
+therein of any articles which, in its judgment, fairly exercised, are prejudicial to’ the
+interests of its citizens.” Nat’l Pork Producers Council v. Ross, 598 U.S. 356, 369 (2023)
+(quoting Guy v. Baltimore, 100 U.S. 434, 443 (1880)). As a result, a state law that
+“imposes the same burdens on in-state . . . producers that it imposes on out-of-state
+ones” does not violate the Constitution. Nat’l Pork Producers, 598 U.S. at 370. See also
+Am. Beverage Ass’n v. Snyder, 735 F.3d 362, 373 (6th Cir. 2013) (holding that a state law
+that “burdens in-state beverage manufacturers who meet the designated thresholds
+to the same extent it burdens out-of-state manufacturers who meet the designated
+threshold . . . does not discriminate against interstate commerce on this basis”)
+(internal quotation marks omitted).
+Titan Logistics Grp. LLC v. Tischler, Case No. 3:26-cv-1300, 2026 WL 1719313, at *3 (N.D. Ohio June
+15, 2026) (alterations by Titan Logistics).
+The State of Ohio previously conceded that, following the effective date of Senate Bill 56, a
+company must obtain a license to source and distribute marijuana products in Ohio – which now
+definitionally include federally legal intoxicating hemp products – and that a company may only
+obtain such a license if the company’s products are sourced, manufactured, and distributed solely
+within Ohio.1 See id. (See also Doc. No. 17 at 3). Because each Plaintiff sources, manufactures, or
+1
+
+The State of Ohio’s opposition brief to Plaintiffs’ motion for a temporary restraining order is
+based upon its request for a stay of these proceedings and does not substantively respond to
+Plaintiffs’ arguments in support of their motion. (See generally Doc. No. 17).
+5
+
+Case: 3:26-cv-01793-JJH Doc #: 23 Filed: 08/07/26 6 of 7. PageID #: 277
+
+both, its intoxicating hemp products outside of Ohio, no Plaintiff is eligible to obtain a license to
+distribute its products within Ohio’s borders.
+“‘[S]tate laws offend the Commerce Clause when they seek to build up . . . domestic
+commerce through burdens upon the industry and business of other States, regardless of whether
+Congress has spoken.’” Titan Logistics. 2026 WL 1719313, at *4 (quoting Nat’l Pork Producers Council
+v. Ross, 598 U.S. 356, 369 (2023)) (second alteration by Nat’l Pork Producers). See also Titan Logistics,
+2026 WL 1719313, at *4 (citing Nat’l Pork Producers, 598 U.S. at 369, for the proposition that the
+dormant Commerce Clause’s “antidiscrimination principle lies at the very core of [the Supreme
+Court’s] dormant Commerce Clause jurisprudence”) (further citations and internal quotation marks
+omitted). Following the passage of Senate Bill 56, Ohio law now prohibits out-of-state companies
+from participating in the federally legal market for intoxicating hemp products within the State of
+Ohio, while simultaneously permitting in-state companies to do so. The enforcement of this
+statutory and regulatory scheme impermissibly burdens out-of-state companies to the benefit of instate commerce in violation of the dormant Commerce Clause. Therefore, I conclude Plaintiffs are
+likely to succeed on the merits of their claims for relief.
+Further, as I previously concluded, “Plaintiffs have adequately alleged they will suffer
+irreparable harm in the absence of preliminary injunctive relief because a finding that a plaintiff
+established a strong likelihood of success on the merits of an alleged constitutional violation
+‘mandates’ a finding of irreparable harm.” Titan Logistics, 2026 WL 1719313, at *5 (quoting A.C.L.U.
+of Ky. v. McCreary Cnty., Ky., 354 F.3d 438, 445 (6th Cir. 2003), aff’d sub nom. McCreary Cnty., Ky. v.
+A.C.L.U. of Ky., 545 U.S. 844 (2005) (further citation and footnote omitted).
+Finally, I again conclude that “the remaining factors weigh in favor of injunctive relief as well
+because, as the Sixth Circuit has held ‘“‘no cognizable harm results from stopping’” the conduct, and
+it’s “‘always in the public interest to prevent’ constitutional violations.’”” Titan Logistics, 2026 WL
+6
+
+Case: 3:26-cv-01793-JJH Doc #: 23 Filed: 08/07/26 7 of 7. PageID #: 278
+
+1719313, at *5 (quoting Churchill Downs Tech. Initiatives Co. v. Michigan Gaming Control Bd., 162 F.4th
+631, 642 (6th Cir. 2025) (further quoting Vitolo v. Guzman, 999 F.3d 353, 360 (6th Cir. 2021))).
+III.
+
+CONCLUSION
+
+For the reasons stated above, I deny the motion of the State of Ohio to stay these
+proceedings. (Doc. No. 17). I grant the Plaintiffs’ motion for a temporary restraining order, (Doc.
+No. 2), and enjoin Defendants from taking any criminal, civil, administrative, or regulatory
+enforcement action against named Plaintiffs, or any person or organization possessing, selling,
+distributing, or consuming Plaintiffs’ products, that involves, is dependent upon, or relates to the
+statutory definition of “hemp” as amended by Senate Bill 56, so long as the substance or product at
+issue is legally defined as “hemp” or a hemp-derived product under federal law.
+This temporary restraining order shall expire 14 days after issuance unless extended. See Fed.
+R. Civ. P. 65.
+
+So Ordered.
+
+s/ Jeffrey J. Helmick
+United States District Judge
+
+7
+
+

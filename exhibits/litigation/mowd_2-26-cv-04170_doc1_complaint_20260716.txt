@@ -1,0 +1,1386 @@
+IN THE UNITED STATES DISTRICT COURT
+FOR THE WESTERN DISTRICT OF MISSOURI
+CENTRAL DIVISION
+MOHEMP TRADE ASSOCIATION,
+LIFTED LIQUIDS, INC., and
+MNG 2005, INC.,
+
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+
+Plaintiffs,
+v.
+MIKE KEHOE, in his official
+capacity as Governor of Missouri,
+CATHERINE HANAWAY, in her
+official capacity as Attorney General
+of Missouri, and
+SARAH WILSON, in her official
+Capacity as Director of the Missouri
+Department of Health and Senior
+Services,
+Defendants.
+
+Case No. ___________
+
+COMPLAINT
+This lawsuit challenges the validity and enforceability of Missouri House Bill
+2641 (“HB 2641”),1 a legislative act that attempts to restrict and regulate the
+production and sale of hemp and hemp products in ways that violate the United
+States Constitution and federal statutes.
+
+1
+
+A true and correct copy of HB 2641 is attached hereto as Exhibit A.
+
+Case 2:26-cv-04170-MDH
+
+1
+
+Document 1
+
+Filed 07/16/26
+
+Page 1 of 32
+
+1.
+
+In 2018, Congress decriminalized hemp and allowed states to regulate
+
+hemp production pursuant to federally approved state plans.
+2.
+
+In that enactment, Congress defined “hemp” and expressly forbade
+
+states from interfering with the interstate commerce of hemp. This resulted in a
+robust market for hemp products in Missouri and throughout the country.
+3.
+
+In 2025, Congress enacted amendments to the provisions of law
+
+regulating hemp, which are set to take effect on November 12, 2026. See Pub. L.
+119-37, Nov. 12, 2025, 139 Stat. 508. These amendments alter the definition of
+“hemp” and—among other things—exclude certain “hemp-derived cannabinoid
+products” from that definition.2
+
+2
+
+The term “hemp” does not include:
+(i)
+any viable seeds from a Cannabis sativa L. plant that exceeds a total
+tetrahydrocannabinols concentration (including tetrahydrocannabinolic acid) of
+0.3 percent in the plant on a dry weight basis; or
+(ii)
+any intermediate hemp-derived cannabinoid products containing—
+(I)
+cannabinoids that are not capable of being naturally produced by a
+Cannabis sativa L. plant;
+(II) cannabinoids that—
+(aa) are capable of being naturally produced by a Cannabis sativa L.
+plant; and
+(bb) were synthesized or manufactured outside the plant; or
+(III) more than 0.3 percent combined total of—
+(aa) total tetrahydrocannabinols (including tetrahydrocannabinolic acid);
+and
+(bb) any other cannabinoids that have similar effects (or are marketed to
+have similar effects) on humans or animals as a
+tetrahydrocannabinol (as determined by the Secretary of Health and
+Human Services); or
+(iii) any intermediate hemp-derived cannabinoid products which are marketed or sold
+as a final product or directly to an end consumer for personal or household use; or
+
+Case 2:26-cv-04170-MDH
+
+2
+
+Document 1
+
+Filed 07/16/26
+
+Page 2 of 32
+
+4.
+
+Nonetheless, other hemp-derived cannabinoids, such as CBD, will
+
+continue to meet the definition of “hemp” in 7 U.S.C. § 1639o after the amendments
+go into effect on November 12, 2026. Accordingly, it will remain legal under federal
+law to sell such products.
+5.
+
+HB 2641 overhauls Missouri’s regulation of hemp and hemp-derived
+
+cannabinoid products, including creation of the “Intoxicating Cannabinoid Control
+Act,” § 195.900, RSMo. See Ex. A.
+6.
+
+While HB 2641 is difficult to parse—due to its use of poorly written,
+
+interrelated statutory definitions—it appears to have the practical effect of treating
+all hemp-derived cannabinoid products as “marijuana” under Missouri law and
+subjecting them to the regulatory framework for marijuana set forth in Article XIV
+of the Missouri Constitution.
+
+(iv)
+
+any final hemp-derived cannabinoid products containing—
+(I)
+cannabinoids that are not capable of being naturally produced by a
+Cannabis sativa L. plant;
+(II) cannabinoids that—
+(aa) are capable of being naturally produced by a Cannabis sativa L.
+plant; and
+(bb) were synthesized or manufactured outside the plant; or
+(III) greater than 0.4 milligrams combined total per container of—
+(aa) total tetrahydrocannabinols (including tetrahydrocannabinolic acid);
+and
+(bb) any other cannabinoids that have similar effects (or are marketed to
+have similar effects) on humans or animals as a
+tetrahydrocannabinol (as determined by the Secretary of Health and
+Human Services).
+
+Pub. L. 119-37, Nov. 12, 2025, 139 Stat. 508.
+
+Case 2:26-cv-04170-MDH
+
+3
+
+Document 1
+
+Filed 07/16/26
+
+Page 3 of 32
+
+7.
+
+Under HB 2641, it appears that the cultivation, production,
+
+manufacturing, testing, transportation, and retail sale of all hemp-derived
+cannabinoid products in Missouri must be conducted by entities licensed to sell
+marijuana by the Missouri Department of Health and Senior Services (“DHSS”).
+8.
+
+That would make it illegal to purchase or sell hemp-derived
+
+cannabinoid products (including those that meet the federal definition of “hemp”) at
+any location other than a Missouri-marijuana licensed dispensary facility – facilities
+that can sell only products that are entirely cultivated and manufactured in Missouri.
+9.
+
+If this is what HB 2641 means, then it discriminates against interstate
+
+commerce by insulating Missouri businesses making hemp-derived cannabinoid
+products from out-of-state competition. It would also violate express statutory
+preemption provisions.
+JURISDICTION AND VENUE
+10.
+
+This Court has jurisdiction under 28 U.S.C. §§ 1331 and 1343, in that
+
+this action arises under federal law and seeks redress for the deprivation of rights
+secured by the Fourteenth Amendment to the Constitution of the United States.
+11.
+
+Venue is proper in this district pursuant to 28 U.S.C. § 1391, in that all
+
+Defendants reside in this district and a substantial part of the events or omissions
+giving rise to Plaintiffs’ claims occurred in this district.
+
+Case 2:26-cv-04170-MDH
+
+4
+
+Document 1
+
+Filed 07/16/26
+
+Page 4 of 32
+
+12.
+
+Declaratory relief is authorized by 28 U.S.C. §§ 2201(a) and 2202 and
+
+Rule 57 of the Federal Rules of Civil Procedure. Injunctive relief is authorized by
+Rule 65 of the Federal Rules of Civil Procedure.
+PARTIES
+13.
+
+Plaintiff MoHemp Trade Association is a membership organization
+
+with the mission to support and expand Missouri’s hemp industry through advocacy,
+education, and expert business guidance.
+14.
+
+Members of the MoHemp Trade Association manufacture and sell
+
+intermediate and final hemp-derived cannabinoid products in Missouri.
+15.
+
+The interests MoHemp Trade Association seeks to protect by filing this
+
+lawsuit are germane to the Association’s purpose of supporting and expanding
+Missouri’s hemp industry.
+16.
+
+No claim asserted or relief requested requires the participation of any
+
+individual member of the MoHemp Trade Association.
+17.
+
+Plaintiff Lifted Liquids, Inc., d/b/a Urb, is a Kenosha, Wisconsin based
+
+company that manufactures, distributes, and sells final hemp-derived cannabinoid
+products into and through Missouri.
+18.
+
+Plaintiff MNG 2005, Inc., is a St. Louis, Missouri based company that
+
+operates fifty-five stores that sell hemp-derived products in five states, including
+twelve stores in Missouri.
+
+Case 2:26-cv-04170-MDH
+
+5
+
+Document 1
+
+Filed 07/16/26
+
+Page 5 of 32
+
+19.
+
+MNG 2005, Inc., manufactures and sells final hemp-derived
+
+cannabinoid products.
+20.
+
+Defendant Mike Kehoe is the Governor of Missouri. Governor Kehoe
+
+signed HB 2641. He is tasked with ensuring all laws are executed. Mo. Const. art.
+IV, § 2.
+21.
+
+Defendant Catherine Hanaway is the Attorney General of Missouri. She
+
+is Missouri’s chief legal officer and is tasked with enforcing HB 2641. See Ex. A at
+14.
+22.
+
+Defendant Sarah Wilson is the Director of DHSS. DHSS is the state
+
+agency vested with oversight of Missouri’s marijuana businesses. See Mo. Const.
+art. XIV, §§ 1-2. DHSS will also be tasked with regulating hemp-derived
+cannabinoid products. See generally Ex. A.
+THE CANNABIS PLANT
+23.
+
+Cannabis sativa L. is a plant commonly known as “hemp” or
+
+“marijuana.”
+24.
+
+Hemp and marijuana are distinct cultivars of the same plant.
+
+25.
+
+The cannabis plant produces at least 113 different compounds referred
+
+to as “cannabinoids.” One cannabinoid found in the cannabis plant is
+tetrahydrocannabinol (“THC”). THC has several isomers (distinct arrangements of
+the same molecular compounds), including delta-9 (“delta-9 THC”), the principal
+
+Case 2:26-cv-04170-MDH
+
+6
+
+Document 1
+
+Filed 07/16/26
+
+Page 6 of 32
+
+psychoactive chemical in cannabis. Other THC isomers include delta-8 (“delta-8
+THC”) and delta-10 (“delta-10 THC”).
+26.
+
+Another cannabinoid found in the cannabis plant is cannabidiol
+
+(“CBD”). CBD is a non-psychoactive, non-intoxicating cannabinoid that does not
+produce the “high” associated with THC.
+FEDERAL LAW GOVERNING HEMP
+27.
+
+In 2018, Congress enacted and the President signed the Agriculture
+
+Improvement Act of 2018, Pub. L. 115-334 (the “2018 Farm Bill”).
+28.
+
+The 2018 Farm Bill decoupled hemp from marijuana under the federal
+
+Controlled Substances Act and exempted cannabinoids derived from hemp from the
+definition of marijuana.
+29.
+
+The 2018 Farm Bill defined “hemp” to include “the plant Cannabis
+
+sativa L. and any part of that plant, including the seeds thereof and all derivatives,
+extracts, cannabinoids, isomers, acids, salts, and salts of isomers, whether growing
+or not, with a delta-9 tetrahydrocannabinol concentration of not more than 0.3
+percent on a dry weight basis.” 7 U.S.C. § 1639o(1).
+30.
+
+Consequently, federal law currently treats all derivatives of the
+
+Cannabis sativa L. plant with a delta-9 THC concentration of 0.3 percent or less on
+a dry weight basis as “hemp.”
+31.
+
+The 2018 Farm Bill contains an express preemption provision stating:
+
+Case 2:26-cv-04170-MDH
+
+7
+
+Document 1
+
+Filed 07/16/26
+
+Page 7 of 32
+
+(a) RULE OF CONSTRUCTION. – Nothing in this title
+or an amendment made by this title prohibits the interstate
+commerce of hemp (as defined in section 297A of the
+Agricultural Marketing Act of 1946 (as added by [7 U.S.C.
+§ 1639o])) or hemp products.
+(b) TRANSPORTATION OF HEMP AND HEMP
+PRODUCTS. – No State or Indian Tribe shall prohibit the
+transportation or shipment of hemp or hemp products
+produced in accordance with subtitle G of the Agricultural
+Marketing Act of 1946 (as added by [7 U.S.C. § 1639o])
+through the State or the territory of the Indian Tribe, as
+applicable.
+2018 Farm Bill § 10114.
+32.
+
+The 2018 Farm Bill also contains an anti-preemption provision, stating:
+Nothing in this subsection preempts or limits any law of a
+State or Indian tribe that—
+(i) regulates the production of hemp; and
+(ii) is more stringent than this subchapter.
+
+7 U.S.C. § 1639o(a)(3)(A).
+33.
+
+In November 2025, Congress enacted amendments to 7 U.S.C.
+
+§ 1639o, which are scheduled to go into effect on November 12, 2026 (the “2025
+Farm Bill Amendments”). See Pub. L. 119-37, Nov. 12, 2025, 139 Stat. 508.
+34.
+
+The 2025 Farm Bill Amendments will alter the federal definition of
+
+“hemp.”
+35.
+
+First, the 2025 Farm Bill Amendments generally redefine “hemp” as
+
+“the plant Cannabis sativa L. and any part of that plant, including the seeds thereof
+
+Case 2:26-cv-04170-MDH
+
+8
+
+Document 1
+
+Filed 07/16/26
+
+Page 8 of 32
+
+and all derivatives, extracts, cannabinoids, isomers, acids, salts, and salts of isomers,
+whether growing or not, with a total tetrahydrocannabinols concentration
+(including tetrahydrocannabinolic acid) of not more than 0.3 percent on a dry
+weight basis.” Pub. L. 119-37, div. B, §781, 139 Stat. 558 (2025) (emphasis added).
+36.
+
+Thus, post-November 12, 2026, hemp will be defined based on the
+
+concentration of all THC isomers on a dry weight basis, rather than the concentration
+of delta-9 THC.
+37.
+
+Additionally, the 2025 Farm Bill Amendments add “inclusions” and
+
+“exclusions” to the definition of “hemp.” Pub. L. 119-37, div. B, §781, 139 Stat. 559
+(2025).
+38.
+
+“Industrial hemp,” will be included in the definition of “hemp.” Id.
+
+39.
+
+The 2025 Farm Bill Amendments exclude from the definition of
+
+“hemp” certain intermediate and final “hemp-derived cannabinoid products.” Id.
+40.
+
+A “hemp-derived cannabinoid product” is a product derived from hemp
+
+that (i) contains any cannabinoids and (ii) is intended for human or animal use
+through application, inhalation, or ingestion. Pub. L. 119-37, div. B, §781, 139 Stat.
+560 (2025).
+41.
+
+An “intermediate” hemp-derived cannabinoid product will be excluded
+
+from the federal definition of hemp if it (i) contains cannabinoids that are not
+naturally occurring, (ii) contains any synthesized cannabinoids, or (iii) contains more
+
+Case 2:26-cv-04170-MDH
+
+9
+
+Document 1
+
+Filed 07/16/26
+
+Page 9 of 32
+
+than 0.3% total THC content. Id. Intermediate hemp-derived cannabinoid products
+will also be excluded from the federal definition of hemp if they are marketed or
+sold for consumption by consumers. Id.
+42.
+
+A “final” hemp-derived cannabinoid product will be excluded from the
+
+federal definition of hemp if it (i) contains cannabinoids that are not naturally
+occurring, (ii) contains any synthesized cannabinoids, or (iii) contains more than 0.4
+milligrams of THC per container. Id.
+43.
+
+All other hemp-derived cannabinoid products will continue to meet the
+
+federal definition of “hemp.”
+MISSOURI REGULATION OF MARIJUANA
+44.
+
+In 2018, Missourians amended their Constitution to legalize the
+
+production, sale, and use of marijuana for medical purposes. That amendment is
+codified in Article XIV, Section 1 of the Missouri Constitution.
+45.
+
+In 2022, Missourians further amended their Constitution to legalize the
+
+production, sale, and use of marijuana for recreational purposes. That amendment is
+codified in Article XIV, Section 2 of the Missouri Constitution.
+46.
+
+The Missouri Constitution defines “marijuana” as follows:
+Cannabis indica, Cannabis sativa, and Cannabis
+ruderalis, hybrids of such species, and any other strains
+commonly understood within the scientific community to
+constitute marijuana, as well as resin extracted from the
+marijuana plant and marijuana-infused products.
+“Marijuana” or “marihuana” do not include industrial
+
+Case 2:26-cv-04170-MDH
+
+10
+
+Document 1
+
+Filed 07/16/26
+
+Page 10 of 32
+
+hemp, as defined by Missouri statute, or commodities or
+products manufactured from industrial hemp
+Mo. Const. art. XIV, § 1.2(8); Mo. Const. art. XIV, § 2.2(13).
+47.
+
+Under the Constitution, marijuana can be cultivated, manufactured, and
+
+sold only by entities who possess a license issued by DHSS. See generally Mo.
+Const. art. XIV, §§ 1-2.
+48.
+
+Further, “all marijuana . . . sold in Missouri shall be cultivated in a
+
+[licensed facility] located in Missouri.” Mo. Const. art. XIV, § 1.3(21); see also Mo.
+Const. art. XIV, § 2.3(25).
+49.
+
+Likewise, all “marijuana-infused products” sold in Missouri “shall be
+
+manufactured in Missouri.” Mo. Const. art. XIV, § 1.3(22); see also Mo. Const. art.
+XIV, § 2.3(26).
+50.
+
+DHSS maintains regulations similarly requiring all marijuana and
+
+marijuana-infused products to be cultivated and manufactured in Missouri. 19 CSR
+100-1.100(4)(I); 19 CSR 100-1.100(4)(H).
+51.
+
+Under Article XIV, DHSS may limit the number of licenses it grants.
+
+It has chosen to do so.
+52.
+
+The Missouri Constitution imposes minimum licensure requirements
+
+based on the population of each congressional district, using the districts as of
+December 2018.
+
+Case 2:26-cv-04170-MDH
+
+11
+
+Document 1
+
+Filed 07/16/26
+
+Page 11 of 32
+
+53.
+
+This minimum number of licenses (which DHSS has chosen to treat as
+
+the maximum) has been supplemented only via successful administrative appeals
+where applicants have been awarded licenses, adjustments to the population of the
+districts, and the conversion process from medical marijuana to full adult use.
+54.
+
+As of the date of this filing, DHSS has issued 68 cultivation licenses,
+
+224 dispensary licenses, and 91 manufacturing licenses.3
+55.
+
+DHSS has issued the maximum number of licenses in each category
+
+(cultivation, dispensary, and manufacturing) and will not accept new applications.
+56.
+
+Marijuana is a Schedule I controlled substance under Missouri law.
+
+§ 195.017.2(5)(ff), RSMo.
+57.
+
+It remains a crime in Missouri to grow, manufacture, or sell marijuana
+
+unless licensed by DHSS.
+EXISTING MISSOURI LAW GOVERNING HEMP
+58.
+
+Prior to December 31, 2022, Missouri had a federally approved hemp
+
+59.
+
+That plan was discontinued as of December 31, 2022 and all licensing
+
+plan.
+
+and regulation of hemp in Missouri was transferred to the United States Department
+of Agriculture.
+
+3
+
+See https://health.mo.gov/safety/cannabis/lic-comrel.php#:~:text=%7CComprehensive%20and%20Medical%0ACultivation%20%7C68%2
+0%7C6%20%7C
+
+Case 2:26-cv-04170-MDH
+
+12
+
+Document 1
+
+Filed 07/16/26
+
+Page 12 of 32
+
+60.
+
+Thus, any Missouri producers of hemp must apply through the United
+
+States Department of Agriculture to be licensed under the Domestic Hemp
+Production Program.4
+61.
+
+At present, Missouri law does not generally define “hemp.”
+
+62.
+
+Instead, existing Missouri law defines “industrial hemp” and “illegal
+
+industrial hemp.” See § 195.010(21), (24), RSMo.
+63.
+
+Missouri’s current definition of “industrial hemp” generally tracks the
+
+existing federal definition of “hemp” and is based on the total concentration of delta9 THC. See § 195.010(24), RSMo.
+64.
+
+In turn, Missouri statutes currently define “marijuana” to exclude
+
+industrial hemp. § 195.010(28), RSMo.
+65.
+
+In short, under existing Missouri law it is legal to cultivate, sell,
+
+possess, and transport hemp that is legal under federal law.
+HOUSE BILL 2641
+66.
+
+Governor Kehoe signed HB 2641 on April 23, 2026.
+
+4
+
+https://extension.missouri.edu/publications/mx77#:~:text=On%20December%2031%2C
+%202022%2C%20Missouri%E2%80%99s%20state%2Drun%20program%20was%20dis
+continued
+
+Case 2:26-cv-04170-MDH
+
+13
+
+Document 1
+
+Filed 07/16/26
+
+Page 13 of 32
+
+67.
+
+HB 2641 eliminates the current definitions of “industrial hemp” and
+
+“illegal industrial hemp” and replaces them with new definitions of “hemp” and
+“industrial hemp,” to be codified in Section 195.900. See Ex. A at 6-8.
+68.
+
+Section 195.900 is to be known as the Intoxicating Cannabinoid
+
+Control Act. Id. at 11.
+69.
+
+Despite its title as the “Intoxicating Cannabinoid Control Act,” HB
+
+2641 is not limited to intoxicating cannabinoid products. As set forth below, HB
+2641 applies to all hemp-derived cannabinoid products—including products
+containing CBD and other non-psychoactive, non-intoxicating cannabinoids.
+70.
+
+HB 2641 adopts a general definition of “hemp” that tracks the federal
+
+definition that will go into effect on November 12, 2026. See Ex. A at 11-12.
+71.
+
+That definition turns on whether the plant/product contains more or less
+
+than 0.3% total THC concentration. Id.
+72.
+
+HB 2641 also adopts a new definition of “industrial hemp” that
+
+generally tracks the federal definition that will go into effect on November 12, 2026.
+See id. at 12-13.
+73.
+
+HB 2641 includes “industrial hemp” within the definition of “hemp.”
+
+Id. at 12.
+
+Case 2:26-cv-04170-MDH
+
+14
+
+Document 1
+
+Filed 07/16/26
+
+Page 14 of 32
+
+74.
+
+HB 2641 generally defines “hemp-derived cannabinoid product” in a
+
+way that tracks the federal definition of such term that will go into effect on
+November 12, 2026. Id. at 12.
+75.
+
+HB 2641 excludes certain “intermediate” and “final” hemp-derived
+
+products from the definition of “hemp” under Missouri law. Id. at 12. Again, HB
+2641 phrases these exclusions in a way that tracks the federal exclusions that will go
+into effect on November 12, 2026. Id. at 12.
+76.
+
+HB 2641 will now statutorily define “marijuana” to have “the same
+
+meaning given to the term in Article XIV of the Constitution of Missouri.” Id.
+77.
+
+Further, HB 2641 states “[t]he term ‘marijuana’ shall not be construed
+
+to conform to or be included in the definition of ‘hemp’ in this section.” Id.
+78.
+
+HB 2641, however, then states:
+The cultivation, production, manufacturing, testing,
+transportation, and retail sale of all hemp-derived
+cannabinoid products within this state shall be
+conducted solely by entities licensed by the department
+under Article XIV of the Constitution of Missouri. Hempderived cannabinoid products shall be considered
+marijuana and shall be subject to the legal framework
+contained in Article XIV of the Constitution of Missouri
+under which the purchase, possession, consumption, use,
+delivery, manufacturing, and sale of marijuana is regulated
+by the department.
+
+Id. at 13 (emphasis added).
+79.
+
+HB 2641 then states:
+
+Case 2:26-cv-04170-MDH
+
+15
+
+Document 1
+
+Filed 07/16/26
+
+Page 15 of 32
+
+The term “hemp-derived cannabinoid product” shall be
+construed to conform to, and be included in, the definition
+of “marijuana” under Article XIV of the Constitution of
+Missouri but shall not be construed to conform to or be
+included in the definition of “hemp” in this section or in
+the definition of “industrial hemp” in this section.
+Id. at 14.
+80.
+
+Immediately thereafter, HB 2641 states:
+Hemp and industrial hemp shall not be considered
+marijuana and shall not be subject to the legal framework
+contained in Article XIV of the Constitution of Missouri
+or in this section. Nothing in this section shall be construed
+to regulate hemp, industrial hemp, or products that do not
+fall within the definition of hemp-derived cannabinoid
+products, and the provisions of this section shall not be
+construed to conflict with or otherwise preempt the
+Agriculture Improvement Act of 2018, Pub. L. 115-334,
+as amended.
+
+Id.
+81.
+
+HB 2641 further provides:
+Notwithstanding any provision of law to the contrary,
+all hemp-derived cannabinoid products are marijuana
+and shall be subject to the jurisdiction of the
+department and the office of the attorney general
+consistent with Article XIV of the Constitution of
+Missouri and the provisions of this section. The
+department and the office of the attorney general shall be
+authorized to enforce the provisions of this section in such
+a manner as to ensure that no hemp-derived
+cannabinoid products are cultivated, manufactured,
+tested, transported, or sold within this state outside of
+a licensed comprehensive facility, medical facility,
+marijuana testing facility, or marijuana microbusiness
+
+Case 2:26-cv-04170-MDH
+
+16
+
+Document 1
+
+Filed 07/16/26
+
+Page 16 of 32
+
+facility, as such terms are defined in Article XIV of the
+Constitution of Missouri.
+Id. at 14 (emphasis added).
+82.
+
+HB 2641 inconsistently uses “hemp” and “hemp-derived cannabinoid
+
+products.”
+83.
+
+On the one hand, what will become Section 195.900.2(3) defines
+
+“hemp” consistently with federal law going into effect on November 12, 2026, under
+which some hemp-derived cannabinoid products remain included in the definition
+of permitted hemp.
+84.
+
+On the other hand, what will become Section 195.900.2(7)
+
+simultaneously says that “marijuana” is not included in the definition of “hemp”
+while stating that “marijuana” has the same meaning assigned by the Missouri
+Constitution, which includes the entire Cannabis sativa plant, except for “industrial
+hemp.” See Mo. Const. art. XIV, § 1.2(8); Mo. Const. art. XIV, § 2.2(13).
+85.
+
+Then, what will become Section 195.900.3 and Section 195.900.4 say
+
+that all hemp-derived cannabinoid products are marijuana, even though the
+definition of “hemp” in what will become Section 195.900.2(3) includes some
+hemp-derived cannabinoid products.
+86.
+
+Adding to the confusion, what will become Section 195.900.5 then says
+
+“hemp” is not included in the definition of “marijuana” and that the statute should
+
+Case 2:26-cv-04170-MDH
+
+17
+
+Document 1
+
+Filed 07/16/26
+
+Page 17 of 32
+
+not be “construed to conflict with” the 2018 Farm Bill, under which some hempderived cannabinoid products are “hemp.”
+87.
+
+Finally, what will become Section 195.900.6 says that the statutes
+
+should not be construed to prohibit the interstate commerce of “hemp” through
+Missouri—presumably to avoid preemption of HB 2641 under the 2018 Farm Bill—
+while what will become Section 195.900.3 and Section 195.900.7 explicitly restrict
+the “transportation” of hemp-derived cannabinoid products, some which are (i)
+clearly within the federal definition of “hemp” and (ii) inconsistently defined as both
+“hemp” and “marijuana” in HB 2641, to entities licensed by DHSS.
+88.
+
+Insofar as HB 2641 is read to treat federally legal hemp-derived
+
+cannabinoid products as “marijuana” and subject them to the Article XIV regulatory
+framework, Missouri will discriminate against out-of-state businesses by blocking
+them from selling products that are legal under federal law in Missouri because those
+products are not cultivated or manufactured in Missouri, as required by Article XIV
+of the Missouri Constitution and DHSS regulations.
+89.
+
+HB 2641 does not outright prohibit in Missouri the sale of hemp-
+
+derived cannabinoid products that are legal under federal law. Instead, it potentially
+limits whether such products can be sold based on where the product is manufactured
+or the underlying hemp is grown.
+
+Case 2:26-cv-04170-MDH
+
+18
+
+Document 1
+
+Filed 07/16/26
+
+Page 18 of 32
+
+90.
+
+HB 2641 further creates an enforcement scheme under which the
+
+Missouri Highway Patrol and local law enforcement officials are to aid in ensuring
+that entities not licensed by DHSS do not transport such products in Missouri. Id. at
+14-15 (subsection .9).
+91.
+
+HB 2641 states that “the enactment of section 195.800, 195.819, and
+
+195.900 and the repeal and reenactment of section 195.010 shall become effective
+on November 12, 2026.” Ex. A at 16.
+92.
+
+Separately, however, HB 2641 states that the provisions to be codified
+
+at Section 195.900 “shall become effective November 12, 2026” as to certain
+products. Id. at 15.
+93.
+
+HB 2641 first purports to identify a subset of hemp-derived
+
+cannabinoid products as to which the law will become effective on November 12,
+2026, but then immediately states the law will become effective as to all hempderived cannabinoid products except “all other” hemp-derived cannabinoid
+products, unless Congress delays the effective date of the 2025 Farm Bill
+Amendments. Id. at 15-16.
+94.
+
+The interaction of these provisions is unclear from the text of HB 2641.
+
+It is entirely possible Section 195.900 will take effect on November 12, 2026 (thus,
+as a matter of statutory text, subjecting all hemp-derived cannabinoid products to the
+Article XIV regulatory scheme) and, if Congress delays the effective date of the
+
+Case 2:26-cv-04170-MDH
+
+19
+
+Document 1
+
+Filed 07/16/26
+
+Page 19 of 32
+
+2025 Farm Bill Amendments, industry participants will be left to guess whether
+Section 195.900 is actually operative as to various categories of products under what
+will be subsection 11 of Section 195.900.
+IMPACT ON PLAINTIFFS
+95.
+
+Implementation of HB 2641 will have far-reaching negative effects on
+
+Plaintiffs, threatening to destroy established businesses, eliminate jobs, and cause
+millions of dollars in economic losses.
+96.
+
+HB 2641 will prohibit members of the MoHemp Trade Association
+
+from manufacturing, distributing, and selling hemp-derived cannabinoid products in
+the state of Missouri because these members do not hold marijuana licenses from
+DHSS. None of the Association’s members hold DHSS marijuana licenses and could
+not obtain them even if they wanted to. There are no more marijuana licenses
+available in Missouri.
+97.
+
+This will cause members of the Association to move out of the state of
+
+Missouri or shut down operations entirely.
+98.
+
+HB 2641 will prohibit Lifted Liquids, Inc., from distributing and
+
+transporting products into and through Missouri, making it impossible for Lifted
+Liquids, Inc., to continue its Missouri operations.
+99.
+
+Lifted Liquids also ships products through Missouri to customers in
+
+other states.
+
+Case 2:26-cv-04170-MDH
+
+20
+
+Document 1
+
+Filed 07/16/26
+
+Page 20 of 32
+
+100. Lifted Liquids, Inc., will also be forced to reassess and change its
+shipping patterns because HB 2641 prohibits transportation through Missouri, even
+if the final destination for hemp-derived cannabinoid products is not in the state.
+101. MNG 2005, Inc. will no longer be allowed to manufacture federally
+legal hemp-derived cannabinoid products because HB 2641 requires manufacturers
+of hemp-derived products to hold a license from DHSS. MNG 2005, Inc., does not
+hold a DHSS marijuana license and cannot obtain one because DHSS has issued the
+maximum number of manufacturing licenses and is not accepting new applications.
+102. MNG 2005, Inc. will also no longer be able to sell federally legal hempderived cannabinoid products because HB 2641 requires that all hemp-derived
+products be sold in DHSS-licensed marijuana dispensaries. MNG 2005, Inc.’s
+twelve Missouri stores are not DHSS-licensed marijuana dispensaries.
+103. These changes will dramatically affect MNG 2005, Inc.’s business,
+making it impossible for it to manufacture, sell, or distribute hemp-derived
+cannabinoid products within or outside of Missouri.
+104. MNG 2005, Inc.’s stores in Missouri would be significantly negatively
+impacted, resulting in the jeopardizing of Missouri employees. MNG 2005, Inc.
+would also not be able to stock its stores located in New York, Texas, Illinois, and
+Pennsylvania, jeopardizing those operations as well.
+
+Case 2:26-cv-04170-MDH
+
+21
+
+Document 1
+
+Filed 07/16/26
+
+Page 21 of 32
+
+COUNT I:
+HB 2641 VIOLATES THE DUE PROCESS
+CLAUSE OF THE FOURTEENTH AMENDMENT AND IS VOID FOR
+VAGUENESS, BOTH FACIALLY AND AS APPLIED TO PLAINTIFFS
+105. Plaintiffs incorporate by reference the foregoing allegations as if set
+forth fully herein.
+106. As set forth above, HB 2641 contains hopelessly conflicting definitions
+of “marijuana,” “hemp,” and “hemp-derived products.”
+107. HB 2641 purports to adopt the definition of “marijuana” in the Missouri
+Constitution, which covers the entire Cannabis sativa plant (except “industrial
+hemp”), while simultaneously stating “marijuana” and “hemp” are mutually
+exclusive and adopting a substantially broader definition of “hemp” that tracks
+federal law.
+108. HB 2641 also inconsistently handles “hemp-derived cannabinoid
+products” by (i) tracking the federal definition of hemp and (ii) stating that Section
+195.900 should not be construed to conflict with the 2018 Farm Bill, while
+simultaneously stating—multiple times—that all hemp-derived cannabinoid
+products are “marijuana.”
+109. The confusion is compounded by HB 2641 simultaneously saying it
+should not be construed to prevent the interstate commerce of “hemp,” while also
+explicitly restricting the transportation of “hemp” to entities licensed by DHSS.
+
+Case 2:26-cv-04170-MDH
+
+22
+
+Document 1
+
+Filed 07/16/26
+
+Page 22 of 32
+
+110. Because it is generally illegal to grow, manufacture, and sell marijuana
+in Missouri without a license, the definition of “hemp” and “hemp-derived
+cannabinoid products” have criminal-law implications.
+111. These hopelessly conflicting definitions and statutory provisions do not
+allow Plaintiffs, or persons of ordinary intelligence, a reasonable opportunity to
+know and understand what conduct is prohibited, so that they can act accordingly.
+112. These hopelessly conflicting definitions and statutory provisions also
+impermissibly delegate substantial interpretive authority to a wide array of law
+enforcement officials and prosecutors to determine on an ad hoc, subjective basis
+what conduct is legal or illegal.
+113. HB 2641 is rendered further vague and indefinite by its
+incomprehensible delayed-effective date provisions, which threaten to make the law
+applicable to some unascertainable set of products but not others, depending on what
+happens with the 2025 Farm Bill Amendments between now and November 12,
+2026.
+114. Members of Plaintiff MoHemp Trade Association currently
+manufacture and sell in Missouri intermediate hemp-derived cannabinoid products
+that contain naturally occurring, non-synthesized cannabinoids in a concentration
+less than 0.3% delta-9 THC on a dry weight basis and are not intended for human
+consumption.
+
+Case 2:26-cv-04170-MDH
+
+23
+
+Document 1
+
+Filed 07/16/26
+
+Page 23 of 32
+
+115. Members of Plaintiff MoHemp Trade Association desire and intend to
+continue manufacturing and selling in Missouri intermediate hemp-derived
+cannabinoid
+
+products
+
+that
+
+contain
+
+naturally
+
+occurring,
+
+non-synthesized
+
+cannabinoids in a concentration less than 0.3% on a dry weight basis and are not
+intended for human consumption after November 12, 2026.
+116. Plaintiffs Lifted Liquids, Inc., and MNG 2005, Inc., currently
+manufacture and sell in Missouri final hemp-derived cannabinoid products that
+contain naturally occurring, non-synthesized cannabinoids in a concentration less
+than 0.4 milligrams THC per container.
+117. Plaintiffs Lifted Liquids, Inc., and MNG 2005, Inc. desire and intend to
+continue manufacturing and selling in Missouri final hemp-derived cannabinoid
+products that contain naturally occurring, non-synthesized cannabinoids in a
+concentration less than 0.4 milligrams THC per container after November 12, 2026.
+118. The products Plaintiffs sell and desire and intend to continue selling
+meet the definition “hemp” that will be in effect under 7 U.S.C. § 1639o as of
+November 12, 2026.
+119. HB 2641 is, in total, unconstitutionally vague as applied to Plaintiffs
+because it is impossible to determine whether HB 2641 will deem their products
+lawful “hemp” or unlawful “marijuana” due to its inconsistent and vague definitions
+and treatment of such products.
+
+Case 2:26-cv-04170-MDH
+
+24
+
+Document 1
+
+Filed 07/16/26
+
+Page 24 of 32
+
+120. Plaintiffs face a substantial and intolerable risk of prosecution and ad
+hoc enforcement by Missouri law enforcement officials and prosecutors once HB
+2641 goes into effect.
+121. HB 2641 is designed and intended to regulate individuals and entities
+engaged in the manufacture and sale of hemp-derived cannabinoid products. Indeed,
+Section 195.900 is entitled the “Intoxicating Cannabinoid Control Act.”
+122. Yet HB 2641, by its terms, applies to all hemp-derived cannabinoid
+products—including products containing only non-psychoactive, non-intoxicating
+cannabinoids such as CBD.
+123. HB 2641 cannot constitutionally be applied to such individuals and
+entities because its inconsistent and vague definitions and treatment of marijuana,
+hemp, and hemp-derived cannabinoid products render it impossible for such
+individuals and entities to determine whether their products are lawful hemp or
+unlawful marijuana.
+124. HB 2641 is unconstitutionally vague on its face.
+125. These defects render HB 2641 void in its entirety, as it is impossible to
+apply the bill’s provisions due to its fundamental failure to intelligently define what
+is lawful and what is not.
+
+Case 2:26-cv-04170-MDH
+
+25
+
+Document 1
+
+Filed 07/16/26
+
+Page 25 of 32
+
+COUNT II:
+HOUSE BILL 2641 VIOLATES THE
+DORMANT COMMERCE CLAUSE
+126. Plaintiffs incorporate by reference the foregoing allegations as if set
+forth fully herein.
+127. Under HB 2641, final hemp-derived cannabinoid products containing
+0.4 milligrams of THC,5 or less, of naturally occurring, non-synthesized
+cannabinoids can be legally sold in Missouri, but only if such products are grown
+and manufactured entirely in Missouri and sold at a dispensary licensed with DHSS.
+128. HB 2641 violates the dormant Commerce Clause of the United States
+Constitution because it favors in-state economic interests over those of anyone who
+cultivates, derives, manufactures, or sells otherwise lawful hemp-derived products
+outside of Missouri and substantially burdens interstate commerce.
+129. Plaintiffs will suffer irreparable harm if HB 2641 takes effect. Lifted
+Liquids, Inc., will lose access to the Missouri market entirely. MNG 2005, Inc., will
+likely be forced to close Missouri stores, jeopardizing the jobs, and cease
+manufacturing operations that support its stores in four other states. Members of the
+MoHemp Trade Association will collectively lose substantial annual revenue and
+jobs will be jeopardized.
+
+5
+
+Or intermediate hemp-derived products containing less than 0.3% THC on a dry-weight
+basis.
+
+Case 2:26-cv-04170-MDH
+
+26
+
+Document 1
+
+Filed 07/16/26
+
+Page 26 of 32
+
+130. Members of Plaintiff MoHemp Trade Association and Plaintiffs MNG
+2005, Inc., and Lifted Liquids, Inc., are currently selling products in Missouri that
+would otherwise remain lawful under HB 2641 to sell, but for the fact that Plaintiffs
+do not—and due to the unavailability of licenses from DHSS, cannot—cultivate,
+manufacture, or sell in Missouri.
+131. Plaintiffs are thus currently engaged in profitable conduct that will be
+rendered unlawful by HB 2641.
+132. Due to sovereign immunity, Plaintiffs will have no economic recourse
+against Defendants or the State of Missouri.
+133. Plaintiffs cannot obtain DHSS marijuana licenses because DHSS has
+issued the maximum number of licenses permitted under Article XIV of the Missouri
+Constitution and is not accepting new applications.
+134. Even if licenses were available, Plaintiffs could not lawfully sell their
+existing products because Article XIV requires all marijuana and marijuana-infused
+products sold in Missouri to be cultivated and manufactured entirely in Missouri.
+Plaintiffs’ products are manufactured outside Missouri or contain hemp cultivated
+outside Missouri.
+COUNT III:
+HOUSE BILL 2641 IS PREEMPTED BY THE FARM BILL
+135. Plaintiffs incorporate by reference the foregoing allegations as if set
+forth fully herein.
+
+Case 2:26-cv-04170-MDH
+
+27
+
+Document 1
+
+Filed 07/16/26
+
+Page 27 of 32
+
+136. The 2018 Farm Bill explicitly preempts State laws that “prohibit the
+transportation or shipment of hemp or hemp products produced in accordance with
+subtitle G of the Agricultural Marketing Act of 1946 through the State.” 2018 Farm
+Bill § 10114(b).
+137. Under current federal law, any hemp or hemp-derived product with a
+delta-9 THC concentration less than 0.3% by dry weight is “hemp.”
+138. Once the 2025 Farm Bill Amendments take effect, federal law will
+define “hemp” to cover, among other things, hemp-derived products containing
+naturally occurring, non-synthesized cannabinoids that meet the concentration
+requirements for intermediate or final hemp-derived products.
+139. HB 2641, however, potentially defines all hemp-derived cannabinoid
+products as marijuana and specifies that such products can be transported only by
+entities licensed by DHSS.
+140. Practically speaking, this means any non-licensed entity, including
+Plaintiffs, will be barred from transporting such products through Missouri.
+141. Members of Plaintiff MoHemp Trade Association and Plaintiffs MNG
+2005, Inc., and Lifted Liquids, Inc., currently transport such products in and through
+Missouri in interstate commerce in accordance with subtitle G of the Agricultural
+Marketing Act of 1946.
+
+Case 2:26-cv-04170-MDH
+
+28
+
+Document 1
+
+Filed 07/16/26
+
+Page 28 of 32
+
+142. Plaintiffs Lifted Liquids, Inc., and MNG 2005, Inc., and members of
+Plaintiff MoHemp Trade Association, would, in the future, continue transporting
+such products in and through Missouri in interstate commerce, but for HB 2641.
+143. While HB 2641 purports to say that “[n]othing in this section shall be
+construed to prohibit the interstate commerce of hemp or the transportation or
+shipment of hemp through this state,” HB 2641 simultaneously directs that “all
+hemp-derived cannabinoid products are marijuana” and state officials shall “ensure
+that no hemp-derived cannabinoid products are . . . transported . . . within this state
+outside of a licensed comprehensive facility, medical facility, marijuana testing
+facility, or marijuana microbusiness facility, as such terms are defined in Article
+XIV of the Constitution of Missouri.” Ex. A at 14.
+144. If HB 2641 is read so as to include all hemp-derived cannabinoid
+products within the definition of “marijuana,” then HB 2641 “prohibit[s] the
+transportation or shipment of hemp or hemp products produced in accordance with
+subtitle G of the Agricultural Marketing Act of 1946 through the State” and is
+expressly preempted by the 2018 Farm Bill.
+145. HB 2641 does not contain a severability clause. See generally Ex. A.
+146. Missouri’s general severability statute (§ 1.140, RSMo) does not save
+HB 2641.
+
+Case 2:26-cv-04170-MDH
+
+29
+
+Document 1
+
+Filed 07/16/26
+
+Page 29 of 32
+
+147. Under the general severability statute, a void provision cannot be
+severed if “the court finds the valid provisions of the statute are so essentially and
+inseparably connected with, and so dependent upon, the void provision that it cannot
+be presumed the legislature would have enacted the valid provisions without the void
+one” or if “the court finds that the valid provisions, standing alone, are incomplete
+and are incapable of being executed in accordance with the legislative intent.”
+§ 1.140, RSMo.
+148. Here, multiple provisions of HB 2641 appear to treat all hemp-derived
+cannabinoid products as “marijuana.” Those provisions are integral to the entire
+statutory scheme the Missouri General Assembly attempted to enact in HB 2641.
+Those provisions attempt to subject all hemp-derived cannabinoid products to the
+regulatory scheme in Article XIV of the Missouri Constitution. Subsections 8 and 9
+of what will become Section 195.800 similarly hinge on such products being
+subjected to that regulatory scheme and they are “incomplete and incapable of being
+executed” if subsections 3, 4, and 7 are invalid (either because they are expressly
+preempted or because they violate the dormant Commerce Clause).
+REQUEST FOR RELIEF
+WHEREFORE, Plaintiffs respectfully request that this Court:
+a.
+
+Enter a declaratory judgment that HB 2641 is unconstitutionally
+
+vague, both facially and as applied to Plaintiffs, in violation of the Due
+
+Case 2:26-cv-04170-MDH
+
+30
+
+Document 1
+
+Filed 07/16/26
+
+Page 30 of 32
+
+Process Clause of the Fourteenth Amendment to the United States
+Constitution;
+b.
+
+Enter a declaratory judgment that HB 2641 violates the dormant
+
+Commerce Clause of the United States Constitution;
+c.
+
+Enter a declaratory judgment that HB 2641 is expressly
+
+preempted by the Agriculture Improvement Act of 2018, Pub. L. 115-334;
+d.
+
+Enjoin Defendants, and their officers, agents, servants,
+
+employees, attorneys, and all persons in active concert or participation with
+them, from enforcing, implementing, or otherwise giving effect to HB 2641,
+including Section 195.900, RSMo, as enacted thereby; and
+e.
+
+Grant such other and further relief as this Court deems just and
+
+proper.
+
+Case 2:26-cv-04170-MDH
+
+31
+
+Document 1
+
+Filed 07/16/26
+
+Page 31 of 32
+
+Respectfully submitted,
+STINSON LLP
+/s/ Charles W. Hatfield
+Charles W. Hatfield, No. 40363
+Alixandra S. Cossette, No. 68114
+Alexander C. Barrett, No. 68695
+Greta M. Bax, No. 73354
+230 W. McCarty Street
+Jefferson City, MO 65101
+Phone: 573.636.6263
+Fax: 573.636.6231
+chuck.hatfield@stinson.com
+alix.cossette@stinson.com
+alexander.barrett@stinson.com
+greta.bax@stinson.com
+Attorneys for Plaintiffs
+
+Case 2:26-cv-04170-MDH
+
+32
+
+Document 1
+
+Filed 07/16/26
+
+Page 32 of 32
+
+
