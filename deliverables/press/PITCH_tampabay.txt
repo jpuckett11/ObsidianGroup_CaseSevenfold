@@ -1,0 +1,54 @@
+Subject: Deadly Dose has a sequel: the industry moved to a compound the new federal rule does not reach
+
+To the Deadly Dose team,
+
+Your 2023 investigation is the evidentiary spine of a case file I have spent the last
+month building. Finding 08 in it is built on your work, cited by name. I am writing
+because there is a sequel and I am giving it away, free, with no conditions and no
+credit required.
+
+Short version: the federal government is now scheduling 7-OH, and the market has
+already moved to a compound the rule does not cover.
+
+1. A brand called Buzzers states on its own homepage that it "figured out a way to
+   extract an indole alkaloid from the Cat's Claw plant to mirror the effects of
+   popular kratom products," producing "a non-kratom product with kratom-like
+   effects." A retailer states the reason: cat's claw "is not a controlled substance,
+   so Buzzers ship nationwide." It is sold as an energy supplement.
+
+2. On 22 July the Utah Poison Control Center named that brand in an alert about
+   life-threatening opioid overdose, reporting multiple severe overdoses and stating
+   the labels do not list the drugs it suspects are present. On 30 July a death in
+   Utah County was linked to mislabeled Buzzers tablets containing MGM-15.
+
+3. The federal action reaches four compounds, all on the mitragynine scaffold. The
+   compound class these products are built on is uncovered, and nothing in the rule
+   brings it in later. On the day 7-OH becomes Schedule I, the substitute is still
+   legal.
+
+4. Two patent families, priority dates in late 2023, claim industrial manufacture of
+   these alkaloids by cell-free enzymes and by fermentation. No plant required.
+
+There is also a money record: the founder of Botanic Tonics gave the RNC $443,000 in
+a single day, which is the exact annual statutory maximum across all four party
+accounts, and the company put $1,000,000 into a political committee whose largest
+recurring outflow is $4,048,428 to a 501(c)(4). All lawful, which is the point.
+
+Everything is published free, sources hashed and dated, at
+github.com/jpuckett11/ObsidianGroup_CaseSevenfold
+A summary written for reporters is at PRESS.md.
+
+Two disclosures before you use any of it. We have assayed no product, so the
+adulteration finding belongs to Utah Poison Control and not to us. And we have
+published three corrections against our own argument, including retracting a
+conclusion within an hour of posting it, all with the reasoning intact.
+
+The federal comment period closes 10 September, which is the only reason I am writing
+this week rather than next month.
+
+Happy to walk anyone through the primary documents.
+
+Jay Puckett
+Principal Security Researcher
+Obsidian Watch Group
+jay.puckett@obsidianwatchgroup.com

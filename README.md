@@ -63,6 +63,32 @@ be enforced, and that **the exit be funded**.
 
 ---
 
+## On oaths
+
+An oath sworn by someone with no power is enforced by discharge, by prison, and by
+the word *traitor*.
+
+An oath sworn by someone with power is enforced by an election two to six years away,
+in which almost nobody will remember. The words are identical. The consequence is
+decided entirely by which side of the desk you were standing on when you said them.
+
+And the title is not earned in that system. **"The Honorable" is issued with the
+office**, before anything has been done with it.
+
+We raise it because this file is a record of what was done with an office. On the
+single occasion eleven US Senators put this subject in writing, it ran to 537 words,
+**twelve of them about enforcement and none about treating anyone** (Finding 32).
+Congress removed the one barrier the field had named for a decade, and prescribing did
+not move, because that reform was free and the ones that work are not (Finding 34).
+
+**42.4 million people with a diagnosable substance use disorder received no treatment
+last year. 87.6%.** That is the federal government's own survey.
+
+Nobody in this structure broke a law. That is the finding, and it is worse than the
+alternative.
+
+---
+
 Start with **[REPORT.md](REPORT.md)** for the evidence, or
 **[REMEDIATION.md](REMEDIATION.md)** for what it means.
 
