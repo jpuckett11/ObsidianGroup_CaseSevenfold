@@ -21,7 +21,7 @@ to 2009, and the more we pushed on it the better it held up. That finding is in
 here as prominently as anything else.
 
 What we found instead is a captured process around a defensible rule, and a second
-track with no defence at all: the leaf and mitragynine products that carry the
+track with no defense at all: the leaf and mitragynine products that carry the
 documented body count are unscheduled, their laws were drafted almost verbatim by
 the trade association, and their federal consumer warnings were pressed for
 deletion by an official holding a stake in them. The links came down.
@@ -53,12 +53,12 @@ B** and sold under a different plant's name, with a **death in Utah County** in 
 The demand never moved, because nothing was ever done for the people generating it.
 
 **Read [REMEDIATION.md](REMEDIATION.md) if you read nothing else here.** It is the
-argument, separated from the evidence and labelled as argument, with sixteen citations,
+argument, separated from the evidence and labeled as argument, with sixteen citations,
 its own falsification criteria, and a record of the three places this case has already
 corrected itself against its own interest.
 
 We do not ask for prohibition of anything. We ask that scope be drawn by quantity and
-product form rather than by molecule name, that the labelling law already on the books
+product form rather than by molecule name, that the labeling law already on the books
 be enforced, and that **the exit be funded**.
 
 ---
@@ -106,7 +106,7 @@ it.
 
 7-OH was identified, assessed, and moved toward Schedule I inside a year. The
 comment period runs weeks. When the market answered by relabelling the same class of
-compound as "Cat's Claw," a state poison control centre, a state agriculture
+compound as "Cat's Claw," a state poison control center, a state agriculture
 department and a county coroner were all on it within a fortnight. **When the
 question is a molecule, this system can move in months.**
 
@@ -127,7 +127,7 @@ with it:
 - **29 December 2024** — the deadline Congress set for a safe harbor. **It has still
   not issued.** Twenty months late as of this writing.
 
-And the ceiling most programmes actually observe, **$599**, is not a clinical figure
+And the ceiling most programs actually observe, **$599**, is not a clinical figure
 at all. It is **one dollar under the IRS threshold for issuing a 1099**, ratified for
 a single company in an advisory opinion that states on its face that **no one else
 may rely on it.**
