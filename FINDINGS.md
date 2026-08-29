@@ -304,6 +304,27 @@ themselves. Applied to **42.4 million untreated**, the response has been to sche
 one molecule at a time, **managing the consequences of the abandonment rather than
 ending it.** Also added to the README.
 
+**2026-08-29 — Finding 40: four states, two companies, one playbook, and a public
+filing that prices the stake at half of revenue.** **[P]** LFTD Partners Inc. (ticker
+**LIFD**, CIK 0001391135) is the parent of **Lifted Made**, the registrant behind the
+**Roxy** 7-OH tablets on West Virginia's list (Finding 39). Because it is public, it
+must disclose. Its **Form 10-Q filed 14 August 2026** says the scheduling proposals
+"could materially restrict or prohibit the manufacture, distribution, and sale of
+certain kratom-derived products sold by the Company and **materially reduce the
+Company's revenue, potentially by approximately half or more**," and that it booked an
+**inventory reserve of $1,434,458** against kratom-derived inventory. **That is the
+number this case did not have.** The same filing discloses the company suing states:
+**Missouri Governor Mike Kehoe, AG Catherine Hanaway and Health Director Sarah Wilson**
+over HB 2641 (16 July 2026), and Ohio officials over SB 56 (30 July 2026), on
+**preemption, Dormant Commerce Clause and vagueness** — **the same theories Botanic
+Tonics used against West Virginia (Finding 38) and Utah (Finding 37).** Four states,
+an Agriculture Commissioner sued **personally for damages**, a sitting Governor, two
+Attorneys General. **The argument in all of them is that the federal line is the only
+line a state may draw** — which would make the July 2026 rule, one molecule scheduled
+and the leaf excluded, a ceiling and a floor at once. **[I] Convergent strategy, not
+proven concert**; the two companies are rivals and Finding 38 has one naming the
+other's products.
+
 **2026-08-29 — Finding 39: a state registry, dated six weeks after scheduling, lists
 thirty 7-OH products by name. The biggest is 210 mg.** **[P]** West Virginia
 Department of Agriculture, **"Registered Kratom Products v 08/14/2026"**, 450 rows,
