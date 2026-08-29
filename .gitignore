@@ -41,3 +41,9 @@ deliverables/_*.html
 
 # clinical, personal, never published
 deliverables/clinical/
+
+# Sixth Circuit watcher runtime state. The script is tracked; its output is not,
+# or every cron fire leaves the working tree dirty.
+tools/*.log
+tools/.*.state
+tools/cron.out
