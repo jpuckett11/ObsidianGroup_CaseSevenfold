@@ -1,5 +1,48 @@
 APPROACH — AWAKENING RECOVERY, INC.
 
+*** CHANNEL PROBLEM, checked 2026-08-29. THIS ONE CANNOT BE EMAILED. ***
+
+They publish no email address. No mailto link, no contact form, nothing on the
+contact or about pages. The only published channel is:
+
+    424-209-7507   labelled on their own site as "Get Help"
+
+That is an intake line for people trying to get into recovery housing. **Do not put
+a case-file pitch into it and do not tie it up.** Someone on the other end of that
+number is trying to reach beds.
+
+WHO THEY ARE, verified 2026-08-29
+    Awakening Recovery, Los Angeles. Structured sober living, established 2016.
+    Men's house 16 residents, women's house 14. 12-step based, peer mentoring,
+    long-term residential accountability. Serves low-income, housing-insecure and
+    justice-involved adults with co-occurring needs. Scholarships offered, and
+    they state over 90% of residents arrive financially destitute.
+
+    They are, in other words, doing the thing REMEDIATION.md argues for, on
+    scholarships, for people with nothing.
+
+BETTER ROUTES, in order
+
+  1. Their federal comment (HHS-OASH-2026-0232-7588) was filed by the organisation.
+     A regulations.gov submitter sometimes lists a contact on the detail record.
+     Check that first.
+  2. IRS Form 990. A 501(c)(3) filing lists the principal officer and the
+     organisation's address. ProPublica Nonprofit Explorer has them free.
+  3. LinkedIn or their donate page may reach a development contact, who will
+     forward internal mail faster than an intake line will.
+  4. Postal, to 9752 Castello Pl, Los Angeles, CA 90035. Slow but it does not
+     interrupt anyone's clinical day.
+
+IF YOU DO CALL, AND ONLY OUTSIDE INTAKE HOURS
+
+  "I'm not looking for a bed and I'm not selling anything. Your organisation filed
+   a comment on the federal 7-OH docket in July about residents overdosing. I've
+   published a free case file on that, and there's one thing in it your intake
+   staff should know: products are now being sold under names that aren't kratom,
+   with labels that don't list what's in them. Who's the right person to send it to?"
+
+  Then stop, and let them route you.
+
 Why them: they filed comment HHS-OASH-2026-0232-7588 on 16 July 2026 stating that
 residents are arriving at their recovery homes having overdosed on
 7-hydroxymitragynine. They put their organisation's name on a federal docket. They

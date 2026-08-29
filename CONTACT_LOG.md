@@ -28,6 +28,8 @@ ordinary practice, not misconduct.
 | 2026-08-27 | **FDA**, Division of Freedom of Information | Email | **Refused.** "The FDA does not accept FOIA requests via email." Reply received 2026-08-28 from the Denials and Appeals Officer, directing to the agency web form, foia.gov, or hardcopy |
 | 2026-08-28 | **HHS OASH**, same docket | regulations.gov | **Accepted.** Tracking `mtc-q9zv-dase` |
 | 2026-08-29 | **HHS OASH**, same docket | regulations.gov | **Accepted.** Tracking `mtd-izm8-ql4p` |
+| 2026-08-29 | **Tampa Bay Times**, Deadly Dose team | Email, press pitch | Sent to a verified address from the project page, copied to an inferred address for their investigative reporter. **Inferred address flagged as unverified; no bounce as of sending** |
+| 2026-08-29 | **Awakening Recovery, Inc.** | — | **NOT contacted.** They publish no email address, no mailto and no contact form. The only published channel is a line labelled "Get Help", which is an intake number for people seeking beds. **Declined to use it.** Better routes recorded in the approach file |
 | 2026-08-29 | **Deseret News**, Dennis Romboy | Email, press pitch | Sent. He authored the 30 July piece on the Utah County death. Offers the case free, no credit required |
 | 2026-08-29 | **NW Alabama Mental Health Center** | Email, outreach not a filing | Sent. Offers the case file free to a CMHC treating chemical dependency; asks only for aggregate observation |
 | 2026-08-29 | **HHS OASH**, same docket | regulations.gov | **Accepted.** Tracking `mtd-holx-p7i5`. Note the `mtd-` prefix, unlike the three `mtc-` before it |
