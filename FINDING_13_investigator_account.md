@@ -10,7 +10,7 @@
 
 ### 1. The account
 
-The researcher states that he took 7-OH **deliberately, in order to test the
+Puckett states that he took 7-OH **deliberately, in order to test the
 claim** that it produces dependence, and that he became **physically dependent
 within one week**. **Total use ran approximately three weeks.** He further states that he knows other people currently going
 through it, and describes the withdrawal as severe.
@@ -46,7 +46,7 @@ case.** It is not an outlier claim requiring special pleading.
 
 ### 4. The one claim that must stay labelled
 
-The researcher asserts that **100% of people who use 7-OH for more than a week
+Puckett asserts that **100% of people who use 7-OH for more than a week
 will become dependent.**
 
 **[I] This is his assessment, based on his own case and on people known to him.
@@ -93,7 +93,7 @@ once for the record:
 3. **Senate Finance Committee**, Wyden inquiry, deadline **2026-08-31**. Committee
    staff routinely handle sourced personal accounts without publishing names.
 
-**This is the researcher's decision to make. It is recorded here so that the
+**This is Puckett's decision to make. It is recorded here so that the
 choice is deliberate rather than incidental.**
 
 ### 6. What this account is genuinely good for
@@ -275,5 +275,5 @@ Royal Diamond Imports, Hydroxie, and 7Tabz Retail.
 disability outcome in FDA's own reporting system received no warning letter and
 remains on the market.
 
-**[I] This is a finding independent of the researcher entirely, and it belongs in
+**[I] This is a finding independent of Puckett entirely, and it belongs in
 the docket comment on its own merits.**

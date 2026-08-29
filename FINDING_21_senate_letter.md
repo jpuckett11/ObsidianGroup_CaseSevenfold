@@ -69,7 +69,7 @@ congressional record.
 inquiry on 2026-08-05. The submission sent to Wyden's office on 2026-08-27 is not
 landing on a one-party file.
 
-**b. The researcher's own senator signed it.** **Marsha Blackburn represents
+**b. Jay Puckett's own senator signed it.** **Marsha Blackburn represents
 Tennessee.** Obsidian Watch Group is in Columbia, Tennessee. A constituent holding
 primary documents, writing to a senator who has already signed a letter making the
 same argument, is the strongest available channel in this case and it does not

@@ -140,7 +140,7 @@ Every row is verified, not assumed:
   acknowledgment, a tracking number, or a docket receipt. This rule was added
   after an FDA FOIA sat recorded as "sent" for a day when the agency had in fact
   refused it.
-- Phone contacts are recorded as **[S] the researcher's contemporaneous
+- Phone contacts are recorded as **[S] Jay Puckett's contemporaneous
   account**, and labelled as such, because we did not record the calls.
 
 Corrections are welcome and will be published. If an office believes a row here is

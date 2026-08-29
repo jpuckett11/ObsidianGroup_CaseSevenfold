@@ -24,7 +24,7 @@ thing. The full account of the error is in Finding 29 Section 6.
 
 **Status:** CONFIRMED from peer-reviewed primaries.
 **Analyst:** Aegis, for Obsidian Watch Group. **Date:** 2026-08-28.
-**Opened at the researcher's direction.**
+**Opened at Jay Puckett's direction.**
 
 ---
 

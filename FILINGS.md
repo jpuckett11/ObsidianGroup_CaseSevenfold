@@ -208,7 +208,7 @@ describing these products as "Dangerous Synthetic Opioids Flooding Gas Stations.
 Tennessee consumers have no equivalent notice.
 
 **Confidentiality notice.** Sent with the full standing notice, unmodified and with
-no authorization line, at the researcher's express direction on 2026-08-28. The
+no authorization line, at Jay Puckett's express direction on 2026-08-28. The
 tension was raised before sending: the notice states the contents are not for
 public release and may not be forwarded or used in administrative proceedings,
 while a consumer complaint asks the Division to do exactly that, and Tennessee
@@ -235,7 +235,7 @@ auto-generated receipt PDF.
 | Full letter | `OWG_Letter_Sen_Blackburn_2026-08-28.pdf`, 3 pages, not yet faxed |
 
 **Why her.** She signed the 2026-03-18 letter to Commissioner Makary urging action
-on 7-OH, she represents the researcher's own state, and Finding 22 establishes
+on 7-OH, she represents Puckett's own state, and Finding 22 establishes
 from FEC primaries that she has taken **nothing** from any kratom company or trade
 association. The first message opens with that, because a clean finding is worth
 as much as a dirty one and she is entitled to hear it from us.
@@ -527,7 +527,7 @@ products "can be habit-forming" and that "long-term use may lead to addiction an
 withdrawal symptoms." Both captured 2026-08-27 and hashed.
 
 **[I] This is the only line in the case that needs no rulemaking, no conflict of
-interest, and no new facts. It also does not depend on the researcher's own
+interest, and no new facts. It also does not depend on Puckett's own
 account.**
 
 ---

@@ -1,5 +1,5 @@
 # CASE SEVENFOLD
-## Authorisation for public use of the researcher's firsthand account
+## Authorisation for public use of Jay Puckett's firsthand account
 
 **Given by:** Jay Puckett, Principal Security Researcher, Obsidian Watch Group
 **Date:** 2026-08-27
@@ -10,7 +10,7 @@
 
 ### What is authorised
 
-Public use, without restriction as to forum, of the researcher's firsthand
+Public use, without restriction as to forum, of Puckett's firsthand
 account of 7-hydroxymitragynine dependence, including:
 
 - deliberate self-administration of Limitless Black Edition 7-OH tablets

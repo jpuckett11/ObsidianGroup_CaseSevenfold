@@ -378,7 +378,7 @@ The ODP API key requires **ID.me identity verification: a government-issued
 photo ID, a Social Security number, and multi-factor authentication**. The key is
 issued per person, not per organisation.
 
-**Note 2026-08-28: the researcher already holds a verified ID.me account, so
+**Note 2026-08-28: Jay Puckett already holds a verified ID.me account, so
 the identity cost is already sunk and this objection does not apply to him. The
 substantive caveat below stands regardless of who runs it.**
 

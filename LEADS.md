@@ -20,7 +20,7 @@ Poison Control reported multiple severe overdoses from smoke-shop products sold 
 2026-07-30. The lead itself is still second-hand and still not relied on by any
 filing, but the phenomenon it describes is now confirmed by a state agency.
 
-**[U] Second-hand report.** The researcher reports overhearing a person state
+**[U] Second-hand report.** Jay Puckett reports overhearing a person state
 they had purchased "9-OH" that day. Aegis has no direct contact with that person,
 no product, no photograph, no receipt and no location.
 

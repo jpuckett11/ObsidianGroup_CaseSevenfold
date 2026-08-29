@@ -8,7 +8,7 @@
 
 ### 1. The controlled case
 
-The researcher's account (Finding 13) is not a typical exposure. It is close to
+Jay Puckett's account (Finding 13) is not a typical exposure. It is close to
 a best case, and that is precisely what makes it useful.
 
 He went in with:
@@ -29,7 +29,7 @@ established within seven days in a man with no prior opioid dependence.
 That is the actual consumer. Consider what the same product does to someone
 buying it off a shelf on a Tuesday:
 
-| The researcher had | The ordinary purchaser has |
+| Puckett had | The ordinary purchaser has |
 |---|---|
 | Knew it was an opioid | A label reading "botanical supplementation" (Finding 16) |
 | Knew the serving size | A 50 mg tablet whose labelled serving is one quarter of it |
@@ -45,7 +45,7 @@ more. The product is its own remedy. That is not a failure of willpower. It is a
 trap with the exits removed, and the removals were design decisions.
 
 **[I] The people the harm concentrates on are not people with less character than
-the researcher. They are the same trap without the money, the doctor, the
+Puckett. They are the same trap without the money, the doctor, the
 warning, or the spouse.**
 
 ### 3. What the record shows about who bears it

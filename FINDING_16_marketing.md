@@ -48,7 +48,7 @@ per FDA, a mu-opioid agonist more potent than morphine. The transaction is
 designed so the first dose costs nothing and the decision to continue is made
 after dependence has already begun.
 
-The researcher's own account (Finding 13) follows this pattern exactly, which is
+Jay Puckett's own account (Finding 13) follows this pattern exactly, which is
 why it is **representative rather than idiosyncratic**.
 
 ### 3. Independent regulatory recognition

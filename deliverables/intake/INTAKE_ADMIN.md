@@ -78,10 +78,10 @@ honest. "Most users experience X" is not.
 
 - Send the plaintext version. It survives every messaging app.
 - Do not post it anywhere that would let a coordinated group flood it.
-- Prefer people already known to the researcher or referred by a respondent.
+- Prefer people already known to Jay Puckett or referred by a respondent.
   Referral chains are traceable and harder to poison.
-- **The researcher's own account is FINDING 13 and is already recorded. It
-  should be counted and labelled as the researcher's, never folded anonymously
+- **Puckett's own account is FINDING 13 and is already recorded. It
+  should be counted and labelled as Puckett's, never folded anonymously
   into the respondent set.** Doing that would be the kind of thing we criticise
   the industry for.
 
