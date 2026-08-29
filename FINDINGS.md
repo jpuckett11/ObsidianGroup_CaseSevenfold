@@ -304,6 +304,34 @@ themselves. Applied to **42.4 million untreated**, the response has been to sche
 one molecule at a time, **managing the consequences of the abandonment rather than
 ending it.** Also added to the README.
 
+**2026-08-29, Finding 45: what pulling these people up would be worth. About $90B a
+year, for about $13B, and it costs the same per person as treating kidney disease.**
+**[I] ESTIMATE**, every input sourced, every step of arithmetic shown so it can be
+checked or destroyed. Written as the constructive inverse of Finding 44 s6, which
+priced doing nothing. **Nobody prices the upside, so we did.** Derived not assumed:
+AAF's $702.1B lost output over 12.5B lost work hours gives **$56.17/hour, $112,336 per
+worker-year**. Applied to **914,000 to 2,000,000** prime-age workers out of the labour
+force due to opioids, at employment rates of 30 to 50 percent bracketing the 42.9
+percent from a therapeutic-workplace trial: **$30.8B to $112.3B a year in output**.
+Cost at **NIDA's own published prices**, methadone $6,552 or buprenorphine $5,980 per
+patient per year: **$12.0B to $13.1B** for two million people. **Mid case ratio about
+6.9 : 1.** AAF's separate framing needs no arithmetic from us: opioids cost **0.6
+percentage points of annual real GDP growth**, 2.0 percent actual against 2.6 percent
+counterfactual, **thirty percent faster growth**, roughly **$180B a year, recurring**.
+**And the comparison that should end it, NIDA's own:** diabetes $3,560/yr, **kidney
+disease $5,624/yr**, **opioid use disorder on methadone $6,552/yr**. Treating the
+addiction costs about a thousand dollars a year more than treating the kidneys, and
+nobody argues dialysis is a lifestyle choice. **Section 6 states where it is weak and
+it is not decoration**: the labour data is opioid-specific and does not scale to the
+42.4M all-SUD figure, it is 2015 vintage while this case is about stimulants, the 42.9
+percent comes from one trial with 91 participants, output per worker is an aggregate so
+step 3 is probably optimistic, drop-out is not modelled, and the $180B and $89.9B are
+overlapping views that must not be added. **What survives: at the most pessimistic
+corner tested, 914,000 people at 30 percent on the dearest drug, it is still $30.8B
+returned for $12.9B spent, 2.4 : 1. The investment returns more than it costs at every
+combination tried.** That is the finding, not the point estimate. **The argument was
+never that this is unaffordable. Nobody had run the sum.**
+
 **2026-08-29, Finding 44: Tennessee's answer to a death was to criminalise the user and
 delete kratom from the treatment title.** **[P]** Public Chapter 950, "Matthew
 Davenport's Law," signed by Gov. Bill Lee, effective **1 July 2026**, named for a
