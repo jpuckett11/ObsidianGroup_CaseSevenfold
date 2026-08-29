@@ -304,6 +304,33 @@ themselves. Applied to **42.4 million untreated**, the response has been to sche
 one molecule at a time, **managing the consequences of the abandonment rather than
 ending it.** Also added to the README.
 
+**2026-08-29, Finding 51: "I was not born an addict. My childhood made me one." The
+attributable risk fraction is 64 percent.** **[P]** Opened on a statement by **N-01**
+and tested against the primary literature. **Dube et al. 2003, *Pediatrics*, DOI
+10.1542/peds.111.3.564**, 8,613 adults: **"people with 5 or more ACEs were 7- to
+10-fold more likely to report illicit drug use problems, addiction to illicit drugs,
+and parenteral drug use"**, and **"the attributable risk fractions as a result of ACEs
+... were 56%, 64%, and 67%."** **ACEs "account for one half to two thirds of serious
+problems with drug use."** **The strongest part is not the odds ratios.** The same
+paper finds the graded relationship holds **"for 4 successive birth cohorts dating back
+to 1900"** and therefore **"transcend[s] secular changes such as increased availability
+of drugs, social attitudes toward drugs, and recent massive expenditures and public
+information campaigns."** **From 1900 to now, through every change in what was sold and
+what government said about it, the relationship did not move.** **On genetics, stated
+fairly:** heritability is real and undisputed here, and no point estimate is quoted
+because none was verified. **[I] But heritability is a ratio of variances in a
+population, not a measure of how fixed a thing is.** Height is among the most heritable
+traits measured and rose several inches in a century on nutrition. **A condition can be
+substantially heritable and substantially preventable at once**, and the two numbers are
+not in competition because genes largely act through environment. **[I] The danger the
+investigator identified is specific and it is four moves:** the genetic framing
+relocates the defect into the person, implies an immutability the science does not
+support, licenses disinvestment, and **moves the money to control** — which Findings 43,
+48, 49 and 50 document with dollar figures. **REMEDIATION.md gains a section 5b**: its
+argument had two limbs and only the downstream one was written down. **Objections
+recorded**, chiefly recall bias and the confounding of parental substance use, which is
+both an ACE category and a genetic transmission route.
+
 **2026-08-29, Finding 50: every dollar any American state has appropriated for kratom
 is $1,925,400. All of it to enforcement, except $20,000 for a website. At full cost
 that is 88 people.** **[P]** national sweep via Open States, which indexes full bill

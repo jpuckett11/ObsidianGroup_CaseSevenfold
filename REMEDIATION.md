@@ -261,6 +261,50 @@ nothing, by a rule the responsible agency had already said it never made. It is 
 that the machine decided against these people. It is that nobody was assigned to
 notice, and so no one did.
 
+## 5b. The upstream half, which this document was missing
+
+**Added 2026-08-29 after N-01's statement. See Finding 51.**
+
+Everything above this line is about an adult who is already dependent. **That is half
+the argument and it was presented as the whole of it.**
+
+**Dube et al. 2003, *Pediatrics*, DOI `10.1542/peds.111.3.564`**, 8,613 adults:
+
+> "Compared with people with 0 ACEs, **people with ≥5 ACEs were 7- to 10-fold more
+> likely** to report illicit drug use problems, **addiction to illicit drugs**, and
+> parenteral drug use."
+
+> "**The attributable risk fractions** as a result of ACEs ... were **56%, 64%, and
+> 67%**"
+
+**The attributable risk fraction for addiction to illicit drugs is 64 percent.**
+Roughly two thirds of it traces to things that happened to people before they could
+consent to any of it.
+
+**And the part that should end an argument:**
+
+> "The persistent graded relationship ... **for 4 successive birth cohorts dating back
+> to 1900** suggests that the effects of adverse childhood experiences **transcend
+> secular changes such as increased availability of drugs, social attitudes toward
+> drugs, and recent massive expenditures and public information campaigns to prevent
+> drug use.**"
+
+**From 1900 to now, through every change in what was for sale and what the government
+said about it, the relationship did not move.** This document argues that scheduling
+molecules does not work. **That is the evidence for it, and it spans a century.**
+
+**So the ask has two limbs and only one of them was written down.** Downstream: give
+the adult a trade, an income and a reason, which is section 9. **Upstream: the
+intervention is the child, and every year it is not done reloads the number.**
+
+**On genetics, because it will be raised.** Substance use disorders are heritable and
+this document does not dispute it. **Heritability is a ratio of variances in a
+population. It is not a measure of how fixed something is.** Height is among the most
+heritable traits ever measured and average height rose several inches in a century on
+nutrition alone. **A condition can be substantially heritable and substantially
+preventable at the same time**, and treating the first as a reason to abandon the
+second is the mistake Finding 51 section 6 sets out.
+
 ## 6. Education and a trade: what the European evidence actually says
 
 Puckett raised the European rehabilitation literature, and the same
