@@ -322,6 +322,11 @@ raised it to **$750**. Still half fixed: $750 exceeds the safe harbor (**$623 fo
 2026**), the safe harbor excludes the gift cards SAMHSA mandates, and it reaches
 only SOR/TOR grants, not Medicaid — where California's pilot stops at **$599, set
 under the IRS 1099 threshold, a tax boundary standing in for a clinical one.**
+**[P] That $599 is OIG Advisory Opinion 22-04's ceiling** — OIG approved
+cash-equivalent CM incentives at $599/yr for one company, in an opinion that says it
+**"cannot be relied upon by any other person"** and turns on the requestor **not
+billing any federal health care program.** So the only federal sign-off on CM at a
+working dose is unavailable to any clinic billing Medicaid.
 **Congress ordered a safe harbor** in the CAA 2023, due **29 Dec 2024**; OIG opened
 **RIN 0936-AA13** for August 2024. **It has never published** — verified by RIN
 against the Federal Register with controls (AA10 = 3 docs, AA15 = 1, AA16 = 1,

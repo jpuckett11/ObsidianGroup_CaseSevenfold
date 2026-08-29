@@ -257,3 +257,125 @@ years to correct after the correction was available, and is still only half fixe
 | *Prev Med* 2023, California Recovery Incentives | [S] DOI 10.1016/j.ypmed.2023.107703 |
 | *J Appl Behav Anal* 2024 | [S] DOI 10.1002/jaba.2911 |
 | Federal Register API, RIN queries with controls | [P] run 2026-08-28 |
+
+---
+
+# ADDENDUM, 2026-08-28: where the $599 actually comes from
+
+Section 10 named the weakest link in this finding: we had proved OIG's *rule* never
+published, but had not confirmed what happened to the *report to Congress*. Chasing
+that turned up two things the finding had missed. Neither overturns it. Both sharpen
+it, and one corrects an implication.
+
+## A1. The deadline reconciles [P]
+
+A secondary source described the statute as giving OIG "one year to conduct a
+review" and then "another year to submit recommendations to Congress," which looked
+at first like a conflict with the CRS date of 29 December 2024 used in section 8.
+
+**It is not a conflict.** The Consolidated Appropriations Act, 2023 was signed **29
+December 2022**. One year for the review lands on 29 December 2023; a second year
+for recommendations lands on **29 December 2024**, exactly the CRS date. The two
+accounts describe the same schedule. **Section 8 stands unchanged.**
+
+We still have not obtained a direct negative confirmation from OIG that no report
+was delivered. OIG's own report search renders client-side, so a zero result from it
+proves nothing and we are not reporting one. **This remains the weakest link.**
+
+## A2. OIG has approved a CM program paying cash equivalents. It binds one company. [P]
+
+**OIG Advisory Opinion No. 22-04, 25 February 2022.** The requestor was DynamiCare
+Health, a digital health company. The program:
+
+- CM incentives **capped at $200.00 per month and $599.00 per Member per year**
+- individual incentives **typically $1.00–$3.00**, generally under $5.00
+- delivered on a **smart debit card**, which OIG expressly called a **cash
+  equivalent** — the very category the 2020 safe harbor refused to protect
+- the card is blocked at bars, liquor stores, casinos, and cannot be converted to
+  cash at ATMs
+
+OIG concluded it **"will not impose administrative sanctions on Requestor"** under
+either the anti-kickback statute or the Beneficiary Inducements CMP.
+
+**This matters for section 7(b).** That section said CM as SAMHSA instructs it to be
+delivered — by gift card — may fall outside the safe harbor at any dollar value.
+That is still true of the *safe harbor*. But it was incomplete: OIG has separately
+blessed a cash-equivalent CM program outside the safe harbor, on its facts. The
+absence of a safe harbor is not the same as prohibition, and this finding should not
+have implied otherwise.
+
+**Now read the limitations OIG attached, verbatim:**
+
+> "This advisory opinion is issued only to Requestor. This advisory opinion has no
+> application to, and cannot be relied upon by, **any other person**."
+
+> "This advisory opinion may not be introduced into evidence by a person other than
+> Requestor to prove that the person did not violate the provisions of sections
+> 1128, 1128A, or 1128B of the Act or any other law."
+
+And the reasoning leaned on a fact almost no treatment provider shares:
+
+> "Requestor is not enrolled as a provider or supplier in any Federal health care
+> program and, therefore, does not bill any Federal health care program"
+
+**So the one federal approval of CM at an effective magnitude is expressly
+unavailable to every clinic that bills Medicaid**, which is the largest public funder
+of this treatment in most states. A community treatment centre reading AO 22-04 for
+comfort is reading a document that says, in terms, that it may not do so.
+
+## A3. This is where $599 came from, and it is not a clinical number [P, I]
+
+$599 now appears in three places: **AO 22-04** (Feb 2022), **DynamiCare's program**,
+and **California's Medicaid pilot**. CRS explains the arithmetic — it sits "just
+below the Internal Revenue Service's $600 threshold" for 1099 reporting.
+
+**[I] Our inference, labelled as such:** the de facto national ceiling on the one
+dose-responsive treatment for stimulant use disorder traces to two things, and
+neither is a finding about patients.
+
+1. **A tax-reporting threshold.** $600 is when a payer must issue a 1099.
+2. **An advisory opinion binding on exactly one company**, which states on its face
+   that no one else may rely on it.
+
+Not a trial. Not a dose-finding study. Not a clinical guideline. The number that
+governs how much of an effective treatment a person may receive was set by the
+Internal Revenue Service's paperwork threshold, and ratified for one company by a
+letter that everyone else is forbidden to cite.
+
+## A4. It was not only SAMHSA [S]
+
+Section 2 attributed the $75 limit to OIG guidance and SAMHSA's funding notices. A
+fact sheet from the Legislative Analysis and Public Policy Association (October 2023)
+adds a third actor:
+
+> "As a result of these OIG directives, the **Centers for Medicare and Medicaid
+> Services (CMS) placed an annual limit of $75** on incentives to patients, including
+> contingency management, an amount that many treatment practitioners consider too
+> small to be effective."
+
+**Labelled [S]** — this is a secondary source and we have not located the CMS issuance
+itself. If accurate it explains why the January 2025 SAMHSA change does not reach
+Medicaid: **SAMHSA lifted its own cap, and the CMS constraint was never SAMHSA's to
+lift.** That would make section 7(c) a structural limit rather than an oversight.
+**Worth someone pulling the CMS document.**
+
+The same source deepens the history: OIG's nominal-value interpretation began in
+**2000** at **$10 per item and $50 per year**, and was raised to **$15 and $75** in
+**2016**. The figure that governed until 2025 was set in 2016 and first drawn in
+2000.
+
+## A5. What this addendum changes
+
+| Section | Status |
+|---|---|
+| 3, the dose evidence | unchanged |
+| 4, the cost of the ceiling | unchanged, and still the most useful number here |
+| 5, OIG disclaimed the $75 cap | unchanged |
+| 8, the missing rule and the deadline | **confirmed**, the apparent conflict resolves |
+| 7(b), gift cards and the safe harbor | **qualified** — see A2, absence of a safe harbor is not prohibition |
+| 7(c), Medicaid | **strengthened** — see A2 and A4 |
+| 10, weakest link | **still open**, no direct OIG confirmation obtained |
+
+**Added sources:** OIG Advisory Opinion No. 22-04 (25 Feb 2022) [P], 9pp, retrieved
+2026-08-28. Legislative Analysis and Public Policy Association, *Contingency
+Management* fact sheet, October 2023 [S].

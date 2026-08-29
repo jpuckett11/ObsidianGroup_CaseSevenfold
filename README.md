@@ -100,6 +100,47 @@ the policy response has been to schedule one molecule at a time while the market
 moves to the next one — managing the symptom of the abandonment rather than ending
 it.
 
+### The two clocks
+
+**This is the whole document in miniature.**
+
+7-OH was identified, assessed, and moved toward Schedule I inside a year. The
+comment period runs weeks. When the market answered by relabelling the same class of
+compound as "Cat's Claw," a state poison control centre, a state agriculture
+department and a county coroner were all on it within a fortnight. **When the
+question is a molecule, this system can move in months.**
+
+Now the other clock. Contingency management — paying people, directly and
+immediately, for a negative test — has been the best-evidenced treatment for
+stimulant use disorder since the mid-1990s. Here is what the federal government did
+with it:
+
+- **2000** — OIG interprets "nominal value" at $10 an item, **$50 a year**.
+- **2016** — raised to $15 and **$75 a year**.
+- **2004** — the one trial that ever tested magnitudes head to head found **$240
+  worked and $80 did not.** The cap was $75.
+- **2020** — OIG states its own guidance **"does not impose a $75 annual limit"** on
+  these incentives. The cap stays in the funding notices anyway.
+- **January 2025** — SAMHSA finally raises it to **$750**. Twenty-five years after
+  the first number, nine years after the last one, and four years after the agency
+  said it had never required it.
+- **29 December 2024** — the deadline Congress set for a safe harbor. **It has still
+  not issued.** Twenty months late as of this writing.
+
+And the ceiling most programmes actually observe, **$599**, is not a clinical figure
+at all. It is **one dollar under the IRS threshold for issuing a 1099**, ratified for
+a single company in an advisory opinion that states on its face that **no one else
+may rely on it.**
+
+**The molecule got scheduled in months. What happens to the person has been
+"under-researched" for thirty years.** The evidence was not missing. It was
+published, replicated, and then held below its effective dose by a number borrowed
+from a tax form — at a saving of roughly nothing, because the trial arm that worked
+cost sixty-eight dollars a head.
+
+That is Finding 35. It is not the exception in this file. **It is the pattern with a
+receipt attached.**
+
 **Nobody has tried strengthening the weak link at the scale of the problem.** That is
 the entire ask in [`REMEDIATION.md`](REMEDIATION.md), and it comes from a doctrine
 that has been tested for a very long time in conditions far less forgiving than a

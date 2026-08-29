@@ -242,7 +242,12 @@ cards SAMHSA instructs grantees to use; and the $750 reaches only State and Trib
 Opioid Response grants, not Medicaid, which is the largest public funder of this
 treatment in most states. California's Medicaid pilot stops at **$599**, set just
 under the IRS 1099 threshold — **a tax-reporting boundary standing in for a clinical
-one.**
+one.** That $599 traces to **OIG Advisory Opinion 22-04** (2022), which approved
+cash-equivalent incentives at exactly that ceiling for one digital health company —
+and which states on its face that it **"cannot be relied upon by any other person"**
+and rests on the requestor **not billing any federal health care program.** The one
+federal approval of contingency management at a working magnitude is expressly
+unavailable to every clinic that bills Medicaid.
 
 Congress saw this. The Consolidated Appropriations Act, 2023 ordered OIG to review a
 contingency management safe harbor and report **by 29 December 2024**. OIG opened
