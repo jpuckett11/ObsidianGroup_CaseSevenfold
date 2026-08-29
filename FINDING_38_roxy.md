@@ -3,7 +3,7 @@
 
 **Status:** The complaint is **CONFIRMED [P]**, obtained and hashed. **What it
 alleges about West Virginia's registrations is the plaintiff's own assertion in its
-own interest and is labelled `[S/adverse-party]` throughout.**
+own interest and is labeled `[S/adverse-party]` throughout.**
 **Analyst:** Aegis, for Obsidian Watch Group. **Date:** 2026-08-29.
 **Companion to Finding 37**, found in the same litigation sweep.
 
@@ -55,7 +55,7 @@ Quoting BT's own letter to the Department, reproduced in the complaint at ¶ 28:
 > 7-hydroxymitragynine nationwide.** And yet, **for not a single one of these
 > applicants did the Department demand proof of safety of any kind.**"
 
-And at ¶ 30, BT's characterisation of the result:
+And at ¶ 30, BT's characterization of the result:
 
 > "**placing the public in imminent peril of provable injury** in the case of the
 > 7-hydroxymitragynine products it has registered"
@@ -80,7 +80,7 @@ falsify.** That is the only reason it is here.
 
 The listed products carry milligram figures: **128 mg, 20 mg, 16 mg.**
 
-**We do not claim these are 7-OH quantities.** Several are labelled "**Complex
+**We do not claim these are 7-OH quantities.** Several are labeled "**Complex
 Alkaloids**," which ordinarily denotes total alkaloid content rather than a single
 compound. The complaint asserts the products "include 7-hydroxymitragynine synthetic
 concentrates" without stating the 7-OH fraction.

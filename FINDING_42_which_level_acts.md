@@ -3,7 +3,7 @@
 
 **Status: [I] SYNTHESIS.** This finding introduces **no new primary evidence.** It is
 an argument built on Findings 32, 34, 35, 36, 37, 39 and 41, each of which carries its
-own sources. **It is labelled `[I]` throughout and should be read as reasoning, not as
+own sources. **It is labeled `[I]` throughout and should be read as reasoning, not as
 a document.**
 **Analyst:** Aegis, for Obsidian Watch Group. **Date:** 2026-08-29.
 
@@ -121,7 +121,7 @@ absorb a line item to treat the person who was buying it.
 
 **Finding 41 is the part that is nobody's fault but the legislature's.**
 
-Ohio wrote that a licence issues only if products are "sourced, manufactured, and
+Ohio wrote that a license issues only if products are "sourced, manufactured, and
 distributed solely within Ohio." Missouri wrote that products are legal "only if such
 products are grown and manufactured entirely in Missouri."
 
@@ -180,9 +180,9 @@ the people using it.**
 
 **ANSWERED 2026-08-29 for one state. See Finding 43.** Utah's enacted kratom bill,
 S.B. 45, states **"Money Appropriated in this Bill: None"** and never uses the word
-"treatment." In the same session, **$6,161,003** of opioid treatment programmes were
+"treatment." In the same session, **$6,161,003** of opioid treatment programs were
 allowed to expire against a **$1,600,000** replacement, **$419,900** was rescinded or
-cut from three named recovery organisations on 5 March 2026, and the **$543 million**
+cut from three named recovery organizations on 5 March 2026, and the **$543 million**
 settlement principal had been locked the previous session so only interest may be
 spent. **Utah does fund treatment. It funded less of it in the same months it
 regulated the molecule for nothing and won a federal lawsuit about it.**

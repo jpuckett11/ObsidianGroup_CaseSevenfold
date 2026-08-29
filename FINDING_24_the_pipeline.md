@@ -111,6 +111,6 @@ the department regulating it, and about the specific mechanism by which the
 public's ability to follow the money is designed to end.
 
 The company whose product is left on the shelf by the 7-OH action is a
-million-dollar donor to the political organisation of the cabinet department that
+million-dollar donor to the political organization of the cabinet department that
 took it. That is not an allegation. It is two federal filings, and they are both
 public.

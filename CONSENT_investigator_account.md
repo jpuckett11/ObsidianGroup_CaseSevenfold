@@ -14,7 +14,7 @@ Public use, without restriction as to forum, of Puckett's firsthand
 account of 7-hydroxymitragynine dependence, including:
 
 - deliberate self-administration of Limitless Black Edition 7-OH tablets
-  (50 mg/tablet, labelled serving 12.5 mg) to test the claim that the product
+  (50 mg/tablet, labeled serving 12.5 mg) to test the claim that the product
   produces dependence;
 - total consumption of **6,000 mg of 7-OH, 120 tablets, over approximately three
   weeks**, with **physical dependence developing within the first seven days**;

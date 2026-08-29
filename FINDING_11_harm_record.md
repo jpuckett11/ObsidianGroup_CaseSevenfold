@@ -45,7 +45,7 @@ Age of the person affected: **25-34 is the largest group at 278**, then 35-44 at
 220, 45-54 at 107, 18-24 at 84, 55-64 at 51, 65+ at 21, **and 11 reports involving
 someone under 18.**
 
-**[I]** This is not an elderly-supplement problem. It centres on working-age adults
+**[I]** This is not an elderly-supplement problem. It centers on working-age adults
 in their twenties and thirties, and the dominant reported effect is dependence.
 
 ### 2. Feel Free / Botanic Tonics: 62 reports
@@ -100,13 +100,13 @@ incumbents. **There is a legitimate competing explanation and it is strong.**
 
 **Mitragynine now holds Investigational New Drug status.** NIDA is sponsoring
 **MG001**, a purified mitragynine formulation, in the first human study of
-mitragynine under an FDA-regulated drug development programme: Phase 1, 32 healthy
+mitragynine under an FDA-regulated drug development program: Phase 1, 32 healthy
 volunteers, 25-100 mg single ascending doses, beginning September 2026, targeted
 at **opioid use disorder**. (NCT07204171. Developed by NIH/NIDA with University of
 Florida, **not** Sparian Biosciences, which is developing the separate SBS-147.)
 
 **[I]** Placing mitragynine in Schedule I would obstruct an active federal drug
-development programme aimed at opioid addiction. That is a coherent, non-corrupt
+development program aimed at opioid addiction. That is a coherent, non-corrupt
 reason for the asymmetry, and any OWG output must state it. **Do not write that
 mitragynine was spared to protect Mullin's investment.**
 
@@ -132,7 +132,7 @@ McCurdy/Sharma group at Florida, whose data underpins the 0.05% threshold, holds
 roughly **$4.9M in federal grants across 9 projects**. Their work is not
 industry-dependent, and **no adverse inference should be drawn about these
 researchers.** The industry fingerprint identified in Finding 06 is specific to the
-Johnson-Foods-funded Huestis/Atallah paper, and must not be generalised to the
+Johnson-Foods-funded Huestis/Atallah paper, and must not be generalized to the
 underlying science.
 
 ### 7. For people who have been harmed

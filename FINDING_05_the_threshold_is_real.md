@@ -68,9 +68,9 @@ so would discredit everything else in this file.
    in one case financially invested in, the commercial beneficiary.
 2. **The disclosure failure is independent of the science.** Finding 01 stands on
    its own regardless of whether the threshold is correct.
-3. **The warning removals have no scientific defence at all.** See below.
+3. **The warning removals have no scientific defense at all.** See below.
 
-### 4. The part that has no defence
+### 4. The part that has no defense
 
 The scheduling action leaves **mitragynine** entirely unscheduled. Public Citizen
 attributes **26 deaths over five years** to mitragynine specifically, and NYT
@@ -81,7 +81,7 @@ FDA website, as senator and then as DHS Secretary, and **by the end of 2025 FDA
 had removed the links.** FDA refused a further request to delete a warning about
 "liver toxicity, seizures and substance use disorder."
 
-**[I] This, not the 7-OH ban, is the centre of the case.**
+**[I] This, not the 7-OH ban, is the center of the case.**
 
 Restricting a more dangerous competitor is coherent public health, whatever the
 motive. Weakening consumer warnings on the product category you personally hold

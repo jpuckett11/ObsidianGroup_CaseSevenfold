@@ -127,12 +127,12 @@ Finding 45's claim was never the point estimate; it was that the sign does not c
 
 ## 7. What is NOT established
 
-- **The full package in section 4 is constructed, not observed.** No programme was
+- **The full package in section 4 is constructed, not observed.** No program was
   found that delivers exactly these four components at exactly this price. **The
   components are sourced; the bundle is ours.**
 - **Recovery housing at six months is an assumption.** Length of stay varies enormously
   and the $1,750 midpoint is a national range, not a measured average.
-- **$4,000 for vocational training is the WIOA ITA range**, not a specific programme.
+- **$4,000 for vocational training is the WIOA ITA range**, not a specific program.
   `~/Desktop/OWG_TRAINING_VOUCHERS.md` shows certification can be done for far less.
 - **The sweep finds appropriations acts that use the word "kratom."** A state could
   fund kratom enforcement inside a general line item that never names it, and this

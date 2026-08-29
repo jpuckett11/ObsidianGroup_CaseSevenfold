@@ -59,7 +59,7 @@ file reflects the complete 298-row corpus.
 > per bottle). It belongs with the incumbents. Corrected figures:
 >
 > - leaf / pro-ban side: **$4,871,000**
-> - organised 7-OH defence (HART alone): **$10,000**
+> - organized 7-OH defense (HART alone): **$10,000**
 > - **ratio: roughly 487 : 1**
 
 **[I]** Superseded original reasoning, retained for audit: sorting clients by side

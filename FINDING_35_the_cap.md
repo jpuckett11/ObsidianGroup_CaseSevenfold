@@ -13,10 +13,10 @@ is worth someone establishing on the record."* It is now established.
 ## 1. The question
 
 `REMEDIATION.md` established that contingency management (CM) is the one
-behavioural intervention for substance use disorder with a demonstrated
+behavioral intervention for substance use disorder with a demonstrated
 dose-response curve: pay more and sooner, it works better; pay less and later, it
 stops working. It then flagged, without asserting, that federal anti-kickback rules
-had historically capped what CM programmes could pay.
+had historically capped what CM programs could pay.
 
 The question was whether that cap bound **below the dose the trials found
 effective**. If so, the single intervention with a proven dose-response
@@ -52,7 +52,7 @@ Disorders*, IF12681, Version 2, 21 March 2025 [P]:
 magnitude question: *"Prize reinforcement contingency management for treating
 cocaine users: how low can we go, and with whom?"*
 
-120 cocaine outpatients were randomised to three arms for 12 weeks: standard
+120 cocaine outpatients were randomized to three arms for 12 weeks: standard
 treatment, standard plus CM at an expected maximum of **$80**, and standard plus CM
 at an expected maximum of **$240**. From the abstract:
 
@@ -70,7 +70,7 @@ exactly the terms this finding needs:
 2025; see section 6. We quote it because it establishes that researchers in the field
 read the $75 cap as the operative constraint right up to the month it was lifted.)*
 
-It found effects favouring $240 over $80 of **d = 0.39 to 0.83**.
+It found effects favoring $240 over $80 of **d = 0.39 to 0.83**.
 
 Corroborating ranges, all [P]:
 
@@ -101,7 +101,7 @@ active variable. SAMHSA says the same thing about its new limit:
 > this limit.**"
 
 **This is the single most useful number in this finding.** Raising a cap from $75 to
-$750 does not multiply programme cost by ten, because the cap governs a ceiling that
+$750 does not multiply program cost by ten, because the cap governs a ceiling that
 most patients never touch. The old limit was suppressing the efficacy of the
 intervention at almost no fiscal saving. It was close to free to be wrong.
 
@@ -237,7 +237,7 @@ years to correct after the correction was available, and is still only half fixe
 - A Federal Register document under RIN 0936-AA13 would moot section 8.
 - An OIG report to Congress under P.L. 117-328 that we have not located. We searched
   the Federal Register and OIG's site; we did not obtain a negative confirmation from
-  OIG itself. **This is the weakest link in the finding and is labelled as such.**
+  OIG itself. **This is the weakest link in the finding and is labeled as such.**
   **Narrowed in Addendum 2 §A7** with a second controlled negative (OIG's own Spring
   2026 Semiannual Report to Congress does not mention contingency management at all).
   **Still not closed. The clean instrument is a FOIA to OIG, which is now queued.**
@@ -323,7 +323,7 @@ And the reasoning leaned on a fact almost no treatment provider shares:
 
 **So the one federal approval of CM at an effective magnitude is expressly
 unavailable to every clinic that bills Medicaid**, which is the largest public funder
-of this treatment in most states. A community treatment centre reading AO 22-04 for
+of this treatment in most states. A community treatment center reading AO 22-04 for
 comfort is reading a document that says, in terms, that it may not do so.
 
 ## A3. This is where $599 came from, and it is not a clinical number [P, I]
@@ -332,7 +332,7 @@ $599 now appears in three places: **AO 22-04** (Feb 2022), **DynamiCare's progra
 and **California's Medicaid pilot**. CRS explains the arithmetic — it sits "just
 below the Internal Revenue Service's $600 threshold" for 1099 reporting.
 
-**[I] Our inference, labelled as such:** the de facto national ceiling on the one
+**[I] Our inference, labeled as such:** the de facto national ceiling on the one
 dose-responsive treatment for stimulant use disorder traces to two things, and
 neither is a finding about patients.
 
@@ -356,7 +356,7 @@ adds a third actor:
 > contingency management, an amount that many treatment practitioners consider too
 > small to be effective."
 
-**Labelled [S]** — this is a secondary source and we have not located the CMS issuance
+**Labeled [S]** — this is a secondary source and we have not located the CMS issuance
 itself. If accurate it explains why the January 2025 SAMHSA change does not reach
 Medicaid: **SAMHSA lifted its own cap, and the CMS constraint was never SAMHSA's to
 lift.** That would make section 7(c) a structural limit rather than an oversight.
@@ -404,7 +404,7 @@ for Contingency Management"*:
 > incentive in CM programs to a maximum of **$75**"
 
 That is SAMHSA telling clinicians, in its own treatment protocol, that the ceiling
-runs through **CMS programmes**, not merely through SAMHSA's grant conditions. Two
+runs through **CMS programs**, not merely through SAMHSA's grant conditions. Two
 independent sources now say so. **The underlying CMS issuance itself we still have
 not located**, and that limitation stays on the record — but the claim is no longer
 resting on one fact sheet.

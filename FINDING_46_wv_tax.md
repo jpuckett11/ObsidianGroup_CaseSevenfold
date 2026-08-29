@@ -96,8 +96,8 @@ apparatus West Virginia built.**
 | State | Mechanism | Money for a person |
 |---|---|---|
 | **Utah** (F43) | Regulate. Ban combination products | **$6,161,003 expiring, $1,600,000 proposed, $419,900 rescinded** |
-| **Tennessee** (F44) | Prohibit. Possession a Class A misdemeanor | **$0 appropriated. "Treatment" deleted from the treatment-centre statute** |
-| **West Virginia** (F46) | **Tax at 11 percent and licence** | **$0. Every dollar routed to enforcement** |
+| **Tennessee** (F44) | Prohibit. Possession a Class A misdemeanor | **$0 appropriated. "Treatment" deleted from the treatment-center statute** |
+| **West Virginia** (F46) | **Tax at 11 percent and license** | **$0. Every dollar routed to enforcement** |
 
 **[I]** These are three genuinely different policy choices, made by three different
 legislatures, reaching the same place. **A state that prohibits, a state that regulates

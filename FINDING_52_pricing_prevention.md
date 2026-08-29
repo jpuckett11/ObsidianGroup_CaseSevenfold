@@ -32,7 +32,7 @@ said in its own section 8 that it **had not priced prevention at all.**
 | **Lifetime cost per nonfatal child maltreatment case** | **$830,928** | CDC, 2015 dollars |
 | Lifetime cost per fatal case | $16,600,000 | CDC |
 | **US lifetime economic burden of child abuse and neglect** | **$592 billion** (2018) | CDC |
-| **Nurse-Family Partnership, per family per year** | **$4,000** | published programme cost |
+| **Nurse-Family Partnership, per family per year** | **$4,000** | published program cost |
 | NFP return per dollar invested | **$5.70** (RAND) to **$9.56** | RAND and later analysis |
 | NFP net benefit per family served | $34,148 | RAND |
 
@@ -53,7 +53,7 @@ This is what happened to a quarter of them before they were adults.**
 **Preventing a single case pays for eighty-three full courses.**
 
 That is not a benefit-cost ratio from a model. **It is one published cost divided by
-another.** The programme does not have to work often to pay for itself. **It has to
+another.** The program does not have to work often to pay for itself. **It has to
 work once in eighty-three times.**
 
 ## 4. Cohort scale
@@ -97,7 +97,7 @@ interventions.**
 
 Prevention runs at **5.70 : 1** on the conservative published estimate. **[I] And the
 two are not alternatives.** Treatment addresses the 42.4 million people who are already
-here. Prevention addresses whether there are 42.4 million more. **A serious programme
+here. Prevention addresses whether there are 42.4 million more. **A serious program
 does both, and this case file has now priced both, and neither is being done.**
 
 ## 7. What is NOT established, and one item is a real weakness
@@ -106,13 +106,13 @@ does both, and this case file has now priced both, and neither is being done.**
   Child maltreatment is one route into the 64 percent, not the whole of it, and the two
   populations overlap without being identical. **Section 3 is a comparison of published
   costs, not a claim that preventing maltreatment prevents one addiction.**
-- **NFP's benefit-cost ratios come from the programme's evaluators and from RAND.**
+- **NFP's benefit-cost ratios come from the program's evaluators and from RAND.**
   WSIPP, which is the most conservative source in this field, warns that its own
   estimates are calculated for Washington State and should be applied elsewhere with
   caution. **We did not obtain the WSIPP figure and are quoting the RAND range instead.
   That is the softest input here.**
 - **The Medicaid-birth proxy is ours.** NFP's actual eligibility is first-time
-  low-income mothers and enrolment is voluntary. **Real reach would be lower than
+  low-income mothers and enrollment is voluntary. **Real reach would be lower than
   section 4 assumes and the cost correspondingly lower too.**
 - **$592 billion and $425 billion overlap.** They are separate estimates of overlapping
   harms and **must not be added.**

@@ -76,7 +76,7 @@ House Office of Cabinet Affairs."** [P] LDA
 **Sheldon Bradshaw** — represents BBHW publicly; **FDA Chief Counsel 2005-2007**,
 later a King & Spalding FDA and Life Sciences partner, currently listed as a
 "Chief Regulatory Officer" at an employer we have **not** identified. He testified
-for BBHW before Ohio legislative committees, characterising 7-OH as "a synthetic
+for BBHW before Ohio legislative committees, characterizing 7-OH as "a synthetic
 drug" produced by "bad actors" by "exposing alkaloids to harsh, toxic agents." [S]
 
 **[I]** A former FDA Chief Counsel and a former White House Cabinet Affairs senior

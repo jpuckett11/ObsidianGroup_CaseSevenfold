@@ -67,7 +67,7 @@ obtained.
 Kentucky and Tennessee.** A ruling there on how far a state may go in regulating these
 products would be binding law in **the state that banned kratom outright** (Finding 44).
 
-**[I] Labelled as inference and worth stating carefully.** *Titan Logistics* and *Delta
+**[I] Labeled as inference and worth stating carefully.** *Titan Logistics* and *Delta
 Beverages* are hemp cases, not kratom cases, and Finding 41 was corrected once already
 for blurring that line. **A Sixth Circuit holding on the Dormant Commerce Clause and
 state police powers in the hemp context would not automatically decide a kratom case.**

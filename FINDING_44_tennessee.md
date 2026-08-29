@@ -59,7 +59,7 @@ none of them is care:
 
 | Section | What it does |
 |---|---|
-| **2** | Creates the possession, sale and manufacture offences |
+| **2** | Creates the possession, sale and manufacture offenses |
 | **4** | County medical examiners **must test decedents for kratom** in suspected overdose autopsies |
 | **5** | Treating physicians ordering toxicology for **suspected overdose or suspected neonatal abstinence syndrome must test for kratom** |
 | **6** | Labour commissioner must add kratom to the **drug-free workplace** drug definition |
@@ -123,7 +123,7 @@ attaches to it, but it is not nothing and this case should say so.**
 ## 6. The scale, which is the investigator's point and is the right one
 
 Finding 43 found Utah cutting **$6,161,003** of treatment to **$1,600,000**. This
-finding finds Tennessee appropriating **nothing** and creating a criminal offence.
+finding finds Tennessee appropriating **nothing** and creating a criminal offense.
 
 **Set those against the size of the problem.** `REMEDIATION.md` section 5 cites
 *Frontiers in Public Health* 2026, DOI `10.3389/fpubh.2026.1824038`: the estimated
@@ -134,7 +134,7 @@ annual economic burden of opioid-related serious adverse events and undertreatme
 
 | | Amount | As a share of $425B/yr |
 |---|---|---|
-| Utah treatment programmes expiring | $6,161,003 | **0.0014%** |
+| Utah treatment programs expiring | $6,161,003 | **0.0014%** |
 | Utah's proposed replacement | $1,600,000 | **0.00038%** |
 | Utah recovery grants rescinded 5 Mar 2026 | $419,900 | **0.0001%** |
 | Tennessee's appropriation | **$0** | **0%** |

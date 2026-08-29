@@ -252,7 +252,7 @@ Stating these plainly because the market fight tends to bury them.
 **[I]** Both sides of this commercial fight are selling an opioid. The
 documented body count attaches substantially to the leaf/mitragynine products
 that the scheduling action leaves on the shelf. Any OWG output must not read as
-a defence of 7-OH.
+a defense of 7-OH.
 
 ---
 
@@ -312,7 +312,7 @@ those unable to work.** Finding 45 was about people who left the labour force; *
 what happened to a quarter of them before they were adults.** **CDC lifetime cost per
 nonfatal child maltreatment case: $830,928** (2015 dollars, so conservative).
 **Nurse-Family Partnership full course, pregnancy to age 2, is $4,000/yr x 2.5 =
-$10,000.** **That is 83 to 1. The programme does not have to work often to pay for
+$10,000.** **That is 83 to 1. The program does not have to work often to pay for
 itself; it has to work once in eighty-three times.** At cohort scale, serving every
 first-time Medicaid-covered mother in America is **$4.9 billion once per cohort**,
 returning **$27.8B at RAND's conservative $5.70 per dollar** and $46.6B at the higher
@@ -325,7 +325,7 @@ addresses the 42.4 million already here, prevention addresses whether there are 
 million more. **Both are now priced in this file and neither is being done.** Section 7
 names the real weakness: the $830,928 is per maltreatment case, not per addiction case,
 so section 3 compares two published costs rather than claiming one prevents the other,
-and the NFP ratios come from the programme's own evaluators and RAND rather than from
+and the NFP ratios come from the program's own evaluators and RAND rather than from
 WSIPP, which was not obtained.
 
 **2026-08-29, Finding 51: "I was not born an addict. My childhood made me one." The
@@ -400,7 +400,7 @@ unfunded mandate on county coroners**, where Utah appropriated $286,800 to court
 $360,000 to crime labs for the same kind of cost. **West Virginia's fee revenue,
 computed from the actual registry (418 products, 31 registrants): $83,600 + $9,300 =
 ~$92,900 a year, which treats fourteen people.** **[I]** The 11% privilege tax,
-scaled from national market estimates by population share and **labelled soft**, yields
+scaled from national market estimates by population share and **labeled soft**, yields
 roughly **$756,000 to $1,162,000**, or **115 to 177 people**. **A FOIA to the WV Tax
 Commissioner replaces that estimate with a fact.** **The honest answer to whether these
 revenues could treat everyone is no**, and not close: WV's ~221,000 untreated would
@@ -425,7 +425,7 @@ Fund to justice agencies: $1,905,400.** And the **Department of Agriculture and 
 which actually runs the registry, was cut $120,600.** **Set that against Finding 43:
 Utah's proposed FY27 appropriation for ALL opioid remediation is $1,600,000.** **Utah
 budgeted more recurring money to police, imprison, supervise and prosecute around one
-kratom statute than it budgeted for its entire opioid remediation programme. 1.19 to
+kratom statute than it budgeted for its entire opioid remediation program. 1.19 to
 1.** The largest single line, **$915,000, supervises people after conviction.** From
 the same session, H.B. 8 sets what the state charges: **Kratom Product Registration
 $475**, **Alkaloid Potency Testing $141**, pesticide $194, heavy metal $134, mycotoxin
@@ -562,7 +562,7 @@ its decisive unresolved question and Utah is the file's best-documented state.
 Bill: None," and the word "treatment" appears zero times** (kratom appears 93, so the
 control works). H.B. 387 identical. **A regulatory bill not appropriating proves
 nothing, so we checked the budget.** In FY24 Utah appropriated **$7,061,033 ongoing**
-to opioid remediation and **it expires at the end of FY26**. The expiring programmes:
+to opioid remediation and **it expires at the end of FY26**. The expiring programs:
 PATH treatment for pregnant individuals **$933,333**, ED/urgent care MOUD induction
 **$1,200,000**, **MOUD in jails $1,000,000** which the state's own document says has
 **"no other funding"**, FQHC OUD treatment access **$1,300,000**, prevention
@@ -570,11 +570,11 @@ PATH treatment for pregnant individuals **$933,333**, ED/urgent care MOUD induct
 percent** cut. On **5 March 2026** the Executive Appropriations Committee **rescinded**
 grants of **$150,000 to Fit to Recover** and **$100,000 to the School of Addiction
 Recovery**, and cut **Jacky's Recovery Support Services from $269,900 to $100,000**,
-**$419,900 removed from three recovery organisations in one sitting**. And the money is
+**$419,900 removed from three recovery organizations in one sitting**. And the money is
 not gone but locked: **$543 million over 17 years**, with HB 10 (2025) restricting
 future spending to **interest only**. **The steelman is stated in the finding:** an
 endowment is a defensible design. **What it does is fund a person in 2041 and not the
-one in the jail programme now.** Chronology is stated precisely because the cuts came
+one in the jail program now.** Chronology is stated precisely because the cuts came
 **before** the July poison control alert and death, and **no causal claim is made.**
 Corrects Finding 42 in one direction too: **Utah does fund treatment**, just less of it,
 in the same months it regulated a product for nothing and won a federal lawsuit about
@@ -606,7 +606,7 @@ where states wrote protectionist laws.** **[P]** Ohio TRO order and Missouri com
 obtained and hashed. **Neither case is about kratom** (Missouri: kratom 0, hemp 189;
 Ohio TRO: kratom 0). They are in this file because **Lifted Liquids is a plaintiff in
 both**, the same company behind the Roxy 7-OH tablets in Finding 39. **Ohio SB 56 let a
-company hold a licence only if its products were "sourced, manufactured, and
+company hold a license only if its products were "sourced, manufactured, and
 distributed solely within Ohio."** Judge Jeffrey J. Helmick granted a TRO on **7 August
 2026**, extended 19 August to **4 September**, on Commerce Clause discrimination, and
 stated the governing rule: **"absent discrimination, a State may exclude from its
@@ -731,12 +731,12 @@ facts *"support a reasonable belief that, if proven, the Government would be abl
 successfully meet its burden."* Gelpí, Circuit Judge, sitting by designation. That
 motion had been pending **two years and seven months**. **[S] Twelve days later, on 22
 December 2025, the government filed a Notice of Dismissal without prejudice**, sourced
-only to the claimant's own press release, and labelled as such. **[P] And the operative
+only to the claimant's own press release, and labeled as such. **[P] And the operative
 amended complaint alleges what nobody in this case had seen: the United States told a
 federal court that KRATOM ITSELF, the leaf, was "adulterated within the meaning of 21
 U.S.C. 342(f)(1)(B)"**, citing *"addiction, and liver toxicity."* Not 7-OH. The seized
 articles were 250,000 bottles of feel free, capsules, and bulk leaf powder. **The
-company then announced the dismissal as regulators recognising leaf versus synthetic,
+company then announced the dismissal as regulators recognizing leaf versus synthetic,
 and six months later the federal rule drew exactly that line.** This complicates our own
 thesis and the finding says so: the failure here is not that the government did not act.
 It acted, prevailed, and abandoned it. Exhibits hashed in `exhibits/litigation/`.
@@ -808,7 +808,7 @@ alkaloid from the Cat's Claw plant to mirror the effects of popular kratom
 products**," producing "a **non-kratom product with kratom-like effects**," and a
 retailer states the rationale outright: "**Cat's Claw is a recognized botanical and
 is not a controlled substance, so Buzzers ship nationwide**." Marketed as "clarity,
-focus, and high-functioning energy." **A state poison control centre names the same
+focus, and high-functioning energy." **A state poison control center names the same
 brand in connection with multiple severe overdoses and a death.** Sold as an upper,
 killing people as an opioid. Both brands Utah named, Buzzers and Homiez, are sold
 from the same site. **Five pages captured and SHA-256 hashed 2026-08-28 before they
@@ -858,7 +858,7 @@ OWG does not seek restriction of genuine cat's claw and would oppose it.
 The **Utah Poison Control Center** (22 July 2026) warns of smoke-shop products sold
 as **"Cat's Claw"** causing "life-threatening opioid overdose, dependence, or
 withdrawal," naming **Buzzers** and **Homiez** brands, adulterated with **7-OH,
-mitragynine pseudoindoxyl, MGM-15 or MGM-16** and not labelled as containing them.
+mitragynine pseudoindoxyl, MGM-15 or MGM-16** and not labeled as containing them.
 A **death** was linked to Buzzers-brand Cat's Claw tablets on 30 July 2026.
 Separately, a recovery community documents products **lawfully built on corynoxine
 B** to dodge the 7-OH scheduling. **Finding 28's reassurance is retracted:** it
@@ -896,7 +896,7 @@ comment.** **9-hydroxycorynantheidine is a major circulating human metabolite of
 mitragynine** (Kanumuri 2026, clinical, DOI 10.1080/13880209.2026.2715806), not the
 "minor plant alkaloid" our own third comment called it. In rats it is a **major**
 metabolite while **7-OH is minor** (Chiang 2025, DOI 10.1021/acsptsci.4c00277,
-labelled as animal data). Separately, the rule's absolute limit turns on the word
+labeled as animal data). Separately, the rule's absolute limit turns on the word
 **"article", which the rule never defines**: forty pressed pills at 0.9 mg each are
 individually compliant and deliver 36 mg in a bag. And against FDA's own leaf data,
 **10 g of average leaf already equals the 1.00 mg absolute limit.**
@@ -922,7 +922,7 @@ web form, two messages. Carries the corynantheidine gap, Mitradyne's claims 5, 6
 8 and 11 for independent verification, and the three scope questions. Raises the
 Mullin holding once, with the sequencing that matters: **the nominee disclosure
 was filed 2026-03-17 and she signed the Makary letter 2026-03-18, one day later.**
-Opens with the finding that favours her, that she has taken nothing from this
+Opens with the finding that favors her, that she has taken nothing from this
 industry. No tracking number is issued; the confirmation page is the receipt.
 **Note: an earlier email to `senator@blackburn.senate.gov` returned 550 User
 Unknown. There is no email route to a Senate office.**

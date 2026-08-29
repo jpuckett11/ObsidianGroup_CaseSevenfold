@@ -17,7 +17,7 @@ X-waiver** — the separate DEA registration a clinician previously needed befor
 prescribing buprenorphine.
 
 That was the single most-cited regulatory barrier in the field for a decade. Advocacy
-organisations asked for its removal for years. **Congress removed it.**
+organizations asked for its removal for years. **Congress removed it.**
 
 **Anyone arguing that Congress has ignored this has to account for that, and this
 case accounts for it here.**
@@ -54,7 +54,7 @@ prescription that nobody funds.**
 to act. It is that **the action taken was the one that cost nothing.**
 
 Removing a registration requirement is free. It requires no appropriation, no
-programme, no staff, and it produces a bill anyone can sign. **Funding prescriber
+program, no staff, and it produces a bill anyone can sign. **Funding prescriber
 capacity, coverage past the taper, and the structure that follows treatment costs
 money every year forever.**
 

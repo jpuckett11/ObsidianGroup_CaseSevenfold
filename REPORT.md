@@ -190,7 +190,7 @@ Across the entire decade-long record, DEA appears six times, all in 2016. The
 agency that issued the order is nearly absent from the lobbying. The persuasion went
 through health and the White House.
 
-On the other side of this fight, the organisation formed to defend 7-OH disclosed
+On the other side of this fight, the organization formed to defend 7-OH disclosed
 **$10,000**. The American Kratom Association alone outspent it about 300 to 1.
 
 ### The laws were drafted by the trade association
@@ -205,7 +205,7 @@ law that removed FDA's authority over this category in the first place. He is th
 second most active individual lobbyist in the entire federal kratom record we
 pulled. He built the door and he has spent thirty years standing in it.
 
-Its certification programme costs member companies $5,000 a year. Two auditors told
+Its certification program costs member companies $5,000 a year. Two auditors told
 the Times it is close to a rubber stamp. Brands it certifies appear in at least
 seven Florida death reports where a medical examiner blamed kratom alone.
 
@@ -239,7 +239,7 @@ is three related derivatives, finalised on 2026-08-26.
 
 ---
 
-## The part with no defence
+## The part with no defense
 
 Here is what we think the story actually is.
 
@@ -304,7 +304,7 @@ cabinet secretary owns between half a million and a million dollars of is
 what the industry's chief lobbyist has spent years denying. And addiction warnings
 are the category somebody leaned on the FDA to take off its website.
 
-O.P.M.S., the brand at the centre of the supply chain investigation, accounts for
+O.P.M.S., the brand at the center of the supply chain investigation, accounts for
 five deaths and ten hospitalisations. Products naming 7-OH account for seven deaths
 and thirty hospitalisations. Nobody in this fight has clean hands.
 
@@ -322,7 +322,7 @@ it is a good one.
 Mitragynine now has Investigational New Drug status. NIDA is running the first human
 trial of a purified mitragynine formulation, thirty two volunteers, starting this
 September, aimed at treating opioid use disorder. Putting mitragynine in Schedule I
-would obstruct a federal programme trying to treat addiction.
+would obstruct a federal program trying to treat addiction.
 
 That is a real reason, it has nothing to do with anyone's investments, and anybody
 writing about this should say so.
@@ -357,7 +357,7 @@ Now take the advantages away, one at a time, and you have the ordinary purchaser
 He does not know it is an opioid, because the label says botanical supplementation.
 He does not know a serving is a quarter of the tablet he just swallowed whole. He
 has not read the sentence conceding it is habit-forming, because that sentence is
-in a help-centre article and he was on the product page. He has no appointment
+in a help-center article and he was on the product page. He has no appointment
 this month and no coverage if he did. There is no spouse coming home. And when it
 turns, he has no framework for what is happening to him and exactly one
 intervention available at any hour: buy more.
@@ -369,7 +369,7 @@ The harm lands, in the government's own reporting, on people aged twenty-five to
 forty-four, with dependence as the most reported effect after death, and eleven
 reports involving someone under eighteen.
 
-Meanwhile seven organised vehicles and $7.4 million represented the sellers of one
+Meanwhile seven organized vehicles and $7.4 million represented the sellers of one
 product class, one vehicle and $15,000 represented the sellers of the other, and
 nobody at all represented the people becoming dependent. The only consumer-facing
 safety information in the whole affair was federal warning text on an FDA web
@@ -406,7 +406,7 @@ MORE. A state inspector in Colorado told the facility handled a different plant
 entirely. A trucking company hauling it through Alabama, where it is illegal,
 believing it was carrying vitamins.
 
-The man at the centre of that network is Peyton Palaio. His family trust owns
+The man at the center of that network is Peyton Palaio. His family trust owns
 Johnson Foods LLC. Johnson Foods paid for the human trial that FDA cites in the
 scientific assessment justifying all of this, and it lobbies the federal government
 for $130,000 a year through Holland & Knight.

@@ -9,7 +9,7 @@
 ### 1. Two comments, same harm, opposite asks
 
 **`HHS-OASH-2026-0232-7588`** — **Awakening Recovery, Inc.**, filed 2026-07-16.
-An organisation, named on the record:
+An organization, named on the record:
 
 > "We see some our residents, especially in the last year, come into **Awakening
 > Recovery, a nonprofit with recovery homes for men and women**, having **overdosed
@@ -36,7 +36,7 @@ honest state of this question and this case will not pretend it away.
 
 ### 2. On the second commenter, and a boundary this case is keeping
 
-She filed under **initials only**, with no organisation, no city and no state. A
+She filed under **initials only**, with no organization, no city and no state. A
 recovery professional commenting publicly on federal drug policy has obvious reasons
 for that.
 
@@ -56,7 +56,7 @@ control returning 0:
 | "criminalization" | 2,650 |
 
 **Thirteen.** Out of twenty-seven thousand. Her argument, that policy should
-emphasise care over punishment, is made in roughly **0.05%** of the record.
+emphasize care over punishment, is made in roughly **0.05%** of the record.
 
 The 2,650 "criminalization" comments are largely a different argument: kratom
 consumers objecting to losing access. **That is a case for the product. Hers is a
@@ -92,8 +92,8 @@ independently. **We were not first and do not claim to be.**
   `deliverables/allies/APPROACH_awakening_recovery.txt`.
 - **`-18012` is cited, not pursued.**
 - Both comment IDs are recorded so any reader can retrieve the originals.
-- **An actor map of every organisation that put a name on this docket** is at
-  `deliverables/allies/DOCKET_ACTOR_MAP.md`. Thirteen organisations in the first
+- **An actor map of every organization that put a name on this docket** is at
+  `deliverables/allies/DOCKET_ACTOR_MAP.md`. Thirteen organizations in the first
   5,000 comments, which is the API pagination limit. **Four are recovery or
   prevention bodies and are the approach targets.** The docket is otherwise almost
   entirely individuals writing about their own lives, which is worth saying: **this

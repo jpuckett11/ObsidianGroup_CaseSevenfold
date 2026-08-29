@@ -2,7 +2,7 @@
 ## "I was not born an addict. My childhood made me one." The attributable risk fraction is 64 percent, and the genetic framing is the more dangerous claim.
 
 **Status:** The epidemiology is **CONFIRMED [P]** from the primary literature. The
-argument in sections 5 and 6 is **[I]** and labelled throughout.
+argument in sections 5 and 6 is **[I]** and labeled throughout.
 **Analyst:** Aegis, for Obsidian Watch Group. **Date:** 2026-08-29.
 **Opened at the investigator's direction, on a statement made by N-01.**
 
@@ -155,7 +155,7 @@ prevention is where the larger number is.
   and a genetic transmission route. **This is the sharpest objection and it is real.**
 - **We have not verified a heritability point estimate** and deliberately quote none.
 - **N-01's own history is his, not evidence.** This finding tests a general claim
-  against population data. **It does not analyse him and must never be read as doing
+  against population data. **It does not analyze him and must never be read as doing
   so.**
 - **No claim is made that genetics is unimportant**, only that heritability does not
   mean fixed and does not justify not acting.

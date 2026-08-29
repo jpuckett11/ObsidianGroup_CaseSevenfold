@@ -60,7 +60,7 @@ more detail than the public docket.
 >
 > Obsidian Watch Group has collected [N] structured firsthand accounts from users
 > of 7-OH products, and separately documented the lobbying and financial record
-> summarised below. We can make the underlying material available to committee
+> summarized below. We can make the underlying material available to committee
 > staff, including identified accounts where the respondent has consented to
 > that.
 >
@@ -88,7 +88,7 @@ more detail than the public docket.
 ACCOUNT:      SF-A__
 RECEIVED:     YYYY-MM-DD
 CONSENT:      [internal | aggregate | quotes | docket | congress | named]
-PRODUCT:      brand / form / labelled content or "none stated"
+PRODUCT:      brand / form / labeled content or "none stated"
 DURATION:     total period of use
 PRIOR OPIOID: no / past / current / declined
 ONSET:        interval from first use to first missed-dose symptoms

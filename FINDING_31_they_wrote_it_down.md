@@ -99,7 +99,7 @@ present record it is not accurate.
 
 The FTC complaint (`deliverables/ftc/`) rests on a contradiction between two pages
 on one domain: "botanical supplementation" on the sales page, "habit-forming" in
-the help centre.
+the help center.
 
 **This is stronger.** Here the seller is not contradicting itself by accident. It
 is **explaining its method**: extract a similar molecule from a different plant,
@@ -127,7 +127,7 @@ new requested action on the "Legal in all 50 states" claim. The complaint alread
 alleged deceptive presentation.
 This adds a seller stating in writing that the product is formulated to substitute
 for a controlled substance, marketed as an energy supplement, carrying an apparently
-false nationwide-legality claim, and named by a state poison control centre in
+false nationwide-legality claim, and named by a state poison control center in
 connection with multiple overdoses and a death.
 
 **Capture is time-critical and has been done.** Five pages, SHA-256 hashed,

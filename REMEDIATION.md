@@ -3,7 +3,7 @@
 
 **This document is argument, not finding.** Everything in the numbered findings is
 sourced and checkable. This is what Jay Puckett concludes from them, stated
-plainly and labelled as a conclusion so a reader can disagree with it without
+plainly and labeled as a conclusion so a reader can disagree with it without
 disputing the evidence.
 
 ---
@@ -56,7 +56,7 @@ sick. It changes what is on the shelf. It does not change who walks in.
 >
 > A purchaser who has been told the product is botanical supplementation, who has
 > not seen the habit-forming disclosure because it sits on a different page, who
-> has no available appointment and no coverage, and who does not recognise opioid
+> has no available appointment and no coverage, and who does not recognize opioid
 > withdrawal when it begins, **has one immediately available intervention. It is to
 > buy more of the product.**
 
@@ -187,11 +187,11 @@ Puckett got out. What it took:
   what he had been sold
 
 **Most people have none of those four.** The product does not discriminate. Access
-to the exit does. That asymmetry is Finding 19 and it is the centre of this case.
+to the exit does. That asymmetry is Finding 19 and it is the center of this case.
 
 ### The intervention with a dose-response curve
 
-There is one behavioural intervention where paying people is the intervention.
+There is one behavioral intervention where paying people is the intervention.
 **Contingency management**: incentives delivered directly, contingent on negative
 tests.
 
@@ -214,7 +214,7 @@ The full account is **Finding 35**; the short version belongs here.
 
 A federal cap held CM at **$15 per incentive and $75 per patient per year**. The one
 trial that ever tested magnitudes head to head, Petry et al. 2004 in *Addiction*
-(DOI `10.1111/j.1360-0443.2003.00642.x`), randomised cocaine outpatients to standard
+(DOI `10.1111/j.1360-0443.2003.00642.x`), randomized cocaine outpatients to standard
 care, CM at a maximum of $80, and CM at a maximum of $240. **The $240 arm beat
 standard care. The $80 arm did not.** The $80 arm is the closest thing that exists to
 a test of the cap itself. The effective floor in the wider literature is roughly
@@ -236,7 +236,7 @@ more years, until **January 2025**, when it raised the limit to **$750 per patie
 per year** — a level the evidence supports.
 
 It is still only half fixed. $750 sits **above** the anti-kickback safe harbor
-(**$623 per patient for 2026**), so programmes at that level operate on
+(**$623 per patient for 2026**), so programs at that level operate on
 prosecutorial discretion rather than protection; the safe harbor excludes the gift
 cards SAMHSA instructs grantees to use; and the $750 reaches only State and Tribal
 Opioid Response grants, not Medicaid, which is the largest public funder of this
@@ -312,7 +312,7 @@ two, is **$4,000 a year for 2.5 years, so $10,000.** The **CDC lifetime cost of 
 nonfatal child maltreatment case is $830,928.**
 
 **That is 83 to 1, and it is not a model.** It is one published cost divided by another.
-**The programme does not have to work often. It has to work once in eighty-three
+**The program does not have to work often. It has to work once in eighty-three
 times.**
 
 Serving **every first-time Medicaid-covered mother in America** for a full course is
@@ -370,7 +370,7 @@ and funding, not measurability.
 
 *International Journal of Offender Therapy and Comparative Criminology*, 2023,
 DOI **10.1177/0306624X231159886**, on prison vocational education, using propensity
-score matching to correct for who volunteers for these programmes:
+score matching to correct for who volunteers for these programs:
 
 > "**After matching, there were no differences in any outcome** between those who
 > obtained vocational certificates and the comparison group."
@@ -423,11 +423,11 @@ scheduled within months. The question of what happens to the person has been
 
 This is not a slogan. **It is a specific mechanistic claim, it has a name in the
 scientific literature, and the evidence for it is stronger than the evidence for
-the vocational programmes in section 6.**
+the vocational programs in section 6.**
 
 ### The model already exists. It is called reinforcer pathology.
 
-The behavioural-economic model of addiction holds that substance problems are
+The behavioral-economic model of addiction holds that substance problems are
 driven by three things together (*Experimental and Clinical Psychopharmacology*
 2024, DOI 10.1037/pha0000735):
 
@@ -441,7 +441,7 @@ only thing that was working.
 
 ### The evidence, and the detail that vindicates the exact wording
 
-Secondary analysis of **Project MATCH**, a multisite randomised clinical trial
+Secondary analysis of **Project MATCH**, a multisite randomized clinical trial
 (*Experimental and Clinical Psychopharmacology* 2024, DOI 10.1037/pha0000713):
 
 > "higher **relative-reinforcement value (RRV)** of alcohol-free activities
@@ -453,7 +453,7 @@ Secondary analysis of **Project MATCH**, a multisite randomised clinical trial
 
 How *much* someone did a substance-free activity mattered less than how much they
 **valued** it. That is the difference between an occupation and a passion, measured
-in a randomised trial, and it is precisely why section 6's vocational certificates
+in a randomized trial, and it is precisely why section 6's vocational certificates
 did nothing. **A certificate is frequency. A passion is value.**
 
 ### There is a biological substrate, in animals
@@ -531,7 +531,7 @@ population that arrived at the shop counter having already been failed once, by
 adults, before they could consent to any of it. **The product that gets sold to
 them as "botanical supplementation" is the second betrayal, not the first.**
 
-### The part that is hypothesis, and is labelled as one
+### The part that is hypothesis, and is labeled as one
 
 **[I] That this population is well-matched to technical investigative work is the
 researcher's hypothesis and is not established by anything cited here.** Searches
@@ -540,7 +540,7 @@ usable.
 
 What can be said is that it is **coherent with the model in this section**.
 Reinforcer pathology says recovery requires a non-drug activity of high relative
-reinforcement value. ADHD is characterised in part by difficulty sustaining
+reinforcement value. ADHD is characterized in part by difficulty sustaining
 attention on low-interest tasks and, anecdotally and clinically, intense sustained
 focus on high-interest ones. **An occupation that rewards pattern-hunting,
 deep focus and novelty is a plausible high-RRV candidate for exactly this
@@ -563,7 +563,7 @@ any finding, or in any filing rests on it, and nothing will.
 
 **What it can do is demonstrate rather than prove.** Part of why the trial in s11
 has never been funded is that nobody can picture what the intervention looks like in
-practice. A demonstration is not a substitute for a randomised trial and is not
+practice. A demonstration is not a substitute for a randomized trial and is not
 offered as one.
 
 **Why disclose at all.** Because someone would find it, and a conflict this case
@@ -574,7 +574,7 @@ No detail of that test appears in this case, and none will.
 
 ### What this means for what to fund
 
-Section 5 established that money contingent on the behaviour works and
+Section 5 established that money contingent on the behavior works and
 unconditional money is mixed at best. Section 6 established that a certificate
 alone does nothing. This section supplies the reason both are true:
 
@@ -589,12 +589,12 @@ already pulls them is the only one of the three that acts on the mechanism the
 literature says is driving the disorder.**
 
 **Nobody has run that trial directly.** Reinforcer pathology is well-established as
-a model, RRV predicts outcomes, and enrichment works in animals. **A randomised
+a model, RRV predicts outcomes, and enrichment works in animals. **A randomized
 trial of "train people in what they love" as an addiction intervention does not
 appear in the literature reviewed.** That is the gap section 9 asks to be funded,
 and it is a cheap question to answer relative to $425 billion a year.
 
-## 8. The grey literature: this has a name, a measure, and working programmes
+## 8. The grey literature: this has a name, a measure, and working programs
 
 Sections 6 and 7 drew on journals. The policy literature is where this hypothesis
 actually lives, and it is further along than the journals suggest.
@@ -650,7 +650,7 @@ Growth is what a passion produces and a job does not guarantee. This is the
 strongest single piece of evidence for Puckett's exact formulation
 anywhere in this document.
 
-### Programmes already built on it
+### Programs already built on it
 
 **RecoveryWorks** (*Frontiers in Psychiatry* 2026, DOI 10.3389/fpsyt.2026.1751052):
 
@@ -659,7 +659,7 @@ anywhere in this document.
 > to generate reciprocal gains in personal and community recovery capital."
 
 That is the package-versus-component distinction from section 6, built into a
-running programme by people who reached it independently.
+running program by people who reached it independently.
 
 ### The international standard already says it
 
@@ -686,9 +686,9 @@ kill people.**
 ### What is actually missing
 
 Not the theory. Not the instrument. Not the international standard. Not the pilot
-programmes.
+programs.
 
-**The randomised trial, and the money.** The gap identified in s7 survives
+**The randomized trial, and the money.** The gap identified in s7 survives
 contact with the grey literature: nobody has run a trial that trains people in what
 they already care about and measures relapse against a control.
 
@@ -775,7 +775,7 @@ Not prohibition. Not a plant ban. We have said so on the docket in writing.
    measure indifferent to scaffold reaches the next compound automatically. A list
    never will. And **define "article"** — as written, forty pills at 0.9 mg each are
    each compliant and deliver 36 mg in one bag (Finding 18).
-2. **Enforce the labelling law that already exists.** A product sold as
+2. **Enforce the labeling law that already exists.** A product sold as
    "botanical supplementation" while the seller's own help page concedes it is
    habit-forming needs no new statute. It needs Section 5.
 3. **Fund the exit.** Prescriber capacity, coverage past the taper, and the
@@ -954,7 +954,7 @@ symptom, and it is the one nobody has funded.
 ## 14. How to check this document
 
 **This section exists so a hostile reader does not have to trust us.** Every claim
-above is either a citation, an arithmetic step shown in full, or something labelled
+above is either a citation, an arithmetic step shown in full, or something labeled
 as opinion. Here is how to break it if it is wrong.
 
 ### The numbers
@@ -972,7 +972,7 @@ as opinion. Here is how to break it if it is wrong.
 ### The literature
 
 **Sixteen DOIs are cited.** Every quotation is verbatim and attributed. Where a
-study is in animals it is labelled as animal data in the same sentence (s7
+study is in animals it is labeled as animal data in the same sentence (s7
 enrichment, s4 rat PK). Where a finding cuts against us it is quoted in full rather
 than paraphrased (s6, the null result on vocational certificates).
 
@@ -980,8 +980,8 @@ than paraphrased (s6, the null result on vocational certificates).
 
 Section 9 is Puckett's conclusion, in quotation marks, with a line stating
 that no reader is asked to adopt it. **[I]** marks inference throughout. The
-"passion" mechanism in s7 is labelled as hypothesis, and the document states plainly
-that **no randomised trial of it exists**.
+"passion" mechanism in s7 is labeled as hypothesis, and the document states plainly
+that **no randomized trial of it exists**.
 
 ### Where we have already been wrong, in this document
 

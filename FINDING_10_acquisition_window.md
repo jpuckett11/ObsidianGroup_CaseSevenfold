@@ -2,7 +2,7 @@
 ## Dating the acquisition: the Form D, and a correction to Finding 01
 
 **Status:** the offering is CONFIRMED from SEC primaries. Mullin's participation in
-it is **INFERENCE, clearly labelled and not established.**
+it is **INFERENCE, clearly labeled and not established.**
 **Date:** 2026-08-27.
 
 ---
@@ -60,7 +60,7 @@ appeared in a PTR either.**
 
 **[I]** His office does not treat private-company interests as PTR-reportable. The
 absence of Botanic Tonics from the PTRs is therefore **normal practice, not
-evidence of concealment,** and must not be characterised as a violation.
+evidence of concealment,** and must not be characterized as a violation.
 
 ### 3. What the record does still show
 
@@ -75,7 +75,7 @@ CY2024 annual. So an interest held on **2024-12-31** should appear there.
   $500,001-$1,000,000, **Part 7 Transactions marked "Not required for this type of
   report."**
 
-### 4. The hypothesis, labelled as such
+### 4. The hypothesis, labeled as such
 
 **[I] Most consistent with all available evidence:** Mullin acquired his interest
 in the **final tranche of this offering, between 2025-01-01 and 2025-01-07**, or

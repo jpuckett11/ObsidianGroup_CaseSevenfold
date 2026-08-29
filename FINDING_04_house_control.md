@@ -49,7 +49,7 @@ district. Reported lobbying income $0 to date.
 the RNC money, taking the anti-kratom position and represented by a former member
 of Congress. Its funders are unknown and it is worth knowing whether this is
 genuine opposition or a controlled counterweight. **Nothing currently supports
-either reading. Do not characterise it until funded.**
+either reading. Do not characterize it until funded.**
 
 **Outpost Brands, LLC** — registered via **Akin Gump Strauss Hauer & Feld**,
 registration only, no reported spend. Unidentified.

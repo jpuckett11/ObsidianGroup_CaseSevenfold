@@ -68,13 +68,13 @@ labs, and it cut the agriculture department that actually administers the regist
 |---|---|
 | **Ongoing money to justice agencies to implement the kratom law** | **$1,905,400** |
 | Proposed FY27 appropriation for **all** opioid remediation (F43) | **$1,600,000** |
-| Opioid treatment programmes expiring end FY26 (F43) | -$6,161,003 |
+| Opioid treatment programs expiring end FY26 (F43) | -$6,161,003 |
 | Recovery grants rescinded or cut, 5 March 2026 (F43) | -$419,900 |
 | Money to the agency that regulates kratom | **-$120,600** |
 
 **Utah appropriated more recurring money to police, imprison, supervise and prosecute
 around one kratom statute than it proposed for its entire opioid remediation
-programme.** $1,905,400 against $1,600,000. **A ratio of 1.19 to 1.**
+program.** $1,905,400 against $1,600,000. **A ratio of 1.19 to 1.**
 
 **And the largest single line is $915,000 for Adult Probation and Parole**, which is
 money to supervise people after conviction.
@@ -103,7 +103,7 @@ that runs the testing by $120,600.**
 | State | Where the kratom money goes |
 |---|---|
 | **Utah** | **$1,905,400/yr to crime labs, prisons, parole and courts. Regulator cut $120,600. Treatment cut 74%** |
-| **Tennessee** | Possession a Class A misdemeanor. Kratom struck from the treatment-centre statute |
+| **Tennessee** | Possession a Class A misdemeanor. Kratom struck from the treatment-center statute |
 | **West Virginia** | **11% privilege tax, every dollar to the Agricultural Fees Fund for "administering and enforcing"** |
 
 **[I]** Finding 42 argued that governments act on the molecule and not on the person.

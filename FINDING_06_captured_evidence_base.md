@@ -51,7 +51,7 @@ incidental citation. In the same window Johnson Foods:
 
 Buy the science, file the notification, lobby the regulator. Each step is lawful
 on its own. Together they are a coordinated campaign to convert a contested
-product into a federally recognised one, and the resulting paper is now load
+product into a federally recognized one, and the resulting paper is now load
 bearing in a rule that removes that product's competitors.
 
 **Ramsey Atallah is Chief Science and R&D Officer at Botanic Tonics** [S], is an
@@ -68,7 +68,7 @@ competitors includes a human pharmacokinetics study:
 - **authored entirely by** that company's paid consultants,
 - **one of whom** is the chief scientist of a second leaf-kratom company holding
   a sitting cabinet secretary's investment, and a consultant to the sector's
-  largest lobbying organisation.
+  largest lobbying organization.
 
 **[I]** This is a materially stronger and more portable finding than the Mullin
 conflict, because it does not require anyone's motive to be established. It is
@@ -117,11 +117,11 @@ Author surname frequency across the assessment's bibliography:
 | Leon | 8 |
 | McMahon | 7 |
 
-**[I]** A single research group, centred on the University of Florida's
-NIDA-funded kratom programme, supplies a large share of the underlying science.
+**[I]** A single research group, centered on the University of Florida's
+NIDA-funded kratom program, supplies a large share of the underlying science.
 That is normal for a small field and is **not** in itself evidence of capture.
 It does mean the evidence base is narrow, and that funding relationships across
-that group are worth establishing before anyone characterises the record as
+that group are worth establishing before anyone characterizes the record as
 independent. **No adverse finding is made about these researchers here.**
 
 ### 6. Next
@@ -194,7 +194,7 @@ publication date **remains open**. The company bio remains the only source for t
 title itself. And a career move is not misconduct. Scientists change employers.
 
 We record it because the pattern in Section 1 of this finding — fund the study,
-file the notification, lobby the regulator — is a recognisable one, and the person
+file the notification, lobby the regulator — is a recognizable one, and the person
 executing the science leg of it learned the regulatory-science trade at the
 company that made that pattern infamous. That is context a reader is entitled to
 have when weighing how much load the paper should carry in a federal rule.

@@ -37,7 +37,7 @@ The same paper groups it with the scheduled compound on stability:
 **In humans, 9-hydroxycorynantheidine is one of the two major circulating
 metabolites of mitragynine.** Anyone who takes kratom produces it.
 
-### 3. Animal data, labelled as such [P, rat]
+### 3. Animal data, labeled as such [P, rat]
 
 **Chiang et al. (2025), *ACS Pharmacology & Translational Science* 7:2452-2464,
 DOI 10.1021/acsptsci.4c00277.** Multiple-dose steady-state PK, male and female

@@ -77,7 +77,7 @@ survey, so the homeless and incarcerated are structurally excluded.
 
 **Take away those 42.4 million and every company in this file has no customers.**
 
-`REMEDIATION.md` is the argument, labelled as argument, with 16 citations and its own
+`REMEDIATION.md` is the argument, labeled as argument, with 16 citations and its own
 falsification criteria.
 
 ---

@@ -130,13 +130,13 @@ session the state let 940 people's worth of treatment expire.
 
 - **Section 4 is an estimate built on commercial market-research figures** that vary by
   more than 50 percent between sources. **It is not evidence of anything and it is
-  labelled `[I]`.** The FOIA replaces it.
+  labeled `[I]`.** The FOIA replaces it.
 - **The prevalence arithmetic in section 5** applies national NSDUH rates to West
   Virginia's population. **State-specific rates differ and WV's are likely higher.**
 - **Fee revenue in section 3** assumes every registered product and registrant pays
   annually and that the registry is current. **418 rows is what the 14 August 2026 list
   contains.**
-- **"People treated" throughout is medication cost only.** It excludes counselling,
+- **"People treated" throughout is medication cost only.** It excludes counseling,
   staffing, facilities and the wraparound support Finding 35 shows is the real barrier.
   **A treatment slot costs more than a prescription.** The comparison is like-for-like
   against Utah's own line items, not a claim that $6,552 buys recovery.

@@ -110,7 +110,7 @@ in-state preference to attack.
 | State | Product | The defect | Outcome |
 |---|---|---|---|
 | **Utah** | kratom | **none. Clean prohibition, applied to all** | **Injunction DENIED** |
-| **Ohio** | hemp | licence only if **sourced, manufactured and distributed solely within Ohio** | **TRO GRANTED** |
+| **Ohio** | hemp | license only if **sourced, manufactured and distributed solely within Ohio** | **TRO GRANTED** |
 | **Missouri** | hemp | legal only if **grown and manufactured entirely in Missouri** | pending |
 
 ## 5. The conclusion, and it is the useful part
@@ -140,11 +140,11 @@ more to them than anything else in this case file.
 ## 6. What is NOT established
 
 - **We have read the Ohio TRO order and the Missouri complaint. We have not read the
-  Ohio complaint, Ohio's brief, or any Missouri response.** Ohio's substantive defence,
+  Ohio complaint, Ohio's brief, or any Missouri response.** Ohio's substantive defense,
   if it ever files one, is not in this record.
 - **A TRO is not a ruling on the merits.** It is a finding of likely success. The Ohio
   preliminary-injunction decision was due after 26 August 2026 and we do not have it.
-- **The Missouri characterisation of HB 2641 is the plaintiffs' own**, from their
+- **The Missouri characterization of HB 2641 is the plaintiffs' own**, from their
   complaint. We have not read the statute.
 - **Whether the Utah and Ohio outcomes differ because of hemp versus kratom** rather
   than because of the protectionism clause is **not established.** Hemp has an express

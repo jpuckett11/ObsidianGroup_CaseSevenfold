@@ -130,7 +130,7 @@ misusing this document.**
 
 ### 5. What it does establish
 
-**The boundary of this rule is a genus name, and the pharmacology is not organised
+**The boundary of this rule is a genus name, and the pharmacology is not organized
 by genus.**
 
 Trace the line the federal action draws:

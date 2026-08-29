@@ -61,7 +61,7 @@ FIELD BY FIELD  (* = the form will not submit without it)
       The dropdown offers Need to Inform Public / Danger to Human Life / Other.
       Take Danger to Human Life. It is the stronger statutory ground and the
       facts support it: a death linked to one of these products in Utah County,
-      multiple severe overdoses logged by a state poison control centre, and the
+      multiple severe overdoses logged by a state poison control center, and the
       products still on shelves. Block 3 below has been rewritten to argue that
       ground first and the inform-the-public ground second, so the dropdown and
       the justification now agree. They did not in the earlier draft.

@@ -19,14 +19,14 @@ Smith, PhD, Executive Director, HART**, addressed to **Admiral Brian Christine,
 Assistant Secretary for Health.** Held at
 `exhibits/docket_HART_extension_request.pdf`.
 
-**[I] CORRECTED 2026-08-27. Our first characterisation of this was wrong and is
+**[I] CORRECTED 2026-08-27. Our first characterization of this was wrong and is
 withdrawn.**
 
 We initially called this answer "exonerating" and described HART as "the
 underfunded side asking for more time." **That framing let a spending disparity do
 the work of a moral distinction, and it should not have.**
 
-HART is a **501(c)(4) industry organisation**. Its constituency is companies that
+HART is a **501(c)(4) industry organization**. Its constituency is companies that
 sell 7-OH. A longer comment period is additional months of lawful sales for those
 companies. That is a trade association protecting member revenue through a
 separate legal entity, which is structurally identical to what Botanic Tonics does
@@ -34,7 +34,7 @@ through Stop Gas Station Heroin, the Global Kratom Coalition and the Kratom Trad
 Association, and to what an unnamed funder does through Botanicals for Better
 Health and Wellness.
 
-**The correct reading: every organised actor in this docket is an industry vehicle.
+**The correct reading: every organized actor in this docket is an industry vehicle.
 The leaf side has seven of them and $7.4M. The 7-OH side has one and $15,000. The
 asymmetry is real and it is about capacity, not virtue.** Neither side is the
 consumer's representative.
@@ -87,11 +87,11 @@ Full-text search across them:
 | Botanic Tonics | 220 |
 | MIT45 | 2 |
 
-**[I] These counts overlap heavily and indicate organised template campaigns
+**[I] These counts overlap heavily and indicate organized template campaigns
 rather than 27,000 independent submissions.** Nearly half the docket carries the
 American Kratom Association's name. Treat the raw comment count as a measure of
 mobilisation capacity, not of public opinion. **Do not cite these numbers as
-distinct organisational filings; they are text matches.**
+distinct organizational filings; they are text matches.**
 
 ### 4. The institutional filings, now held
 

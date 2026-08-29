@@ -151,7 +151,7 @@ FOIA for a question the public record may already answer.** That is worth checki
 before the FOIA is filed, not after.
 
 **Botanic Tonics appears as plaintiff far more than as defendant.** Six of the eight
-confirmed cases have it suing someone. This case has so far characterised the company
+confirmed cases have it suing someone. This case has so far characterized the company
 through its own litigation exposure. **We have not looked at what it does with
 litigation offensively, and we should not describe the company's posture until we
 have.** `[U]` — we have read none of these dockets, only their captions.

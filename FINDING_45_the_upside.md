@@ -100,7 +100,7 @@ than treating their kidney disease.**
 
 Nobody argues that dialysis is a lifestyle choice that the patient should fund
 privately or go without. **Finding 44 records a state making possession of the
-substance a criminal offence and appropriating nothing.** The cost difference between
+substance a criminal offense and appropriating nothing.** The cost difference between
 those two policy postures is about **$1,000 a year per person.**
 
 ## 6. Where this estimate is weak, stated plainly

@@ -111,7 +111,7 @@ The Times bought and tested **20 products** at University of Florida labs.
   capsules
 - K Shot Black: 114 mg mitragynine + 24 mg speciociliatine, neither on the label
 - Researcher-recommended daily limit (Sharma): **40 mg mitragynine**
-- **7ΩHMZ pill packet, $29.99: characterised by UF's Abhisheak Sharma as
+- **7ΩHMZ pill packet, $29.99: characterized by UF's Abhisheak Sharma as
   comparable to "legal morphine"**
 
 **[I] This substantially reinforces Finding 05.** Sharma is cited **11 times** in
@@ -133,7 +133,7 @@ belongs with the incumbents.
 
 Corrected asymmetry:
 - leaf / pro-ban side: **$4,871,000**
-- organised 7-OH defence (HART alone): **$10,000**
+- organized 7-OH defense (HART alone): **$10,000**
 - **ratio: roughly 487 : 1**
 
 ### 6. AKA-endorsed brands linked to deaths
@@ -145,7 +145,7 @@ medical examiner blamed kratom alone**. Remarkable Herbs Maeng Da was the
 strongest powder tested and is linked to 7+ Florida deaths.
 
 **[I]** The trade association that wrote the state laws also runs the paid
-certification programme that endorses brands appearing in fatal overdose reports.
+certification program that endorses brands appearing in fatal overdose reports.
 
 ### 7. What this does to the case, overall
 
@@ -158,7 +158,7 @@ The case is now cleanly two things, and they should be written separately:
 2. **An undefended and undefendable second track.** Leaf/mitragynine products
    carry a documented body count of 580+ in one state, are governed by laws the
    trade association drafted almost verbatim across 34 states, are certified by a
-   programme its own auditors call a rubber stamp, arrive through a supply chain
+   program its own auditors call a rubber stamp, arrive through a supply chain
    documented to mislabel imports as fertilizer, and had their federal consumer
    warnings pressed for deletion by an official holding $500,001-$1,000,000 of
    them. Nothing in that track is scheduled, restricted, or slowed.

@@ -82,7 +82,7 @@ the paid study as one leg of a $700,000 campaign rather than an isolated conflic
 
 ### 5. The asymmetry, restated on corrected numbers
 
-The **Holistic Alternative Recovery Trust**, the only organised defender of 7-OH,
+The **Holistic Alternative Recovery Trust**, the only organized defender of 7-OH,
 disclosed **$15,000**.
 
 - American Kratom Association alone outspends it **228 : 1**.

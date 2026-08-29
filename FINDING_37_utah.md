@@ -91,7 +91,7 @@ part:
 
 **Mitragynine pseudoindoxyl is one of the four compounds Utah Poison Control named**
 in its 22 July 2026 alert (Finding 29). Utah had scheduled it. The industry argued in
-March 2026 that scheduling it went too far. In July 2026 the state's poison centre
+March 2026 that scheduling it went too far. In July 2026 the state's poison center
 listed it among the substances it suspected in products causing severe overdoses.
 
 ## 6. The wider litigation posture [P]
@@ -112,7 +112,7 @@ at least eight federal actions, and this is not confined to Utah:
 
 **Kent Leonhardt is West Virginia's Commissioner of Agriculture.** That action was
 brought under **42 U.S.C. § 1983**, the civil rights statute, which lies against
-state officials acting under colour of law.
+state officials acting under color of law.
 
 **So the pattern is two state agriculture regulators, in two states, sued in federal
 court by the same company.** The Utah matter is on appeal and live.
@@ -129,7 +129,7 @@ under litigation pressure are the same picture from two angles.** A state that b
 combination product absorbs the legal cost directly. A federal agency that schedules
 one molecule and exempts the leaf absorbs none.
 
-**[I] Inference, labelled.** We do not claim the litigation caused the federal line to
+**[I] Inference, labeled.** We do not claim the litigation caused the federal line to
 be drawn where it was. We observe that the line the federal rule drew in July 2026 is
 the line the company had been litigating for since March 2026 and announcing since
 January 2026, and that the states drawing a different line are the ones being sued.
@@ -137,7 +137,7 @@ January 2026, and that the states drawing a different line are the ones being su
 ## 8. What is NOT established
 
 - **We have read the order and the docket metadata. We have not read the complaint,
-  the briefing, or anything in the West Virginia matter.** The § 1983 characterisation
+  the briefing, or anything in the West Virginia matter.** The § 1983 characterization
   comes from the docket's cause of action field, not from the pleading.
 - **We do not know the outcome of the Tenth Circuit appeal.** It was live as of
   2026-07-29.

@@ -60,7 +60,7 @@ action.
 Finding 38 recorded Botanic Tonics' allegation, in a sworn federal complaint against
 West Virginia's Agriculture Commissioner, that the Department had registered
 7-OH products including **"Roxy Complex Alkaloids Tablets 16 mg"** and **"20 mg"**
-while refusing to register *feel free*. That was labelled `[S, adverse party]` and
+while refusing to register *feel free*. That was labeled `[S, adverse party]` and
 flagged for checking against the registry.
 
 **It checks out.** The registry contains six **Roxy Complex Alkaloid Tablets** rows,
@@ -111,7 +111,7 @@ MIT45 250 mg, MIT45 Super K 500 mg and **MIT45 Super K Extra Strong 1250 mg**.
 
 **Diversified Botanics appears in Finding 03** as the company of **Ryan Niddel**, with
 $500,000 in disclosed federal lobbying. The registry and the lobbying map name the
-same company. **Those MIT45 products are labelled MIT, not 7-OH**, and nothing here
+same company. **Those MIT45 products are labeled MIT, not 7-OH**, and nothing here
 suggests otherwise.
 
 ## 8. What to do next

@@ -358,7 +358,7 @@ through its facilities.
   "University of Guelph" against these inventors was not completed.
 
 **[I] Ceiling on the claim.** Equity in a private Ontario corporation, or a
-licence between Guelph and Mitradyne, is a private contract. It would not appear
+license between Guelph and Mitradyne, is a private contract. It would not appear
 in a patent, a grants database, or the SEC. **"No evidence of a university
 interest" is the honest ceiling here. It is not the same as "the university holds
 no interest,"** and this finding does not assert the latter.
@@ -376,7 +376,7 @@ is the worst.
 
 The ODP API key requires **ID.me identity verification: a government-issued
 photo ID, a Social Security number, and multi-factor authentication**. The key is
-issued per person, not per organisation.
+issued per person, not per organization.
 
 **Note 2026-08-28: Jay Puckett already holds a verified ID.me account, so
 the identity cost is already sunk and this objection does not apply to him. The
@@ -384,10 +384,10 @@ substantive caveat below stands regardless of who runs it.**
 
 **We assess the return as limited, for a reason independent of privacy.** Patent assignment recordation captures *conveyances*: inventors to
 company, mergers, name changes, and security interests. **Equity stakes and
-licence agreements are not recorded.** The most probable content of a Mitradyne
+license agreements are not recorded.** The most probable content of a Mitradyne
 assignment record is "the four inventors assigned to Mitradyne Corporation",
 which is already evident from the face of the filing. A university interest in
-this company would almost certainly take the form of equity or a licence, and
+this company would almost certainly take the form of equity or a license, and
 neither appears in that database.
 
 So the probability that the record answers the *Guelph* question is low. It is
@@ -503,7 +503,7 @@ Parry and Van Gelder. The ATLAS365 chain runs through an intermediate company,
 ventures and four years, the pattern is consistent.
 
 Note also that the earlier name-matched hits on "Casaretto" for easel brackets,
-acrylic-fibre colouring and peptide synthesis are **different people**. They were
+acrylic-fiber coloring and peptide synthesis are **different people**. They were
 excluded by checking co-inventor overlap rather than by assuming.
 
 ### E. One anomaly, flagged as inference [I]
@@ -523,8 +523,8 @@ laboratory.
 
 A company loses small-entity status if it has 500 or more employees, or **if it
 has licensed or assigned rights to an entity that is not itself a small entity**.
-Universities and non-profits *do* qualify as small entities, so a Guelph licence
-would **not** break the status. A licence to a large for-profit company would.
+Universities and non-profits *do* qualify as small entities, so a Guelph license
+would **not** break the status. A license to a large for-profit company would.
 
 **[I] This is a signal, not a finding.** The mundane explanation is that counsel
 simply never filed the small-entity assertion, which is common and costs the
@@ -544,6 +544,6 @@ from the four inventors to their own company. The university, which patents
 prolifically, appears nowhere in this or two sibling ventures.
 
 **The ceiling stated in Addendum 2 still stands.** Equity in a private Ontario
-corporation and licence agreements are private contracts that appear in no public
+corporation and license agreements are private contracts that appear in no public
 database. The Ontario Business Registry, which lists directors, remains the one
 cheap route that could still change this answer.

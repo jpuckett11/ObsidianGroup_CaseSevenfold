@@ -14,9 +14,9 @@ IT IS MARKETED AS AN ENERGY SUPPLEMENT
 
 The copy promises "clarity, focus, and high-functioning energy" and "a balanced and productive vibe." The manufacturer's homepage carries a testimonial reading "if you like kratom you'll love these. They give you energy."
 
-A STATE POISON CONTROL CENTRE SAYS IT IS AN OPIOID
+A STATE POISON CONTROL CENTER SAYS IT IS AN OPIOID
 
-Utah Poison Control Center, 22 July 2026, naming "Buzzers" and "Homiez" brands: these products "may lead to life-threatening opioid overdose, dependence, or withdrawal." The centre received "multiple reports of severe overdose," suspects adulteration with 7-hydroxymitragynine, mitragynine pseudoindoxyl, MGM-15 or MGM-16, states these are "more potent than morphine," and states "the product labels are misleading and do not include these drugs as ingredients."
+Utah Poison Control Center, 22 July 2026, naming "Buzzers" and "Homiez" brands: these products "may lead to life-threatening opioid overdose, dependence, or withdrawal." The center received "multiple reports of severe overdose," suspects adulteration with 7-hydroxymitragynine, mitragynine pseudoindoxyl, MGM-15 or MGM-16, states these are "more potent than morphine," and states "the product labels are misleading and do not include these drugs as ingredients."
 
 On 30 July 2026 a death in Utah County was linked to mislabelled Buzzers-brand tablets, with MGM-15 identified. MGM-15 is a Schedule I substance under Utah law, and Utah restricted kratom products other than pure leaf in 2026, so "Legal in all 50 states" appears inaccurate.
 
@@ -24,7 +24,7 @@ Sold as an energy supplement. Named by a state health authority in connection wi
 
 THE SAME PATTERN ACROSS THE CATEGORY
 
-Separately, on at least one 7-OH seller's website, the product page advertises "botanical supplementation" while a help-centre page on the same domain concedes the products "can be habit-forming" and that "long-term use may lead to addiction and withdrawal symptoms." Both captured 2026-08-27 and hashed. The addiction disclosure sits where a buyer will not see it before purchase.
+Separately, on at least one 7-OH seller's website, the product page advertises "botanical supplementation" while a help-center page on the same domain concedes the products "can be habit-forming" and that "long-term use may lead to addiction and withdrawal symptoms." Both captured 2026-08-27 and hashed. The addiction disclosure sits where a buyer will not see it before purchase.
 
 FDA's own scientific assessment finds concentrated 7-OH is produced by chemical conversion and occurs in the leaf at roughly 0.01 percent, far below what is sold. A product created by chemical conversion, at concentrations the plant does not produce, is not botanical supplementation.
 
@@ -37,7 +37,7 @@ These products are sold beside the register, at gas stations and smoke shops, fr
 REQUESTED ACTION
 
 1. Whether marketing an opioid-active product as an energy or focus supplement is a deceptive representation under Section 5.
-2. Whether "Legal in all 50 states," on a product a state poison control centre has linked to overdoses and a death, is a deceptive representation.
+2. Whether "Legal in all 50 states," on a product a state poison control center has linked to overdoses and a death, is a deceptive representation.
 3. Whether describing chemically converted 7-OH as "botanical supplementation" is deceptive.
 4. Whether placing addiction and withdrawal disclosures away from the point of purchase is a material omission.
 5. Coordination with FDA, and with the Utah and Georgia attorneys general, both of which have acted in this category.

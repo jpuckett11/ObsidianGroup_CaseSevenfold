@@ -56,7 +56,7 @@ budget.**
 
 **The programs in their last year of funding, from the same document:**
 
-| Programme | Annual amount |
+| Program | Annual amount |
 |---|---|
 | Treatment Project for Individuals that are Pregnant (PATH) | **$933,333** |
 | Emergency Department / Urgent Care MOUD Induction | **$1,200,000** |
@@ -73,7 +73,7 @@ budget.**
 
 **$6,161,003 expiring. $1,600,000 proposed. A cut of roughly 74 percent.**
 
-On the jail programme, the state's own document says:
+On the jail program, the state's own document says:
 
 > "Medications for Opioid Use Disorder (MOUD) programs provide opioid use disorder
 > treatment for people who are incarcerated. **No other funding exists for these
@@ -97,7 +97,7 @@ worry about cliffs. **This finding does not say the choice was corrupt or irrati
 
 **What it says is what the choice does.** People with an opioid use disorder in Utah
 in 2026 and 2027 are not helped by interest compounding for a person who will need it
-in 2041. The jail MOUD programme, which the state says has no other funding source,
+in 2041. The jail MOUD program, which the state says has no other funding source,
 is in its last year now.
 
 ## 5. The two line items that finish the argument [P]
@@ -118,7 +118,7 @@ Actions," 5 March 2026.** Two entries, both verbatim:
 > a direct award grant of **$100,000**"
 
 **Two recovery grants rescinded outright. A rural recovery grant cut from $269,900 to
-$100,000.** Total removed from three named recovery organisations in one sitting:
+$100,000.** Total removed from three named recovery organizations in one sitting:
 **$419,900.**
 
 ## 6. The two columns, same legislature, same session
@@ -126,7 +126,7 @@ $100,000.** Total removed from three named recovery organisations in one sitting
 | Utah, 2026 General Session | Amount |
 |---|---|
 | Regulating the molecule (S.B. 45, H.B. 387) | **$0 appropriated** |
-| Treatment programmes expiring end of FY26 | **-$6,161,003** |
+| Treatment programs expiring end of FY26 | **-$6,161,003** |
 | Proposed replacement | **+$1,600,000 one-time** |
 | Recovery grants rescinded or cut | **-$419,900** |
 | Settlement principal made unspendable (HB 10, 2025) | **$543,000,000 locked** |
@@ -179,10 +179,10 @@ months it found the will to regulate a product and win a federal lawsuit about i
 
 1. **Repeat this for two or three more KCPA states.** The method is now known and takes
    an hour: pull the kratom bill, check the appropriation line, then pull the same
-   session's opioid settlement or behavioural health appropriations.
+   session's opioid settlement or behavioral health appropriations.
 2. **Check the enacted FY27 figure** against the $1,600,000 recommendation.
 3. **Ask the Utah officials named in Finding 37** what happened to the jail MOUD
-   programme after FY26. **They are the ones who would know, and they are already
+   program after FY26. **They are the ones who would know, and they are already
    corresponding with this case's subject matter through litigation.**
 
 ## 11. Exhibits
@@ -190,7 +190,7 @@ months it found the will to regulate a product and win a federal lawsuit about i
 | File | What |
 |---|---|
 | `exhibits/state_budget/utah_SB0045_S04_kratom_adjustments_2026.pdf` | Enacted kratom bill, "Money Appropriated: None" |
-| `exhibits/state_budget/utah_opioid_settlement_funding_update_2026session.pdf` | The $7,061,033 to $1,600,000 reduction, programme list |
+| `exhibits/state_budget/utah_opioid_settlement_funding_update_2026session.pdf` | The $7,061,033 to $1,600,000 reduction, program list |
 | `exhibits/state_budget/utah_EAC_end_of_session_budget_actions_20260305.pdf` | The rescissions, 5 March 2026 |
 
 sha256 in `exhibits/SHA256SUMS.txt`. All from `le.utah.gov`.

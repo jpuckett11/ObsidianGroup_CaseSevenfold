@@ -33,7 +33,7 @@ rows returned. Seven distinct contributors. One of them is 99.9% of the money.
 | Team Kennedy | $6,600 | 2023-09-19 |
 
 The remaining six Botanic Tonics contributors gave **$820 combined**, in amounts
-between $2 and $312. There is no employee giving programme here. There is one man.
+between $2 and $312. There is no employee giving program here. There is one man.
 
 ### 3. The RNC contribution is the statutory ceiling, to the dollar
 

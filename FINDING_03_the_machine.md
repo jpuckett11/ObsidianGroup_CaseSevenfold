@@ -27,7 +27,7 @@ approximately $2.9 million.**
 **Holistic Alternative Recovery Trust Inc** (EIN 93-4802515, 501(c)(4),
 Lexington KY) exists to defend 7-OH. Disclosed lobbying: **$10,000**. [P]
 
-**[I]** The American Kratom Association alone outspent the only organised defender
+**[I]** The American Kratom Association alone outspent the only organized defender
 of 7-OH by roughly **300 to 1**. This does not need a conspiracy to explain the
 outcome. One side could afford to be in the room.
 
@@ -46,7 +46,7 @@ outcome. One side could afford to be in the room.
 | **end of 2025** | **The FDA removes the kratom-harm links from its website.** Other requested deletions refused, including a warning on liver toxicity, seizures and substance use disorder | [S] NYT |
 | **2025-12-10** | **Court DENIES Botanic Tonics' motion to dismiss.** *"the Amended Complaint survives"*; the court finds the Government would likely **"meet its burden."** Gelpí, Circuit Judge, sitting by designation | **[P] doc 33, obtained 2026-08-29, hashed** |
 | **2025-12-22** | Government files **Notice of Dismissal, without prejudice**, in *U.S. v. 250,000 Filled Bottles of Liquid Product*, **4:23-cv-00168-GAG-CDL (N.D. Okla.)** | [S] claimant's press release only. **Twelve days after the order above.** See **Finding 36** |
-| 2026-01-06 | Botanic Tonics issues a press release framing the dismissal as regulators recognising the difference between "natural kratom leaf" and "concentrated synthetic" compounds | [S] |
+| 2026-01-06 | Botanic Tonics issues a press release framing the dismissal as regulators recognizing the difference between "natural kratom leaf" and "concentrated synthetic" compounds | [S] |
 | 2026-02-17 | Ross gives the **RNC $443,000** in four transactions | [P] FEC |
 | 2026-02 | Ross hosts a fundraising dinner headlined by VP Vance; Ross and McDowell meet Vance privately to press for a 7-OH ban | [S] NYT |
 | 2026-03-04 | Botanic Tonics LLC gives **MAHA PAC $500,000** | [P] FEC |

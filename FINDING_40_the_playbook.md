@@ -4,7 +4,7 @@
 **Status:** CONFIRMED **[P]** from an SEC quarterly report filed 14 August 2026,
 obtained and hashed.
 **Analyst:** Aegis, for Obsidian Watch Group. **Date:** 2026-08-29.
-**This finding generalises Findings 37 and 38 from two incidents into a pattern**,
+**This finding generalizes Findings 37 and 38 from two incidents into a pattern**,
 and supplies the first hard number for what the 7-OH business is worth to a company
 that sells it.
 
@@ -106,7 +106,7 @@ preemption succeeded, the ceiling would become the floor and the states that mov
 first would be the ones stopped. **The July 2026 rule scheduled one molecule and
 excluded the leaf. That rule is what the preemption argument would lock in.**
 
-**[I] Inference, and labelled.** We do not claim coordination between Botanic Tonics
+**[I] Inference, and labeled.** We do not claim coordination between Botanic Tonics
 and Lifted Made. They are commercial rivals and Finding 38 shows one attacking the
 other's products by name. **What we observe is convergent strategy, not proven
 concert.**
@@ -130,7 +130,7 @@ in an individual capacity.**
 ## 7. What is NOT established
 
 - **We have read the SEC filing and Findings 37 and 38's pleadings. We have not read
-  the Missouri or Ohio complaints.** Their characterisation here is the company's own,
+  the Missouri or Ohio complaints.** Their characterization here is the company's own,
   from its disclosure.
 - **"Approximately half or more" is the company's forward-looking estimate**, made in
   a filing that is expressly cautionary. It is not audited revenue attribution.
@@ -237,7 +237,7 @@ strength.** It is a business whose product
 line is being closed off from several directions at once, litigating because the
 alternative is winding up.
 
-**[I] Inference, labelled.** Desperation is at least as good an explanation for the
+**[I] Inference, labeled.** Desperation is at least as good an explanation for the
 volume of litigation as confidence is. **This case should stop implying the second
 without evidence for it.**
 

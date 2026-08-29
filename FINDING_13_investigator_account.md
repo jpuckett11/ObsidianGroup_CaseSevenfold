@@ -22,7 +22,7 @@ physically addicted within a week.**
 
 **Physical dependence and substance use disorder are separate clinical concepts.**
 Physical dependence is a physiological adaptation producing withdrawal on
-cessation. Substance use disorder is a behavioural condition involving compulsive
+cessation. Substance use disorder is a behavioral condition involving compulsive
 use despite harm. A person can be physically dependent without having a substance
 use disorder. This is routine with prescribed opioids.
 
@@ -39,12 +39,12 @@ standard reply, which is that harm reflects the user rather than the product.
 | 7-OH produces physical dependence | FDA assessment: 7-OH "produces respiratory depression, **physical dependence, and withdrawal symptoms characteristic of classical opioids**, such as morphine, fentanyl, oxycodone, and hydrocodone" |
 | Dependence is the defining harm | FDA CAERS, 7-OH-named products: **dependence is the top reported reaction at 41**, withdrawal syndrome at 21 |
 | Onset is fast | 7-OH is a mu-opioid full agonist with greater potency than morphine (Ki 7.2-70 nM). Rapid physiological dependence on daily full-agonist dosing is **pharmacologically expected**, not anomalous |
-| Severity | UF pharmacologist Abhisheak Sharma characterised a commercial 7-OH product as comparable to "legal morphine" |
+| Severity | UF pharmacologist Abhisheak Sharma characterized a commercial 7-OH product as comparable to "legal morphine" |
 
 **[P] The account is consistent with every independent line of evidence in this
 case.** It is not an outlier claim requiring special pleading.
 
-### 4. The one claim that must stay labelled
+### 4. The one claim that must stay labeled
 
 Puckett asserts that **100% of people who use 7-OH for more than a week
 will become dependent.**
@@ -78,7 +78,7 @@ use in a person with no prior opioid dependence.*
 once for the record:
 
 - A comment at docket HHS-OASH-2026-0232 is **public, permanent, indexed and
-  attributable** by name and organisation.
+  attributable** by name and organization.
 - It will be read by counsel for the parties adverse to this case.
 - OWG set a **standing precedent on exactly this question** in pg420: no
   personally-affected claim and no therapeutic-use detail in case documents. See
@@ -153,7 +153,7 @@ characteristic of classical opioids."
    establishes the product; the lab result does not.**
 2. **Still n=1.** Does not establish a population rate, and does not support the
    "100%" formulation. Section 4 above stands unchanged.
-3. **The cumulative dose is modest, and that matters in our favour.** 30 mg total
+3. **The cumulative dose is modest, and that matters in our favor.** 30 mg total
    buprenorphine across an entire withdrawal course is small relative to routine
    opioid use disorder treatment, where daily maintenance commonly runs 8 to 24 mg
    **per day**. This is the profile of a short taper for limited-duration
@@ -243,7 +243,7 @@ dependence looks like from the inside, and it is consistent with the mu-opioid
 pharmacology FDA describes.
 
 **[I] It also reframes the buprenorphine figure.** 30 mg total buprenorphine
-resolved withdrawal from 6,000 mg of a compound FDA characterises as more potent
+resolved withdrawal from 6,000 mg of a compound FDA characterizes as more potent
 than morphine. That is a small intervention against a large exposure, which is
 consistent with dependence of short duration rather than an entrenched habit.
 

@@ -57,7 +57,7 @@ Makary appear as recipients in any of the contribution records retrieved.**
 Ricketts, Blumenthal, Shaheen, Crapo, Blackburn, Daines, Justice, Padilla, Britt,
 Budd, Boozman. Not one appears.
 
-**[I] This matters and it cuts in their favour.** Eleven senators wrote to FDA
+**[I] This matters and it cuts in their favor.** Eleven senators wrote to FDA
 arguing that scheduling 7-OH alone protects the wrong product, and the industry
 money we can trace did not go to them. **Their letter is not compromised by the
 funding record, and that makes it more useful, not less.**

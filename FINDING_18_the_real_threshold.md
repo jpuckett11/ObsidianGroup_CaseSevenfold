@@ -172,7 +172,7 @@ pills at 0.9 mg each are individually compliant and deliver **36 mg** in one bag
 The seller changes nothing about the product and changes only the unit.
 
 This is not a theoretical drafting quibble. It is the difference between a rule
-that caps exposure and a rule that caps labelling.
+that caps exposure and a rule that caps labeling.
 
 **Raised by Jay Puckett on 2026-08-28** while testing whether a per-article
 measure could survive contact with the market. It could not, as written.

@@ -5,7 +5,7 @@ channel it used, and what came back.
 
 **Why this file exists.** People are entitled to see how the offices that
 represent them actually respond when a constituent brings them documented work.
-Not a characterisation of it. The record of it.
+Not a characterization of it. The record of it.
 
 **How to read it.** This log is deliberately flat. No adjectives, no
 interpretation, no complaint. Every row is a date, a channel, and an outcome. Some
@@ -28,11 +28,11 @@ ordinary practice, not misconduct.
 | 2026-08-27 | **FDA**, Division of Freedom of Information | Email | **Refused.** "The FDA does not accept FOIA requests via email." Reply received 2026-08-28 from the Denials and Appeals Officer, directing to the agency web form, foia.gov, or hardcopy |
 | 2026-08-28 | **HHS OASH**, same docket | regulations.gov | **Accepted.** Tracking `mtc-q9zv-dase` |
 | 2026-08-28 | **HHS OASH**, same docket | regulations.gov | **Accepted.** Tracking `mtd-izm8-ql4p` |
-| 2026-08-28 | **Paquin Entertainment** (management for Merkules, Death Row Records) | Email | Sent. Asks only whether anyone on the roster would point people at the case file. No endorsement, no money, refusable in one line. States we will not characterise any artist's story without them saying so themselves |
+| 2026-08-28 | **Paquin Entertainment** (management for Merkules, Death Row Records) | Email | Sent. Asks only whether anyone on the roster would point people at the case file. No endorsement, no money, refusable in one line. States we will not characterize any artist's story without them saying so themselves |
 | 2026-08-28 | **Tampa Bay Times**, Deadly Dose team | Email, press pitch | **Partially delivered.** To `akeeler@tampabay.com` (verified, project page): delivered, no bounce. Cc `hcritchfield@tampabay.com` (inferred): **bounced 90 seconds later** — `postmaster@tbtimes.onmicrosoft.com`, *"hcritchfield wasn't found at tampabay.com."* The address is still published on her own author page; the mailbox does not exist. **The inference was wrong and the flag was justified** |
 | 2026-08-28 | **Tampa Bay Times**, Sam Ogozalek | Email, press pitch | **Bounced.** `sogozalek@tampabay.com`, taken from his own author-page bio, returned `554 5.4.14` *"Unknown To address"* 88 seconds after sending. **He left the paper for POLITICO in August 2024**; tampabay.com still publishes the address |
 | 2026-08-28 | **Tampa Bay Times**, news desk | Email, press pitch | Sent to `tips@tampabay.com`, the institutional tips box published at tampabay.com/tips. Confirmed in the Sent folder over IMAP, **no bounce** in the window where both reporter addresses failed. Message also tells the desk that two addresses on their own author pages are dead, which is useful to them |
-| 2026-08-28 | **Awakening Recovery, Inc.** | — | **NOT contacted.** They publish no email address, no mailto and no contact form. The only published channel is a line labelled "Get Help", which is an intake number for people seeking beds. **Declined to use it.** Better routes recorded in the approach file |
+| 2026-08-28 | **Awakening Recovery, Inc.** | — | **NOT contacted.** They publish no email address, no mailto and no contact form. The only published channel is a line labeled "Get Help", which is an intake number for people seeking beds. **Declined to use it.** Better routes recorded in the approach file |
 | 2026-08-28 | **Deseret News**, Dennis Romboy | Email, press pitch | Sent. He authored the 30 July piece on the Utah County death. Offers the case free, no credit required |
 | 2026-08-28 | **NW Alabama Mental Health Center** | Email, outreach not a filing | Sent. Offers the case file free to a CMHC treating chemical dependency; asks only for aggregate observation |
 | 2026-08-28 | **HHS OASH**, same docket | regulations.gov | **Accepted.** Tracking `mtd-holx-p7i5`. Note the `mtd-` prefix, unlike the three `mtc-` before it |
@@ -124,9 +124,9 @@ Tampa Bay Times for POLITICO in August 2024.** The paper still publishes the add
 do not exist**, including one presented in a reporter's bio as an invitation to send
 tips. Only `akeeler@tampabay.com`, from the Deadly Dose project page, delivers.
 
-**The lesson generalises past this outlet.** A masthead, an author page, or a project
+**The lesson generalizes past this outlet.** A masthead, an author page, or a project
 credit is a record of who worked somewhere, not a working channel. For an
-organisation with staff turnover, **the institutional address is the reliable one**,
+organization with staff turnover, **the institutional address is the reliable one**,
 because it survives the people. The fourth approach went to `tips@tampabay.com`, the
 paper's own published tips box, and did not bounce.
 
@@ -142,7 +142,7 @@ Every row is verified, not assumed:
   after an FDA FOIA sat recorded as "sent" for a day when the agency had in fact
   refused it.
 - Phone contacts are recorded as **[S] Jay Puckett's contemporaneous
-  account**, and labelled as such, because we did not record the calls.
+  account**, and labeled as such, because we did not record the calls.
 
 Corrections are welcome and will be published. If an office believes a row here is
 inaccurate, we will amend it and say that we did.

@@ -3,7 +3,7 @@
 
 **Status:** The 10 December 2025 order is **CONFIRMED [P]**, obtained and hashed.
 The 22 December 2025 dismissal is **[S]**, resting on the claimant's own press
-release, and is labelled as such throughout.
+release, and is labeled as such throughout.
 **Analyst:** Aegis, for Obsidian Watch Group. **Date:** 2026-08-29.
 **This finding supplies the primary document that `FINDING_03` recorded as blocked**,
 and it materially changes what the DOJ FOIA should ask.
@@ -85,7 +85,7 @@ the **operative amended complaint**, document 9:
 
 **The defendant articles were leaf products.** 250,000 bottles of *feel free* Plant
 Based Herbal Supplement, 1,200 cartons of capsules, 1.5 tanks of liquid, and bulk
-kratom powder labelled "Green Nano," at 13105 East 61st Street, Broken Arrow,
+kratom powder labeled "Green Nano," at 13105 East 61st Street, Broken Arrow,
 Oklahoma.
 
 **In 2023 the United States told a federal court that kratom leaf itself was
@@ -107,7 +107,7 @@ Botanic Tonics' press release of 6 January 2026, captured and hashed:
 > resources are now appropriately focused on products that present legitimate public
 > health concerns."
 
-**[I] Inference, labelled as such.** The distinction the company announced in January
+**[I] Inference, labeled as such.** The distinction the company announced in January
 2026 as the meaning of its dismissal is the distinction the federal rule adopted in
 July 2026: leaf on one side, 7-OH on the other. `FINDING_03` had already flagged this
 as an inference from the press release alone. **It is now an inference standing on
@@ -157,7 +157,7 @@ text.
 
 **That was wrong, and the error was over-reading a silent archive as a negative
 finding.** RECAP holds only what someone has uploaded. `FINDING_03` had it right at
-`[S]` and had correctly labelled the retrieval as blocked rather than resolved. The
+`[S]` and had correctly labeled the retrieval as blocked rather than resolved. The
 correction was made within minutes and before anything was filed or published, but it
 is recorded because this case records them.
 

@@ -199,7 +199,7 @@ general prohibition, both confirmed against the Attorney General's own published
 consumer guide (`exhibits/tn_ag_tcpa_chapter.pdf`).
 
 **The core of it, as with the FTC filing:** two quotes from the same domain on the
-same day. The product page sells "botanical supplementation." The help centre
+same day. The product page sells "botanical supplementation." The help center
 concedes the products "can be habit-forming" and that "long-term use may lead to
 addiction and withdrawal symptoms." Both captured 2026-08-27 and hashed.
 
@@ -246,7 +246,7 @@ existence of the two manufacturing patents, and the three scope questions.
 **Message 2** carries the specifics: Mitradyne's claims 5, 6, 8 and 11 quoted so
 her staff can verify them directly, CB Therapeutics, and an explicit statement
 that neither company has done anything wrong. It then raises the Mullin holding
-**once**, with no request that she characterise it, investigate it or say anything
+**once**, with no request that she characterize it, investigate it or say anything
 about a colleague, and notes the sequencing that matters to her: **the disclosure
 was filed 17 March 2026 and she signed the Makary letter on 18 March 2026, one day
 later.** She should not learn that from a reporter.
@@ -379,7 +379,7 @@ Department it has already happened, and cites a state agency saying so.
 2. **A death.** Utah County, mislabelled Buzzers-brand Cat's Claw tablets, MGM-15
    identified, reported 2026-07-30.
 3. **The lawful half.** Products built on **corynoxine B**, which nothing covers,
-   supported by *ACS Chem Neurosci* 2021 characterising corynoxine as a **mu-opioid
+   supported by *ACS Chem Neurosci* 2021 characterizing corynoxine as a **mu-opioid
    receptor full agonist**.
 4. **The argument: the label is the evasion.** One plant's name on another plant's
    chemistry defeats a rule written around a species, with no chemistry required.
@@ -522,7 +522,7 @@ in `HOW_TO_FILE_FTC.txt`: ReportFraud.ftc.gov for the record, and the Bureau of
 Consumer Protection, Division of Advertising Practices, for substance.
 
 **The core of it is two quotes from the same domain on the same day.** The
-product page sells "botanical supplementation." The help centre concedes the
+product page sells "botanical supplementation." The help center concedes the
 products "can be habit-forming" and that "long-term use may lead to addiction and
 withdrawal symptoms." Both captured 2026-08-27 and hashed.
 

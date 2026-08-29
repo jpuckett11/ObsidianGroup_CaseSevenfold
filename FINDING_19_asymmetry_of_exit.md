@@ -32,8 +32,8 @@ buying it off a shelf on a Tuesday:
 | Puckett had | The ordinary purchaser has |
 |---|---|
 | Knew it was an opioid | A label reading "botanical supplementation" (Finding 16) |
-| Knew the serving size | A 50 mg tablet whose labelled serving is one quarter of it |
-| Knew dependence was coming | An addiction warning kept in a help-centre article, off the product page |
+| Knew the serving size | A 50 mg tablet whose labeled serving is one quarter of it |
+| Knew dependence was coming | An addiction warning kept in a help-center article, off the product page |
 | A physician who would see him | Often no appointment available, and no coverage |
 | Money for buprenorphine | The cost of the script, or nothing |
 | A spouse and a house | Frequently neither |
@@ -67,7 +67,7 @@ Stated only as far as the documents carry it.
 
 **Documented, from primary records:**
 
-- Disclosed lobbying in this sector totals **$7,397,500**. The organised defence
+- Disclosed lobbying in this sector totals **$7,397,500**. The organized defense
   of the restricted product disclosed **$15,000**. (Finding 12)
 - The trade association's model state bill was introduced in **34 states** and
   passed in **11**, with **seven of every ten words identical** between the
@@ -92,7 +92,7 @@ particular decision was made because of a financial interest. **We do not assert
 motive. The record above does not require it.**
 
 **[I] What can be said without inference: consumers in this market had no
-organised representation.** Seven vehicles and $7.4 million represented sellers of
+organized representation.** Seven vehicles and $7.4 million represented sellers of
 one product class. One vehicle and $15,000 represented sellers of the other. Zero
 dollars and zero vehicles represented the people becoming dependent. The only
 consumer-facing safety information at issue was federal warning text, and that was
@@ -108,5 +108,5 @@ basis. Mitragynine's IND status is a legitimate reason not to schedule it
 **None of that touches this.** Whatever the correct regulation of 7-OH turns out
 to be, the people carrying the harm were sold an opioid described as a botanical,
 were not told it was habit-forming at the point of sale, and had their federal
-warning information reduced during the same period, while every organised party
+warning information reduced during the same period, while every organized party
 in the fight was funded by someone selling something.

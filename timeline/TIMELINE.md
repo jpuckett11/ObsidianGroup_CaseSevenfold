@@ -1,7 +1,7 @@
 # CASE SEVENFOLD - Master Timeline
 
 Provenance key: **[P]** primary document held in exhibits/ · **[S]** secondary
-reporting, source named · **[I]** inference by OWG, labelled as such · **[U]**
+reporting, source named · **[I]** inference by OWG, labeled as such · **[U]**
 unverified, needs a primary
 
 | Date | Event | Prov |

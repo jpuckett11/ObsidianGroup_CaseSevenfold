@@ -81,8 +81,8 @@ honest. "Most users experience X" is not.
 - Prefer people already known to Jay Puckett or referred by a respondent.
   Referral chains are traceable and harder to poison.
 - **Puckett's own account is FINDING 13 and is already recorded. It
-  should be counted and labelled as Puckett's, never folded anonymously
-  into the respondent set.** Doing that would be the kind of thing we criticise
+  should be counted and labeled as Puckett's, never folded anonymously
+  into the respondent set.** Doing that would be the kind of thing we criticize
   the industry for.
 
 ## Deadlines
