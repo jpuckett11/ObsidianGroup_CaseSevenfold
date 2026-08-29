@@ -1,0 +1,52 @@
+Subject: Follow-up to your Buzzers story: the company advertises the workaround on its own homepage
+
+Mr. Romboy,
+
+You wrote on 30 July about a Utah County death linked to mislabeled Buzzers-brand
+Cat's Claw tablets. I have spent the last month on the federal docket behind that
+story, and I have something that follows it. It is free, it needs no credit, and I
+am not asking you for anything.
+
+The part you may not have: the manufacturer explains the method on its own homepage.
+
+getbuzzers.com states that it "figured out a way to extract an indole alkaloid from
+the Cat's Claw plant to mirror the effects of popular kratom products," and that
+"despite not using kratom, we're still producing a very similar indole alkaloid. The
+results are a non-kratom product with kratom-like effects." Its banner reads "No 7-OH
+or Kratom. Legal in all 50 states."
+
+A retailer page states the reason outright: cat's claw "is not a controlled
+substance, so Buzzers ship nationwide."
+
+It is sold as an energy supplement. The copy promises "clarity, focus, and
+high-functioning energy," and a testimonial on the manufacturer's own homepage reads
+"if you like kratom you'll love these."
+
+Three things that make this bigger than one product:
+
+1. The federal scheduling action reaches four compounds, all on the mitragynine
+   scaffold. The compound class these products are built on is not covered, and
+   nothing in the rule brings it in later. On the day 7-OH becomes Schedule I, the
+   substitute is still legal.
+
+2. "Legal in all 50 states" appears inaccurate. MGM-15 is Schedule I under Utah law
+   and Utah restricted non-leaf kratom products this year.
+
+3. The public comment period on the federal docket closes 10 September.
+
+Everything is published free, with sources, hashes and capture dates:
+github.com/jpuckett11/ObsidianGroup_CaseSevenfold
+A summary written for reporters is at PRESS.md in that repository.
+
+Two things you should know before using any of it. We have assayed no product, so
+the adulteration finding is the Utah Poison Control Center's and not ours. And we
+have published three corrections against our own argument, including retracting a
+conclusion within an hour of posting it. Both are stated in the file.
+
+I am happy to walk you or a colleague through the primary documents, and equally
+happy if this is no use to you.
+
+Jay Puckett
+Principal Security Researcher
+Obsidian Watch Group
+jay.puckett@obsidianwatchgroup.com
