@@ -1,0 +1,465 @@
+                                A                                                                          B                    C
+1    Registered Kratom Products v 08/14/2026
+2    Manufacturer Name                         Full Name of product                                                  Brand
+3
+4    Real Botanicals                           Real Botanicals Super Kratom 75mg Capsules - 10ct                     Real Botanicals
+5    Real Botanicals                           Real Botanicals Super Kratom 150mg Capsules - 5ct                     Real Botanicals
+6    Real Botanicals                           Real Botanicals Super Kratom 225mg Capsules - 5ct                     Real Botanicals
+7    Real Botanicals                           Real Botanicals 7-Hydro 30mg 7-OH Shot - Strawberry - 2oz             Real Botanicals
+8
+9    DBZ Enterprizes                           K Chill 500mg Kratom Capsules - White Lightning - 10ct, 70ct, 480ct   K-Chill
+10 DBZ Enterprizes                             K Chill 500mg Kratom Capsules - Red Hush - 10ct, 70ct, 480ct          K-Chill
+11 DBZ Enterprizes                             K Chill 500mg Kratom Extract Capsule - 2ct                            K-Chill
+12 DBZ Enterprizes                             Kryptic Kratom 500mg Kratom Extract Capsule - 2ct                     Kryptic Kratom
+13 DBZ Enterprizes                             K Chill Platinum 150mg Kratom Tincture - 0.51oz                       K-Chill
+14 DBZ Enterprizes                             K Chill 85mg Kratom Tincture - 0.51oz                                 K-Chill
+15 DBZ Enterprizes                             Kryptic Kratom 150mg Kratom Tincture - 0.51oz                         Kryptic Kratom
+16 DBZ Enterprizes                             K Chill 45mg Kratom Shot - 2oz                                        K-Chill
+17 DBZ Enterprizes                             K Chill Platinum Max 85mg Kratom Shot - 2oz                           K-Chill
+18 DBZ Enterprizes                             Kryptic Kratom 45mg Kratom Shot - 2oz                                 Kryptic Kratom
+19 DBZ Enterprizes                             K Chill 35mg Kratom Powder - White Lightning - 250g                   K-Chill
+20 DBZ Enterprizes                             K Chill 35mg Kratom Powder - Red Hush - 250g                          K-Chill
+21
+22 Herbal Salvation LLC                        Herbal Salvation Nodzilla 200mg MIT Kratom Tincture - 0.5oz           Herbal Salvation
+23 Herbal Salvation LLC                        Herbal Salvation OGzilla 100mg MIT Kratom Tabs - 2ct                  Herbal Salvation
+24
+25 Nano K Kratom                               Nano K Kratom 100mg MIT Milk Chocolate Minis - 3ct, 20ct              Nano K Kratom
+26 Nano K Kratom                               Nano K Kratom 100mg MIT Dark Chocolate Minis - 3ct, 20ct              Nano K Kratom
+27 Nano K Kratom                               Nano K Kratom 100mg MIT Peanut Butter Nuggets - 3ct, 20ct             Nano K Kratom
+28
+29 Oracle Organix, LLC                         Oracle Organix 45mg MIT Kratom Seltzer - Yuzu Lime - 12oz             Oracle Organix
+30 Oracle Organix, LLC                         Oracle Organix 45mg MIT Kratom Seltzer - Mango Passion Fruit - 12oz   Oracle Organix
+31 Oracle Organix, LLC                         Oracle Organix 45mg MIT Kratom Seltzer - Raspberry Lychee - 12oz      Oracle Organix
+32 Oracle Organix, LLC                         Oracle Organix 45mg MIT Kratom Seltzer - Pineapple Coconut - 12oz     Oracle Organix
+33
+                                A                                                              B                              C
+34 Bright Botanicals LLC            Top Tree Herbs Kratom Tea - Uplift - 14ct                                      Top Tree Herbs
+35 Bright Botanicals LLC            Top Tree Herbs Kratom Tea - Cacao Uplift - 14ct                                Top Tree Herbs
+36 Bright Botanicals LLC            Top Tree Herbs Kratom Tea - Balance - 14ct                                     Top Tree Herbs
+37 Bright Botanicals LLC            Top Tree Herbs Kratom Tea - Peach Balance - 14ct                               Top Tree Herbs
+38 Bright Botanicals LLC            Top Tree Herbs Kratom Tea - Unwind - 14ct                                      Top Tree Herbs
+39 Bright Botanicals LLC            Top Tree Herbs Kratom Tea - Chai Unwind - 14ct                                 Top Tree Herbs
+40 Bright Botanicals LLC            Top Tree Herbs Kratom Capsules - White Vein - 70ct                             Top Tree Herbs
+41 Bright Botanicals LLC            Top Tree Herbs Kratom Capsules - Green Vein - 70ct                             Top Tree Herbs
+42 Bright Botanicals LLC            Top Tree Herbs Kratom Capsules - Red Vein - 70ct                               Top Tree Herbs
+43
+44 Prof Whyte's Kratom              Prof Whyte's Kplex Ultimate Gold 90mg Blue Razz - 2oz                          Prof Whyte's
+45 Prof Whyte's Kratom              Prof Whyte's Kplex Ultimate Gold 90mg Strawberry - 2oz                         Prof Whyte's
+46 Prof Whyte's Kratom              Prof Whyte's Kplex 300mg Rogue Punch - 0.5oz                                   Prof Whyte's
+47 Prof Whyte's Kratom              Prof Whyte's Kplex 150mg Citrus Blast - 0.5oz                                  Prof Whyte's
+48 Prof Whyte's Kratom              Prof Whyte's Kplex 450mg Blueberry Lemonade - 2oz                              Prof Whyte's
+49 Prof Whyte's Kratom              Prof Whyte's Kratom Extract Gummies 300mg Rogue Punch - 10ct                   Prof Whyte's
+50 Prof Whyte's Kratom              Prof Whyte's Kratom Extract Gummies 500mg Blue Razz - 10ct                     Prof Whyte's
+51 Prof Whyte's Kratom              Prof Whyte's Kplex 20mg 7-OH Tablets - Unflavored - 4ct, 20ct                  Prof Whyte's
+52 Prof Whyte's Kratom              Prof Whyte's Kplex 200mg Full Spectrum Tablets - Blue Razz - 5ct, 20ct         Prof Whyte's
+53 Prof Whyte's Kratom              Prof Whyte's Kplex 200mg Full Spectrum Tablets - Unflavored - 5ct, 20ct        Prof Whyte's
+54 Prof Whyte's Kratom              Prof Whyte's Kplex 50mg Kratom Seltzer - Cherry Limeade - 12oz                 Prof Whyte's
+55 Prof Whyte's Kratom              Prof Whyte's Kplex 150mg Kratom Seltzer - Cherry Limeade - 12oz                Prof Whyte's
+56 Prof Whyte's Kratom              Prof Whyte's Kplex 50mg Kratom Seltzer - Root Beer - 12oz                      Prof Whyte's
+57 Prof Whyte's Kratom              Prof Whyte's Kplex 150mg Kratom Seltzer - Root Beer - 12oz                     Prof Whyte's
+58
+59 Plant Specimen Supply, LLC       K SHOT Herbal Extract Tincture - 0.5 oz                                        K SHOT
+60
+61 Steding and Sons                 1836 Kratom Powdered Tea Leaf - Great White - 1oz, 4oz, 8oz, 1lb, 1kg          1836 Kratom
+62 Steding and Sons                 1836 Kratom Powdered Tea Leaf - Texas Red - 1oz, 4oz, 8oz, 1lb, 1kg            1836 Kratom
+63 Steding and Sons                 1836 Kratom Powdered Tea Leaf - Green Means Go - 1oz, 4oz, 8oz, 1lb, 1kg       1836 Kratom
+64 Steding and Sons                 1836 Kratom Powdered Tea Leaf - Atomic Maeng Da - 1oz, 4oz, 8oz, 1lb, 1kg      1836 Kratom
+65 Steding and Sons                 1836 Kratom Powdered Tea Leaf - Shangri La La - 1oz, 4oz, 8oz, 1lb, 1kg        1836 Kratom
+66 Steding and Sons                 1836 Kratom Powdered Tea Leaf - Indonesian Sunrise - 1oz, 4oz, 8oz, 1lb, 1kg   1836 Kratom
+                         A                                                             B                                   C
+67 Steding and Sons          1836 Kratom Powdered Tea Leaf - Red Bali - 1oz, 4oz, 8oz, 1lb, 1kg                  1836 Kratom
+68 Steding and Sons          1836 Kratom Powdered Tea Leaf - Sand Panther Super Gold - 1oz, 4oz, 8oz, 1lb, 1kg   1836 Kratom
+69 Steding and Sons          1836 Kratom Jumbo Capsules - Great White - 20ct. 50ct, 150ct, 1000ct                1836 Kratom
+70 Steding and Sons          1836 Kratom Jumbo Capsules - Texas Red - 20ct. 50ct, 150ct, 1000ct                  1836 Kratom
+71 Steding and Sons          1836 Kratom Jumbo Capsules - Green Means Go - 20ct. 50ct, 150ct, 1000ct             1836 Kratom
+72 Steding and Sons          1836 Kratom Jumbo Capsules - Atomic Maeng Da - 20ct. 50ct, 150ct, 1000ct            1836 Kratom
+73 Steding and Sons          1836 Kratom Jumbo Capsules - Shangri La La - 20ct. 50ct, 150ct, 1000ct              1836 Kratom
+74 Steding and Sons          1836 Kratom Jumbo Capsules - Indonesian Sunrise - 20ct. 50ct, 150ct, 1000ct         1836 Kratom
+75 Steding and Sons          1836 Kratom Jumbo Capsules - Red Bali - 20ct. 50ct, 150ct, 1000ct                   1836 Kratom
+76 Steding and Sons          1836 Kratom Jumbo Capsules - Sand Panther Super Gold - 20ct. 50ct, 150ct, 1000ct    1836 Kratom
+77 Steding and Sons          1836 Kratom Green Means Go Instant Drink Mix - Cherry Limeade - 10g                 1836 Kratom
+78 Steding and Sons          1836 Kratom SuperFit Instant Drink Mix - Pumped Punch - 10g                         1836 Kratom
+79 Steding and Sons          1836 Kratom Electric Fresh MIT Mints - 6ct, 21ct                                    1836 Kratom
+80 Steding and Sons          1836 Kratom Green Means Go - Cherry Limeade - 12oz                                  1836 Kratom
+81 Steding and Sons          1836 Kratom SuperFit Energy - 12oz                                                  1836 Kratom
+82 Steding and Sons          1836 Kratom 400mg Mic Dropper Extract - 1oz                                         1836 Kratom
+83
+84 MAG Industries Ltd.       Element Kratom - Borneo Blend Capsules - 25ct, 100ct, 250ct, 1000ct                 Element
+85 MAG Industries Ltd.       Element Kratom - Borneo Blend Powder - 50g, 100g, 200g, 1000g                       Element
+86 MAG Industries Ltd.       Element Kratom - Gold Dragon Capsules - 25ct, 100ct, 250ct, 1000ct                  Element
+87 MAG Industries Ltd.       Element Kratom - Gold Dragon Powder - 50g, 100g, 200g                               Element
+88 MAG Industries Ltd.       Element Kratom - Green Dragon Capsules - 25ct, 100ct, 250ct, 1000ct                 Element
+89 MAG Industries Ltd.       Element Kratom - Green Dragon Powder - 50g, 100g, 200g                              Element
+90 MAG Industries Ltd.       Element Kratom - Red Bali Capsules - 25ct, 100ct, 250ct, 1000ct                     Element
+91 MAG Industries Ltd.       Element Kratom - Red Bali Powder - 50g, 100g, 200g                                  Element
+92 MAG Industries Ltd.       Element Kratom - Red Jongkong Capsules - 25ct, 100ct, 250ct, 1000ct                 Element
+93 MAG Industries Ltd.       Element Kratom - Red Jongkong Powder - 50g, 100g, 200g, 1000g                       Element
+94 MAG Industries Ltd.       Element Kratom - Super Blue Capsules - 25ct, 100ct, 250ct, 1000ct                   Element
+95 MAG Industries Ltd.       Element Kratom - Super Blue Powder - 50g, 100g, 200g, 1000g                         Element
+96 MAG Industries Ltd.       Element Kratom - Trainwreck Capsules - 25ct, 100ct, 250ct, 1000ct                   Element
+97 MAG Industries Ltd.       Element Kratom - Trainwreck Powder - 50g, 100g, 200g, 1000g                         Element
+98 MAG Industries Ltd.       Element Kratom - White Elephant Capsules - 25ct, 100ct, 250ct, 1000ct               Element
+99 MAG Industries Ltd.       Element Kratom - White Elephant Powder - 50g, 100g, 200g, 1000g                     Element
+                          A                                                            B                                  C
+100 MAG Industries Ltd.       Element Kratom - White Horn Capsules - 25ct, 100ct, 250ct, 1000ct                 Element
+101 MAG Industries Ltd.       Element Kratom - White Horn Powder - 50g, 100g, 200g, 1000g                       Element
+102 MAG Industries Ltd.       Element Kratom - White Sumatra Capsules - 25ct, 100ct, 250ct, 1000ct              Element
+103 MAG Industries Ltd.       Element Kratom - White Sumatra Powder - 50g, 100g, 200g, 1000g                    Element
+104 MAG Industries Ltd.       Element Kratom - Yellow Horn Capsules - 25ct, 100ct, 250ct, 1000ct                Element
+105 MAG Industries Ltd.       Element Kratom - Yellow Horn Powder - 50g, 100g, 200g, 1000g                      Element
+106 MAG Industries Ltd.       Element Kratom - Yellow Thai Capsules - 25ct, 100ct, 250ct, 1000ct                Element
+107 MAG Industries Ltd.       Element Kratom - Yellow Thai Powder - 50g, 100g, 200g, 1000g                      Element
+108 MAG Industries Ltd.       Element Kratom - Green Malay Capsules - 25ct, 100ct, 250ct, 1000ct                Element
+109 MAG Industries Ltd.       Element Kratom - Green Malay Powder - 50g, 100g, 200g                             Element
+110 MAG Industries Ltd.       Element Kratom - Maeng Da Capsules - 25ct, 100ct, 250ct, 1000ct                   Element
+111 MAG Industries Ltd.       Element Kratom - Maeng Da Powder - 50g, 100g, 200g                                Element
+112 MAG Industries Ltd.       Element Kratom - White Indo Capsules - 25ct, 100ct, 250ct, 1000ct                 Element
+113 MAG Industries Ltd.       Element Kratom - White Indo Powder - 50g, 100g, 200g                              Element
+114 MAG Industries Ltd.       Element Kratom - 150mg Extract Shot - 15ml                                        Element
+115
+116 MIT Therapy               MIT Therapy Kratom Powder - Red Bali/White Elephant - 14g, 120g, 250g, 500g       MIT Therapy
+117 MIT Therapy               MIT Therapy Kratom Powder - Mixed Maeng Da - 14g, 120g, 250g, 500g                MIT Therapy
+118 MIT Therapy               MIT Therapy Kratom Powder - Mixed Malay/White Kali - 14g, 120g, 250g, 500g        MIT Therapy
+119 MIT Therapy               MIT Therapy Kratom Powder - Green Hulk/Yellow Kong - 14g, 120g, 250g, 500g        MIT Therapy
+120 MIT Therapy               MIT Therapy Kratom Powder - Green Dragon/Super Green - 14g, 120g, 250g, 500g      MIT Therapy
+121 MIT Therapy               MIT Therapy Kratom Powder - Hulu/White Indo - 14g, 120g, 250g, 500g               MIT Therapy
+122 MIT Therapy               MIT Therapy Traditional Kratom Powder - Green MD - 60g, 120g, 250g, 1kg           MIT Therapy
+123 MIT Therapy               MIT Therapy Traditional Kratom Powder - Super White - 60g, 120g, 250g, 1kg        MIT Therapy
+124 MIT Therapy               MIT Therapy Traditional Kratom Powder - Red Gold - 60g, 120g, 250g                MIT Therapy
+125 MIT Therapy               MIT Therapy Traditional Kratom Powder - Mixed Malay - 60g, 120g, 250g             MIT Therapy
+126 MIT Therapy               MIT Therapy Onyx Kratom Powder - Green Horned Elephant - 60g, 120g, 250g          MIT Therapy
+127 MIT Therapy               MIT Therapy Onyx Kratom Powder - White Banda/Red Malay - 60g, 120g, 250g          MIT Therapy
+128 MIT Therapy               MIT Therapy Onyx Kratom Powder - Super Sumatra/White Mukomuko - 60g, 120g, 250g   MIT Therapy
+129 MIT Therapy               MIT Therapy Traditional Kratom Powder - Super Red - 1kg                           MIT Therapy
+130 MIT Therapy               MIT Therapy Traditional Kratom Powder - White Maeng Da - 1kg                      MIT Therapy
+131 MIT Therapy               MIT Therapy Traditional Kratom Powder - Red Maeng Da - 1kg                        MIT Therapy
+132 MIT Therapy               MIT Therapy 155mg Extract Shots - Unflavored - 15ml                               MIT Therapy
+                              A                                                          B                                        C
+133 MIT Therapy                   MIT Therapy 155mg Extract Shots - Spearmint - 15ml                                    MIT Therapy
+134 MIT Therapy                   MIT Therapy 140mg Traditional Extract Shots - Cinna Maeng Da - 15ml                   MIT Therapy
+135 MIT Therapy                   MIT Therapy 140mg Traditional Extract Shots - Golden Pina Sumatra - 15ml              MIT Therapy
+136 MIT Therapy                   MIT Therapy 140mg Traditional Extract Shots - Straw Bali Colada - 15ml                MIT Therapy
+137 MIT Therapy                   MIT Therapy 140mg Traditional Extract Shots - Green Hulu Mutsu - 15ml                 MIT Therapy
+138 MIT Therapy                   MIT Therapy Kratom Capsule - Green Dragon/Super Green - 10ct, 90ct, 150ct, 300ct      MIT Therapy
+139 MIT Therapy                   MIT Therapy Kratom Capsule - Hulu/White Indo - 10ct, 90ct, 150ct, 300ct               MIT Therapy
+140 MIT Therapy                   MIT Therapy Kratom Capsule - Red Bali/White Elephant - 10ct, 90ct, 150ct, 300ct       MIT Therapy
+141 MIT Therapy                   MIT Therapy Kratom Capsule - Mixed Maeng Da - 10ct, 90ct, 150ct, 300ct                MIT Therapy
+142 MIT Therapy                   MIT Therapy Kratom Capsule - Mixed Malay/White Kali - 10ct, 90ct, 150ct, 300ct        MIT Therapy
+143 MIT Therapy                   MIT Therapy Kratom Capsule - Green Hulk/Yellow Kong - 10ct, 90ct, 150ct, 300ct        MIT Therapy
+144 MIT Therapy                   MIT Therapy Traditional Kratom Capsule - Green MD - 90ct, 150ct, 300ct, 1kg           MIT Therapy
+145 MIT Therapy                   MIT Therapy Traditional Kratom Capsule - Super White - 90ct, 150ct, 300ct, 1kg        MIT Therapy
+146 MIT Therapy                   MIT Therapy Traditional Kratom Capsule - Red Gold - 90ct, 150ct, 300ct                MIT Therapy
+147 MIT Therapy                   MIT Therapy Traditional Kratom Capsule - Mixed Malay - 90ct, 150ct, 300ct             MIT Therapy
+148 MIT Therapy                   MIT Therapy Onyx Kratom Capsule - Green Horned Elephant - 90ct, 150ct, 300ct          MIT Therapy
+149 MIT Therapy                   MIT Therapy Onyx Kratom Capsule - White Banda/Red Malay - 90ct, 150ct, 300ct          MIT Therapy
+150 MIT Therapy                   MIT Therapy Onyx Kratom Capsule - Super Sumatra/White Mukomuko - 90ct, 150ct, 300ct   MIT Therapy
+151 MIT Therapy                   MIT Therapy Traditional Kratom Capsule - White Maeng Da - 1kg                         MIT Therapy
+152 MIT Therapy                   MIT Therapy Traditional Kratom Capsule - Red Maeng Da - 1kg                           MIT Therapy
+153 MIT Therapy                   MIT Therapy Traditional Kratom Capsule - Super Red - 1kg                              MIT Therapy
+154 MIT Therapy                   MIT Therapy 150mg MIT Tablets - Blue Razz - 6ct                                       MIT Therapy
+155 MIT Therapy                   MIT Therapy 150mg MIT Tablets - Cherry Pie - 6ct                                      MIT Therapy
+156 MIT Therapy                   MIT Therapy 150mg MIT Tablets - SnickerDoodle - 6ct                                   MIT Therapy
+157
+158 The Empire Distribution       Dopium 10mg 7-OH Tablets - Blue Razz - 30ct                                           Dopium
+159 The Empire Distribution       Dopium 10mg 7-OH Tablets - Watermelon - 30ct                                          Dopium
+160 The Empire Distribution       Dopium 10mg 7-OH Tablets - Strawberry - 30ct                                          Dopium
+161 The Empire Distribution       Dopium 10mg 7-OH Tablets - Tangerine - 30ct                                           Dopium
+162 The Empire Distribution       Dopium 10mg 7-OH Tablets - Mint - 30ct                                                Dopium
+163 The Empire Distribution       Dopium 10mg 7-OH Tablets - Bubble Burst - 30ct                                        Dopium
+164
+165 STNR Creations LLC            STNR 500mg Kratom Gummies - Citrus - 10ct                                             STNR
+                         A                                                               B                                 C
+166 STNR Creations LLC       STNR 500mg Kratom Gummies - Triple Berry - 10ct                                 STNR
+167 STNR Creations LLC       STNR 100mg 7-OH Tablets - Natural - 5ct                                         STNR
+168 STNR Creations LLC       STNR 100mg 7-OH Tablets - Strawberry - 5ct                                      STNR
+169 STNR Creations LLC       STNR 100mg 7-OH Tablets - Spearmint - 5ct                                       STNR
+170 STNR Creations LLC       STNR 100mg 7-OH Tablets - Blue Razz - 5ct                                       STNR
+171 STNR Creations LLC       STNR 100mg 7-OH Tablets - Peach Mango - 5ct                                     STNR
+172 STNR Creations LLC       STNR 20mg 7-OH Tablets - Spearmint - 1ct                                        STNR
+173 STNR Creations LLC       STNR 20mg 7-OH Tablets - Strawberry - 1ct                                       STNR
+174 STNR Creations LLC       7 Seas 800mg Full Spectrum Tablets - Blue Raspberry - 4ct                       7 Seas
+175 STNR Creations LLC       7 Seas 800mg Full Spectrum Tablets - Cherry - 4ct                               7 Seas
+176 STNR Creations LLC       7 Seas 800mg Full Spectrum Tablets - Grape - 4ct                                7 Seas
+177 STNR Creations LLC       7 Seas 800mg Full Spectrum Tablets - Watermelon - 4ct                           7 Seas
+178 STNR Creations LLC       7 Seas 800mg Full Spectrum Tablets - Strawberry - 4ct                           7 Seas
+179 STNR Creations LLC       7 Seas 800mg Full Spectrum Tablets - Natural - 4ct                              7 Seas
+180 STNR Creations LLC       7 Seas 20mg 7-OH Tablets - Spearmint - 1ct                                      7 Seas
+181 STNR Creations LLC       7 Seas 20mg 7-OH Tablets - Strawberry - 1ct                                     7 Seas
+182 STNR Creations LLC       7 Seas 100mg 7-OH Tablets - Spearmint - 5ct                                     7 Seas
+183 STNR Creations LLC       7 Seas 100mg 7-OH Tablets - Strawberry - 5ct                                    7 Seas
+184 STNR Creations LLC       7 Seas 100mg 7-OH Tablets - Natural - 5ct                                       7 Seas
+185 STNR Creations LLC       7 Seas 100mg 7-OH Tablets - Peach Mango - 5ct                                   7 Seas
+186 STNR Creations LLC       7 Seas 100mg 7-OH Tablets - Blue Razz - 5ct                                     7 Seas
+187
+188 Club 13 Inc              Club 13 50mg Kratom Extract Squares - Cherry Lime - 4ct, 10ct                   Club 13 Inc
+189 Club 13 Inc              Club 13 50mg Kratom Extract Squares - Red Apple - 4ct, 10ct                     Club 13 Inc
+190 Club 13 Inc              Club 13 50mg Kratom Extract Squares - Tropical - 4ct, 10ct                      Club 13 Inc
+191 Club 13 Inc              Club 13 50mg Kratom Extract Squares - Variety Pack - 4ct, 10ct                  Club 13 Inc
+192 Club 13 Inc              Club 13 Kratom Capsules - Bali Red - 10ct, 25ct, 120ct, 175ct, 275ct            Club 13 Inc
+193 Club 13 Inc              Club 13 Kratom Capsules - Bliss Blend - 10ct, 25ct, 120ct, 175ct, 275ct         Club 13 Inc
+194 Club 13 Inc              Club 13 Kratom Capsules - Connoisseur Blend - 10ct, 25ct, 120ct, 175ct, 275ct   Club 13 Inc
+195 Club 13 Inc              Club 13 Kratom Capsules - Executive Blend - 10ct, 25ct, 120ct, 175ct, 275ct     Club 13 Inc
+196 Club 13 Inc              Club 13 Kratom Capsules - Green Malay - 10ct, 25ct, 120ct, 175ct, 275ct         Club 13 Inc
+197 Club 13 Inc              Club 13 Kratom Capsules - Horn Blend - 10ct, 25ct, 120ct, 175ct, 275ct          Club 13 Inc
+198 Club 13 Inc              Club 13 Kratom Capsules - Indo White - 10ct, 25ct, 120ct, 175ct, 275ct          Club 13 Inc
+                  A                                                              B                                         C
+199 Club 13 Inc       Club 13 Kratom Capsules - Jackpot Blend - 10ct, 25ct, 120ct, 175ct, 275ct              Club 13 Inc
+200 Club 13 Inc       Club 13 Kratom Capsules - Kali Gold - 10ct, 25ct, 120ct, 175ct, 275ct                  Club 13 Inc
+201 Club 13 Inc       Club 13 Kratom Capsules - Maeng Da Green - 10ct, 25ct, 120ct, 175ct, 275ct             Club 13 Inc
+202 Club 13 Inc       Club 13 Kratom Capsules - Maeng Da Red - 10ct, 25ct, 120ct, 175ct, 275ct               Club 13 Inc
+203 Club 13 Inc       Club 13 Kratom Capsules - Maeng Da White - 10ct, 25ct, 120ct, 175ct, 275ct             Club 13 Inc
+204 Club 13 Inc       Club 13 Kratom Capsules - Restore Blend - 10ct, 25ct, 120ct, 175ct, 275ct              Club 13 Inc
+205 Club 13 Inc       Club 13 Extra Strength Kratom Capsules - Bali Red - 10ct, 25ct, 50ct, 120ct            Club 13 Inc
+206 Club 13 Inc       Club 13 Extra Strength Kratom Capsules - Bliss Blend - 10ct, 25ct, 50ct, 120ct         Club 13 Inc
+207 Club 13 Inc       Club 13 Extra Strength Kratom Capsules - Connoisseur Blend - 10ct, 25ct, 50ct, 120ct   Club 13 Inc
+208 Club 13 Inc       Club 13 Extra Strength Kratom Capsules - Executive Blend - 10ct, 25ct, 50ct, 120ct     Club 13 Inc
+209 Club 13 Inc       Club 13 Extra Strength Kratom Capsules - Green Malay - 10ct, 25ct, 50ct, 120ct         Club 13 Inc
+210 Club 13 Inc       Club 13 Extra Strength Kratom Capsules - Horn Blend - 10ct, 25ct, 50ct, 120ct          Club 13 Inc
+211 Club 13 Inc       Club 13 Extra Strength Kratom Capsules - Indo White - 10ct, 25ct, 50ct, 120ct          Club 13 Inc
+212 Club 13 Inc       Club 13 Extra Strength Kratom Capsules - Jackpot Blend - 10ct, 25ct, 50ct, 120ct       Club 13 Inc
+213 Club 13 Inc       Club 13 Extra Strength Kratom Capsules - Kali Gold - 10ct, 25ct, 50ct, 120ct           Club 13 Inc
+214 Club 13 Inc       Club 13 Extra Strength Kratom Capsules - Maeng Da Green - 10ct, 25ct, 50ct, 120ct      Club 13 Inc
+215 Club 13 Inc       Club 13 Extra Strength Kratom Capsules - Maeng Da Red - 10ct, 25ct, 50ct, 120ct        Club 13 Inc
+216 Club 13 Inc       Club 13 Extra Strength Kratom Capsules - Maeng Da White - 10ct, 25ct, 50ct, 120ct      Club 13 Inc
+217 Club 13 Inc       Club 13 Extra Strength Kratom Capsules - Restore Blend - 10ct, 25ct, 50ct, 120ct       Club 13 Inc
+218 Club 13 Inc       Club 13 Kratom Powder - Bali Red - 30g, 90g, 150g, 1lb, 1kg                            Club 13 Inc
+219 Club 13 Inc       Club 13 Kratom Powder - Bliss Blend - 30g, 90g, 150g, 1lb, 1kg                         Club 13 Inc
+220 Club 13 Inc       Club 13 Kratom Powder - Connoisseur Blend - 30g, 90g, 150g, 1lb, 1kg                   Club 13 Inc
+221 Club 13 Inc       Club 13 Kratom Powder - Executive Blend - 30g, 90g, 150g, 1lb, 1kg                     Club 13 Inc
+222 Club 13 Inc       Club 13 Kratom Powder - Green Malay - 30g, 90g, 150g, 1lb, 1kg                         Club 13 Inc
+223 Club 13 Inc       Club 13 Kratom Powder - Horn Blend - 30g, 90g, 150g, 1lb, 1kg                          Club 13 Inc
+224 Club 13 Inc       Club 13 Kratom Powder - Indo White - 30g, 90g, 150g, 1lb, 1kg                          Club 13 Inc
+225 Club 13 Inc       Club 13 Kratom Powder - Jackpot Blend - 30g, 90g, 150g, 1lb, 1kg                       Club 13 Inc
+226 Club 13 Inc       Club 13 Kratom Powder - Kali Gold - 30g, 90g, 150g, 1lb, 1kg                           Club 13 Inc
+227 Club 13 Inc       Club 13 Kratom Powder - Maeng Da Green - 30g, 90g, 150g, 1lb, 1kg                      Club 13 Inc
+228 Club 13 Inc       Club 13 Kratom Powder - Maeng Da Red - 30g, 90g, 150g, 1lb, 1kg                        Club 13 Inc
+229 Club 13 Inc       Club 13 Kratom Powder - Maeng Da White - 30g, 90g, 150g, 1lb, 1kg                      Club 13 Inc
+230 Club 13 Inc       Club 13 Kratom Powder - Restore Blend - 30g, 90g, 150g, 1lb, 1kg                       Club 13 Inc
+231 Club 13 Inc       Club 13 75mg MIT Kratom Seltzer - Black Cherry - 12oz                                  Club 13 Inc
+                  A                                                              B                           C
+232 Club 13 Inc       Club 13 75mg MIT Kratom Seltzer - Blood Orange - 12oz                    Club 13 Inc
+233 Club 13 Inc       Club 13 75mg MIT Kratom Seltzer - Mango - 12oz                           Club 13 Inc
+234 Club 13 Inc       Club 13 75mg MIT Kratom Seltzer - Paradise Punch - 12oz                  Club 13 Inc
+235 Club 13 Inc       Club 13 75mg MIT Kratom Seltzer - Watermelon - 12oz                      Club 13 Inc
+236 Club 13 Inc       Club 13 375mg MIT Kratom Nectar Infusion - 750ml                         Club 13 Inc
+237 Club 13 Inc       Club 13 750mg MIT Kratom Classic Reserve Infusion - 750ml                Club 13 Inc
+238 Club 13 Inc       Club 13 3350mg MIT Pump Kratom Extract - 16oz                            Club 13 Inc
+239 Club 13 Inc       Club 13 125mg MIT Ultimate Kratom Extract - Jade - 2ct, 6ct              Club 13 Inc
+240 Club 13 Inc       Club 13 125mg MIT Ultimate Kratom Extract - Opal - 2ct, 6ct              Club 13 Inc
+241 Club 13 Inc       Club 13 125mg MIT Ultimate Kratom Extract - Ruby - 2ct, 6ct              Club 13 Inc
+242 Club 13 Inc       Club 13 125mg MIT Stick Instant Kratom Extract - Blueberry Acai - 4.3g   Club 13 Inc
+243 Club 13 Inc       Club 13 125mg MIT Stick Instant Kratom Extract - Blue Raspberry - 4.3g   Club 13 Inc
+244 Club 13 Inc       Club 13 125mg MIT Stick Instant Kratom Extract - Cherry Lime - 4.3g      Club 13 Inc
+245 Club 13 Inc       Club 13 125mg MIT Stick Instant Kratom Extract - Dragonberry - 4.3g      Club 13 Inc
+246 Club 13 Inc       Club 13 125mg MIT Stick Instant Kratom Extract - Lemon Lime - 4.3g       Club 13 Inc
+247 Club 13 Inc       Club 13 125mg MIT Stick Instant Kratom Extract - Passion Punch - 4.3g    Club 13 Inc
+248 Club 13 Inc       Club 13 125mg MIT Stick Instant Kratom Extract - Variety - 4.3g (60ct)   Club 13 Inc
+249 Club 13 Inc       Club 13 500mg MIT Squeeze - Grape Escape - 2oz                           Club 13 Inc
+250 Club 13 Inc       Club 13 1000mg MIT Squeeze - Grape Escape - 2oz                          Club 13 Inc
+251 Club 13 Inc       Club 13 500mg MIT Squeeze - Melon Drop - 2oz                             Club 13 Inc
+252 Club 13 Inc       Club 13 1000mg MIT Squeeze - Melon Drop - 2oz                            Club 13 Inc
+253 Club 13 Inc       Club 13 500mg MIT Squeeze - Mit Dew - 2oz                                Club 13 Inc
+254 Club 13 Inc       Club 13 1000mg MIT Squeeze - Mit Dew - 2oz                               Club 13 Inc
+255 Club 13 Inc       Club 13 500mg MIT Squeeze - Just Peachy - 2oz                            Club 13 Inc
+256 Club 13 Inc       Club 13 1000mg MIT Squeeze - Just Peachy - 2oz                           Club 13 Inc
+257 Club 13 Inc       Club 13 500mg MIT Squeeze - Watermelon - 2oz                             Club 13 Inc
+258 Club 13 Inc       Club 13 1000mg MIT Squeeze - Watermelon - 2oz                            Club 13 Inc
+259 Club 13 Inc       Club 13 Clutch 200mg MIT Liquid Extract - Watermelon - 0.44oz            Club 13 Inc
+260 Club 13 Inc       Club 13 Clutch 400mg MIT Liquid Extract - Watermelon - 1oz               Club 13 Inc
+261 Club 13 Inc       Club 13 150mg MIT Seltzer - Pineapple Point - 12oz                       Club 13 Inc
+262 Club 13 Inc       Club 13 150mg MIT Seltzer - Strawberry Kiwi - 12oz                       Club 13 Inc
+263 Club 13 Inc       Club 13 100mg MIT Liquid Extract - 0.44oz                                Club 13 Inc
+264 Club 13 Inc       Club 13 150mg MIT Liquid Extract - 0.44oz                                Club 13 Inc
+                        A                                                               B                   C
+265 Club 13 Inc             Club 13 215mg MIT Liquid Extract - 0.44oz                         Club 13 Inc
+266 Club 13 Inc             Club 13 215mg MIT Bliss Blend Liquid Extract - 0.44oz             Club 13 Inc
+267 Club 13 Inc             Club 13 300mg MIT Liquid Extract - 0.44oz                         Club 13 Inc
+268 Club 13 Inc             Club 13 Energy Shot Kratom Liquid Extract - Green Tea - 0.44oz    Club 13 Inc
+269 Club 13 Inc             Club 13 400mg Big MIT Kratom Tabs - Citrus Punch - 2ct            Club 13 Inc
+270 Club 13 Inc             Club 13 400mg Big MIT Kratom Tabs - Lemon Berry - 2ct             Club 13 Inc
+271 Club 13 Inc             Club 13 400mg Big MIT Kratom Tabs - Orange Creamsicle - 2ct       Club 13 Inc
+272 Club 13 Inc             Club 13 1000mg Big MIT Kratom Tabs - Citrus Punch - 5ct           Club 13 Inc
+273 Club 13 Inc             Club 13 1000mg Big MIT Kratom Tabs - Lemon Berry - 5ct            Club 13 Inc
+274 Club 13 Inc             Club 13 1000mg Big MIT Kratom Tabs - Orange Creamsicle - 5ct      Club 13 Inc
+275 Club 13 Inc             Club 13 250mg MIT Squeeze - 1.89oz                                Club 13 Inc
+276 Club 13 Inc             Club 13 1000mg MIT Squeeze - 1.89oz                               Club 13 Inc
+277 Club 13 Inc             Club 13 50mg MIT Classic Reserve - 1.7oz                          Club 13 Inc
+278 Club 13 Inc             Club 13 25mg MIT Nectar - 1.7oz                                   Club 13 Inc
+279 Club 13 Inc             Club 13 35mg MIT Kratom Seltzer - Blue Raspberry - 12oz           Club 13 Inc
+280 Club 13 Inc             Club 13 35mg MIT Kratom Seltzer - Lemon Lime - 12oz               Club 13 Inc
+281 Club 13 Inc             Club 13 35mg MIT Kratom Seltzer - Watermelon - 12oz               Club 13 Inc
+282 Club 13 Inc             Club 13 150mg MIT Seltzer - Blackberry Currant - 12oz             Club 13 Inc
+283 Club 13 Inc             Club 13 75mg MIT Kratom Seltzer - Cola - 12oz                     Club 13 Inc
+284 Club 13 Inc             Club 13 75mg MIT Kratom Seltzer - Miss Piper - 12oz               Club 13 Inc
+285 Club 13 Inc             Club 13 150mg MIT Kratom Seltzer - Cherry Limeade - 12oz          Club 13 Inc
+286 Club 13 Inc             Club 13 150mg MIT Kratom Seltzer - Cola - 12oz                    Club 13 Inc
+287 Club 13 Inc             Club 13 150mg MIT Kratom Seltzer - Strawberry Kiwi - 12oz         Club 13 Inc
+288 Club 13 Inc             Club 13 150mg MIT Kratom Seltzer - Root Beer - 12oz               Club 13 Inc
+289 Club 13 Inc             Club 13 75mg MIT Kratom Seltzer - Roxie's Root Beer - 12oz        Club 13 Inc
+290 Club 13 Inc             Club 13 75mg MIT Kratom Seltzer - Mojo Citrus - 12oz              Club 13 Inc
+291
+292 HKCO Distribution       Hush Kratom Ultra Mitra-Isolate Extract - 0.34oz                  Hush
+293 HKCO Distribution       Hush Kratom Ultra Mitra-Isolate Extract Coffee Infused - 0.34oz   Hush
+294 HKCO Distribution       Hush Kratom Nano Mitra-Isolate Extract - 0.34oz                   Hush
+295 HKCO Distribution       Hush Kratom Platinum Full Spectrum Extract - 0.34oz               Hush
+296 HKCO Distribution       Hush Kratom HK Full Spectrum Extract - 0.34oz                     Hush
+297
+                          A                                                            B                                                    C
+298 RH Natural Products       Remarkable Herbs Green Vein Thai Powder - 1oz, 3oz, 8oz, 20oz                                       Remarkable Herbs
+299 RH Natural Products       Remarkable Herbs Green Vein Malaysian Powder - 1oz, 3oz, 8oz, 20oz                                  Remarkable Herbs
+300 RH Natural Products       Remarkable Herbs Red Vein Bali Powder - 1oz, 3oz, 8oz, 20oz                                         Remarkable Herbs
+301 RH Natural Products       Remarkable Herbs Green Vein Maeng Da Powder - 1oz, 3oz, 8oz, 20oz                                   Remarkable Herbs
+302 RH Natural Products       Remarkable Herbs Red Vein Maeng Da Powder - 1oz, 3oz, 8oz, 20oz                                     Remarkable Herbs
+303 RH Natural Products       Remarkable Herbs White Vein Maeng Da Powder - 1oz, 3oz, 8oz, 20oz                                   Remarkable Herbs
+304 RH Natural Products       Remarkable Herbs Green Vein Vietnam Powder - 1oz, 3oz, 8oz, 20oz                                    Remarkable Herbs
+305 RH Natural Products       Remarkable Herbs Green Vein Indo Powder - 1oz, 3oz, 8oz, 20oz                                       Remarkable Herbs
+306
+307 Kono Labs                 Whole Herbs Green Vein Borneo Kratom Capsules - 60ct, 120ct, 250ct, 500ct                           Whole Herbs
+308 Kono Labs                 Whole Herbs Green Vein Borneo Kratom Powder - 3.5oz, 8oz, 17.5oz                                    Whole Herbs
+309 Kono Labs                 Whole Herbs Green Vein Indo Kratom Capsules - 60ct, 120ct, 250ct, 500ct                             Whole Herbs
+310 Kono Labs                 Whole Herbs Green Vein Indo Kratom Powder - 3.5oz, 8oz, 17.5oz                                      Whole Herbs
+311 Kono Labs                 Whole Herbs Green Vein Maeng Da Kratom Capsules - 60ct, 120ct, 250ct, 500ct                         Whole Herbs
+312 Kono Labs                 Whole Herbs Green Vein Maeng Da Kratom Powder - 3.5oz, 8oz, 17.5oz                                  Whole Herbs
+313 Kono Labs                 Whole Herbs Green Vein Malay Kratom Capsules - 60ct, 120ct, 250ct, 500ct                            Whole Herbs
+314 Kono Labs                 Whole Herbs Green Vein Malay Kratom Powder - 3.5oz, 8oz, 17.5oz                                     Whole Herbs
+315 Kono Labs                 Whole Herbs Red Vein Bali Kratom Capsules - 60ct, 120ct, 250ct, 500ct                               Whole Herbs
+316 Kono Labs                 Whole Herbs Red Vein Bali Kratom Powder - 3.5oz, 8oz, 17.5oz                                        Whole Herbs
+317 Kono Labs                 Whole Herbs Red Vein Maeng Da Kratom Capsules - 60ct, 120ct, 250ct, 500ct                           Whole Herbs
+318 Kono Labs                 Whole Herbs Red Vein Maeng Da Kratom Powder - 3.5oz, 8oz, 17.5oz                                    Whole Herbs
+319 Kono Labs                 Whole Herbs Yellow Vein Indo Kratom Capsules - 60ct, 120ct, 250ct, 500ct                            Whole Herbs
+320 Kono Labs                 Whole Herbs Yellow Vein Indo Kratom Powder - 3.5oz, 8oz, 17.5oz                                     Whole Herbs
+321
+322 Choice Organics           Choice Organics OPMS Gold Liquid Kratom Extract - 0.33oz                                            Choice Organics
+323 Choice Organics           Choice Organics OPMS Gold Kratom Extract Capsules - 2ct, 3ct, 5ct                                   Choice Organics
+324 Choice Organics           Choice Organics OPMS Black Liquid Kratom Extract - 0.33oz                                           Choice Organics
+325 Choice Organics           Choice Organics OPMS Black Kratom Extract Capsules - 2ct, 3ct, 5ct                                  Choice Organics
+326 Choice Organics           Choice Organics OPMS Red Liquid Kratom Extract - 0.33oz                                             Choice Organics
+327 Choice Organics           Choice Organics OPMS Red Kratom Extract Capsules - 2ct, 3ct, 5ct                                    Choice Organics
+328 Choice Organics           Choice Organics OPMS Silver Green Vein Maeng Da Kratom Capsules - 30ct, 60ct, 120ct, 240ct, 480ct   Choice Organics
+329 Choice Organics           Choice Organics OPMS Silver Green Vein Maeng Da Kratom Powder - 1oz, 4oz, 16oz                      Choice Organics
+330 Choice Organics           Choice Organics OPMS Silver Green Vein Thai Kratom Capsules - 30ct, 60ct, 120ct, 240ct, 480ct       Choice Organics
+                           A                                                            B                                                   C
+331 Choice Organics            Choice Organics OPMS Silver Green Vein Thai Kratom Powder - 1oz, 4oz, 16oz                         Choice Organics
+332 Choice Organics            Choice Organics OPMS Silver Green Vein Malay Kratom Capsules - 30ct, 60ct, 120ct, 240ct, 480ct     Choice Organics
+333 Choice Organics            Choice Organics OPMS Silver Green Vein Malay Kratom Powder - 1oz, 4oz, 16oz                        Choice Organics
+334 Choice Organics            Choice Organics OPMS Silver Super Green Borneo Kratom Capsules - 30ct, 60ct, 120ct, 240ct, 480ct   Choice Organics
+335 Choice Organics            Choice Organics OPMS Silver Super Green Borneo Kratom Powder - 1oz, 4oz, 16oz                      Choice Organics
+336 Choice Organics            Choice Organics OPMS Silver Red Vein Maeng Da Kratom Capsules - 30ct, 60ct, 120ct, 240ct, 480ct    Choice Organics
+337 Choice Organics            Choice Organics OPMS Silver Red Vein Maeng Da Kratom Powder - 1oz, 4oz, 16oz                       Choice Organics
+338 Choice Organics            Choice Organics OPMS Silver Red Vein Sumatra Kratom Capsules - 30ct, 60ct, 120ct, 240ct, 480ct     Choice Organics
+339 Choice Organics            Choice Organics OPMS Silver Red Vein Sumatra Kratom Powder - 1oz, 4oz, 16oz                        Choice Organics
+340 Choice Organics            Choice Organics OPMS Silver White Vein Indo Kratom Capsules - 30ct, 60ct, 120ct, 240ct, 480ct      Choice Organics
+341 Choice Organics            Choice Organics OPMS Silver White Vein Indo Kratom Powder - 1oz, 4oz, 16oz                         Choice Organics
+342
+343 HECO Distro                Hush Kratom Energy Full Spectrum Kratom Extract                                                    Hush Kratom
+344
+345 Simple Inc                 Rave Green Maeng Da Bliss 140mg MIT Nano Shot - Green Tea - 0.5oz                                  Rave
+346 Simple Inc                 Rave Red Bali Bliss 140mg MIT Nano Shot - Fruit Punch - 0.5oz                                      Rave
+347 Simple Inc                 Rave Gold Goddess 140mg MIT Nano Shot - Citrus - 0.5oz                                             Rave
+348 Simple Inc                 Rave White Dragon 140mg MIT Nano Shot - Peach Berry - 0.5oz                                        Rave
+349 Simple Inc                 Rave Boost 150mg MIT Double Shot - Pineapple Orange Guava - 2oz                                    Rave
+350 Simple Inc                 Rave 250mg Super Strength Nano Shot - Black Berry - 1oz                                            Rave
+351 Simple Inc                 Rave 250mg Super Strength Nano Shot - Natural - 1oz                                                Rave
+352 Simple Inc                 Rave 250mg Nano Shot - Black Cherry - 1oz                                                          Rave
+353 Simple Inc                 Rave 225mg Full Spectrum Shot - Café Mocha - 1oz                                                   Rave
+354 Simple Inc                 Rave 225mg Full Spectrum Shot - Salted Caramel - 1oz                                               Rave
+355 Simple Inc                 Rave 225mg Full Spectrum Shot - Sugar Cookie - 1oz                                                 Rave
+356 Simple Inc                 Rave 250mg Super Strength Gummies - Boost - 10ct                                                   Rave
+357 Simple Inc                 Rave 1200mg Kratom Tablets - Watermelon - 6ct                                                      Rave
+358 Simple Inc                 Rave 1200mg Kratom Tablets - Cherry - 6ct                                                          Rave
+359
+360 Evolution Distro LLC       K-Black K-Shot 150mg Kratom Extract - 12ml                                                         K-Black
+361
+362 Genrev Labs LLC            7Rox Super 150mg 7-OH Tablets - Classic - 3ct                                                      7Rox
+363 Genrev Labs LLC            7Rox Super 150mg 7-OH Tablets - Apple Mint - 3ct                                                   7Rox
+                           A                                                               B                      C
+364 Genrev Labs LLC            7Rox Super 150mg 7-OH Tablets - Mixed Berry - 3ct                    7Rox
+365 Genrev Labs LLC            7Rox Max 210mg 7-OH Tablets - Classic - 3ct, 7ct                     7Rox
+366 Genrev Labs LLC            7Rox Max 210mg 7-OH Tablets - Berry Razz - 3ct, 7ct                  7Rox
+367 Genrev Labs LLC            7Rox Max 210mg 7-OH Tablets - Cool Mint - 3ct, 7ct                   7Rox
+368 Genrev Labs LLC            7Rox Max 90mg 7-OH Tablets - Purple Rain - 3ct, 7ct                  7Rox
+369 Genrev Labs LLC            7Rox Max 90mg 7-OH Tablets - Strawmelon - 3ct, 7ct                   7Rox
+370
+371 UEG LLC                    UEG Ultra Enhanced Gold 60mg MIT Extract - 0.5oz                     UEG
+372 UEG LLC                    UEG Ultimate Kratom 75mg MIT Extract - 0.5oz                         UEG
+373 UEG LLC                    UEG Triple Strength 68mg MIT Extract - 0.5oz                         UEG
+374
+375 Lifted Made                Roxy Complex Alkaloid Tablets 20mg - Lemonade - 10ct, 30ct           Roxy
+376 Lifted Made                Roxy Complex Alkaloid Tablets 16mg - Mint - 30ct                     Roxy
+377 Lifted Made                Roxy Complex Alkaloid Tablets 20mg - Triple Berry - 30ct             Roxy
+378 Lifted Made                Roxy Complex Alkaloid Tablets 20mg - Strawmelon - 30ct               Roxy
+379 Lifted Made                Roxy Complex Alkaloid Tablets 20mg - Blue Raspberry - 30ct           Roxy
+380 Lifted Made                Roxy Complex Alkaloid Tablets 20mg - Tropical - 30ct                 Roxy
+381
+382 CWL Brands LLC             Kanva Botanicals 120mg Kratom Extract - Mango - 15ml                 Kanva
+383 CWL Brands LLC             Kanva Botanicals Zoom 80mg Kratom + Energy Extract - Citrus - 15ml   Kanva
+384
+385 Diversified Botanics       MIT45 Go 105mg MIT Kratom Pouches - 3ct                              MIT45
+386 Diversified Botanics       MIT45 250mg MIT Kratom Supplement - 0.5oz                            MIT45
+387 Diversified Botanics       MIT45 Super K 500mg MIT Kratom Supplement - 1oz                      MIT45
+388 Diversified Botanics       MIT45 Super K Extra Strong 1250mg MIT Kratom Supplement - 1oz        MIT45
+389 Diversified Botanics       Golden Monk Mitragyna Speciosa Powder - Green - 1000g                Golden Monk
+390 Diversified Botanics       Golden Monk Mitragyna Speciosa Powder - Red - 1000g                  Golden Monk
+391 Diversified Botanics       Golden Monk Mitragyna Speciosa Powder - White - 1000g                Golden Monk
+392 Diversified Botanics       Golden Monk Mitragyna Speciosa Capsules - Green - 1000ct             Golden Monk
+393 Diversified Botanics       Golden Monk Mitragyna Speciosa Capsules - Red - 1000ct               Golden Monk
+394 Diversified Botanics       Golden Monk Mitragyna Speciosa Capsules - White - 1000ct             Golden Monk
+395
+396 Free River LLC             Lit Culture 80mg Select Kratom Extract Black Honey - 15ml            Lit Culture
+                              A                                                                                 B                                                             C
+397 Free River LLC                                   Lit Culture 80mg Select Kratom Extract Fireside Delight - 15ml                                             Lit Culture
+398 Free River LLC                                   Lit Culture 110mg Superior Kratom Extract Butterscotch - 15ml                                              Lit Culture
+399 Free River LLC                                   Lit Culture 190mg Superior Kratom Extract Watermelon - 15ml                                                Lit Culture
+400 Free River LLC                                   Lit Culture 300mg Superior Kratom Extract Melon Berry Twist - 60ml                                         Lit Culture
+401 Free River LLC                                   Lit Culture 500mg Superior Kratom Extract Blue Razz Colada - 60ml                                          Lit Culture
+402
+403 Social BevCo LLC                                 Tru Moods 60mg MIT + Caffeine Herbal Tonic - 2oz                                                           Tru Moods
+404 Social BevCo LLC                                 Tru Moods Drip 40mg MIT Drink Enhancer - 0.17oz                                                            Tru Moods
+405 Social BevCo LLC                                 Tru Moods 120mg MIT Kratom Herbal Tonic - 2oz                                                              Tru Moods
+406
+407 Premium Supplements LLC DBA The Kratom Company   The Kratom Company 500mg Capsules - 75ct, 150ct, 500ct                                                     The Kratom Company
+408 Premium Supplements LLC DBA The Kratom Company   The Kratom Company Premium Kratom Powder - 3oz, 8oz                                                        The Kratom Company
+409 Premium Supplements LLC DBA The Kratom Company   The Kratom Company 120mg Liquid Kratom Extract - 0.4oz                                                     The Kratom Company
+410 Premium Supplements LLC DBA The Kratom Company   The Kratom Company 200mg RED Liquid Kratom Extract - 0.6oz                                                 The Kratom Company
+411 Premium Supplements LLC DBA The Kratom Company   The Kratom Company 100mg Premium Kratom Extract Capsules - 2ct                                             The Kratom Company
+412 Premium Supplements LLC DBA The Kratom Company   The Kratom Company 300mg Liquid Kratom Extract - 1.2oz                                                     The Kratom Company
+413 Premium Supplements LLC DBA The Kratom Company   The Kratom Company 500mg Liquid Kratom Extract - 2oz                                                       The Kratom Company
+414
+415 Evolution Distro LLC                             Earth Kratom Organic Kratom Powder - Maeng Da - 30g, 250g, 500g, 1kg                                       Earth Kratom
+416 Evolution Distro LLC                             Earth Kratom Organic Kratom Powder - Red Maeng Da - 30g, 250g, 500g, 1kg                                   Earth Kratom
+417 Evolution Distro LLC                             Earth Kratom Organic Kratom Powder - White Maeng Da - 30g, 250g, 500g, 1kg                                 Earth Kratom
+418 Evolution Distro LLC                             Earth Kratom Organic Kratom Powder - Green Borneo - 30g, 250g, 500g, 1kg                                   Earth Kratom
+419 Evolution Distro LLC                             Earth Kratom Organic Kratom Powder - White Borneo - 30g, 250g, 500g, 1kg                                   Earth Kratom
+420 Evolution Distro LLC                             Earth Kratom Organic Kratom Powder - Green Hulu - 30g, 250g, 500g, 1kg                                     Earth Kratom
+421 Evolution Distro LLC                             Earth Kratom Organic Kratom Powder - Red Hulu - 30g, 250g, 500g, 1kg                                       Earth Kratom
+422 Evolution Distro LLC                             Earth Kratom Organic Kratom Powder - Bali - 30g, 250g, 500g, 1kg                                           Earth Kratom
+423 Evolution Distro LLC                             Earth Kratom Organic Kratom Powder - Green Malay - 30g, 250g, 500g, 1kg                                    Earth Kratom
+424 Evolution Distro LLC                             Earth Kratom Organic Kratom Powder - Green Vietnam - 30g, 250g, 500g, 1kg                                  Earth Kratom
+425 Evolution Distro LLC                             Earth Kratom Organic Kratom Powder - Super Indo - 30g, 250g, 500g, 1kg                                     Earth Kratom
+426 Evolution Distro LLC                             Earth Kratom Organic Kratom Powder - Trainwreck - 30g, 250g, 500g, 1kg                                     Earth Kratom
+427 Evolution Distro LLC                             Earth Kratom Organic Kratom Capsules - Maeng Da - 65ct, 150ct, 300ct, 500ct, 750ct, 1000ct, 1500ct         Earth Kratom
+428 Evolution Distro LLC                             Earth Kratom Organic Kratom Capsules - Red Maeng Da - 65ct, 150ct, 300ct, 500ct, 750ct, 1000ct, 1500ct     Earth Kratom
+429 Evolution Distro LLC                             Earth Kratom Organic Kratom Capsules - White Maeng Da - 65ct, 150ct, 300ct, 500ct, 750ct, 1000ct, 1500ct   Earth Kratom
+                           A                                                             B                                                             C
+430 Evolution Distro LLC       Earth Kratom Organic Kratom Capsules - Green Borneo - 65ct, 150ct, 300ct, 500ct, 750ct, 1000ct, 1500ct    Earth Kratom
+431 Evolution Distro LLC       Earth Kratom Organic Kratom Capsules - White Borneo - 65ct, 150ct, 300ct, 500ct, 750ct, 1000ct, 1500ct    Earth Kratom
+432 Evolution Distro LLC       Earth Kratom Organic Kratom Capsules - Green Hulu - 65ct, 150ct, 300ct, 500ct, 750ct, 1000ct, 1500ct      Earth Kratom
+433 Evolution Distro LLC       Earth Kratom Organic Kratom Capsules - Red Hulu - 65ct, 150ct, 300ct, 500ct, 750ct, 1000ct, 1500ct        Earth Kratom
+434 Evolution Distro LLC       Earth Kratom Organic Kratom Capsules - Bali - 65ct, 150ct, 300ct, 500ct, 750ct, 1000ct, 1500ct            Earth Kratom
+435 Evolution Distro LLC       Earth Kratom Organic Kratom Capsules - Green Malay - 65ct, 150ct, 300ct, 500ct, 750ct, 1000ct, 1500ct     Earth Kratom
+436 Evolution Distro LLC       Earth Kratom Organic Kratom Capsules - Green Vietnam - 65ct, 150ct, 300ct, 500ct, 750ct, 1000ct, 1500ct   Earth Kratom
+437 Evolution Distro LLC       Earth Kratom Organic Kratom Capsules - Super Indo - 65ct, 150ct, 300ct, 500ct, 750ct, 1000ct, 1500ct      Earth Kratom
+438 Evolution Distro LLC       Earth Kratom Organic Kratom Capsules - Trainwreck - 65ct, 150ct, 300ct, 500ct, 750ct, 1000ct, 1500ct      Earth Kratom
+439
+440 Global Widget, LLC         Mystic Labs 30mg MIT Kratom Extract Gummies - Blood Orange - 5ct, 30ct                                    Mystic Labs
+441 Global Widget, LLC         Mystic Labs 30mg MIT Kratom Extract Gummies - Caribbean Punch - 5ct, 30ct                                 Mystic Labs
+442 Global Widget, LLC         Mystic Labs 30mg MIT Kratom Extract Gummies - Mango Pineapple - 5ct, 30ct                                 Mystic Labs
+443 Global Widget, LLC         Mystic Labs 30mg MIT Kratom Extract Gummies - Mixed Berry Magic - 5ct, 30ct                               Mystic Labs
+444 Global Widget, LLC         Mystic Labs 30mg MIT Kratom Extract Gummies - Twisted Lime - 5ct, 30ct                                    Mystic Labs
+445 Global Widget, LLC         Mystic Labs 30mg MIT Kratom Extract Gummies - Yuzu Lemonade - 5ct, 30ct                                   Mystic Labs
+446 Global Widget, LLC         Mystic Labs 150mg MIT Kratom Extract Shot - 0.5oz                                                         Mystic Labs
+447
+448 Kingdom Kratom             Kingdom Kratom Formula 2 Kratom Extract Shot - 10ml                                                       Kingdom Kratom
+449 Kingdom Kratom             Kingdom Kratom Kingdom Bliss Kratom Capsules - 20ct                                                       Kingdom Kratom
+450 Kingdom Kratom             Kingdom Kratom Kingdom Boost Kratom Capsules - 20ct                                                       Kingdom Kratom
+

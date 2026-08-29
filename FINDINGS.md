@@ -304,6 +304,38 @@ themselves. Applied to **42.4 million untreated**, the response has been to sche
 one molecule at a time, **managing the consequences of the abandonment rather than
 ending it.** Also added to the README.
 
+**2026-08-29 — Finding 39: a state registry, dated six weeks after scheduling, lists
+thirty 7-OH products by name. The biggest is 210 mg.** **[P]** West Virginia
+Department of Agriculture, **"Registered Kratom Products v 08/14/2026"**, 450 rows,
+obtained and hashed. The DEA action issued **1 July 2026**. This list postdates it by
+six weeks and contains **thirty products with "7-OH" in the product name**: **7Rox Max
+210mg** and **7Rox Super 150mg** (Genrev Labs), **STNR and 7 Seas 100mg**, **Real
+Botanicals 7-Hydro 30mg 7-OH Shot**, **Prof Whyte's Kplex 20mg**, and **Dopium 10mg**
+in six flavours. **Finding 18 established a federal absolute limit of 1.00 mg per
+article.** It also **corroborates Finding 38**: Botanic Tonics alleged in a sworn
+complaint that West Virginia registered Roxy 7-OH tablets while refusing *feel free*,
+and the registry shows exactly that. **Six Roxy Complex Alkaloid rows at 16mg and
+20mg, registrant Lifted Made, and *feel free* appears nowhere in 450 rows.** The
+finding states plainly what it does not claim: a label figure is not an assay,
+registration is not approval, and administrative lag is a sufficient explanation for
+the timing. **The next step is to buy a 210mg tablet and assay it**, which is under
+$100 and would settle it.
+
+**2026-08-29 — Finding 38: a competitor named the state-licensed 7-OH products, under
+oath.** **[P]** *Botanic Tonics LLC v. Kent Leonhardt*, 2:25-cv-00680 (S.D. W. Va.),
+complaint filed 19 Nov 2025, 21pp, obtained. **West Virginia's Agriculture
+Commissioner was sued in his INDIVIDUAL CAPACITY for compensatory damages** under
+**42 U.S.C. 1983**, on Dormant Commerce Clause, Supremacy Clause and Fourteenth
+Amendment theories, by counsel including **Jonathan W. Emord**. The complaint alleges
+the Department "has authorized the following products which include
+**7-hydroxymitragynine synthetic concentrates at levels established in the scientific
+literature to create morphine-like effects and dependencies**," then lists ten by
+brand and dose, and says that "**for not a single one of these applicants did the
+Department demand proof of safety of any kind.**" Recorded as an adverse party's
+assertion, since BT is a commercial rival of the products it names, and **checked
+against the state registry the same day** (Finding 39). The case ended after five
+docket entries with no responsive pleading.
+
 **2026-08-29 — Finding 37: the company sued the Utah agency that later warned the
 public about a death.** **[P]** *Botanic Tonics, LLC v. Kelly Pherson*, 2:26-cv-267
 (D. Utah). **Botanic Tonics and the Global Kratom Coalition sued four Utah officials**

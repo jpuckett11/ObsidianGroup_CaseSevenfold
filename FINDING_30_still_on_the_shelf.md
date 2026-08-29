@@ -99,3 +99,14 @@ by scaffold, by metabolic origin, or by quantity per article.
 Every day the question sits open, the compounds are on shelves, they are legal, and
 the substitution the Department was warned about proceeds without breaking a single
 law.
+
+---
+
+**ADDENDUM 2026-08-29.** This finding now has state paperwork behind it. **West
+Virginia's Department of Agriculture published "Registered Kratom Products v
+08/14/2026", six weeks after the federal scheduling action, listing thirty products
+with "7-OH" in the product name at doses up to 210 mg.** See **Finding 39**. The
+caveats there are real and are stated at length: a label is not an assay and
+registration is not approval. But the claim that these products remain available is no
+longer resting on retail observation alone.
+
