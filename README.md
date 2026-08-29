@@ -171,6 +171,11 @@ corrections. Everything free, no credit required.
 number **`mtc-56yj-nmij`**, submitted 2026-08-27. See **[FILINGS.md](FILINGS.md)**
 for what it asks the Department to answer and what else is outstanding.
 
+**Before quoting this file anywhere, read
+[`PUBLICATION_STATE.md`](PUBLICATION_STATE.md).** It separates what is settled from
+what is estimated, lists what must not be said, and collects the six places this case
+corrected itself. **The corrections are the reason the rest can be trusted.**
+
 ## How to read this
 
 Every claim carries a provenance tag. **They are not decoration.**
