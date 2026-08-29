@@ -304,6 +304,27 @@ themselves. Applied to **42.4 million untreated**, the response has been to sche
 one molecule at a time, **managing the consequences of the abandonment rather than
 ending it.** Also added to the README.
 
+**2026-08-29, Finding 53: FDA warned the CEO about the product in June 2025. In
+February 2026 that same product was recalled Class I for holding more 7-OH than its
+own label. The manufacturer printed on it has been enforced against by nobody.**
+**[P] on federal primaries.** Warning Letter **CMS #709622** is addressed to
+**Stephen Vincent Sanders II, CEO, Shaman Botanicals LLC**, at a
+cbdamericanshaman.com address, which settles the corporate link on FDA's own paper
+rather than on his statements to reporters. It names the **White Vein Advanced
+Alkaloids (Lemon)** tablets. Those tablets were recalled **2026-02-13**, Class I,
+still Ongoing, roughly **3.2 million tablets**, because "the active ingredient is in
+a quantity greater than the labeled specification." The recall label reads
+**"MANUFACTURED BY: Konig Products, LLC, 30 N Gould Street, Suite R, Sheridan, WY
+82801."** Konig is in no warning letter, no forfeiture caption, and no Missouri CID,
+including the 2026-04-07 sweep aimed explicitly at the supply chain. Forfeiture
+**4:25-cv-00917-RK** survived dismissal **2026-07-06**; the order records **15 mg to
+154 mg** of 7-OH per product and **refused the Giroir Letter** as a Controlled
+Substances Act argument in an FDCA case. **Not asserted:** Sanders' reported claim
+of white-labeling for six of the seven warned firms, which no primary here supports.
+The record shows a **108-distributor** channel instead. **Also corrects Finding 07:**
+FDA warning-letter pages do not 404 because they are gone. A browser user agent
+returns 200 while a control page that certainly exists returns 404 the same way.
+
 **2026-08-29, Finding 52: preventing one case costs $10,000. The case costs $830,928.**
 **[I] ESTIMATE**, inputs sourced, arithmetic shown. Prices the upstream limb Finding 51
 identified and Finding 45 explicitly did not price. **CDC BRFSS 2011-2020: 17.3% of US
@@ -989,3 +1010,7 @@ agency review and posting. Comment period closes 2026-09-10.
 - [ ] Obtain the **Wyden letters** themselves, all three
 - [ ] Re-capture the five **blocked sources** (DEA, Public Citizen x2, congress.gov, Missouri Independent) via an alternate path
 - [ ] Determine whether Botanic Tonics itself sells any product above the 0.05% line
+- [ ] **Wyoming SOS: Konig Products LLC and Konig Kratom LLC.** Registration date, officers, organiser. The label names Konig as manufacturer and no enforcement action has reached it
+- [ ] **USPTO TSDR primary for trademark 99149373 (KONIG PRODUCTS)**, filed 2025-04-22. Confirm owner and whether the basis is intent-to-use
+- [ ] **FDA NDI 1448 receipt date, not the posted date.** Finding 53 s7 cannot assert the post-ruling filing inference without it
+- [ ] **Thang Botanicals warning letter.** Retry over curl with a browser user agent, not WebFetch. Needed to confirm the Mitchell patent identity in Finding 07
