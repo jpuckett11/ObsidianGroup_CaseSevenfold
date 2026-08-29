@@ -305,6 +305,25 @@ nutrition alone. **A condition can be substantially heritable and substantially
 preventable at the same time**, and treating the first as a reason to abandon the
 second is the mistake Finding 51 section 6 sets out.
 
+### The upstream number, added 2026-08-29
+
+**Finding 52 prices it.** A Nurse-Family Partnership full course, pregnancy through age
+two, is **$4,000 a year for 2.5 years, so $10,000.** The **CDC lifetime cost of a single
+nonfatal child maltreatment case is $830,928.**
+
+**That is 83 to 1, and it is not a model.** It is one published cost divided by another.
+**The programme does not have to work often. It has to work once in eighty-three
+times.**
+
+Serving **every first-time Medicaid-covered mother in America** for a full course is
+about **$4.9 billion, once, per cohort.** That is **0.8 percent** of the **$592 billion**
+annual CDC burden for child abuse and neglect.
+
+**This document asks for two things now, not one.** Downstream, in section 9, a trade
+and an income for the adult who is already here. **Upstream, the child**, because on
+Finding 51's evidence two thirds of the downstream problem is manufactured there, and
+every year it is not done reloads the number.
+
 ## 6. Education and a trade: what the European evidence actually says
 
 Puckett raised the European rehabilitation literature, and the same

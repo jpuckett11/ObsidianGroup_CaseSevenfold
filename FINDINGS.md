@@ -304,6 +304,30 @@ themselves. Applied to **42.4 million untreated**, the response has been to sche
 one molecule at a time, **managing the consequences of the abandonment rather than
 ending it.** Also added to the README.
 
+**2026-08-29, Finding 52: preventing one case costs $10,000. The case costs $830,928.**
+**[I] ESTIMATE**, inputs sourced, arithmetic shown. Prices the upstream limb Finding 51
+identified and Finding 45 explicitly did not price. **CDC BRFSS 2011-2020: 17.3% of US
+adults report 4 or more ACEs, rising to 25.8% among the unemployed and 28.8% among
+those unable to work.** Finding 45 was about people who left the labour force; **this is
+what happened to a quarter of them before they were adults.** **CDC lifetime cost per
+nonfatal child maltreatment case: $830,928** (2015 dollars, so conservative).
+**Nurse-Family Partnership full course, pregnancy to age 2, is $4,000/yr x 2.5 =
+$10,000.** **That is 83 to 1. The programme does not have to work often to pay for
+itself; it has to work once in eighty-three times.** At cohort scale, serving every
+first-time Medicaid-covered mother in America is **$4.9 billion once per cohort**,
+returning **$27.8B at RAND's conservative $5.70 per dollar** and $46.6B at the higher
+published estimate. **That is 0.8% of the $592 billion annual CDC burden it targets,
+and 2,530 times every kratom dollar any American state has appropriated (F50).** **That
+$1,925,400 would have bought 192 full NFP courses. It bought probation officers, prison
+beds, courtrooms, a crime lab and a webpage.** **[I]** Prevention runs at 5.70:1 against
+treatment's 2.06:1 at full cost (F45), **and they are not alternatives**: treatment
+addresses the 42.4 million already here, prevention addresses whether there are 42.4
+million more. **Both are now priced in this file and neither is being done.** Section 7
+names the real weakness: the $830,928 is per maltreatment case, not per addiction case,
+so section 3 compares two published costs rather than claiming one prevents the other,
+and the NFP ratios come from the programme's own evaluators and RAND rather than from
+WSIPP, which was not obtained.
+
 **2026-08-29, Finding 51: "I was not born an addict. My childhood made me one." The
 attributable risk fraction is 64 percent.** **[P]** Opened on a statement by **N-01**
 and tested against the primary literature. **Dube et al. 2003, *Pediatrics*, DOI
