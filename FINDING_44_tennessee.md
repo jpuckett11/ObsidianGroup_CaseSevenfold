@@ -69,30 +69,56 @@ Sections 4 and 5 will generate real data on kratom's role in overdose deaths, wh
 this case has wanted and which is a genuine public good. **Nothing in the act reaches
 a living person who wants to stop.**
 
-## 5. Section 3 is the one that matters [P for the deletion, U for the text]
+## 5. CORRECTED 2026-08-29. Section 3 is a conforming amendment, and this finding said otherwise.
 
-> "SECTION 3. Tennessee Code Annotated, **Section 33-2-1404(a)(8)**, is amended by
-> deleting **', including Kratom'**."
+**The text of TCA 33-2-1404(a)(8) has been obtained**, from **Tennessee Public Chapter
+406 (SB 1240)**, the act that created it. **This section as originally written was
+wrong twice and both errors were ours.**
 
-**Title 33 of the Tennessee Code is Mental Health and Substance Abuse Services.**
-Chapter 2, Part 14 governs **nonresidential substitution-based treatment centers for
-opiate addiction**, which is the licensing regime for methadone and buprenorphine
-clinics.
+**The provision, verbatim:**
 
-**In the same act that made possession a crime, the legislature struck the words
-"including Kratom" out of the statute governing opioid treatment clinics.**
+> "**33-2-1404. Minimum standards for certification.** (a) An organization selected and
+> approved by the commissioner and performing certification of **recovery residences**
+> in this state shall adopt the following minimum standards as part of the
+> certification: ... **(8) Policies requiring abstinence from alcohol, illicit drugs,
+> and certain nonillicit drugs, including Kratom;**"
 
-**`[U]` and this is the limit of what we can say.** We could not obtain the text of
-subsection (a)(8) as it stood before the deletion. Justia returned 403, Casetext 410,
-FindLaw 403, LawServer 307. **We therefore do not know what requirement or permission
-"including Kratom" was attached to**, and we are not going to guess at it. **What is
-verified is that the phrase was in the treatment-centre statute, and that this act
-removed it.**
+**Error one. This is not the opioid treatment clinic statute.** This finding described
+Title 33, Chapter 2, Part 14 as "the licensing regime for methadone and buprenorphine
+clinics." **It is not. Part 14 governs the certification of recovery residences**, which
+are sober-living homes that by statutory definition provide **"no medical or clinical
+services, treatment, or medication administration on-site except for verification of
+abstinence."** The description was inferred from the chapter title and was not checked.
 
-**Obtaining that one subsection is the highest-value outstanding item on this
-finding.** A Tennessee law library, a Westlaw or Lexis account, or a call to the
-Tennessee Department of Mental Health and Substance Abuse Services would settle it in
-minutes.
+**Error two, and it is the one that matters.** This finding wrote that "in the same act
+that made possession a crime, the legislature struck the words 'including Kratom' out
+of the statute governing opioid treatment clinics," and left the reader to draw a
+conclusion. **The deletion is almost certainly a conforming amendment, not a removal of
+anything.**
+
+**Read the category the phrase sat in: "certain nonillicit drugs, including Kratom."**
+Public Chapter 950 made kratom possession a Class A misdemeanor effective **1 July
+2026**, the same day. **Once kratom is illicit, naming it in a list of nonillicit drugs
+is simply wrong**, and it is covered by the preceding words, "illicit drugs."
+
+**Tennessee recovery residences must still require abstinence from kratom. The
+requirement moved clauses.** On this record the substantive effect of Section 3 is
+most likely nil, and this finding implied it was sinister.
+
+**What the correction does not change.** Sections 1 through 4 and 6 stand: possession
+is a Class A misdemeanor, the felony version was on the table, the KCPA alternative
+died without a floor vote, the act appropriates nothing, and "treatment" appears zero
+times in it. **Finding 49 separately established that Tennessee appropriated nothing
+anywhere.** The argument of this finding survives; **one of its sharpest-sounding
+details does not.**
+
+**And it cuts the other way on one point.** Public Chapter 406 shows Tennessee **did**
+legislate on recovery residences, establishing certification standards covering exit
+plans, resident funds, overdose notification of families, and prohibitions on
+recovery-residence operators taking residents' public assistance benefits. **That is a
+state acting on the person rather than the molecule**, and Findings 42 and 50 should be
+read with it in view. **It is regulation rather than funding, and no appropriation
+attaches to it, but it is not nothing and this case should say so.**
 
 ## 6. The scale, which is the investigator's point and is the right one
 

@@ -479,15 +479,20 @@ anything "substantially chemically equivalent." **The word "treatment" appears z
 times in the act; "kratom" appears 14, so the control works. Appropriation: $0.** The
 companion bill, **HB 1647, would have made simple possession a Class D FELONY** and
 sale a Class B felony, which is the range the debate occupied. **[S]** The regulatory
-alternative, HB 2594, a Tennessee KCPA, never reached a floor vote. **Section 3 is the
-one that matters: the act deletes ", including Kratom" from TCA 33-2-1404(a)(8)**,
-which sits in **Title 33, Mental Health and Substance Abuse Services**, Part 14, the
-licensing statute for **nonresidential substitution-based treatment centers for opiate
-addiction**. **In the same act that made possession a crime, the legislature struck
-kratom out of the opioid treatment clinic statute.** **[U] The text of (a)(8) before
-deletion could not be obtained** (Justia 403, Casetext 410, FindLaw 403, LawServer
-307), so what the phrase was attached to is unknown and not guessed at. **That single
-subsection is the highest-value outstanding item here.** What the act does instead:
+alternative, HB 2594, a Tennessee KCPA, never reached a floor vote. **Section 3 CORRECTED 2026-08-29.** The act deletes ", including
+Kratom" from TCA 33-2-1404(a)(8), and this index originally said that struck kratom out
+of the opioid treatment clinic statute. **Both halves of that were wrong.** The text was
+obtained from **Public Chapter 406**, the act that created it: **33-2-1404 is "Minimum
+standards for certification" for RECOVERY RESIDENCES**, not methadone clinics, and
+(a)(8) reads **"Policies requiring abstinence from alcohol, illicit drugs, and certain
+nonillicit drugs, including Kratom."** **Once possession became a crime the same day,
+naming kratom in a list of NONILLICIT drugs was simply wrong; it is covered by "illicit
+drugs."** **The deletion is a conforming amendment and its substantive effect is most
+likely nil.** Recovery residences must still require abstinence from it. **The finding
+implied something sinister that the text does not support, and says so.** Cuts the other
+way too: PC 406 shows Tennessee **did** legislate on recovery residences, covering exit
+plans, overdose notification of families, and a bar on operators taking residents'
+public assistance. **That is a state acting on the person**, unfunded but not nothing. What the act does instead:
 mandatory kratom testing in overdose autopsies, in toxicology for suspected overdose
 and neonatal abstinence syndrome, and a drug-free-workplace definition. **Real data on
 the dead, nothing for the living.** **THE SCALE, which is the investigator's point.**
