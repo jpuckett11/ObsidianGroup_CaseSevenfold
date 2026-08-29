@@ -29,7 +29,8 @@ ordinary practice, not misconduct.
 | 2026-08-28 | **HHS OASH**, same docket | regulations.gov | **Accepted.** Tracking `mtc-q9zv-dase` |
 | 2026-08-28 | **HHS OASH**, same docket | regulations.gov | **Accepted.** Tracking `mtd-izm8-ql4p` |
 | 2026-08-28 | **Paquin Entertainment** (management for Merkules, Death Row Records) | Email | Sent. Asks only whether anyone on the roster would point people at the case file. No endorsement, no money, refusable in one line. States we will not characterise any artist's story without them saying so themselves |
-| 2026-08-28 | **Tampa Bay Times**, Deadly Dose team | Email, press pitch | Sent to a verified address from the project page, copied to an inferred address for their investigative reporter. **Inferred address flagged as unverified; no bounce as of sending** |
+| 2026-08-28 | **Tampa Bay Times**, Deadly Dose team | Email, press pitch | **Partially delivered.** To `akeeler@tampabay.com` (verified, project page): delivered, no bounce. Cc `hcritchfield@tampabay.com` (inferred): **bounced 90 seconds later** — `postmaster@tbtimes.onmicrosoft.com`, *"hcritchfield wasn't found at tampabay.com."* The address is still published on her own author page; the mailbox does not exist. **The inference was wrong and the flag was justified** |
+| 2026-08-28 | **Tampa Bay Times**, Sam Ogozalek | Email, press pitch | Sent to `sogozalek@tampabay.com`, **verified from his own author-page bio**, which invites tips. He is a named reporter on the Deadly Dose kratom series; the first approach had gone to an address that was not his. Message confirmed in the Sent folder over IMAP. **No bounce within the first minutes; not yet a delivery confirmation** |
 | 2026-08-28 | **Awakening Recovery, Inc.** | — | **NOT contacted.** They publish no email address, no mailto and no contact form. The only published channel is a line labelled "Get Help", which is an intake number for people seeking beds. **Declined to use it.** Better routes recorded in the approach file |
 | 2026-08-28 | **Deseret News**, Dennis Romboy | Email, press pitch | Sent. He authored the 30 July piece on the Utah County death. Offers the case free, no credit required |
 | 2026-08-28 | **NW Alabama Mental Health Center** | Email, outreach not a filing | Sent. Offers the case file free to a CMHC treating chemical dependency; asks only for aggregate observation |
@@ -91,6 +92,29 @@ alone; it was verified separately before the correction ran.
 The superseded PDFs `OWG_FOIA_FDA_2026-08-29.pdf` and `OWG_FOIA_DOJ_2026-08-29.pdf`
 are wrong and must not be filed. They have been left in place rather than deleted.
 Use the `2026-08-28` files.
+
+---
+
+## Correction, 2026-08-28 (second)
+
+**The Tampa Bay Times row above previously read "no bounce as of sending." That was
+true when written and false shortly after.** The Cc to `hcritchfield@tampabay.com`
+bounced roughly 90 seconds after the send, and the row now records it.
+
+Two things worth keeping from this.
+
+**An inferred address is not a contact.** It was flagged as inferred at the time, and
+the flag was correct. The convention was right for the domain and still produced a
+dead mailbox.
+
+**A published address is not a live one.** Hannah Critchfield's own author page at
+tampabay.com currently displays `hcritchfield@tampabay.com`. Microsoft's mail server
+says that user does not exist. When those two disagree, **the bounce wins.** We
+briefly treated the author page as confirmation of the address; it confirms only that
+the paper published it.
+
+The corrected approach went to `sogozalek@tampabay.com`, taken from Sam Ogozalek's own
+bio, and he is the reporter who actually carried the kratom series.
 
 ## Method
 

@@ -238,6 +238,9 @@ years to correct after the correction was available, and is still only half fixe
 - An OIG report to Congress under P.L. 117-328 that we have not located. We searched
   the Federal Register and OIG's site; we did not obtain a negative confirmation from
   OIG itself. **This is the weakest link in the finding and is labelled as such.**
+  **Narrowed in Addendum 2 §A7** with a second controlled negative (OIG's own Spring
+  2026 Semiannual Report to Congress does not mention contingency management at all).
+  **Still not closed. The clean instrument is a FOIA to OIG, which is now queued.**
 - Evidence that the $750 limit has been extended beyond SOR/TOR, or that Medicaid
   guidance has moved off the $599 tax boundary.
 - A trial showing efficacy at or below $75 per year, which would invert section 3.
@@ -379,3 +382,94 @@ The same source deepens the history: OIG's nominal-value interpretation began in
 **Added sources:** OIG Advisory Opinion No. 22-04 (25 Feb 2022) [P], 9pp, retrieved
 2026-08-28. Legislative Analysis and Public Policy Association, *Contingency
 Management* fact sheet, October 2023 [S].
+
+---
+
+# ADDENDUM 2, 2026-08-28: both open items resolved as far as the public record allows
+
+The first addendum left two things open. Both are now closed to the limit of what is
+publicly checkable, and one of them changes a label from `[S]` to corroborated.
+
+## A6. The Medicaid limit is real, it is not SAMHSA's, and there is a way round it [P]
+
+Addendum 1 §A4 carried a single secondary source for the claim that the $75 limit
+also bound Medicaid, and flagged it as needing a primary. **It is now corroborated by
+SAMHSA's own clinical guidance.**
+
+**SAMHSA, *Treatment for Stimulant Use Disorders*, Treatment Improvement Protocol
+(TIP) Series No. 33, updated 2021**, in a box titled *"A Warning About Reimbursement
+for Contingency Management"*:
+
+> "Medicare and Medicaid currently limit the amount of money that can be used as an
+> incentive in CM programs to a maximum of **$75**"
+
+That is SAMHSA telling clinicians, in its own treatment protocol, that the ceiling
+runs through **CMS programmes**, not merely through SAMHSA's grant conditions. Two
+independent sources now say so. **The underlying CMS issuance itself we still have
+not located**, and that limitation stays on the record — but the claim is no longer
+resting on one fact sheet.
+
+**This confirms §7(c) structurally.** SAMHSA raised its own cap in January 2025. It
+had no authority to raise CMS's. So the largest public funder of this treatment in
+most states was never reached by the fix, which is why the January 2025 change is
+narrower than the headline suggests.
+
+**But it is not a wall.** Medicaid can fund CM at effective magnitudes through a
+**section 1115 demonstration waiver**, and three states have obtained one:
+**California, Montana, and Washington.** California's runs at $599.
+
+**This qualifies the finding, and the qualification matters.** Nothing forbids
+Medicaid from paying for contingency management at a working dose. What is required
+is that a state negotiate a individually approved federal demonstration waiver to do
+what the evidence has supported since the 1990s. Three states out of fifty have. That
+is not prohibition. **It is friction, applied to the one treatment with a
+dose-response curve, and friction at that level is how something effective stays
+small.**
+
+**And the states add their own.** Washington caps CM payments at **$100** by state
+law — below the federal $750 and below the effective floor, in one of the three
+states that went to the trouble of getting a waiver.
+
+## A7. The report to Congress: a controlled negative, and that is where it ends [P]
+
+§10 named this the weakest link: we had proved the *rule* never issued but had no
+direct confirmation about the *report*. We have now checked three independent
+vantage points. **We still have no confirmation from OIG, and we are not going to
+manufacture one.** Here is exactly what was checked and what each is worth.
+
+| Vantage point | Result | Control |
+|---|---|---|
+| Federal Register, by RIN 0936-AA13 | **0 documents** | **Yes** — AA10 returns 3, AA15 returns 1, AA16 returns 1 |
+| **OIG Spring 2026 Semiannual Report to Congress**, 35pp | **"contingency": 0 hits. "substance use disorder": 0 hits** | **Yes** — "OIG" 183 hits, "recommend" 42 hits, so the document parsed fully |
+| OIG report search; oversight.gov search | **unusable** | render client-side; a zero from either proves nothing and **none is reported** |
+
+The only safe harbor material in OIG's own semiannual report to Congress is the
+**routine annual solicitation** for safe harbor proposals, published December 2025,
+which drew 13 proposals "still under review." **Contingency management is not named
+anywhere in the document.**
+
+**What we assert:** across the two instruments that carry working controls, there is
+no public trace of the report Congress ordered by 29 December 2024, and OIG's own
+most recent report to Congress does not mention the subject.
+
+**What we do not assert:** that no report exists. A report can be delivered to
+committees without appearing in either place. **The clean way to settle this is a
+FOIA to OIG, or a committee staff enquiry, and neither has been done.** This stays
+listed as unresolved rather than dressed up as proven.
+
+## A8. Revised status of the whole finding
+
+| Section | Status after both addenda |
+|---|---|
+| 3, dose evidence | unchanged |
+| 4, the ceiling costs almost nothing | unchanged, still the key number |
+| 5, OIG disclaimed the $75 cap | unchanged |
+| 7(b), gift cards and the safe harbor | qualified by A2 — absence of a safe harbor is not prohibition |
+| 7(c), Medicaid | **corroborated by A6 and qualified** — real, sourced to SAMHSA's own TIP, and navigable by 1115 waiver in 3 states |
+| 8, missing rule and deadline | **confirmed**, now with a second controlled negative |
+| A4, the CMS claim | **upgraded from [S] to corroborated**, issuance still unlocated |
+| 10, weakest link | **narrowed, not closed.** Next step is a FOIA to OIG |
+
+**Added sources:** SAMHSA TIP 33, *Treatment for Stimulant Use Disorders*, updated
+2021 [P]. OIG *Spring 2026 Semiannual Report to Congress*, 35pp, retrieved
+2026-08-28 [P]. cminfo.org funding guidance, for the 1115 waiver states [S].

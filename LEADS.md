@@ -64,3 +64,40 @@ which is not where the report came from.
 sale, and that remains accurate as to what can be documented. Filing a correction
 on a second-hand report would hand the industry the cheapest possible way to
 discredit the entire submission.
+
+---
+
+## L-02 — Two documents that would close Finding 35
+
+**Opened 2026-08-28. Status: OPEN, both actionable, neither chased yet.**
+
+Finding 35 rests on published federal sources throughout. Two specific instruments
+would close the two places it still hedges, and both are ordinary requests rather
+than research.
+
+**1. The CMS issuance behind the $75 Medicaid limit.** `[S] corroborated, not
+located.` Two federal or expert sources state that the $75 ceiling applied to
+Medicare and Medicaid, not only to SAMHSA grants — SAMHSA's own TIP 33 (2021) says
+so in terms. **We have not found the CMS document that imposed it.** Finding 35 §A6
+says as much. Until it surfaces we cannot say whether it was a rule, a State
+Medicaid Director letter, sub-regulatory guidance, or a widely shared reading of OIG
+guidance that nobody ever actually issued. **That last possibility is worth stating
+plainly, because §5 of the same finding shows exactly that having happened once
+already.**
+
+**2. The OIG report to Congress ordered by the Consolidated Appropriations Act,
+2023.** `[U] no public trace located.` Due 29 December 2024. Two controlled searches
+found nothing (Federal Register by RIN, and OIG's own Spring 2026 Semiannual Report
+to Congress). **A report can be delivered to committees without appearing in either.**
+
+**The instrument for both is a FOIA**, and this case already has the machinery
+running for three of them. A FOIA to HHS OIG asking for the P.L. 117-328
+contingency management safe harbor review, any report or recommendations transmitted
+to Congress under it, and any records concerning the status of RIN 0936-AA13, would
+settle it either way. A parallel FOIA or a staff enquiry to CMS would settle the
+first.
+
+**Nothing in Finding 35 depends on either being answered.** The dose evidence, the
+2020 OIG preamble, the January 2025 change, the $623 safe harbor figure and the
+absence of the rule are all sourced independently. These would remove two hedges,
+not repair a hole.
