@@ -79,7 +79,33 @@ office**, before anything has been done with it.
 to that oath since.** It is stated here once, at his direction, because the
 comparison that follows is not abstract for him.
 
-We raise it because this file is a record of what was done with an office. On the
+## Why the remediation argument is what it is
+
+**A unit is only as strong as its weakest member. So you strengthen the weakest
+member. You do not discard them.**
+
+That is not a slogan and it is not charity. It is operational logic, and it is
+doctrine because it works. The capability of the whole is set by its least capable
+part, so the fastest way to raise the whole is to bring that part up. Cutting it
+loose does not raise the average. **It lowers the ceiling**, because everyone
+remaining now knows what happens to whoever falls behind next, and people who expect
+to be abandoned do not commit.
+
+**Leave no one behind is the same principle stated for people.** It is not
+sentiment about the fallen. It is what makes the living willing to advance.
+
+Apply it to the number in this file. **42.4 million Americans with a substance use
+disorder received no treatment last year.** That is the weakest link in the line, and
+the policy response has been to schedule one molecule at a time while the market
+moves to the next one — managing the symptom of the abandonment rather than ending
+it.
+
+**Nobody has tried strengthening the weak link at the scale of the problem.** That is
+the entire ask in [`REMEDIATION.md`](REMEDIATION.md), and it comes from a doctrine
+that has been tested for a very long time in conditions far less forgiving than a
+federal docket.
+
+We raise the oath because this file is a record of what was done with an office. On the
 single occasion eleven US Senators put this subject in writing, it ran to 537 words,
 **twelve of them about enforcement and none about treating anyone** (Finding 32).
 Congress removed the one barrier the field had named for a decade, and prescribing did

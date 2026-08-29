@@ -440,7 +440,7 @@ deep focus and novelty is a plausible high-RRV candidate for exactly this
 population.**
 
 **That is a testable claim and nobody has tested it.** It belongs in the trial
-described at the end of this section, and it costs nothing to include an arm for
+described in s11, and it costs nothing to include an arm for
 it.
 
 ### Disclosure
@@ -454,7 +454,7 @@ test is n=1, self-selected, unblinded, uncontrolled, and run by someone with a s
 in the result. It is the weakest design available. Nothing in `REMEDIATION.md`, in
 any finding, or in any filing rests on it, and nothing will.
 
-**What it can do is demonstrate rather than prove.** Part of why the trial in s10
+**What it can do is demonstrate rather than prove.** Part of why the trial in s11
 has never been funded is that nobody can picture what the intervention looks like in
 practice. A demonstration is not a substitute for a randomised trial and is not
 offered as one.
@@ -581,7 +581,7 @@ kill people.**
 Not the theory. Not the instrument. Not the international standard. Not the pilot
 programmes.
 
-**The randomised trial, and the money.** The gap identified in section 7 survives
+**The randomised trial, and the money.** The gap identified in s7 survives
 contact with the grey literature: nobody has run a trial that trains people in what
 they already care about and measures relapse against a control.
 
@@ -618,7 +618,49 @@ has an innocent explanation available. What we say is narrower and harder to
 dismiss: **the incentives all point one way, and nobody in the structure is
 required to notice.**
 
-## 10. What we actually ask for
+## 10. The principle underneath all of it
+
+The investigator's framing, and it is the clearest statement of the whole argument:
+
+> **A unit is only as strong as its weakest member. So you strengthen the weakest
+> member. You do not discard them.**
+
+**This is doctrine because it works**, and it is operational rather than moral.
+
+The capability of any system is bounded by its least capable component. Removing
+that component does not raise the average; **it lowers the ceiling**, because the
+remaining members now have evidence about what happens to whoever falls behind next.
+People who expect to be written off do not extend themselves. **A unit that abandons
+its weakest is not leaner. It is more brittle, and everyone in it knows why.**
+
+**"Leave no one behind" is the same principle stated for people.** It is not about
+sentiment toward the one who fell. It is what makes the ones still standing willing
+to move forward.
+
+### Applied to the number in section 4
+
+**42.4 million people with a substance use disorder received no treatment last
+year.** That is the weakest link, at national scale.
+
+The response has been to schedule one molecule, then the next, then the next
+(s1) — **managing the consequences of the abandonment rather than ending it.**
+Every scheduling action treats the supply that reaches those people. **None of them
+treats the people.**
+
+And the reform Congress did pass was the one that cost nothing, and prescribing did
+not move (s11).
+
+**Nobody has tried strengthening the weak link at the scale of the problem.** Not
+once, not at that size. The trials in s6 and s7 that would show whether it works have
+not been funded, and the intervention with a measured dose-response curve is capped
+below its effective dose (s5).
+
+**That is the whole ask.** Not prohibition, not a plant ban, not more molecules on a
+list. **Bring the weakest link up, because that is the only move that raises the
+ceiling, and because a country that leaves 42.4 million people behind is teaching
+everyone else exactly what it will do to them.**
+
+## 11. What we actually ask for
 
 Not prohibition. Not a plant ban. We have said so on the docket in writing.
 
@@ -648,7 +690,7 @@ Not prohibition. Not a plant ban. We have said so on the docket in writing.
    disposition of each. If scope was drawn around a scaffold rather than around
    metabolism, say so, and the public can argue with it.
 
-## 11. What this whole case actually rests on
+## 12. What this whole case actually rests on
 
 **Every page of this file only exists because there is a market. There is a market
 because there are people in need of something and nothing else on offer.**
@@ -769,7 +811,7 @@ themselves whether it is proportionate.
 
 **1 in 6 is not rhetoric. It is 16.8%, and it is SAMHSA's own figure.**
 
-## 12. The honest close
+## 13. The honest close
 
 **Nothing in this document will happen quickly, and the ladder in Section 1 will
 add another rung before it does.**
@@ -802,7 +844,7 @@ symptom, and it is the one nobody has funded.
 
 ---
 
-## 13. How to check this document
+## 14. How to check this document
 
 **This section exists so a hostile reader does not have to trust us.** Every claim
 above is either a citation, an arithmetic step shown in full, or something labelled

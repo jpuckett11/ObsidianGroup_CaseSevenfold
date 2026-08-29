@@ -293,6 +293,17 @@ Written down deliberately, so we test it instead of confirming it.
 
 
 
+
+**2026-08-29 — `REMEDIATION.md` s10, the principle underneath all of it.** In the
+investigator's words: **"A unit is only as strong as its weakest member. So you
+strengthen the weakest member. You do not discard them."** Stated as operational
+logic rather than sentiment: removing the least capable component does not raise the
+average, **it lowers the ceiling**, because everyone remaining learns what happens to
+whoever falls behind next, and people who expect to be written off do not extend
+themselves. Applied to **42.4 million untreated**, the response has been to schedule
+one molecule at a time, **managing the consequences of the abandonment rather than
+ending it.** Also added to the README.
+
 **2026-08-29 — Finding 34: Congress DID act, and it did not work.** The
 **Mainstreaming Addiction Treatment Act removed the X-waiver**, the barrier the field
 named for a decade. Two evaluations find **no effect**: "no differences in either the
