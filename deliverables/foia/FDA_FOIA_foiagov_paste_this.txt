@@ -1,0 +1,130 @@
+==============================================================================
+FDA FOIA  -  FILE IT HERE, NOT ON THE FDA SITE
+==============================================================================
+USE THIS URL:
+https://www.foia.gov/request/agency-component/c5840dd3-0680-478c-8b18-b7d3108c6e57/
+
+That is the national FOIA portal's HHS-FDA form. It routes to FDA's own intake
+system automatically (FDA is registered on the portal with submission format
+"api"). Confirmed 2026-08-28 by pulling the component record from api.foia.gov.
+
+WHY NOT accessdata.fda.gov: that form has a CAPTCHA, caps the request at 2,000
+characters, and gives you a weaker receipt. The portal form has no CAPTCHA in
+the served page, gives you 4,000 characters for the request plus two more
+4,000-character fields for the fee waiver and the expedite justification, and
+issues a tracking number.
+
+WHY I DID NOT FILE IT FOR YOU: api.foia.gov answers a programmatic POST with
+"To submit FOIA requests using FOIA.gov, you must use the request forms on the
+site." That is a stated access rule. Scripting around it on a case whose whole
+value is clean provenance is not worth it. It has to be you at the keyboard.
+
+------------------------------------------------------------------------------
+FIELD BY FIELD  (* = the form will not submit without it)
+------------------------------------------------------------------------------
+* First name .................. Jay
+* Last name ................... Puckett
+  Your organization ........... Obsidian Watch Group
+  Email address ............... jay.puckett@obsidianwatchgroup.com
+* Phone number ................ YOU MUST SUPPLY THIS.
+                                Required by 45 C.F.R. 5.22(b), not optional.
+  Fax number .................. optional, skip
+* Mailing address 1 ........... YOU MUST SUPPLY THIS. Same regulation.
+  Mailing address 2 ........... optional
+* City ........................ (yours)
+* State or province ........... TN            [25 char limit]
+* Zip or postal code .......... (yours)
+  Country ..................... United States  [already the default]
+
+* What type of requester are you?
+      CHOOSE: Representative of the news media
+      Basis: OWG gathers information of public interest, applies editorial
+      judgment to turn primary records into distinct published work, and
+      distributes it free to the public. That is the statutory test. This
+      category means you pay no search fees and get the first 100 pages free.
+      If FDA challenges it, the fee waiver below is the fallback and it is
+      argued independently. Falling back to "All other requester" costs you
+      search time beyond two hours, so make the media claim.
+
+  Requester Internal Reference # ....  SEVENFOLD-FOIA-02      [20 char limit]
+  Requester Name ....................  Jay Puckett
+  Date Range Start ..................  01/01/2025
+  Date Range End ....................  08/28/2026
+
+* Your request .................. PASTE BLOCK 1        [4,000 char limit]
+  Fee waiver ...................  set to YES
+  Fee waiver justification .....  PASTE BLOCK 2        [4,000 char limit]
+  Expedited processing .........  set to YES
+  Justification for expedited ..  PASTE BLOCK 3        [4,000 char limit]
+
+  Expedite Reason ..............  CHOOSE: Danger to Human Life
+      The dropdown offers Need to Inform Public / Danger to Human Life / Other.
+      Take Danger to Human Life. It is the stronger statutory ground and the
+      facts support it: a death linked to one of these products in Utah County,
+      multiple severe overdoses logged by a state poison control centre, and the
+      products still on shelves. Block 3 below has been rewritten to argue that
+      ground first and the inform-the-public ground second, so the dropdown and
+      the justification now agree. They did not in the earlier draft.
+
+  Upload additional documentation .. ATTACH:
+      OWG_FOIA_FDA_2026-08-28.pdf        (2 pages, the full signed request)
+
+      NOTE: the old file named OWG_FOIA_FDA_2026-08-29.pdf is WRONG. It is
+      dated a day in the future. Do not attach it. Delete it when you get a
+      chance; I left it rather than removing it myself.
+
+==============================================================================
+BLOCK 1  -  YOUR REQUEST
+==============================================================================
+This is a request under the Freedom of Information Act, 5 U.S.C. 552, for records for the period 1 January 2025 to the present. The attached PDF is the signed request; this field reproduces it in full.
+
+1. All records reflecting any addition, removal, alteration, or proposed alteration to content on FDA web properties concerning kratom, mitragynine, or 7-hydroxymitragynine, including the page at fda.gov/news-events/public-health-focus/fda-and-kratom. For each change: the prior and revised content, the date, the person or office requesting it, and the scientific or policy basis relied upon.
+
+2. All communications between FDA or HHS personnel and any Member of Congress, Congressional staff, or official of another federal department concerning kratom consumer-facing content on FDA web properties. This expressly includes communications with the office of Senator Markwayne Mullin and with the Office of the Secretary of Homeland Security.
+
+3. All records reflecting a decision to decline any requested change to kratom content, including any determination to retain the warning regarding liver toxicity, seizures, and substance use disorder.
+
+4. Concerning the FDA assessment titled "7-Hydroxymitragynine (7-OH): An Assessment of the Scientific Data and Toxicological Concerns Around an Emerging Opioid Threat":
+
+   a. Records identifying the source intended by the in-text citation "(Kruegel et al., 2019)" appearing in the discussion of 7-OH content by weight. No such reference appears in the document's reference list.
+
+   b. Records reflecting any review of funding sources, sponsorship, or author conflicts of interest for the literature cited in that assessment, including but not limited to Huestis, Brett, Bothmer and Atallah (2024), Molecules 29(5), a study disclosed as funded by Johnson Foods LLC and authored by that company's paid consultants.
+
+   c. The analytical methodology, sampling basis, and measurement uncertainty underlying the proposed 0.05 percent by dry weight threshold.
+
+5. Concerning docket HHS-OASH-2026-0232: all records identifying the party or parties who requested the extension of the comment period granted on 26 August 2026 (91 FR, document 2026-17409), and all communications concerning that request.
+
+FORMAT: electronic records in native format. Please identify each withholding with the specific exemption claimed and provide a Vaughn index.
+
+==============================================================================
+BLOCK 2  -  FEE WAIVER JUSTIFICATION
+==============================================================================
+A fee waiver is requested under 5 U.S.C. 552(a)(4)(A)(iii). Disclosure is in the public interest because it is likely to contribute significantly to public understanding of the operations and activities of the government, and is not primarily in the commercial interest of the requester.
+
+The records sought bear directly on an open federal proceeding. The comment period on docket HHS-OASH-2026-0232 closes 10 September 2026, and a DEA proposed rule on the same threshold is pending. Whether consumer safety information about a product category was altered during 2025, at whose request, and whether conflicts of interest in the cited literature were ever reviewed, are questions the public cannot answer from the published record.
+
+Obsidian Watch Group is an independent investigative organization. It has no commercial interest in kratom or 7-hydroxymitragynine, holds no position in any company in this sector, and receives no funding from any party to this proceeding. All records released will be published at no charge at github.com/jpuckett11/ObsidianGroup_CaseSevenfold, where the documented findings and the underlying primary exhibits are already public and free to access.
+
+==============================================================================
+BLOCK 3  -  EXPEDITED PROCESSING JUSTIFICATION
+==============================================================================
+Expedited processing is requested under 5 U.S.C. 552(a)(6)(E) and 45 C.F.R. 5.27 on two independent grounds.
+
+FIRST, imminent threat to life or physical safety. On 22 July 2026 the Utah Poison Control Center issued a public alert warning of life-threatening opioid overdose, dependence, and withdrawal from products sold in smoke shops under botanical labels, stating that the labels "are misleading and do not include these drugs as ingredients." On 30 July 2026 the Utah Department of Agriculture and Food issued a warning over mislabeled Buzzers-brand tablets, and a death in Utah County was reported in connection with one of those products. Products in this category remain available for retail purchase. The records sought concern the evidentiary basis for the federal threshold that determines which of these products are reached by regulation and which are not. Delay in disclosure prolongs the period in which the public cannot evaluate whether that threshold is drawn where the evidence supports.
+
+SECOND, urgency to inform the public concerning actual or alleged federal government activity, by a person primarily engaged in disseminating information. The Department's own comment period on the 7-OH threshold closes 10 September 2026. Records concerning the basis for that threshold, and concerning contemporaneous alterations to consumer safety information about the product category the rule does not reach, are material to that proceeding while it remains open. After 10 September the public loses the ordinary channel for placing this information before the agency. Obsidian Watch Group publishes its investigative findings and primary source exhibits openly and at no charge. There is existing and active public interest in the subject, including a letter from eleven United States Senators to the FDA Commissioner dated 18 March 2026 and a pending Senate Finance Committee inquiry with a response date of 31 August 2026.
+
+I certify that the foregoing is true and correct to the best of my knowledge and belief.
+
+==============================================================================
+AFTER YOU SUBMIT
+==============================================================================
+The portal issues a tracking number. Send it to me and I will put it in
+FILINGS.md. Until there is a tracking number this stays in READY, not FILED.
+FDA's own reported figures for 2025: simple requests median 11 days, complex
+median 212 days, complex average 441. They reported "N/A" for every expedited
+processing metric that year, which is itself worth noting.
+
+The earlier email attempt to FDAFOIA@fda.hhs.gov on 27 August 2026 was refused
+on 28 August: "The FDA does not accept FOIA requests via email." Nothing was
+filed then. Do not reference that attempt on this form.

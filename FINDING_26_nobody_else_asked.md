@@ -3,13 +3,13 @@
 
 **Status:** CONFIRMED from the regulations.gov API, with the search instrument
 itself tested before any count was trusted.
-**Analyst:** Aegis, for Obsidian Watch Group. **Date:** 2026-08-29.
+**Analyst:** Aegis, for Obsidian Watch Group. **Date:** 2026-08-28.
 
 ---
 
 ### 1. The docket is not small
 
-**27,053 comments** on HHS-OASH-2026-0232 as of 2026-08-29. This is a heavily
+**27,053 comments** on HHS-OASH-2026-0232 as of 2026-08-28. This is a heavily
 commented docket with real public engagement, not an empty room.
 
 That matters for what follows. A question nobody asked on a docket with a hundred

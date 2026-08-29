@@ -69,7 +69,7 @@ either comment alone.**
 ### 3. The scale of the docket
 
 **26,882 comments as at 2026-08-27.** **The docket is live and this figure is a
-snapshot, not a constant.** It stood at **27,053 on 2026-08-29** (Finding 26). Both
+snapshot, not a constant.** It stood at **27,053 on 2026-08-28** (Finding 26). Both
 are correct as of their dates. Any figure quoted from this docket should carry the
 date it was taken.
 

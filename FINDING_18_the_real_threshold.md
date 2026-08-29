@@ -153,7 +153,7 @@ account that says nobody did.
 
 ---
 
-## ADDENDUM, 2026-08-29: the rule never defines "article", and that is the whole limit
+## ADDENDUM, 2026-08-28: the rule never defines "article", and that is the whole limit
 
 Both limbs of (B) turn on **"greater than 1.00 milligram of 7-hydroxymitragynine
 in the article."** The quoted text defines percentage, weight basis and dosage
@@ -174,7 +174,7 @@ The seller changes nothing about the product and changes only the unit.
 This is not a theoretical drafting quibble. It is the difference between a rule
 that caps exposure and a rule that caps labelling.
 
-**Raised by the investigator on 2026-08-29** while testing whether a per-article
+**Raised by the investigator on 2026-08-28** while testing whether a per-article
 measure could survive contact with the market. It could not, as written.
 
 **No comment on the docket addresses it.** Finding 26 establishes the method for

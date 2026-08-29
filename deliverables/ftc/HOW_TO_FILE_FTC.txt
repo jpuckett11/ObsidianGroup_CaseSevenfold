@@ -1,5 +1,5 @@
 ==============================================================================
-FILING THE FTC COMPLAINT  -  UPDATED 2026-08-29
+FILING THE FTC COMPLAINT  -  UPDATED 2026-08-28
 ==============================================================================
 
 TWO ROUTES. DO BOTH.
@@ -18,13 +18,13 @@ TWO ROUTES. DO BOTH.
                               <- the substantive one
 
    Mail: 600 Pennsylvania Avenue NW, Washington DC 20580
-   Send: OWG_FTC_Complaint_2026-08-29.pdf  (the full complaint)
+   Send: OWG_FTC_Complaint_2026-08-28.pdf  (the full complaint)
 
    Call the Consumer Response Center, 877-382-4357, for the current mailing
    address for the Division, and say it is an industry complaint rather than an
    individual consumer complaint. That routes it differently.
 
-   THERE IS NO EMAIL INTAKE. Checked 2026-08-29. ReportFraud is a JavaScript
+   THERE IS NO EMAIL INTAKE. Checked 2026-08-28. ReportFraud is a JavaScript
    form with no API and the Bureau route is postal. Both need a person.
 
 LEAD WITH BUZZERS. IT IS THE STRONGEST THING IN THE FILE.

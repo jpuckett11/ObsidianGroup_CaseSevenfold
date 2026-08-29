@@ -81,7 +81,7 @@ real people, and the industry presence in it is small and identifiable.
   crawl could reach them.
 - **Approach drafted, not sent:** Awakening Recovery, Inc.,
   `APPROACH_awakening_recovery.txt`.
-- **Approach SENT 2026-08-29:** Northwest Alabama Mental Health Center, a public
+- **Approach SENT 2026-08-28:** Northwest Alabama Mental Health Center, a public
   non-profit CMHC serving Fayette, Lamar, Marion, Walker and Winston counties, whose
   service line includes chemical dependency. Text at `EMAIL_nwamhc.txt`. It offers
   the case file free, warns that a person can present having overdosed on a product

@@ -12,7 +12,7 @@ primary document or a direct observation, and then it leaves this page.
 
 ## L-01 — Retail availability of 9-hydroxycorynantheidine
 
-**Opened 2026-08-29. Status: OPEN, and MATERIALLY MORE CREDIBLE as of the same
+**Opened 2026-08-28. Status: OPEN, and MATERIALLY MORE CREDIBLE as of the same
 day.** See `FINDING_29_the_substitution_happened.md`. Option 2 below, "a renamed or
 relabelled product moving after the scheduling action," is **documented**: Utah
 Poison Control reported multiple severe overdoses from smoke-shop products sold as
@@ -53,7 +53,7 @@ specific compound.
 - a first-person account through `deliverables/intake/`
 - a certificate of analysis or independent lab result
 
-**Checked 2026-08-29 and found nothing:** six kratom vendor sites queried directly
+**Checked 2026-08-28 and found nothing:** six kratom vendor sites queried directly
 for "corynantheidine" and "9-OH", zero hits. General web search returns no product.
 The industry's own guide page states the compound is "usually not obtainable as a
 standalone product." **None of that disproves the report.** It establishes only

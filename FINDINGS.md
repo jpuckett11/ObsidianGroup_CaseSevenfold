@@ -294,7 +294,7 @@ Written down deliberately, so we test it instead of confirming it.
 
 
 
-**2026-08-29 — `REMEDIATION.md` s10, the principle underneath all of it.** In the
+**2026-08-28 — `REMEDIATION.md` s10, the principle underneath all of it.** In the
 investigator's words: **"A unit is only as strong as its weakest member. So you
 strengthen the weakest member. You do not discard them."** Stated as operational
 logic rather than sentiment: removing the least capable component does not raise the
@@ -304,7 +304,7 @@ themselves. Applied to **42.4 million untreated**, the response has been to sche
 one molecule at a time, **managing the consequences of the abandonment rather than
 ending it.** Also added to the README.
 
-**2026-08-29 — Finding 34: Congress DID act, and it did not work.** The
+**2026-08-28 — Finding 34: Congress DID act, and it did not work.** The
 **Mainstreaming Addiction Treatment Act removed the X-waiver**, the barrier the field
 named for a decade. Two evaluations find **no effect**: "no differences in either the
 level or trend of buprenorphine prescribers" (DOI 10.1016/j.amepre.2026.108508) and
@@ -317,7 +317,7 @@ management at effective levels is not, and has not been tried. Meanwhile prematu
 mortality from drug use disorders is **rising** in high-income countries (Lancet GBD
 2025).
 
-**2026-08-29 — Finding 33: the recovery field is on this docket and it is split.**
+**2026-08-28 — Finding 33: the recovery field is on this docket and it is split.**
 **Awakening Recovery, Inc.** (`-7588`), a named nonprofit running recovery homes,
 reports residents arriving **having overdosed on 7-OH** and asks for Schedule I. A
 recovery professional filing as **"A, R"** (`-18012`) argues **"recovery is fostered
@@ -327,7 +327,7 @@ penalties."** Same population, opposite asks, neither wrong. Her framing appears
 did and the case says so.** She filed under initials; **we have not tried to identify
 her and will not.**
 
-**2026-08-29 — Finding 32: the letter that did not mention the people.** Eleven US
+**2026-08-28 — Finding 32: the letter that did not mention the people.** Eleven US
 Senators, 18 March 2026, to the FDA Commissioner. **537 words. Twelve references to
 enforcement and scheduling. Zero to treatment, recovery or access to care** — the
 lone "clinic" match is `mayoclinic.org` in a footnote URL. Their only expansion
@@ -337,7 +337,7 @@ not a corruption finding. It is a record of what unbought legislators wrote abou
 while 42.4 million untreated Americans sat in the federal government's own survey.
 **Reproducible in five minutes with the PDF and a search box.**
 
-**2026-08-29 — Finding 31: they published the arbitrage themselves.** The
+**2026-08-28 — Finding 31: they published the arbitrage themselves.** The
 manufacturer's own homepage states it "**figured out a way to extract an indole
 alkaloid from the Cat's Claw plant to mirror the effects of popular kratom
 products**," producing "a **non-kratom product with kratom-like effects**," and a
@@ -349,7 +349,7 @@ killing people as an opioid. Both brands Utah named, Buzzers and Homiez, are sol
 from the same site. **Five pages captured and SHA-256 hashed 2026-08-28 before they
 change.**
 
-**2026-08-29 — Finding 30: it is all still on the shelf, and stays there.** The
+**2026-08-28 — Finding 30: it is all still on the shelf, and stays there.** The
 three federal instruments reach **four substances, all on the mitragynine
 scaffold**. **9-hydroxycorynantheidine** (a major human metabolite of the controlled
 substance), **corynoxine** (a mu-opioid **full agonist**), and **corynoxine B**
@@ -360,7 +360,7 @@ emergency rule and Utah's pure-leaf-only law are both **stricter than the federa
 instrument**. No purchase is needed to establish any of this; it is the rule text
 read against the compound list.
 
-**2026-08-29 — `REMEDIATION.md` s6 added on European rehabilitation evidence, and
+**2026-08-28 — `REMEDIATION.md` s6 added on European rehabilitation evidence, and
 it cuts both ways.** EUDA reports **56% of clients entering European drug treatment
 are unemployed** and recommends housing, education and vocational training
 **embedded in treatment early**, while stating in its own words that "**evidence is
@@ -370,7 +370,7 @@ sparse**." Against that, a propensity-matched study
 document publishes the null result, and concludes that a certificate is not an
 occupation and that **the gap in the literature is a funding gap, not a finding.**
 
-**2026-08-29 — `REMEDIATION.md` given the scale, from the government's own survey.**
+**2026-08-28 — `REMEDIATION.md` given the scale, from the government's own survey.**
 2024 NSDUH: **48.4M** with a substance use disorder, **52.6M** needed treatment,
 **10.2M** received it. Of the 10.2M, **4.2M had no disorder**, so only **6.0M with a
 disorder were treated** and **42.4 million received nothing — 87.6%**. Larger than the population
@@ -382,14 +382,14 @@ homeless and incarcerated. Annual economic burden **$425.0 billion**
 **dose-response relationship between magnitude and immediacy of reward and
 effectiveness** (DOI 10.1016/j.ypmed.2023.107647).
 
-**2026-08-29 — FIFTH comment FILED. Tracking `mtd-izm8-ql4p`.** Reports that the
+**2026-08-28 — FIFTH comment FILED. Tracking `mtd-izm8-ql4p`.** Reports that the
 substitution earlier comments warned of **has already occurred**: the Utah Poison
 Control alert of 22 July 2026, the Utah death linked to mislabelled Buzzers-brand
 Cat's Claw tablets, and lawful products built on **corynoxine B**, a mu-opioid full
 agonist nothing covers. Argues **the label is the evasion**. States expressly that
 OWG does not seek restriction of genuine cat's claw and would oppose it.
 
-**2026-08-29 — Finding 29 CORRECTS Finding 28. The substitution already happened.**
+**2026-08-28 — Finding 29 CORRECTS Finding 28. The substitution already happened.**
 The **Utah Poison Control Center** (22 July 2026) warns of smoke-shop products sold
 as **"Cat's Claw"** causing "life-threatening opioid overdose, dependence, or
 withdrawal," naming **Buzzers** and **Homiez** brands, adulterated with **7-OH,
@@ -400,7 +400,7 @@ B** to dodge the 7-OH scheduling. **Finding 28's reassurance is retracted:** it
 measured the plant and concluded about the products. See Finding 29 s6 for the full
 account of the error.
 
-**2026-08-29 — Finding 28: the rule's boundary is a genus name.** **Corynoxine is
+**2026-08-28 — Finding 28: the rule's boundary is a genus name.** **Corynoxine is
 a mu-opioid receptor FULL agonist** (ACS Chem Neurosci 2021, DOI
 10.1021/acschemneuro.1c00149) and it has been isolated from ***Uncaria tomentosa***,
 cat's claw (J Chromatogr A 2015, DOI 10.1016/j.chroma.2015.02.028), sold as an
@@ -412,21 +412,21 @@ alkaloids are "unlikely to play the majority role", and we have no concentration
 data and no harm signal. We do not ask for it to be scheduled and would oppose that
 on this evidence. The finding is about **scope**: the action reaches one scaffold in
 one species while the pharmacology spans two scaffolds across two genera.
-**ANSWERED 2026-08-29 and it cuts against our own lead:** a 500 mg bark capsule
+**ANSWERED 2026-08-28 and it cuts against our own lead:** a 500 mg bark capsule
 carries about **0.65 mg of the entire tetracyclic class**, under the 1.00 mg the
 government treats as significant for one scheduled compound; bark is a 6:1
 pentacyclic chemotype and the trade already selects away from the tetracyclics; and
 LDA shows **zero** filings on cat's claw or *Uncaria* against controls of 1,910 and
 298. **There is no cat's claw problem and this case says so.**
 
-**2026-08-29 — FOURTH comment FILED. Tracking `mtd-holx-p7i5`.** Corrects our own
+**2026-08-28 — FOURTH comment FILED. Tracking `mtd-holx-p7i5`.** Corrects our own
 third comment. Puts on the federal record that **9-hydroxycorynantheidine is a
 major circulating human metabolite of the substance being scheduled**, that **10 g
 of ordinary unenhanced leaf already equals the 1.00 mg absolute limit** against
 FDA's own data, and that **the rule never defines "article"**, so forty pressed
 pills at 0.9 mg each are individually compliant and deliver 36 mg in one bag.
 
-**2026-08-29 — Findings 27 and the Finding 18 addendum, both filed as a fourth
+**2026-08-28 — Findings 27 and the Finding 18 addendum, both filed as a fourth
 comment.** **9-hydroxycorynantheidine is a major circulating human metabolite of
 mitragynine** (Kanumuri 2026, clinical, DOI 10.1080/13880209.2026.2715806), not the
 "minor plant alkaloid" our own third comment called it. In rats it is a **major**
@@ -436,7 +436,7 @@ labelled as animal data). Separately, the rule's absolute limit turns on the wor
 individually compliant and deliver 36 mg in a bag. And against FDA's own leaf data,
 **10 g of average leaf already equals the 1.00 mg absolute limit.**
 
-**2026-08-29 — Finding 26: nobody else asked.** Of **27,053** comments on
+**2026-08-28 — Finding 26: nobody else asked.** Of **27,053** comments on
 HHS-OASH-2026-0232, **zero** mention 9-hydroxycorynantheidine, corynanthe,
 Mitradyne, Atallah or divestiture. One mentions corynantheidine, in a passing
 alkaloid list. The two questions unique to this case in that entire record are the

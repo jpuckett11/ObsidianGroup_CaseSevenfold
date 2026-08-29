@@ -299,13 +299,13 @@ Prepared for the visit in `deliverables/blackburn/`:
 
 ---
 
-### 7. HHS OASH **fourth** comment, the metabolite correction — **FILED 2026-08-29**
+### 7. HHS OASH **fourth** comment, the metabolite correction — **FILED 2026-08-28**
 
 | | |
 |---|---|
 | **Docket** | **HHS-OASH-2026-0232** |
 | **Comment Tracking Number** | **`mtd-holx-p7i5`** |
-| Submitted | 2026-08-29 |
+| Submitted | 2026-08-28 |
 | Status | Submitted. Awaiting agency review and posting |
 | Attachment | `OWG_Fourth_Comment_HHS-OASH-2026-0232.pdf`, 3 pages |
 | Comment box | 4,997 characters against a 5,000 limit |
@@ -353,13 +353,13 @@ deliberate.
 
 ---
 
-### 8. HHS OASH **fifth** comment, the documented substitution — **FILED 2026-08-29**
+### 8. HHS OASH **fifth** comment, the documented substitution — **FILED 2026-08-28**
 
 | | |
 |---|---|
 | **Docket** | **HHS-OASH-2026-0232** |
 | **Comment Tracking Number** | **`mtd-izm8-ql4p`** |
-| Submitted | 2026-08-29 |
+| Submitted | 2026-08-28 |
 | Status | Submitted. Awaiting agency review and posting |
 | Attachment | `OWG_Fifth_Comment_HHS-OASH-2026-0232.pdf`, 3 pages |
 | Comment box | 4,877 characters against a 5,000 limit |
@@ -429,22 +429,44 @@ in the FILED section for a day describing a request that the agency had already
 refused. Nothing goes in FILED again without an agency acknowledgment, a tracking
 number, or a docket receipt.
 
-**REBUILT FOR THE CORRECT FORM, 2026-08-29.** Ready to file.
+**REBUILT FOR THE CORRECT FORM, 2026-08-28.** Ready to file.
 
-`deliverables/foia/FDA_FORM_FIELDS_paste_this.txt` maps the request onto the
-fields FDA's form actually enforces, which is not one big box:
+**Route changed 2026-08-28.** File it on the **national FOIA portal**, not on
+FDA's own site. `deliverables/foia/FDA_FOIA_foiagov_paste_this.txt` has the
+field-by-field.
+
+    https://www.foia.gov/request/agency-component/c5840dd3-0680-478c-8b18-b7d3108c6e57/
+
+FDA is registered on the portal with `portal_submission_format: api`, verified by
+pulling the component record from `api.foia.gov` on 2026-08-28. The portal relays
+to FDA's intake automatically.
 
 | Form field | What goes in it |
 |---|---|
-| Date range | 01/01/2025 to 08/29/2026 |
-| **Subject, max 2000 chars** | Block 1, **1,986 characters**, all five items summarised |
-| Fee waiver, set to YES | Block 2, 5 U.S.C. 552(a)(4)(A)(iii) justification |
-| Expedited processing, YES | Block 3, 552(a)(6)(E), urgency to inform the public |
-| **File upload** | `OWG_FOIA_FDA_2026-08-29.pdf`, 2 pages, **the complete request** |
+| Date range | 01/01/2025 to 08/28/2026 |
+| Requester category | **Representative of the news media** |
+| Internal reference # | `SEVENFOLD-FOIA-02` |
+| **Your request, max 4000** | Block 1, **2,390 characters**, all five items **in full** |
+| Fee waiver, set to YES | Block 2, 5 U.S.C. 552(a)(4)(A)(iii) |
+| Expedited processing, YES | Block 3, 552(a)(6)(E) and 45 C.F.R. 5.27 |
+| **Expedite reason** | **Danger to Human Life** |
+| **File upload** | `OWG_FOIA_FDA_2026-08-28.pdf`, 2 pages, the signed request |
 
-The form takes an attachment, so the 2000-character box is a summary and the full
-five-item request rides along as the letter. **CAPTCHA required, so a person has
-to submit it.**
+**Why this route and not `accessdata.fda.gov`:** that form is CAPTCHA-gated, caps
+the request at 2,000 characters, and returns a weaker receipt. The portal form has
+no CAPTCHA in the served page, gives 4,000 characters for the request plus two
+further 4,000-character fields, and issues a tracking number. The whole request now
+rides in the field itself rather than depending on the attachment surviving intake.
+
+**Expedite ground changed.** The earlier draft argued only the urgency-to-inform
+prong while the form's dropdown offers *Danger to Human Life*. Block 3 now argues
+imminent threat first, on the Utah Poison Control alert of 22 July 2026, the Utah
+Department of Agriculture warning of 30 July 2026, the Utah County death, and the
+products still being on shelves. The dropdown and the justification now agree.
+
+**Still requires a person.** `api.foia.gov` answers a programmatic submission with
+*"To submit FOIA requests using FOIA.gov, you must use the request forms on the
+site."* That is a stated access rule and we did not script around it.
 
 Original text: `FOIA_02_HHS_FDA_website_changes.txt`. **Content unchanged and still
 good; only the channel was ever wrong.**
@@ -452,7 +474,7 @@ good; only the channel was ever wrong.**
 ---
 
 
-### 2. FOIA — DOJ / EOUSA / USAO-NDOkla — **READY 2026-08-29**
+### 2. FOIA — DOJ / EOUSA / USAO-NDOkla — **READY 2026-08-28**
 
 Dated, addressed, PDF built. `deliverables/foia/DOJ_PORTAL_GUIDE.txt` has the
 submission path.
@@ -462,7 +484,7 @@ submission path.
 | Portal | **FOIA STAR**, `doj-foia.entellitrak.com/etk-doj-foia-prod/login.request.do` |
 | Component | **EOUSA** primary, Civil Division secondary |
 | Paste | `FOIA_01_PORTAL_paste_this.txt`, 3,632 chars |
-| Attach | `OWG_FOIA_DOJ_2026-08-29.pdf`, 2 pages |
+| Attach | `OWG_FOIA_DOJ_2026-08-28.pdf`, 2 pages |
 
 **Asks why the United States dismissed its own forfeiture action** against Botanic
 Tonics in December 2025, after seizing roughly $3 million of product in April 2023
@@ -476,7 +498,7 @@ case where the government must answer on a clock.**
 ---
 
 
-### 3. FTC — Section 5 deceptive advertising — **READY 2026-08-29**
+### 3. FTC — Section 5 deceptive advertising — **READY 2026-08-28**
 
 **Dated and built 2026-08-28.** `deliverables/ftc/FTC_COMPLAINT_paste_this.txt`
 and `deliverables/ftc/OWG_FTC_Complaint_2026-08-28.pdf`, 4 pages, 1,237 words.

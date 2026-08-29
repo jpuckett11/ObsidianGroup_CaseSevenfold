@@ -2,7 +2,7 @@
 ## Congress did act. It removed the barrier everyone named, and prescribing did not move.
 
 **Status:** CONFIRMED from peer-reviewed evaluations.
-**Analyst:** Aegis, for Obsidian Watch Group. **Date:** 2026-08-29.
+**Analyst:** Aegis, for Obsidian Watch Group. **Date:** 2026-08-28.
 **This finding answers a promise made in Finding 32**, which stated: *"We do not
 claim Congress has done nothing on treatment. It has, over years, and this case has
 not surveyed that record."* We have now surveyed part of it.

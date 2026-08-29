@@ -27,17 +27,18 @@ ordinary practice, not misconduct.
 | 2026-08-27 | **Senate Finance Cttee** (Sen. Wyden) | Email to published whistleblower intake | **Delivered**, no bounce. No acknowledgment as of 2026-08-28. Normal for that intake |
 | 2026-08-27 | **FDA**, Division of Freedom of Information | Email | **Refused.** "The FDA does not accept FOIA requests via email." Reply received 2026-08-28 from the Denials and Appeals Officer, directing to the agency web form, foia.gov, or hardcopy |
 | 2026-08-28 | **HHS OASH**, same docket | regulations.gov | **Accepted.** Tracking `mtc-q9zv-dase` |
-| 2026-08-29 | **HHS OASH**, same docket | regulations.gov | **Accepted.** Tracking `mtd-izm8-ql4p` |
-| 2026-08-29 | **Paquin Entertainment** (management for Merkules, Death Row Records) | Email | Sent. Asks only whether anyone on the roster would point people at the case file. No endorsement, no money, refusable in one line. States we will not characterise any artist's story without them saying so themselves |
-| 2026-08-29 | **Tampa Bay Times**, Deadly Dose team | Email, press pitch | Sent to a verified address from the project page, copied to an inferred address for their investigative reporter. **Inferred address flagged as unverified; no bounce as of sending** |
-| 2026-08-29 | **Awakening Recovery, Inc.** | — | **NOT contacted.** They publish no email address, no mailto and no contact form. The only published channel is a line labelled "Get Help", which is an intake number for people seeking beds. **Declined to use it.** Better routes recorded in the approach file |
-| 2026-08-29 | **Deseret News**, Dennis Romboy | Email, press pitch | Sent. He authored the 30 July piece on the Utah County death. Offers the case free, no credit required |
-| 2026-08-29 | **NW Alabama Mental Health Center** | Email, outreach not a filing | Sent. Offers the case file free to a CMHC treating chemical dependency; asks only for aggregate observation |
-| 2026-08-29 | **HHS OASH**, same docket | regulations.gov | **Accepted.** Tracking `mtd-holx-p7i5`. Note the `mtd-` prefix, unlike the three `mtc-` before it |
+| 2026-08-28 | **HHS OASH**, same docket | regulations.gov | **Accepted.** Tracking `mtd-izm8-ql4p` |
+| 2026-08-28 | **Paquin Entertainment** (management for Merkules, Death Row Records) | Email | Sent. Asks only whether anyone on the roster would point people at the case file. No endorsement, no money, refusable in one line. States we will not characterise any artist's story without them saying so themselves |
+| 2026-08-28 | **Tampa Bay Times**, Deadly Dose team | Email, press pitch | Sent to a verified address from the project page, copied to an inferred address for their investigative reporter. **Inferred address flagged as unverified; no bounce as of sending** |
+| 2026-08-28 | **Awakening Recovery, Inc.** | — | **NOT contacted.** They publish no email address, no mailto and no contact form. The only published channel is a line labelled "Get Help", which is an intake number for people seeking beds. **Declined to use it.** Better routes recorded in the approach file |
+| 2026-08-28 | **Deseret News**, Dennis Romboy | Email, press pitch | Sent. He authored the 30 July piece on the Utah County death. Offers the case free, no credit required |
+| 2026-08-28 | **NW Alabama Mental Health Center** | Email, outreach not a filing | Sent. Offers the case file free to a CMHC treating chemical dependency; asks only for aggregate observation |
+| 2026-08-28 | **HHS OASH**, same docket | regulations.gov | **Accepted.** Tracking `mtd-holx-p7i5`. Note the `mtd-` prefix, unlike the three `mtc-` before it |
 | 2026-08-28 | **TN Division of Consumer Affairs** | Email to `consumer.affairs@ag.tn.gov`, a route the Division publishes | **Acknowledged in 23 seconds.** Reference `104939` |
 | 2026-08-28 | **Sen. Marsha Blackburn (R-TN)** | Email to `senator@blackburn.senate.gov` | **Bounced.** `550 5.1.1 User Unknown` from the Senate's own mail server. No senator publishes an email address; the official Senate directory lists none |
 | 2026-08-28 | **Sen. Marsha Blackburn (R-TN)** | Web form, two messages | **Submitted.** Confirmation page returned. **No tracking number is issued**, so there is no way for a constituent to reference the submission later |
 | 2026-08-28 | **Sen. Marsha Blackburn (R-TN)** | Phone, Nashville office (629) 800-6600 | **Directed to the web form.** No substantive engagement; a request to reach a policy staffer was not fulfilled. [S] investigator's contemporaneous account |
+| 2026-08-28 | **Death Row Records** | Web contact form, deathrowrecords.com/contact | Submitted. Confirmation page returned "Thanks, we'll be in touch. Your inquiry has been received." **No reference number issued**, so there is no way to follow up or prove what was sent. Asks whether the label would point people at the case file. No endorsement, no money, refusable in one line |
 
 ---
 
@@ -66,6 +67,30 @@ machinery does, and most people never see it because most people only ever try
 once.
 
 ---
+
+---
+
+## Correction, 2026-08-28
+
+**Sixty-five date strings in this case file said `2026-08-29`. The work was done
+on `2026-08-28`.** Every affected entry has been corrected, across 22 files. The
+count is 61 in `YYYY-MM-DD` form, 2 written out as "29 August 2026", and 2 in
+`MM/DD/YYYY` form that the first pass missed and a second pass caught.
+
+The error mattered because it was not cosmetic. `FILINGS.md` recorded two docket
+comments as *filed 2026-08-29* while carrying their real regulations.gov tracking
+numbers, and both FOIA letters were dated a day into the future. Anyone checking a
+tracking number against the agency receipt would have found the log and the receipt
+disagreeing, in a document whose method section promises the opposite.
+
+Caught by comparing the dates written in the files against the filesystem
+modification times of the files themselves, which are all `2026-08-28`. The Senate
+Finance response deadline of `2026-08-31` is a genuine future date and was left
+alone; it was verified separately before the correction ran.
+
+The superseded PDFs `OWG_FOIA_FDA_2026-08-29.pdf` and `OWG_FOIA_DOJ_2026-08-29.pdf`
+are wrong and must not be filed. They have been left in place rather than deleted.
+Use the `2026-08-28` files.
 
 ## Method
 

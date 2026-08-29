@@ -2,7 +2,7 @@
 ## Everything this case identified as uncovered can be bought over a counter tomorrow, and still can the day the rule takes effect
 
 **Status:** CONFIRMED by reading the scheduling instruments against the compounds.
-**Analyst:** Aegis, for Obsidian Watch Group. **Date:** 2026-08-29.
+**Analyst:** Aegis, for Obsidian Watch Group. **Date:** 2026-08-28.
 
 ---
 

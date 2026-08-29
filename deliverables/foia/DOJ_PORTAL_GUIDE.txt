@@ -37,7 +37,7 @@ CONTACT
 WHAT TO PASTE
 
   Description field:  FOIA_01_PORTAL_paste_this.txt   (3,632 chars)
-  Attach:             OWG_FOIA_DOJ_2026-08-29.pdf     (2 pages, full request)
+  Attach:             OWG_FOIA_DOJ_2026-08-28.pdf     (2 pages, full request)
 
   If the portal caps the description, paste the BACKGROUND and RECORDS
   REQUESTED sections and note that the complete request is attached.

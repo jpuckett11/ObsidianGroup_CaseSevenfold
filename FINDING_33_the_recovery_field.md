@@ -2,7 +2,7 @@
 ## The recovery field showed up on this docket, and it is split down the middle
 
 **Status:** CONFIRMED from comments on HHS-OASH-2026-0232.
-**Analyst:** Aegis, for Obsidian Watch Group. **Date:** 2026-08-29.
+**Analyst:** Aegis, for Obsidian Watch Group. **Date:** 2026-08-28.
 
 ---
 

@@ -2,7 +2,7 @@
 ## Eleven senators wrote 537 words about this substance. None of them were about treating anyone.
 
 **Status:** CONFIRMED by word count on the public letter, `exhibits/ricketts_letter_fda_20260318.pdf`.
-**Analyst:** Aegis, for Obsidian Watch Group. **Date:** 2026-08-29.
+**Analyst:** Aegis, for Obsidian Watch Group. **Date:** 2026-08-28.
 **Anyone can reproduce this finding in five minutes with the PDF and a search box.**
 
 ---

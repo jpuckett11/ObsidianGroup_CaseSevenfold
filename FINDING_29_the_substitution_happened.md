@@ -3,7 +3,7 @@
 
 **Status:** CONFIRMED from a state poison control alert, a state agriculture
 department warning, and contemporaneous reporting.
-**Analyst:** Aegis, for Obsidian Watch Group. **Date:** 2026-08-29.
+**Analyst:** Aegis, for Obsidian Watch Group. **Date:** 2026-08-28.
 **This finding CORRECTS Finding 28, which was wrong.**
 
 ---
@@ -86,7 +86,7 @@ reassured itself using plant chemistry. **The compound was right. The conclusion
 was wrong.**
 
 **L-01 in `LEADS.md`**, the unverified report of someone buying "9-OH," was
-recorded 2026-08-29 as second-hand and unconfirmed. It is **substantially more
+recorded 2026-08-28 as second-hand and unconfirmed. It is **substantially more
 credible now**, and the possibility flagged there as option 2, "a renamed or
 relabelled product moving after the scheduling action, which would be a different
 and arguably larger finding," is what Utah documented three weeks earlier.
@@ -121,7 +121,7 @@ publishes its own errors is the only kind worth reading.
 
 ### 7. What is now asked
 
-**FILED 2026-08-29 as comment `mtd-izm8-ql4p`**, 4,877 characters with a 3-page
+**FILED 2026-08-28 as comment `mtd-izm8-ql4p`**, 4,877 characters with a 3-page
 attachment. It tells the Department, on the record, that:
 
 - Products bearing a **botanical name from a different genus** are being sold with

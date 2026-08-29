@@ -3,7 +3,7 @@
 
 **Status:** CONFIRMED from the seller's own website, captured and hashed
 2026-08-28T18:11:17-05:00.
-**Analyst:** Aegis, for Obsidian Watch Group. **Date:** 2026-08-29.
+**Analyst:** Aegis, for Obsidian Watch Group. **Date:** 2026-08-28.
 
 ---
 
@@ -121,7 +121,7 @@ homepage.
 
 ### 9. Action
 
-**DONE. Folded into the FTC complaint 2026-08-29.** Both the ReportFraud version
+**DONE. Folded into the FTC complaint 2026-08-28.** Both the ReportFraud version
 (4,532 chars, now leading with this) and the full 5-page complaint carry it, with a
 new requested action on the "Legal in all 50 states" claim. The complaint already
 alleged deceptive presentation.

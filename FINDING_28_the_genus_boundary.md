@@ -1,6 +1,6 @@
 # SEVENFOLD / FINDING 28
 
-# ⚠ SUPERSEDED AND PARTLY RETRACTED, 2026-08-29
+# ⚠ SUPERSEDED AND PARTLY RETRACTED, 2026-08-28
 
 **Section 7 of this finding concluded "there is no cat's claw problem." THAT
 CONCLUSION IS WRONG.** Read **`FINDING_29_the_substitution_happened.md`** first.
@@ -23,7 +23,7 @@ thing. The full account of the error is in Finding 29 Section 6.
 ## A mu-opioid full agonist sits in a supplement sold on open shelves, and the rule's boundary is a genus name
 
 **Status:** CONFIRMED from peer-reviewed primaries.
-**Analyst:** Aegis, for Obsidian Watch Group. **Date:** 2026-08-29.
+**Analyst:** Aegis, for Obsidian Watch Group. **Date:** 2026-08-28.
 **Opened at the investigator's direction.**
 
 ---
@@ -162,7 +162,7 @@ That question is already before it as requested action 3 of comment
 `mtd-holx-p7i5`. This finding is the sharpest illustration of why it matters, and
 **it is deliberately not being added to the docket as a claim about a supplement.**
 
-### 7. ANSWERED 2026-08-29: the quantity is small, and there is no money on it
+### 7. ANSWERED 2026-08-28: the quantity is small, and there is no money on it
 
 Section 4 named the deciding question as concentration. It has been chased and it
 resolves **against** any concern about cat's claw. We publish that as plainly as we

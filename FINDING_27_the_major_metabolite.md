@@ -2,7 +2,7 @@
 ## The uncovered compound is a major human metabolite of the covered one
 
 **Status:** CONFIRMED from peer-reviewed pharmacokinetic literature.
-**Analyst:** Aegis, for Obsidian Watch Group. **Date:** 2026-08-29.
+**Analyst:** Aegis, for Obsidian Watch Group. **Date:** 2026-08-28.
 **This finding materially corrects how Findings 20, 25 and 26 and our own filed
 comments describe this compound.**
 
@@ -113,7 +113,7 @@ rule does not name it.
 - No potency equivalence to 7-OH is claimed. Reported mu affinity for the parent
   scaffold is weaker.
 - **No product containing it has been located for sale.** An unverified
-  second-hand report of a retail purchase was received 2026-08-29 and is recorded
+  second-hand report of a retail purchase was received 2026-08-28 and is recorded
   as a lead in `LEADS.md`, not as a finding. It is not relied on here and this
   finding stands without it.
 - We do not assert the omission was deliberate. **The simplest explanation is that
@@ -122,7 +122,7 @@ rule does not name it.
 
 ### 8. Action
 
-**DONE. Filed 2026-08-29 as comment `mtd-holx-p7i5`.** We described this compound
+**DONE. Filed 2026-08-28 as comment `mtd-holx-p7i5`.** We described this compound
 as a minor plant alkaloid. It is a major human metabolite of the substance being
 scheduled, and the record now says so in our words rather than someone else's.
 
