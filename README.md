@@ -75,6 +75,10 @@ decided entirely by which side of the desk you were standing on when you said th
 And the title is not earned in that system. **"The Honorable" is issued with the
 office**, before anything has been done with it.
 
+**The investigator who compiled this file served honorably for decades, and has held
+to that oath since.** It is stated here once, at his direction, because the
+comparison that follows is not abstract for him.
+
 We raise it because this file is a record of what was done with an office. On the
 single occasion eleven US Senators put this subject in writing, it ran to 537 words,
 **twelve of them about enforcement and none about treating anyone** (Finding 32).
