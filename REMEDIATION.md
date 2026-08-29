@@ -443,9 +443,27 @@ population.**
 described at the end of this section, and it costs nothing to include an arm for
 it.
 
-**The investigator is himself an instance of the hypothesis**, which is a reason to
-take it seriously and also a reason not to mistake it for evidence. Both are stated
-here on purpose.
+### Disclosure
+
+**The investigator is conducting his own test of this hypothesis.** That is stated
+here, unprompted, because a reader is entitled to know it before weighing anything
+in this section.
+
+**It is not evidence and this case will never cite it as such.** A self-directed
+test is n=1, self-selected, unblinded, uncontrolled, and run by someone with a stake
+in the result. It is the weakest design available. Nothing in `REMEDIATION.md`, in
+any finding, or in any filing rests on it, and nothing will.
+
+**What it can do is demonstrate rather than prove.** Part of why the trial in s10
+has never been funded is that nobody can picture what the intervention looks like in
+practice. A demonstration is not a substitute for a randomised trial and is not
+offered as one.
+
+**Why disclose at all.** Because someone would find it, and a conflict this case
+declared itself is worth more than one someone else discovers. The same reason every
+correction in this file is published rather than quietly edited.
+
+No detail of that test appears in this case, and none will.
 
 ### What this means for what to fund
 
