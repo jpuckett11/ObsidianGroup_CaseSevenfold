@@ -106,6 +106,21 @@ not repair a hole.
 
 ## L-03 — The litigation record, newly reachable
 
+> **PARTLY WORKED 2026-08-29.** The forfeiture docket has been pulled and produced
+> **Finding 36**. A CourtListener API token is now in hand, which fixes the
+> `/dockets/` and `/docket-entries/` endpoints. **The free tier is heavily rate
+> limited** (HTTP 429 after a single request), so bulk work across the remaining
+> dockets has to be paced or will need a higher tier.
+>
+> **The search also surfaced cases this entry did not list**, all confirmed by case
+> name through the authenticated API: *C.C. v. Botanic Tonics* (two dockets),
+> *Botanic Tonics v. MIT Therapy*, *Botanic Tonics v. Westman Products*, *Botanic
+> Tonics v. Shot of Joy*. Combined with the Pherson, Leonhardt and Outcast matters,
+> **Botanic Tonics appears as plaintiff in at least eight actions** and as defendant
+> in the Torres class action and the C.C. matters. **None of these have been read.**
+> The *Pherson* appeal at the Tenth Circuit shows a last filing of **2026-07-29**,
+> so it is live.
+
 **Opened 2026-08-28. Status: OPEN, unworked, and the largest single unopened seam
 in this case.**
 

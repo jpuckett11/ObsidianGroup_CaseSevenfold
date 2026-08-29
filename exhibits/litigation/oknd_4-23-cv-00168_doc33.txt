@@ -1,0 +1,314 @@
+Case 4:23-cv-00168-GAG-CDL
+
+Document 33 Filed in USDC ND/OK on 12/10/25
+
+Page 1 of 9
+
+IN THE UNITED STATES DISTRICT COURT
+FOR THE NORTHERN DISTRICT OF OKLAHOMA
+UNITED STATES OF AMERICA,
+Plaintiff,
+v.
+
+Case No. 23-CV-168-GAG-CDL
+
+250,000 FILLED BOTTLES OF LIQUID
+PRODUCT, more or less, of finished
+product, containing kratom, labeled in part:
+“Botanic Tonics Feel Free Plant Based
+Herbal Supplement,”
+1.5 TANKS OF LIQUID PRODUCT, more
+or less, containing kratom,
+1,200 CARTONS OF CAPSULES, more or
+less, of kratom, labeled in part: “Botanic
+Tonics Feel Free Plant Based Herbal
+Supplement,”
+UNDERDETERMINED QUANTITIES OF
+BULK POWDER KRATOM, labeled in
+part: “Green Nano,”
+ALL OTHER QUANTITIES OF THE
+AFORESAID ARTICLES OF FOOD, with
+any lot number and in any size or type
+container that are labeled or otherwise
+appear to contain, or are, kratom, located at
+13105 East 61st Street, Suites A&B Broken
+Arrow, Oklahoma 74012-1191,
+Defendant Articles,
+BOTANIC TONICS, LLC
+Claimant.
+
+OPINION AND ORDER
+Before the Court is a Motion to Dismiss the Government's First Amended Verified
+Complaint (“Motion”) filed by Claimant Botanic Tonics, LLC (“Botanic Tonics”). Dkt. No. 12.
+For the following reasons, Botanic Tonics’ Motion [Dkt. No. 12] is DENIED.
+
+Case 4:23-cv-00168-GAG-CDL
+
+Document 33 Filed in USDC ND/OK on 12/10/25
+
+Page 2 of 9
+
+FACTUAL BACKGROUND
+Taking Plaintiff’s allegations as true and construing them in the light most favorable to
+Plaintiff, as it must at this stage, the Court briefly recounts the Government’s allegations. In 2022,
+Botanic Tonics, a business located at 13105 East 61st Street, Suite A&B, Broken Arrow,
+Oklahoma 74012-1191 (the “Premises”), became the subject of an investigation by the United
+States Food and Drug Administration (the “FDA”) for possible violations under the Federal Food,
+Drug, and Cosmetic Act, 21 U.S.C. §§ 301, et seq., (the “Act”) involving the use of kratom. Dkt.
+No. 9 at 4 (citing). Kratom is a plant categorized as a new dietary ingredient under the Act. Id.
+Pursuant to the Act, new dietary ingredients are prohibited from introduction or delivery for
+introduction into interstate commerce where there is inadequate information to provide reasonable
+assurance that the ingredient does not present a significant or unreasonable risk of illness or injury.
+Id. (citing 21 U.S.C. §§ 331(a), 342(f)(b)).
+The Government alleges that “[s]erious safety concerns exist regarding the effect of kratom
+on multiple organ systems,” which “can lead to a number of negative health impacts, including
+respiratory depression, vomiting, nervousness, weight loss, and constipation.” Dkt. No. 9 at 5.
+Further, the Government alleges that consumption of kratom has “been linked to neurologic,
+analgesic and sedative effects, addiction, and liver toxicity.” Id. The Government also alleges
+that the major compound found in kratom has been reported as a partial opioid agonist, which
+produces effects similar to morphine, and a minor compound found in kratom has been reported
+to be even more potent than morphine. Id. It is further alleged that these compounds can have
+significant effects on cognition in humans and have the potential for abuse and withdrawal
+symptoms. Id.
+
+2
+
+Case 4:23-cv-00168-GAG-CDL
+
+Document 33 Filed in USDC ND/OK on 12/10/25
+
+Page 3 of 9
+
+As part of its investigation, the FDA conducted an inspection of the Premises between
+October 17 and November 17, 2022. Id. During the inspection, FDA investigators observed large
+quantities of products, including bottles labeled as “Feel Free Plant Based Herbal Supplement,”
+characterized as dietary supplements and as containing kratom. Id. Additionally, the FDA
+observed large quantities of bulk kratom powder, which was used by Botanic Tonics to
+manufacture its dietary supplements. Dkt. No. 9 at 4.
+In January 2023, the FDA documented Botanic Tonics’ Facebook account, which
+advertised packages of “Feel Free Plant Based Herbal Supplement” capsules for sale. Id. The
+FDA then made a purchase of the capsules in February 2023 from Botanic Tonics’ website,
+https://botanictonics.com. Id. The FDA received the purchased capsules in March 2023 and
+confirmed that the product was labeled as a dietary supplement and as containing kratom. Id.
+On April 26, 2023, the FDA conducted another inspection of the Premises. Id. Again, the
+FDA investigators observed large quantities of products, including bottles labeled as “Feel Free
+Plant Based Herbal Supplement,” characterized as dietary supplements and as containing kratom,
+as well as large quantities of bulk kratom powder used to manufacture its dietary supplements.
+Dkt. No. 9 at 5.
+PROCEDURAL BACKGROUND
+The Government filed its first complaint thereby initiating this civil forfeiture action on
+April 26, 2023. Dkt. No. 2. The complaint sought forfeiture of certain articles (“Defendant
+Articles”), which the Government alleges are in violation of the Act, 21 U.S.C. § 301 et seq. Id.
+The same day it filed the complaint, the Government also filed an emergency application for
+warrant to arrest in rem the Defendant Articles located at the Premises. Dkt. No. 4. This Court
+referred the application for warrant to the magistrate judge and a warrant was issued that day. Dkt.
+
+3
+
+Case 4:23-cv-00168-GAG-CDL
+
+Document 33 Filed in USDC ND/OK on 12/10/25
+
+Page 4 of 9
+
+Nos. 5, 6, 7. On May 10, 2023, the Government filed its First Amended Complaint (“Amended
+Complaint”). Dkt. No. 9. The Amended Complaint more fully set forth and described the
+Defendant Articles and further confirmed that the warrant was executed on the Defendant Articles
+on April 26, 2023. 1 Id. at 2-3.
+On May 17, 2024, Botanic Tonics filed a claim declaring its interest in the Defendant
+Articles. Dkt. No. 11. Botanic Tonics also filed the instant Motion seeking to dismiss the
+Amended Complaint pursuant to Federal Rule of Civil Procedure Supplemental Rule G(8)(b)(i)
+and Federal Rule of Civil Procedure Rule 12(b)(6). Dkt. No. 12 at 2. Specifically, Botanic Tonics
+argues that the Amended Complaint must be dismissed because it fails to state a claim in two
+respects. First, Botanic Tonics argues that the Amended Complaint fails to state a claim because
+it does not refer to a statute which would permit the introduction of the Defendant Articles into
+interstate commerce, despite kratom’s status as a new dietary ingredient, under certain
+circumstances prescribed by the Act. Second, Botanic Tonics argues that the Amended Complaint
+
+1
+
+The Amended Complaint more fully sets forth that the Defendant Articles consist of:
+a) 59 pallets and four partial pallets said to contain 225,048 bottles, each bottle filled with 2oz
+of liquid finished product containing kratom;
+b) 1 partial pallet said to contain 616 bottles of 90 count capsules of finished product
+containing kratom;
+c) 1,237 cartons each said to contain 72 count capsules of finished product containing kratom;
+d) Contents of 1 full tank of in-process liquid product containing kratom said to contain an
+estimated volume sufficient to fill 125,000 bottles with 2oz each of liquid finished product
+containing kratom;
+e) 2 mixed pallets of 3 finished products containing kratom that were packaged with shipping
+labels ready for distribution containing: 2oz liquid; 90 count capsules bottles; and 72 count
+capsules cartons; and
+f) 65 cases said to contain, in total, 1,300 kg of bulk power kratom.
+
+Dkt. No. 9 at 2.
+4
+
+Case 4:23-cv-00168-GAG-CDL
+
+Document 33 Filed in USDC ND/OK on 12/10/25
+
+Page 5 of 9
+
+fails to state a claim because it does not provide sufficient facts and, further, “does not cite to or
+reference any scientific data, studies or reports” in support of its factual assertions. Id. at 2-3.
+The Government filed a response in opposition on June 7, 2023. Dkt. No. 19. Botanic
+Tonics filed a reply brief on June 21, 2023. Dkt. No. 23. The Motion has been fully briefed and
+is now ripe for ruling.
+ARGUMENT AND AUTHORITY
+In a civil forfeiture proceeding, both the generally applicable Federal Rules of Civil
+Procedure and the Supplemental Rules for Admiralty or Maritime Claims and Asset Forfeiture
+Actions, specifically applicable to in rem proceedings, apply. United States v. $39,000 in Canadian
+Currency, 801 F.2d 1210, 1215 (10th Cir. 1986) (stating that the Supplemental Rules for Certain
+Admiralty and Maritime Claims are part of the Federal Rules of Civil Procedure and apply to
+actions in rem, like civil forfeitures). The general Rules and the Supplemental Rules each set forth
+certain pleading standards. See Fed. R. Civ. P. 8(a)(2); Fed. R. Civ. P. Supp. G(2). While the
+Tenth Circuit has not yet considered the interplay between the two standards, other federal district
+courts have applied the standard set forth in the Supplemental Rules, rather than the standard set
+forth in the general Rules, within the context of in rem proceedings. United States v. 15607 E.
+Girard Place, Aurora, Colorado, No. 1:20-CV-00304-RM-KLM, 2021 WL 4264065, at *4–5
+(D. Colo. Sept. 20, 2021) (citing Supplemental Rule A(1)(B); United States v. $ 8,221,877.16 in
+U.S. Currency, 330 F.3d 141, 152 (3d Cir. 2003); United States v. $134,972.34 Seized from FNB
+Bank, Acct. No.-5351, 94 F. Supp. 3d 1224, 1229-30 (N.D. Ala. 2015); United States v. 4323
+Bellwood Circle, Atlanta, Ga 30349, 680 F. Supp. 2d 1370, 1372 (N.D. Ga. 2010); United States
+v. $22,173.00 in U.S. Currency, 716 F. Supp. 2d 245, 249 (S.D.N.Y. 2010)). This Court agrees
+that the Supplemental Rules specifically apply to “forfeiture actions in rem arising from a federal
+
+5
+
+Case 4:23-cv-00168-GAG-CDL
+
+Document 33 Filed in USDC ND/OK on 12/10/25
+
+Page 6 of 9
+
+statute.” Fed. R. Civ. P. Supp. R. A(1)(B), G(1). The Court further agrees with other district
+courts that applying the general Rule rather than the Supplemental Rule would seem to defeat the
+purpose of the Supplemental Rule. Therefore, for purposes of assessing the Amended Complaint
+here, the Court finds that the pleading standard set forth in Supplemental Rule G(2) governs.
+Pursuant to Fed. R. Civ. P. Supp. G(2), a civil forfeiture complaint must:
+(a)
+(b)
+(c)
+(d)
+
+(e)
+(f)
+
+be verified;
+state the grounds for subject-matter jurisdiction, in rem
+jurisdiction over the defendant property, and venue;
+describe the property with reasonable particularity;
+if the property is tangible, state its location when any seizure
+occurred and – if different – its location when the action is
+filed;
+identify the statute under which the forfeiture action is
+brought; and
+state sufficiently detailed facts to support a reasonable belief
+that the government will be able to meet its burden of proof
+at trial.
+
+Fed. R. Civ. P. Supp. G(2). As noted above, Botanic Tonics’ Motion appears to take issue with
+subparts (e) and (f).
+First, Botanic Tonics argues that to sufficiently state a claim, the Amended Complaint must
+identify and address 21 U.S.C. § 350(b). Dkt. No. 12 at 8. Section 350(b) provides certain
+exceptions to when a dietary supplement containing a new dietary ingredient is deemed
+“adulterated” under 21 U.S.C. § 342(f). Id. Botanic Tonics argues that the Government “must
+show that none of these situations apply in order to meet its burden.” Id. at 9. Because the
+Amended Complaint does not address the exceptions listed in § 350(b), Botanic Tonics argues that
+the Government has not met its “burden of proving that [the Defendant Articles are] adulterated”
+and, therefore, the Amended Complaint does not properly state a claim upon which relief can be
+granted and must be dismissed. Id. at 10.
+
+6
+
+Case 4:23-cv-00168-GAG-CDL
+
+Document 33 Filed in USDC ND/OK on 12/10/25
+
+Page 7 of 9
+
+The pleading standard set forth in the Supplemental Rule requires the Government to
+“identify the statute under which the forfeiture action is brought.” Fed. R. Civ. P. Supp. G(2)(e).
+The Government has done just that. The Amended Complaint alleges that the Defendant Articles
+are dietary supplements and dietary ingredients within the definitions of 21 U.S.C. §§ 321(ff) and
+321(ff)(1). Dkt. No. 9 at 6. The Government further alleges that the Defendant Articles are
+adulterated within the meaning of 21 U.S.C. § 342(f)(1)(B), in that they contain or are a new
+dietary ingredient for which there is inadequate information to provide reasonable assurance that
+it does not present a significant or unreasonable risk of illness or injury. Id. The Government
+further alleges that the Defendant Articles are being introduced or delivered for introduction into
+interstate commerce which, because the Defendant Articles are adulterated under the Act, is
+prohibited by 21 U.S.C. § 331(a). Id. Plainly, the Government has identified the statute under
+which the forfeiture action is brought: 21 U.S.C. § 331(a).
+The statute Botanic Tonics refers to—21 U.S.C. § 350(b)—will certainly be relevant for
+subsequent proceedings as Botanic Tonics will, no doubt, argue that the Defendant Articles fall
+outside the definition of adulterated because they fall within the exceptions set forth in § 350(b).
+However, Botanic Tonics’ contention that the Government must plead and prove that the
+Defendant Articles do not fall within the exceptions listed in § 350(b) at this stage in the case is
+incorrect and, therefore, this argument fails. Robbins v. Okla. Ex. Rel. Dep't of Human Servs., 519
+F.3d 1242, 1247 (10th Cir. 2008) (emphasizing that "a judge ruling on a motion to dismiss must
+accept all allegations as true and may not dismiss on the ground that it appears unlikely the
+allegations can be proven.").
+Next, Botanic Tonics argues that the Amended Complaint must be dismissed because it
+does not sufficiently state enough facts to support a reasonable belief that the Government will be
+
+7
+
+Case 4:23-cv-00168-GAG-CDL
+
+Document 33 Filed in USDC ND/OK on 12/10/25
+
+Page 8 of 9
+
+able to meet its burden of proof at trial. The “reasonable belief” standard set forth in Fed. R. Civ.
+P. Supp. G(2)(f) is indeed than the higher than the general pleading standard set forth in Fed. R.
+Civ. P. 8(a)(2), which requires only “a short and plain statement of the claim showing that the
+pleader is entitled to relief.” However, there nonetheless remains a difference between the
+requirements for sufficient pleading under Rule G(2)(f) and the ultimate sufficiency of proof
+required at trial. Other district courts examining the pleading requirement under Rule G(2)(f) have
+noted that:
+The Government is not required to allege in the complaint all of the
+facts and evidence at its disposal. It is sufficient for the Government
+to simply plead enough facts for the claimant to understand the
+theory of forfeiture, to file a responsive pleading, and to undertake
+an adequate investigation. The issue is one of pleading, not proof at
+trial. And it is for this reason that no complaint may be dismissed
+on the ground that the Government did not have adequate evidence
+at the time the complaint was filed to establish the forfeitability of
+the property.
+$22,173.00 in U.S. Currency, 716 F. Supp. 2d at 248-49 (citation modified); 18 U.S.C.
+§ 983(a)(3)(D). In other words, it is enough for the Government to state facts which, if proven at
+trial, would meet its ultimate burden of proof at trial. It is not, however, required to actually prove
+those facts at the pleading stage. Rule G(2)(f), likewise, does not require that the Government
+refer or cite to scientific data, studies, or reports in the Amended Complaint. Rather, Rule G(2)(f)
+requires that the Amended Complaint make factual assertions, beyond those of a simple notice
+pleading, which support a reasonable belief that it will be able to meet its burden of proof at trial.
+The Court finds that the Government has satisfied the requirement of Rule G(2)(f) here
+where it has listed the specific symptoms, complications, and consequences that can occur as a
+result of kratom consumption, as well as the specific organs and bodily systems affected. The
+Court finds that this is sufficient for Botanic Tonics to understand the Government’s theory of
+forfeiture, to file a responsive pleading, and to undertake an adequate investigation. Most
+8
+
+Case 4:23-cv-00168-GAG-CDL
+
+Document 33 Filed in USDC ND/OK on 12/10/25
+
+Page 9 of 9
+
+importantly, the Court finds that these detailed facts support a reasonable belief that, if proven, the
+Government would be able to successfully meet its burden. For these reasons, the Amended
+Complaint survives, and Botanic Tonic’s Motion must be denied.
+CONCLUSION
+IT IS THEREFORE ORDERED that Claimant Botanic Tonics, LLC’s Motion to Dismiss
+[Dkt. No. 12] is DENIED.
+10 day of December 2025.
+Dated this ___
+s/ Gustavo A. Gelpi
+GUSTAVO A. GELPÍ
+UNITED STATES CIRCUIT JUDGE
+Sitting by designation
+
+9
+
+

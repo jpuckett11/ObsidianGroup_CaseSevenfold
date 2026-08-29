@@ -44,7 +44,8 @@ outcome. One side could afford to be in the room.
 | 2025-Q4 | SGSH spend triples to **$300,000**. Entities lobbied now include **FDA, HHS and the White House Office** | [P] LDA |
 | 2025 fall | RFK Jr. calls Ohio Gov. DeWine, who narrows a planned full kratom ban to 7-OH only | [S] NYT |
 | **end of 2025** | **The FDA removes the kratom-harm links from its website.** Other requested deletions refused, including a warning on liver toxicity, seizures and substance use disorder | [S] NYT |
-| **2025-12-22** | Government files **Notice of Dismissal, without prejudice**, in *U.S. v. 250,000 Filled Bottles of Liquid Product*, **4:23-cv-00168-GAG-CDL (N.D. Okla.)** | [S] |
+| **2025-12-10** | **Court DENIES Botanic Tonics' motion to dismiss.** *"the Amended Complaint survives"*; the court finds the Government would likely **"meet its burden."** Gelpí, Circuit Judge, sitting by designation | **[P] doc 33, obtained 2026-08-29, hashed** |
+| **2025-12-22** | Government files **Notice of Dismissal, without prejudice**, in *U.S. v. 250,000 Filled Bottles of Liquid Product*, **4:23-cv-00168-GAG-CDL (N.D. Okla.)** | [S] claimant's press release only. **Twelve days after the order above.** See **Finding 36** |
 | 2026-01-06 | Botanic Tonics issues a press release framing the dismissal as regulators recognising the difference between "natural kratom leaf" and "concentrated synthetic" compounds | [S] |
 | 2026-02-17 | Ross gives the **RNC $443,000** in four transactions | [P] FEC |
 | 2026-02 | Ross hosts a fundraising dinner headlined by VP Vance; Ross and McDowell meet Vance privately to press for a 7-OH ban | [S] NYT |
@@ -93,8 +94,14 @@ later, the operative legal distinction in a DEA scheduling action.
 
 ### 6. Open, blocked, or unresolved
 
-- **CourtListener API now requires a token.** Docket pulls for both cases are
-  blocked, not empty. Need a token to retrieve the dismissal filing itself.
+- ~~**CourtListener API now requires a token.** Docket pulls for both cases are
+  blocked, not empty. Need a token to retrieve the dismissal filing itself.~~
+  **PARTLY RESOLVED 2026-08-29.** Token obtained. The 10 December 2025 order was
+  retrieved, along with the operative amended complaint, the motion to dismiss and
+  the government's opposition, all hashed into `exhibits/litigation/`. **The
+  dismissal filing itself is still not held:** CourtListener's copy of this docket
+  stops at entry 33 and is missing entries 31, 32 and everything after. It is a
+  ~$0.30 PACER pull. See **Finding 36 §10**.
 - **FEC employer sweep** for MIT45, Diversified Botanics, CBD American Shaman,
   Checkmate and SGSH still rate-limited on DEMO_KEY.
 - **"End Kratom Addiction"**, registered via **Bob Good LLC**. Client unknown.

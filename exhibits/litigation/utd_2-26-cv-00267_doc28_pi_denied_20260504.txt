@@ -1,0 +1,428 @@
+Case 2:26-cv-00267-HCN-DBP
+
+Document 28
+of 11
+
+Filed 05/04/26
+
+PageID.455
+
+Page 1
+
+IN THE UNITED STATES DISTRICT COURT
+FOR THE DISTRICT OF UTAH
+MEMORANDUM DECISION
+AND ORDER
+DENYING MOTION FOR
+PRELIMINARY INJUNCTION
+
+BOTANIC TONICS, LLC, et al.,
+Plaintiffs,
+v.
+KELLY PHERSON, et al.,
+
+Case No. 2:26-cv-267-HCN-DBP
+
+Defendants.
+
+Howard C. Nielson, Jr.
+United States District Judge
+
+Plaintiffs Botanic Tonics, LLC, and Global Kratom Coalition, Inc., sue various Utah state
+officials seeking to enjoin enforcement of portions of Utah’s newly enacted Kratom Regulation
+Act, which will otherwise take effect on May 6, 2026. The Plaintiffs request a preliminary
+injunction. The court denies that request.
+I.
+Plaintiff Botanic Tonics is an Oklahoma-based “manufacturer, distributor, and seller,”
+Dkt. No. 1 at ¶ 7, of a “combination kratom leaf and noble kava root dietary supplement”
+marketed under the name feel free, Dkt. No. 2 at 4. This product is currently sold in 321 Utah
+stores, see id. at 3, and Botanic Tonics’ CEO avers that Botanic Tonics had, until recently, a deal
+to place feel free in an additional 852 retail store locations nationwide, see Dkt. No. 2-7 at 3.
+Plaintiff Kratom Coalition, Inc. is an organization that “advocates for safe and responsible
+natural kratom use and for federal and state regulation to ensure consumer safety and access to
+natural kratom.” Dkt. No. 1 at ¶ 8. Plaintiffs represent that Kratom Coalition has four “sponsors.”
+Id. Although Plaintiffs represent that Botanic Tonics is one of these sponsors, see id., they do not
+identify the others. And while Plaintiffs appear to represent that the other sponsors of Kratom
+Coalition sell mixtures of kratom leaf and kava root similar to feel free, see id., they do not
+
+Case 2:26-cv-00267-HCN-DBP
+
+Document 28
+of 11
+
+Filed 05/04/26
+
+PageID.456
+
+Page 2
+
+identify these products by name. Nor do Plaintiffs identify any other specific kratom products
+sold by Botanic Tonics or any of the other sponsors of the Kratom Coalition.
+On March 26, 2026, Utah Governor Spencer Cox signed Senate Bill 45, the Kratom
+Regulation Act, which will take effect on May 6 absent an injunction. See 2026 Utah Laws 480
+(S.B. 45 S4); Dkt. No. 2-1. 1 The Plaintiffs maintain that this statute, which they refer to as the
+KRA, will outlaw the distribution and sale of feel free, which combines kratom leaves with kava
+root, because the statute prohibits any “kratom product” that is “mixed or packed with a
+nonkratom substance unless the nonkratom substance is an inert encapsulating agent . . . .” New
+Utah Code § 4-45-102(5); see also Dkt. No. 2 at 6. Plaintiffs represent that Botanic Tonics has
+directed “all Utah direct to store distributors . . . to ensure all feel free Classic is either 100% sold
+through or removed from store shelves no later than May 6, 2026.” Dkt. No. 2-2 at 2. And they
+argue that Botanic Tonics will be irreparably injured absent an injunction because it will suffer
+losses from this “cessation of all sales” of feel free, forfeit the benefit of “the sunk cost of all
+related advertising,” and face “continuing brand dilution as a result of the elimination of its
+product from Utah retail and elimination of its advertising associated with the product.” Dkt. No.
+2 at 13.
+The Plaintiffs argue that the provisions of the Kratom Regulation Act that will ban the
+sale of feel free in Utah are preempted by various federal laws addressing dietary supplements.
+See, e.g., id. at 2. They accordingly seek a preliminary injunction barring the Defendants—
+various state officials who the Plaintiffs allege will be responsible for enforcing the Kratom
+
+1
+
+The court will refer to the Utah Code as it will be amended once the Kratom Regulation
+Act takes effect as “new Utah Code.”
+2
+
+Case 2:26-cv-00267-HCN-DBP
+
+Document 28
+of 11
+
+Filed 05/04/26
+
+PageID.457
+
+Page 3
+
+Regulation Act—from enforcing this statute against them for distributing feel free pending the
+disposition of this lawsuit.
+II.
+“Preliminary injunctive relief—whether a temporary restraining order or a preliminary
+injunction—‘is an extraordinary remedy never awarded as of right.’” Schiermeyer ex rel.
+Blockchain Game Partners, Inc. v. Thurston, 697 F. Supp. 3d 1265, 1269 (D. Utah 2023)
+(quoting Winter v. Natural Res. Def. Council, Inc., 555 U.S. 7, 24 (2008)). Such relief is “the
+exception rather than the rule” and will be granted only if “the movant’s right to relief [is] clear
+and unequivocal.” Aposhian v. Barr, 958 F.3d 969, 978 (10th Cir. 2020) (cleaned up). A party
+seeking such relief “must establish that he is likely to succeed on the merits, that he is likely to
+suffer irreparable harm in the absence of preliminary relief, that the balance of equities tips in his
+favor, and that an injunction is in the public interest.” Winter, 555 U.S. at 20.
+“[E]ach of these elements is a prerequisite for obtaining” preliminary injunctive relief.
+Diné Citizens Against Ruining Our Env’t v. Jewell, 839 F.3d 1276, 1281 (10th Cir. 2016). It
+follows that “a plaintiff’s failure to prove any one of the four preliminary injunction factors
+renders its request for injunctive relief unwarranted.” Village of Logan v. United States Dep’t of
+Interior, 577 F. App’x 760, 766 (10th Cir. 2014) (unpublished).
+The court concludes that the Plaintiffs have failed to show a likelihood of success on their
+legal arguments that federal law preempts any relevant part of the Kratom Regulation Act. The
+court accordingly denies their request for preliminary injunction without addressing the other
+Winter factors.
+
+3
+
+Case 2:26-cv-00267-HCN-DBP
+
+Document 28
+of 11
+
+Filed 05/04/26
+
+PageID.458
+
+Page 4
+
+A.
+“[T]he purpose of Congress is the ultimate touchstone in every pre-emption case.” Wyeth
+v. Levine, 555 U.S. 555, 565 (2009) (cleaned up). “[I]n all pre-emption cases, and particularly in
+those in which Congress has legislated in a field which the States have traditionally occupied,
+[courts] start with the assumption that the historic police powers of the States were not to be
+superseded by the Federal Act unless that was the clear and manifest purpose of Congress.” Id.
+(cleaned up).
+There are three types of preemption: 1) express preemption, which occurs when
+the language of the federal statute reveals an express congressional intent to
+preempt state law; 2) field preemption, which occurs when the federal scheme of
+regulation is so pervasive that Congress must have intended to leave no room for
+a State to supplement it; and 3) conflict preemption, which occurs either when
+compliance with both the federal and state laws is a physical impossibility, or
+when the state law stands as an obstacle to the accomplishment and execution of
+the full purposes and objectives of Congress.
+US Airways, Inc. v. O’Donnell, 627 F.3d 1318, 1324 (10th Cir. 2010) (cleaned up).
+B.
+The Plaintiffs first argue that the portions of the Kratom Regulation Act that would bar
+feel free are expressly preempted by 21 U.S.C. § 343-1(a), which, they maintain, “forbids any
+deviation from federal dietary supplement labeling requirements, including those germane to the
+labeling of combination dietary supplements.” Dkt. No. 2 at 9. Plaintiffs contend that the “KRA
+not only forbids combined kratom and nonkratom substance dietary supplements,” but also
+“forbids their labeling, thus violating the express command in 21 U.S.C. § 343-1(a)(5) that state
+dietary supplement labeling law be ‘identical’ to federal law.” Id.
+Express preemption occurs only “when the language of the federal statue statute reveals
+an express congressional intent to preempt state law.” O’Donnell, 627 F.3d at 1324. “If the
+statute contains an express pre-emption clause, the task of statutory construction must in the first
+4
+
+Case 2:26-cv-00267-HCN-DBP
+
+Document 28
+of 11
+
+Filed 05/04/26
+
+PageID.459
+
+Page 5
+
+instance focus on the plain wording of the clause . . . .” CSX Transp., Inc. v. Easterwood, 507
+U.S. 658, 664 (1993).
+21 U.S.C. § 343-1(a)(5) provides that “no State . . . may directly or indirectly
+establish . . . as to any food in interstate commerce . . . any requirement respecting any claim of
+the type described in section 343(r)(1) of this title made in the label or labeling of food that is not
+identical to the requirement of section 343(r) of this title . . . .” Section 343(r)(1), in turn,
+addresses express or implicit claims made regarding either “the level of any nutrient” in the food
+or “the relationship of any nutrient” in the food “to a disease or a health-related condition” that
+do not comport with other statutory provisions.
+The court need not explore what requirements these provisions may establish for labeling
+kratom products—or, indeed, whether they apply to such products at all—because the text of the
+statute makes clear that Congress intended to preempt only state requirements “respecting any
+claim” made on a label that differ from federally established requirements. Id. § 343-1(a)(5)
+(emphasis added). The challenged portions of the Kratom Regulation Act, by contrast, are silent
+with respect to the labeling of products containing kratom like feel free; they merely prohibit the
+sale of kratom mixed with any “nonkratom substance” other than an “inert encapsulating agent.”
+New Utah Code § 4-45-102(5)(b). 2
+Nothing in the plain language of Section 343-1 purports to preempt state-level bans on
+substances. To be sure, a prohibited product cannot be sold no matter how it is labeled. But it
+clearly does not follow that Congress intended to preempt any state regulation with such an
+
+2
+
+Other parts of the Kratom Regulation Act, such as new Utah Code § 4-45-104(1)(b), do
+establish requirements regarding “product label[s]” on “kratom product[s]” that may be sold in
+the State under the new law. But the Plaintiffs do not invoke these labeling provisions, much less
+argue that these provisions affect their ability to sell feel free or that they would be able to sell
+feel free but for the Kratom Regulation Act’s labeling provisions.
+5
+
+Case 2:26-cv-00267-HCN-DBP
+
+Document 28
+of 11
+
+Filed 05/04/26
+
+PageID.460
+
+Page 6
+
+oblique effect on labeling; to the contrary, the point of these federal provisions appears to be to
+govern certain specific types of claims made on the labels of products that actually are sold, and
+thus to prevent “misbrand[ing].” 21 U.S.C. § 343. For these reasons, the court has no difficulty
+concluding that Plaintiffs have failed to demonstrate that they are likely to prevail on this
+express-preemption claim. 3
+C.
+The Plaintiffs next argue that the Kratom Regulation Act is preempted because
+“compliance with both” this Act and 21 U.S.C. §§ 321(ff) and 342(f) is “impossible.” Dkt. No. 2
+at 2. “Even in the absence of an express pre-emption provision, the Court has found state law to
+
+3
+
+Plaintiffs also offer the following argument:
+
+The KRA amends the pre-existing Utah law governing kratom, entitled the
+Kratom Consumer Protection Act . . . , which pre-existing Act contains a
+provision that prohibits labeling not in accordance with the Act. In Utah Code
+Ann. § 4-45-102(4)(b), the definition of “kratom processor” includes anyone who
+“advertises, represents, or holds oneself out as selling, preparing, or maintaining a
+kratom product.” Labeling for prohibited kratom/nonkratom product
+combinations is thus explicitly forbidden under the amended KRA.
+Dkt. No. 2 at 8–9 (cleaned up). And in a footnote, the Plaintiffs argue that
+[u]nder 21 U.S.C. § 321(m), “labeling” is defined as all labels and other written,
+printed, or graphic matter upon any article, its containers/wrappers, or
+accompanying such article at any time while held for sale. Those same materials
+are “advertising” within the meaning of Utah’s Kratom Consumer Protection Act
+and also “represent” and “hold out” the kratom product within the meaning of that
+Act.
+Id. at 8–9 n.18.
+It is difficult to follow the logical leaps and seeming nonsequiturs on which this cryptic
+argument appears to be built or otherwise to make heads or tails of it. The court notes, however,
+that the Kratom Regulation Act repeals Section 4-45-102(4)(b), the definitional provision on
+which Plaintiffs appear to rely, and that Plaintiffs do not identify—nor has the court located—
+any other provision of the Kratom Consumer Protection Act “that prohibits labeling not in
+accordance with the Act.” The court accordingly does not address this argument further.
+6
+
+Case 2:26-cv-00267-HCN-DBP
+
+Document 28
+of 11
+
+Filed 05/04/26
+
+PageID.461
+
+Page 7
+
+be impliedly pre-empted where it is impossible for a private party to comply with both state and
+federal requirements.” Mutual Pharm. Co. v. Bartlett, 570 U.S. 472, 480 (2013) (cleaned up).
+21 U.S.C. § 321(ff) defines the term “dietary supplement,” as used in the Federal Food,
+Drug, and Cosmetic Act. The statutory definition includes “a vitamin; a mineral; an herb or other
+botanical; an amino acid; a dietary substance for use by man to supplement the diet by increasing
+the total dietary intake; or a concentrate, metabolite, constituent, extract, or combination of any”
+of the previously listed ingredients. Id. (cleaned up). 21 U.S.C. § 342(f), in turn, specifies the
+circumstances in which “a dietary supplement” “shall be deemed to be adulterated.”
+But even if feel free falls within the federal definition of a dietary supplement and does
+not meet statutory criteria for being deemed to be adulterated, these federal statutes do not
+require that feel free be sold. Indeed, these generally applicable statutes do not even amount to
+specific federal approval of this product. Rather, the most that can be said is that because feel
+free meets the federal definition of a dietary supplement and does not meet the criteria of being
+deemed adulterated, its sale is not prohibited by federal law. It naturally follows that it is not
+impossible to comply with the Kratom Regulation Act’s prohibition of products that mix kratom
+with non-kratom substances without violating either Section 321(ff) or Section 342(f). Stated
+plainly, the Plaintiffs can comply with both state and federal law simply by declining to sell feel
+free in Utah. Further, as the Supreme Court has previously explained in an analogous context, “it
+is illogical to infer that by excluding certain . . . behavior from” a “ban, . . . Congress intended to
+pre-empt the States’ power to prohibit any conduct within that exclusion.” Exxon Corp. v.
+Governor of Maryland, 437 U.S. 117, 132 (1978).
+Although the Plaintiffs do not cite it, Bartlett does hold that under some circumstances,
+“an actor seeking to satisfy both his federal- and state-law obligations is not required to cease
+
+7
+
+Case 2:26-cv-00267-HCN-DBP
+
+Document 28
+of 11
+
+Filed 05/04/26
+
+PageID.462
+
+Page 8
+
+acting altogether in order to avoid liability.” 570 U.S. at 488. But the facts of that case look
+nothing like those here. In Bartlett, the Supreme Court considered a prescription drug that had
+been specifically approved by the FDA. And the challenged state law was a common law
+“design-defect cause of action” that, the Court concluded, would require a prescription drug
+manufacturer to “either . . . chang[e] [the] drug’s design or . . . chang[e] its labeling” to avoid
+liability. Id. at 480, 482. But either change would take the drug out of compliance with federal
+law, because the FDA had specifically approved the existing design and labeling. See id. at 486–
+87. Under these circumstances, the Court found a congressional “intent to pre-empt” state law
+because federal law imposes specific “duties” not to “change[] . . . a drug’s label” or to
+“redesign[] the drug” once the drug has undergone the intensive FDA approval process. Id. at
+477, 483, 493.
+Here, by contrast, the purportedly conflicting laws are general federal statutes defining
+dietary supplements and specifying the criteria for deeming a dietary supplement adulterated, on
+the one hand, and a specific state-law prohibition of products that mix kratom with non-kratom
+substances other than inert encapsulating agents, on the other hand. Although Congress no doubt
+intended the FDA’s comprehensive drug-regulation scheme to preempt state tort law so that
+pharmaceutical manufacturers who have relied on the FDA approval process can sell their
+products as approved by the FDA, Congress almost certainly did not intend to bar States from
+banning any product that meets the general definition of a dietary supplement but not the criteria
+for being deemed adulterated. Indeed, the Ninth Circuit has concluded both that the reasoning in
+Bartlett is appropriately “appl[ied] . . . only in the products liability context” and also that the
+fact that “federal law touches [a] product in some way” cannot, without more, evince
+congressional intent to preempt any “state sales ban[]” of such a product. Association des
+
+8
+
+Case 2:26-cv-00267-HCN-DBP
+
+Document 28
+of 11
+
+Filed 05/04/26
+
+PageID.463
+
+Page 9
+
+Eleveurs de Canards et d’Oies du Quebec v. Bonta, 33 F.4th 1107, 1116 (9th Cir. 2022). The
+court agrees with this persuasive authority.
+D.
+The Plaintiffs also argue that it is impossible to comply with both federal law and the
+Kratom Regulation Act because kratom leaves must be washed and pasteurized with heated
+chlorinated water (or treated with a chemical or radiation substitute for that process) to kill
+pathogenic bacteria in order to comply with federal regulations and avoid being deemed
+adulterated under 21 U.S.C. § 342(f). See Dkt. No. 2 at 11. But doing so, the Plaintiffs contend,
+would result in a product that does not qualify as “pure leaf kratom”—and is thus prohibited by
+the Kratom Regulation Act—because washing and pasteurizing the kratom leaves would mix the
+kratom with heated chlorinated water, a non-kratom substance that is not an inert encapsulating
+agent. See id. at 10–12.
+The Plaintiffs do not appear to represent that the heated chlorinated water used to wash
+and pasteurize kratom leaves actually remains present with the leaves when they are packaged
+and sold, however. And unless that is true, the court is skeptical of the Plaintiffs’ contention that
+kratom leaves washed and pasteurized with heated chlorinated water prior to packaging and sale
+can plausibly be considered to fall within the scope of the prohibition of “kratom product[s]”
+that are “mixed or packed with a nonkratom substance.” New Utah Code § 4-45-102(5)(b)
+(emphases added). Further, even if washed and pasteurized leaves do fall within the scope of that
+prohibition, the court has difficulty taking seriously the Plaintiffs’ assertion that treating pure
+kratom leaves with radiation, rather than heated chlorinated water, to kill pathogenic bacteria
+would likewise amount to mixing or packing kratom with a nonkratom substance. See Dkt. No. 2
+at 12.
+
+9
+
+Case 2:26-cv-00267-HCN-DBP
+
+Document 28
+of 11
+
+Filed 05/04/26
+
+PageID.464
+
+Page 10
+
+The court need not decide these issues, however, because the Plaintiffs have not
+identified any product that they sell that would qualify as “pure leaf kratom” under the Kratom
+Regulation Act but for the fact that it is washed and pasteurized. Indeed, they attempt to
+demonstrate irreparable injury only with respect to the Kratom Regulation Act’s potential effect
+on feel free, a product that mixes kratom with kava root, see Dkt. No. 2 at 4, and thus clearly
+does not qualify as pure leaf kratom for purposes of the Act whether or not it has been washed
+and pasteurized with heated chlorinated water prior to sale. For that matter, the Plaintiffs do not
+identify any other specific product sold by Botanic Tonics or any other Global Kratom Coalition
+sponsor, let alone any product that could be sold under the Kratom Regulation Act but for the
+fact that it is washed and pasteurized with heated chlorinated water. It follows that even if the
+Plaintiffs are correct that the Kratom Regulation Act’s definition of pure leaf kratom excludes
+kratom that has been washed and pasteurized or treated with a chemical or radiation substitute
+for that process—and thus excludes all kratom leaf products that comply with federal regulations
+and qualify as unadulterated under the FDCA—they have not demonstrated with respect to this
+exclusion that they are “the object[s] of the government action” they “challenge[],” and thus
+have failed to show that they face any redressable injury that would flow from this exclusion.
+Lujan v. Defenders of Wildlife, 504 U.S. 555, 562 (1992). 4
+
+4
+
+For the same reasons, the court need not address the Plaintiffs’ argument that the
+possible presence of trace amounts of mitragynine pseudoindoxyl in pure leaf kratom and the
+scheduling of this substance would potentially bar the sale of pure leaf kratom: feel free plainly
+does not qualify as pure leaf kratom because it is mixed with kava root, and the Plaintiffs have
+not identified any other product they or their sponsors sell, let alone any product that would
+qualify as pure leaf kratom but for the scheduling of mitragynine pseudoindoxyl.
+10
+
+Case 2:26-cv-00267-HCN-DBP
+
+Document 28
+of 11
+
+*
+
+*
+
+Filed 05/04/26
+
+PageID.465
+
+*
+
+For the foregoing reasons, Docket Number 2, Plaintiffs’ Motion for Preliminary
+Injunction, is DENIED.
+IT IS SO ORDERED.
+Dated this 4th day of May, 2026.
+BY THE COURT:
+_____________________________
+Howard C. Nielson, Jr.
+United States District Judge
+
+11
+
+Page 11
+
+

@@ -1,0 +1,357 @@
+Case 4:23-cv-00168-JFH-CDL Document 20 Filed in USDC ND/OK on 06/07/23 Page 1 of 12
+
+IN THE UNITED STATES DISTRICT COURT
+FOR THE NORTHERN DISTRICT OF OKLAHOMA
+)
+)
+)
+)
+Plaintiff,
+)
+)
+v.
+)
+250,000 filled bottles of liquid product, )
+) Case No. 23-cv-168-JFH-CDL
+more or less, of finished product,
+)
+containing kratom, labeled in part:
+“Botanic Tonics Feel Free Plant Based )
+)
+Herbal Supplement”, et al.
+)
+)
+Defendant Articles.
+)
+UNITED STATES OF AMERICA,
+
+United States’ Opposition to Claimant Botanic Tonics LLC’s Motion to Dismiss
+The Court should deny Claimant Botanic Tonics, LLC’s (“Botanic Tonics”)
+Motion to Dismiss (“Mot.”) (Dkt. 12), because the facts alleged in the First
+Amended Verified Complaint for Forfeiture In Rem (Dkt. 9) (“Complaint”) satisfy the
+pleading requirements for a forfeiture complaint under Rule G of the Supplemental
+Rules for Admiralty or Maritime Claims and Asset Forfeiture Actions (“Rule G”)
+and Rule 12(b)(6) of the Federal Rules of Civil Procedure. Botanic Tonics provides
+no legal authority to find otherwise, and its position that the United States was
+required to include detailed evidence in the Complaint or otherwise erred by not
+anticipatorily addressing what appears to be Botanic Tonics’ defense to this action,
+does not withstand scrutiny.
+
+Case 4:23-cv-00168-JFH-CDL Document 20 Filed in USDC ND/OK on 06/07/23 Page 2 of 12
+
+I.
+
+BACKGROUND
+
+The Federal Food, Drug, and Cosmetic Act (“FDCA” or the “Act”), 21 U.S.C.
+§§ 301, et seq., sets forth a comprehensive regulatory scheme to protect the public
+health by, among other things, prohibiting the introduction or delivery for
+introduction into interstate commerce of adulterated dietary supplements. See 21
+U.S.C. §§ 331(a) (prohibited act), 342(f) (adulteration provision). Manufacturers are
+responsible for evaluating the safety of their dietary supplements before marketing to
+ensure that they meet the Act’s requirements, and FDA has the authority to take
+enforcement action, including seizure, against adulterated dietary supplements. See
+id. § 334(a)(1).
+In furtherance of its public health mission, FDA has warned the public not to use
+products containing Mitragyna speciosa, a plant commonly known as “kratom” that
+grows naturally in parts of Southeast Asia. FDA’s warnings have emphasized serious
+concerns regarding kratom, including that kratom appears to have properties that
+expose users to the risks of addiction, abuse, and dependence. 1 See Complaint ¶ 14.
+Consumption of kratom can lead to respiratory depression, vomiting, nervousness,
+weight loss, and constipation; and kratom consumption has been linked to
+neurologic, analgesic, and sedative effects, addiction, and liver toxicity. Id. ¶ 12. As
+kratom has gained popularity, consumer complaints and adverse event reports to
+1
+
+See FDA and Kratom, https://www.fda.gov/news-events/public-health-focus/fdaand-kratom. Kratom affects the same opioid brain receptors as morphine, and
+kratom is often taken recreationally by users for its euphoric effects. See id.; see also
+Complaint ¶¶ 12-14.
+2
+
+Case 4:23-cv-00168-JFH-CDL Document 20 Filed in USDC ND/OK on 06/07/23 Page 3 of 12
+
+FDA regarding kratom have increased. 2 FDA is aware of reports of at least 36 deaths
+associated with the use of kratom-containing products. 3 There are no FDA-approved
+therapeutic uses of kratom. 4
+Because of FDA’s safety concerns associated with kratom’s use, see Complaint
+¶¶ 12, 14, FDA has issued public health advisories, 5 and an import alert to detain
+without physical examination shipments of kratom being imported into the United
+States.6 FDA also has conducted numerous in rem seizures of kratom and kratomcontaining products. 7
+Here, the United States filed a verified forfeiture complaint following FDA’s
+multiple inspections of Botanic Tonics’ Broken Arrow, Oklahoma facility. (Dkt. 9).
+
+2
+
+See Statement from FDA Commissioner Scott Gottlieb, M.D. on FDA advisory
+about deadly risks associated with kratom, https://www.fda.gov/news-events/pressannouncements/statement-fda-commissioner-scott-gottlieb-md-fda-advisory-aboutdeadly-risks-associated-kratom.
+3
+Id.
+4
+Id.
+5
+See FDA and Kratom, https://www.fda.gov/news-events/public-health-focus/fdaand-kratom.
+6
+See Import Alert 54-15,
+https://www.accessdata.fda.gov/cms_ia/importalert_1137.html.
+7
+See, e.g., United States v. 286,161 bottles, 209 dietary supplement cookie packs, and 45,521
+packs, boxes, or granules, more or less, of an article of food, specifically various herbal
+supplement capsules, tablets, cookies, and teas, No. 19-C-3876, 2020 WL 550598 (N.D.
+Ill. Feb. 3, 2020); United States v. 101 Cases, More or Less, Containing Bottles & Pouches of
+Articles of Drug Labeled in Part as Kratom Therapy, No. CV-16-05138, 2016 WL
+11002541 (C.D. Cal. Dec. 21, 2016); see also FDA Announces Seizure of Adulterated
+Dietary Supplements Containing Kratom, https://www.fda.gov/news-events/pressannouncements/fda-announces-seizure-adulterated-dietary-supplements-containingkratom; FDA and Kratom, https://www.fda.gov/news-events/public-healthfocus/fda-and-kratom.
+3
+
+Case 4:23-cv-00168-JFH-CDL Document 20 Filed in USDC ND/OK on 06/07/23 Page 4 of 12
+
+FDA inspected Botanic Tonics between October 17 and November 17, 2022.
+Complaint ¶ 9. During that inspection, FDA investigators observed large quantities
+of Botanic Tonics’ kratom products, including bottles of “Feel Free Plant Based
+Herbal Supplement,” labeled as a dietary supplement and as containing kratom. Id.
+During that inspection, FDA also observed large quantities of bulk kratom powder,
+used by Botanic Tonics to manufacture its “Feel Free” kratom-containing products.
+Id. Between February and March 2023, FDA purchased and received several
+capsules of Botanic Tonics’ “Feel Free” products, labeled as containing kratom and
+as a dietary supplement. Id. ¶ 10. On April 26, 2023, FDA again inspected Botanic
+Tonics’ Broken Arrow, Oklahoma facility and again observed large quantities of
+“Feel Free” kratom-containing products (in liquid and capsule form) and bulk
+kratom powder. Id. ¶ 11.
+As a result of FDA’s latest inspection of Botanic Tonics’ facility, the United
+States filed a verified forfeiture complaint to seize the Defendant Articles pursuant to
+21 U.S.C. § 334. (Dkt. 2). The Complaint alleges that these articles are dietary
+supplements and dietary ingredients, within the meaning of 21 U.S.C. §§ 321(ff) and
+321(ff)(1), that may not be introduced or delivered for introduction into interstate
+commerce pursuant to 21 U.S.C. § 331(a) because they are adulterated within the
+meaning of 21 U.S.C. § 342(f)(1)(B).
+II.
+
+ARGUMENT
+
+The Court should deny Botanic Tonics’ motion to dismiss because the Complaint
+
+4
+
+Case 4:23-cv-00168-JFH-CDL Document 20 Filed in USDC ND/OK on 06/07/23 Page 5 of 12
+
+clearly satisfies the pleading requirements under Rules G and 12(b)(6).
+Rule G governs the requirements for in rem forfeiture complaints arising from a
+federal statute, such as the FDCA. See Fed. R. Civ. P. Suppl. R. G(1)-(2). Under
+Rule G(2)(f), a complaint need only “state sufficiently detailed facts to support a
+reasonable belief that the government will be able to meet its burden at trial.” While
+a higher standard than notice pleading, Supplemental Rule G is a “low bar.” See
+United States v. 17 Bank Accounts Containing Various Amounts of United States Currency
+Identified in Exhibit A, No. 18-CV-189-ABJ, 2019 WL 13225955, at *5 (D. Wyo. Mar.
+29, 2019) (quoting United States v. Aguilar, 782 F.3d 1101, 1109 (9th Cir. 2015)).
+Supplemental Rule G(2) governs the pleading standard for civil asset forfeiture
+complaints but the well-known standards for in personam complaints enunciated in
+the Supreme Court’s holdings in Bell Atl. Corp. v. Twombly, 550 U.S. 544 (2007) and
+Ashcroft v. Iqbal, 556 U.S. 662 (2009) also provide guidance to the extent they do not
+conflict with Supplemental Rule G(2). See 17 Bank Accounts, 2019 WL 13225955, at
+*5 (citations and quotations omitted); see also Fed. R. Civ. P. Suppl. R. A(2).
+Accordingly, in considering a Rule 12(b)(6) motion to dismiss a complaint for
+forfeiture, the pleading requirements are satisfied when the United States’ complaint
+includes “a short and plain statement of the claim showing that the pleader is entitled
+to relief,”17 Bank Accounts, 2019 WL 13225955, at *4 (citations and quotations
+omitted), and “it suffices for the government to simply allege enough facts so that the
+claimant may understand the theory of forfeiture, file a responsive pleading, and
+
+5
+
+Case 4:23-cv-00168-JFH-CDL Document 20 Filed in USDC ND/OK on 06/07/23 Page 6 of 12
+
+undertake an adequate investigation.” United States v. One Gulfstream G-V Jet Aircraft,
+941 F. Supp. 2d 1, 14 (D.D.C. 2013). “Likewise, the plaintiff must be afforded every
+favorable inference that may be drawn from the allegations of fact set forth in the
+[forfeiture] complaint” and “the plaintiff’s factual allegations must be presumed true
+and should be liberally construed in his or her favor.” Id. Contrary to Botanic Tonics’
+view that detailed evidence and legal argument is required under Rule G, Rule
+G(2)(f) simply requires the government to sufficiently plead facts to enable a
+claimant, “without moving for a more definitive statement,” which Botanic Tonics
+has not done here, “to commence an investigation of the facts and to frame a
+responsive pleading.” Supplemental Rule E(2)(A); see id. at G(2) advisory
+committee’s note to 2006 enactment. The United States has easily met its burden
+here.
+While Botanic Tonics only appears to dispute whether the complaint meets Rule
+G(2)(f)’s “reasonable belief” standard, the complaint meets all of the requirements of
+Rule G(2)(a) through (f). As required by Rule G(2)(a), the complaint is verified under
+penalty of perjury by an FDA compliance officer who declares that the allegations
+are true and correct and based on the official files and records of the United States
+and his investigation of the matter. Complaint at 8 (verification signed by Chad J.
+Whitwell, FDA Compliance/Consumer Safety Officer). The Complaint states the
+statutory basis for forfeiture and explains the factual basis for FDA’s determination
+that the Defendant Articles are adulterated and therefore subject to forfeiture, thus
+satisfying Rule G(2)(b). See id. ¶¶ 3-6. Rule G(2)(c) is satisfied because the Complaint
+6
+
+Case 4:23-cv-00168-JFH-CDL Document 20 Filed in USDC ND/OK on 06/07/23 Page 7 of 12
+
+identifies with reasonable particularity the Defendant Articles and identifies that
+each article is or contains kratom. See id. ¶¶ 2, 11. And Rules G(2)(d) and (e) are met
+because the Complaint states the location of the seized property and identifies the
+statute under which the forfeiture action is brought. See id. ¶ 1 (citing 21 U.S.C.
+§ 334).
+Rule G(2)(f) is also satisfied. Paragraphs 4, 8, and 16-18 of the Complaint provide
+the legal framework and factual predicates that inform Botanic Tonics of the basis for
+forfeiture of the Defendant Articles. Specifically, those paragraphs allege that
+Defendant Articles are articles of food, within the meaning of 21 U.S.C. §§ 321(f),
+321(ff); that kratom is a botanical and, therefore, a dietary ingredient within the
+meaning of 21 U.S.C. § 321(ff)(1)(C); that kratom is a new dietary ingredient within
+the meaning of 21 U.S.C. § 350b(d); that the Defendant Articles are dietary
+supplements within the meaning of 21 U.S.C. § 321(ff); and that the Defendant
+Articles may not be introduced or delivered for introduction into interstate
+commerce pursuant to 21 U.S.C. § 331(a) because they are adulterated within the
+meaning of 21 U.S.C. § 342(f)(1)(B). Paragraph 17 explains that the Defendant
+Articles are adulterated within the meaning of 21 U.S.C. § 342(f)(1)(B) in that they
+contain or are a new dietary ingredient, kratom, for which there is inadequate
+information to provide reasonable assurance that this ingredient does not present a
+significant or unreasonable risk of illness or injury; and paragraphs 12 through 14
+provide further details regarding FDA’ safety concerns, supporting the adulteration
+charge and the seizure. Because all of these facts must be presumed true and should
+7
+
+Case 4:23-cv-00168-JFH-CDL Document 20 Filed in USDC ND/OK on 06/07/23 Page 8 of 12
+
+be liberally construed in the United States’ favor, One Gulfstream G-V Jet Aircraft, 941
+F. Supp. 2d at 14, there can be no serious contention that the United States has failed
+to adequately plead a plausible basis for forfeiture of the Defendant Articles. Indeed,
+Botanic Tonics’ memorandum in support of its motion shows that it understands the
+basis for forfeiture and that the Complaint provides sufficient details to allow Botanic
+Tonics “to commence an investigation of the facts and to frame a responsive
+pleading.”
+To be clear, the United States need not, at this point, prove its case by a
+preponderance of the evidence, its burden of proof at trial. United States v. $144,210.77
+in Funds Seized from Suntrust Bank Account XXXXX6875, 63 F. Supp. 3d 1387, 1389
+(N.D. Ga. 2014). Rather, at the pleading stage, the United States “is merely required
+to establish the reasonable belief that [it] can meet its burden at trial.” Id.
+Botanic Tonics’ additional arguments are also unavailing. Its assertion that the
+United States erred by not citing to 21 U.S.C. § 350b(a) in the Complaint, (Dkt. 12 at
+8-10), is legally unsupportable. Citation to 21 U.S.C. § 350b(a) is not necessary to
+establish an article is adulterated under 21 U.S.C. § 342(f)(1)(B). As discussed above,
+the United States has alleged that the Defendant Articles are adulterated under
+21 U.S.C. § 342(f)(1)(B) in that they contain or are a new dietary ingredient, kratom,
+for which there is inadequate information to provide reasonable assurance that this
+ingredient does not present a significant or unreasonable risk of illness of injury. See
+Complaint ¶ 17. The Complaint cites 21 U.S.C. § 350b(d) to establish that kratom is
+a new dietary ingredient, id. ¶ 8, and explains that because the Defendant Articles are
+8
+
+Case 4:23-cv-00168-JFH-CDL Document 20 Filed in USDC ND/OK on 06/07/23 Page 9 of 12
+
+adulterated under 21 U.S.C. § 342(f)(1)(B), they are subject to seizure, forfeiture, and
+condemnation pursuant to 21 U.S.C. § 334. Id. ¶¶ 17-18. Section 350b(a) provides the
+circumstances when manufacturers or distributors of new dietary ingredients or
+dietary supplements that contain new dietary ingredients may be required to submit a
+new dietary ingredient notification to FDA before introducing the product into
+interstate commerce. To the extent Botanic Tonics intends to defend against this
+action based on 21 U.S.C. § 350b(a), such arguments are inappropriate at the motion
+to dismiss stage.
+Further, Botanic Tonics’ assertion that the Complaint should be dismissed for
+lack of evidence, (Dkt. 12 at 10-14), distorts the Rule G standard which requires a
+complaint plead facts, not evidence. See, e.g., United States v. All Assets Held at Bank
+Julius Baer & Co., 571 F. Supp. 2d 1, 16 (D.D.C. 2008) (denying motion to dismiss,
+stating that the government “need not plead evidence, it must plead facts to support
+its allegations.”). The notion that the United States was required to “critique any
+specific information about the safety of kratom,” (Dkt. 12 at 10), “identify the
+amount of kratom that must be consumed in a particular time period in order to have
+any negative effect on the body,” (id. at 11), “cite adverse events,” (id. at 3), explain
+why FDA has seized kratom but not “sugar, red meat, artificial sweeteners, diet
+soda, and high fructose corn syrup,” (id. at 11), or cite “testing analysis of the
+Defendant Articles,” (id. at 12), are all improper assertions that the United States
+must include exhaustive detail and supporting evidence in its complaint instead of
+“sufficiently detailed facts to support a reasonable belief that the government will be
+9
+
+Case 4:23-cv-00168-JFH-CDL Document 20 Filed in USDC ND/OK on 06/07/23 Page 10 of 12
+
+able to meet its burden at trial.” Rule G(2)(f); see also United States v. 5208 Los
+Franciscos Way, 385 F.3d 1187, 1193 (9th Cir. 2004) (“While [claimants] assert that
+the [forfeiture] complaint was not supported at the time of filing by evidence
+sufficient to meet the preponderance standard, the government is not required to
+prove its case simply to get in the courthouse door”). Similarly, Botanic Tonics’
+allegation that the Complaint fails to adequately explain what constitutes a
+“significant or unreasonable risk of illness or injury,” (Dkt. 12 at 10-11), is
+undermined by the safety concerns associated with kratom, including respiratory
+depression, sedative effects, addiction, liver toxicity, and aggression, which were in
+fact alleged in the Complaint. See, e.g., Complaint ¶¶ 12, 14. 8
+It is no surprise that many courts have denied motions to dismiss complaints
+under Rule G. See, e.g., United States v. 286,161 bottles, 209 dietary supplement cookie
+packs, and 45,521 packs, boxes, or granules, No. 19- C-3876, 2020 WL 550598, at *2
+(N.D. Ill. Feb. 3, 2020) (denying motion to dismiss under 12(b)(6) FDA’s complaint
+for forfeiture of dietary supplements containing kratom). The one case Botanic Tonic
+cites in which a court granted a motion to dismiss a forfeiture complaint, United
+
+8
+
+Botanic Tonics makes several other arguments that have no bearing on whether the
+Complaint meets Rule G’s or Rule 12(b)(6)’s pleading standards. For example,
+Botanic Tonics argues that FDA should provide evidence of testing samples of “Feel
+Free” products that FDA purchased in advance of the second inspection and
+subsequent seizure. (Dkt. 12 at 4). Similarly, Botanic Tonics argues that the United
+States should have explained the basis for its emergency ex parte order, (id. at 4), and
+why FDA did not seek to use its administrative detention authority before executing
+the seizure. (id. at 11). These arguments are irrelevant to whether the complaint
+satisfies Rule G.
+10
+
+Case 4:23-cv-00168-JFH-CDL Document 20 Filed in USDC ND/OK on 06/07/23 Page 11 of 12
+
+States v. One Gulfstream G-V Jet Aircraft, is inapposite because the court’s dismissal was
+for failure to allege sufficient facts that connected the seized good (a jet) to the
+alleged illicit activity (extortion, misappropriation, theft, or embezzlement of public
+funds by a public official). 941 F. Supp. 2d at 5, 14. In contrast, the Complaint does
+not involve property allegedly subject to forfeiture because it is “traceable” to
+unlawful activity; instead, the Complaint alleges that the seized kratom articles are
+themselves unlawful and subject to forfeiture under 21 U.S.C. § 334(a) because the
+articles are adulterated dietary supplements and bulk dietary ingredients. Complaint
+¶¶ 15-18.
+III.
+
+CONCLUSION
+
+Because the Complaint clearly meets the Rule G(2)(f) pleading standard,
+especially when viewed, as required, in the light most favorable to the United States,
+the United States respectfully requests that the court deny Botanic Tonics’ motion to
+dismiss the Complaint.
+DATED: June 7, 2023.
+RESPECTFULLY SUBMITTED,
+CLINTON J. JOHNSON
+UNITED STATES ATTORNEY
+By: /s/ Kristin F. Harrington
+KRISTIN F. HARRINGTON, OBA No. 21185
+Assistant United States Attorney
+110 West 7th Street, Suite 300
+Tulsa, Oklahoma 74119
+T: (918) 382-2785 | F: (918) 560-7938
+Email: Kristin.Harrington@usdoj.gov
+11
+
+Case 4:23-cv-00168-JFH-CDL Document 20 Filed in USDC ND/OK on 06/07/23 Page 12 of 12
+
+OF COUNSEL:
+MARK RAZA
+Chief Counsel
+PERHAM GORJI
+Deputy Chief Counsel, Litigation
+SETH I. HELLER
+Associate Chief Counsel
+Office of the Chief Counsel
+U.S. Food and Drug Administration
+10903 New Hampshire Ave.
+White Oak 31
+Silver Spring, MD 20993-0002
+
+Certificate of Service
+I hereby certify that on the 7th day of June, 2023, I electronically transmitted the
+foregoing document to the Clerk of Court using the ECF System for filing and
+transmittal of a Notice of Electronic Filing to the following ECF recipient:
+John D. Russell
+Jrussell@gablelaw.com
+
+/s/ Shawna Carter
+Shawna Carter
+Paralegal Specialist
+
+12
+
+

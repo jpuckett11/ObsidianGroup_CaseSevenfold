@@ -304,6 +304,45 @@ themselves. Applied to **42.4 million untreated**, the response has been to sche
 one molecule at a time, **managing the consequences of the abandonment rather than
 ending it.** Also added to the README.
 
+**2026-08-29 — Finding 37: the company sued the Utah agency that later warned the
+public about a death.** **[P]** *Botanic Tonics, LLC v. Kelly Pherson*, 2:26-cv-267
+(D. Utah). **Botanic Tonics and the Global Kratom Coalition sued four Utah officials**
+to block Utah's Kratom Regulation Act: **Kelly Pherson, Commissioner of the Utah
+Department of Agriculture and Food**, his deputy **Amber Brown**, division director
+**Bradon Forsyth**, and **Attorney General Derek Brown**. Filed 31 March 2026.
+**That is the same department that, on 30 July 2026, warned the public about
+mislabeled Buzzers Cat's Claw tablets in the matter where a Utah County death was
+reported** (Finding 29). Judge Howard C. Nielson Jr. **DENIED the injunction on 4 May
+2026**, holding that "the historic police powers of the States were not to be
+superseded." **A state may regulate this category more tightly than the federal
+government does.** The filings also show *feel free* in **321 Utah stores** with a deal
+for **852 more nationwide**, and that it is reached because it is a combination
+product: "feel free plainly does not qualify as pure leaf kratom because it is mixed
+with kava root." The industry also argued against scheduling **mitragynine
+pseudoindoxyl**, one of the four compounds Utah Poison Control named in July.
+**Botanic Tonics is plaintiff in at least eight federal actions**, including a
+**42 U.S.C. 1983** suit against **West Virginia Agriculture Commissioner Kent
+Leonhardt**, and the Utah appeal is live at the Tenth Circuit. **[I]** The line the
+federal rule drew in July is the line the company had been litigating for since March.
+
+**2026-08-29 — Finding 36: the government won, then walked away twelve days later.**
+CourtListener opened up and produced the primary document `FINDING_03` had recorded as
+blocked. **[P] On 10 December 2025 the court DENIED Botanic Tonics' motion to dismiss**
+the forfeiture action, holding that *"the Amended Complaint survives"* and that the
+facts *"support a reasonable belief that, if proven, the Government would be able to
+successfully meet its burden."* Gelpí, Circuit Judge, sitting by designation. That
+motion had been pending **two years and seven months**. **[S] Twelve days later, on 22
+December 2025, the government filed a Notice of Dismissal without prejudice** — sourced
+only to the claimant's own press release, and labelled as such. **[P] And the operative
+amended complaint alleges what nobody in this case had seen: the United States told a
+federal court that KRATOM ITSELF, the leaf, was "adulterated within the meaning of 21
+U.S.C. 342(f)(1)(B)"**, citing *"addiction, and liver toxicity."* Not 7-OH. The seized
+articles were 250,000 bottles of feel free, capsules, and bulk leaf powder. **The
+company then announced the dismissal as regulators recognising leaf versus synthetic,
+and six months later the federal rule drew exactly that line.** This complicates our own
+thesis and the finding says so: the failure here is not that the government did not act.
+It acted, prevailed, and abandoned it. Exhibits hashed in `exhibits/litigation/`.
+
 **2026-08-28 — Finding 35: the cap was real, and the agency blamed for it said it
 never imposed it.** Contingency management is the one SUD treatment with a
 dose-response curve. A federal limit held it at **$15 per incentive, $75 per patient
