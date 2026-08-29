@@ -304,6 +304,30 @@ themselves. Applied to **42.4 million untreated**, the response has been to sche
 one molecule at a time, **managing the consequences of the abandonment rather than
 ending it.** Also added to the README.
 
+**2026-08-29, Finding 48: Utah DID pay for its kratom law. $1,905,400 a year, to crime
+labs, prisons, parole and courts.** **[P]** Utah H.B. 3 (2026), Enrolled Copy.
+**Corrects Finding 43**, which said Utah regulated the molecule for free. The kratom
+bill appropriates nothing; **the general appropriations act contains eight line items
+each tagged "To implement the provisions of Kratom Adjustments (Senate Bill 45, 2026
+General Session)."** Where it went: **Adult Probation and Parole $915,000**, **Prison
+Operations $684,000**, **District Courts $286,800**, Board of Pardons and Parole
+$13,600, **State Crime Labs $6,000 ongoing plus $360,000 one-time**. **Ongoing General
+Fund to justice agencies: $1,905,400.** And the **Department of Agriculture and Food,
+which actually runs the registry, was cut $120,600.** **Set that against Finding 43:
+Utah's proposed FY27 appropriation for ALL opioid remediation is $1,600,000.** **Utah
+budgeted more recurring money to police, imprison, supervise and prosecute around one
+kratom statute than it budgeted for its entire opioid remediation programme. 1.19 to
+1.** The largest single line, **$915,000, supervises people after conviction.** From
+the same session, H.B. 8 sets what the state charges: **Kratom Product Registration
+$475**, **Alkaloid Potency Testing $141**, pesticide $194, heavy metal $134, mycotoxin
+$158. **The state charges $141 to test potency and cut the department that does the
+testing.** **[I] Finding 42 with the general ledger attached: Utah did not decline to
+spend, it spent $1.9M a year on probation officers, prison beds, courtrooms and a crime
+lab.** **Method note: this was found because Open States indexes bill TEXT, so
+appropriations acts surface on a kratom search. The budget sweep the investigator asked
+for is now tractable, and Findings 44 and 46 should be treated as incomplete until the
+same check is run for Tennessee and West Virginia.**
+
 **2026-08-29, Finding 47: only one company in America has to disclose anything about
 7-OH, and the question is now before the Sixth Circuit.** **[P]** SEC full-text search
 with a positive control, plus federal dockets. Collects the threads left open by

@@ -21,6 +21,16 @@ Finding 42 was an assertion.
 control alert of 22 July 2026, the Utah County death of 30 July, the litigation in
 Findings 37 and 41.
 
+> **CORRECTED 2026-08-29 by Finding 48.** This section is accurate about the kratom
+> bill and **incomplete about the state.** S.B. 45 appropriates nothing, but Utah's
+> general appropriations act, **H.B. 3**, contains **eight line items** funding S.B. 45
+> to the tune of **$1,905,400 in ongoing General Fund money**, all of it to **crime
+> labs, prison operations, adult probation and parole, the Board of Pardons and Parole,
+> and the district courts**, while cutting the Department of Agriculture and Food by
+> **$120,600**. **Utah did not regulate the molecule for free. It funded it through the
+> justice system.** The conclusion of this finding survives and gets worse; see
+> **Finding 48**.
+
 ## 2. The kratom side [P]
 
 **S.B. 45, "Kratom Adjustments," 2026 General Session, signed 26 March 2026.**
