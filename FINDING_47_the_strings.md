@@ -63,6 +63,43 @@ obtained.
 
 **The reasoning underneath Ohio's injunction is on appeal.**
 
+**Nature of suit, from the docket: 3950, Constitutional, State Statute.**
+
+### The parties, pulled 2026-08-29 [P]
+
+**Twelve parties. The State is appealing, which means the State lost below.**
+
+**Appellants:**
+
+> **STATE OF OHIO**
+> **BETH A. TISCHLER**
+
+**Appellees, ten of them, represented by Andrew R. Mayle:**
+
+| Entity | Trading as |
+|---|---|
+| TITAN LOGISTICS GROUP LLC | **420 Beverage** and **Your Highness** |
+| PRECISION FILL AND PACK LLC | **Mellow Fellow** |
+| KNOW NATURALS LLC | **Slightly Elevated** |
+| IHC INVESTMENTS, INC. | **The Hemp Collect** |
+| JSZN LLC | **Muffins** |
+| APP GIRLS LLC | **Appalachian Girls** |
+| GRAYSCALE BREWING, LLC | |
+| SAUCY SELTZER LLC | |
+| HOPPORTUNITY HOLDING COMPANY LLC | |
+| MODERN DISTRIBUTION, LLC | |
+
+**Read the trading names.** 420 Beverage, Your Highness, Mellow Fellow, Slightly
+Elevated, The Hemp Collect, alongside a brewery and a seltzer company. **This is a
+hemp and intoxicating-beverage case on its face**, which independently confirms the
+correction Finding 41 made after Finding 40 wrongly folded these into a kratom
+playbook. **The party list alone would have caught that error.**
+
+**And note who is NOT here.** Lifted Liquids is a plaintiff in *Delta Beverages v.
+Canepa*, the SB 56 case (Finding 41), **not in this one.** *Titan Logistics* is the
+earlier, separate action whose reasoning Judge Helmick then relied on. **Two distinct
+cases before the same judge; only the first is on appeal.**
+
 **Why that matters well beyond Ohio.** The Sixth Circuit covers **Ohio, Michigan,
 Kentucky and Tennessee.** A ruling there on how far a state may go in regulating these
 products would be binding law in **the state that banned kratom outright** (Finding 44).

@@ -451,7 +451,18 @@ tablets owes the public no accounting at all, and neither does the one selling a
 product called Dopium. That is a structural answer, not a research failure.** **The
 Ohio precedent is now on appeal.** *Titan Logistics Group LLC v. Tischler*,
 3:26-cv-01300 (N.D. Ohio), the decision Judge Helmick relied on for the hemp TRO, is
-before the **Sixth Circuit as 26-3648**, docketed 21 July 2026. **The Sixth Circuit
+before the **Sixth Circuit as 26-3648**, docketed 21 July 2026, **nature of suit 3950,
+Constitutional State Statute.** **Parties pulled 2026-08-29: the STATE OF OHIO and
+BETH A. TISCHLER are the appellants, so the State lost below and is appealing.** Ten
+appellees, all represented by Andrew R. Mayle: **Titan Logistics (dba 420 Beverage and
+Your Highness), Precision Fill and Pack (Mellow Fellow), Know Naturals (Slightly
+Elevated), IHC Investments (The Hemp Collect), JSZN (Muffins), App Girls (Appalachian
+Girls), Grayscale Brewing, Saucy Seltzer, Hopportunity Holding, and Modern
+Distribution.** **The trading names alone establish this is a hemp and
+intoxicating-beverage case**, which independently confirms the Finding 41 correction:
+the party list would have caught the error Finding 40 made. **Lifted Liquids is not a
+party here** - it is in *Delta Beverages v. Canepa*, the separate SB 56 case. Two
+actions before the same judge; only the earlier one is on appeal. **The Sixth Circuit
 covers Ohio, Michigan, Kentucky and Tennessee**, so a ruling on state authority over
 these products would be binding in **the state that banned kratom outright** (F44).
 Flagged carefully as inference: these are hemp cases and F41 was corrected once for
