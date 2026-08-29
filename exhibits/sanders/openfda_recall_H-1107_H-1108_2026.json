@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-08-19",
+    "results": {
+      "skip": 0,
+      "limit": 5,
+      "total": 2
+    }
+  },
+  "results": [
+    {
+      "status": "Ongoing",
+      "city": "North Kansas City",
+      "state": "MO",
+      "country": "United States",
+      "classification": "Class I",
+      "openfda": {},
+      "product_type": "Food",
+      "event_id": "98420",
+      "recalling_firm": "Shaman Botanicals, LLC",
+      "address_1": "1501 Iron St",
+      "address_2": "N/A",
+      "postal_code": "64116-3808",
+      "voluntary_mandated": "Voluntary: Firm initiated",
+      "initial_firm_notification": "Press Release",
+      "distribution_pattern": "Firm has provided the following information: 14 wholesalers, 108 Distributors, 46 Company-owned stores, 2202 online customers",
+      "recall_number": "H-1108-2026",
+      "product_description": "Product label reads in part as \"WHITE VEIN ADVANCED ALKALOIDS CHEWABLE TABLETS 225mg 7-Hydroxymitragynine per container (7.5mg 7-OH per serving) LEMON DIETARY SUPPLEMENT Net Wt. 0.25 oz 30 TABLETS Supplement Facts 7-hydroxymitragynine 7.5 mg MANUFACTURED BY: Konig Products, LLC 30 N Gould Street, Suite R, Sheridan, WY 82801\"; Packaging: White child-resistant plastic bottle with sticker label applied  UPC 810057763779 (sometimes proceeded by 00)",
+      "product_quantity": "97,063 units",
+      "reason_for_recall": "A sample of the product revealed the active ingredient is in a quantity greater than the labeled specification.",
+      "recall_initiation_date": "20260213",
+      "center_classification_date": "20260624",
+      "report_date": "20260325",
+      "code_info": "B#AAW.501.3; all expiration dates",
+      "more_code_info": ""
+    },
+    {
+      "status": "Ongoing",
+      "city": "North Kansas City",
+      "state": "MO",
+      "country": "United States",
+      "classification": "Class I",
+      "openfda": {},
+      "product_type": "Food",
+      "event_id": "98420",
+      "recalling_firm": "Shaman Botanicals, LLC",
+      "address_1": "1501 Iron St",
+      "address_2": "N/A",
+      "postal_code": "64116-3808",
+      "voluntary_mandated": "Voluntary: Firm initiated",
+      "initial_firm_notification": "Press Release",
+      "distribution_pattern": "Firm has provided the following information: 14 wholesalers, 108 Distributors, 46 Company-owned stores, 2202 online customers",
+      "recall_number": "H-1107-2026",
+      "product_description": "Product label reads in part as \"WHITE VEIN ADVANCED ALKALOIDS CHEWABLE TABLETS 15mg 7-Hydroxymitragynine per container (7.5mg 7-OH per serving) LEMON DIETARY SUPPLEMENT Net Wt. 0.02 oz 2 TABLETS Supplement Facts 7-hydroxymitragynine 7.5 mg MANUFACTURED BY: Konig Products, LLC 30 N Gould Street, Suite R, Sheridan, WY 82801\"; Packaging: Sealed silver metallic bag with a front and back sticker for the labels;   Product label reads in part as \"WHITE VEIN ADVANCED ALKALOIDS CHEWABLE TABLETS 150mg total 7-Hydroxymitragynine per container (10 Packets x 2 Tablets Each) 7.5mg 7-OH per tablet/serving, LEMON DIETARY SUPPLEMENT Net Wt. 0.17 oz 10 PACKETS 2 TABLETS EACH Supplement Facts 7-hydroxymitragynine 7.5 mg MANUFACTURED BY: Konig Products, LLC 30 N Gould Street, Suite R, Sheridan, WY 82801\"; Packaging: Sealed black flexible plastic bag with multi color sticker label on front and back   UPC 810057763724",
+      "product_quantity": "2 pack: 1281 units; 20-count: 14,491 units",
+      "reason_for_recall": "A sample of the product had the active ingredient in a quantity greater than the labeled specification.",
+      "recall_initiation_date": "20260213",
+      "center_classification_date": "20260624",
+      "report_date": "20260325",
+      "code_info": "B#AAW.501.3; all expiration dates",
+      "more_code_info": ""
+    }
+  ]
+}
