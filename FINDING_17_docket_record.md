@@ -1,5 +1,5 @@
 # SEVENFOLD / FINDING 17
-## The docket itself: 26,882 comments, and the extension question answered
+## The docket itself: 26,882 comments as at 2026-08-27, and the extension question answered
 
 **Status:** CONFIRMED from regulations.gov API primaries, retrieved 2026-08-27
 with an authorised key. **Date:** 2026-08-27.
@@ -68,7 +68,12 @@ either comment alone.**
 
 ### 3. The scale of the docket
 
-**26,882 comments.** Full-text search across them:
+**26,882 comments as at 2026-08-27.** **The docket is live and this figure is a
+snapshot, not a constant.** It stood at **27,053 on 2026-08-29** (Finding 26). Both
+are correct as of their dates. Any figure quoted from this docket should carry the
+date it was taken.
+
+Full-text search across them:
 
 | Term appears in | Comments |
 |---|---|

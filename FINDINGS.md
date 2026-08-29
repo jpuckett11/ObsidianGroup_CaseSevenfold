@@ -347,7 +347,8 @@ occupation and that **the gap in the literature is a funding gap, not a finding.
 
 **2026-08-29 — `REMEDIATION.md` given the scale, from the government's own survey.**
 2024 NSDUH: **48.4M** with a substance use disorder, **52.6M** needed treatment,
-**10.2M** received it. **42.4 million did not, 80.6%** — larger than the population
+**10.2M** received it. Of the 10.2M, **4.2M had no disorder**, so only **6.0M with a
+disorder were treated** and **42.4 million received nothing — 87.6%**. Larger than the population
 of California. And 48.4M is an undercount by construction: SAMHSA's own notes say
 the measures "do not capture disorders arising solely from the use of **IMF**",
 illegally made fentanyl, and it is a household survey that structurally misses the
