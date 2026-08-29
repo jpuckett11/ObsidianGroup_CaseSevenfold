@@ -304,6 +304,32 @@ themselves. Applied to **42.4 million untreated**, the response has been to sche
 one molecule at a time, **managing the consequences of the abandonment rather than
 ending it.** Also added to the README.
 
+**2026-08-29, Finding 43: Utah answered it. Same session, molecule regulated for free,
+treatment cut by three quarters.** **[P]** from le.utah.gov. Finding 42 named this as
+its decisive unresolved question and Utah is the file's best-documented state.
+**S.B. 45 "Kratom Adjustments", signed 26 March 2026: "Money Appropriated in this
+Bill: None," and the word "treatment" appears zero times** (kratom appears 93, so the
+control works). H.B. 387 identical. **A regulatory bill not appropriating proves
+nothing, so we checked the budget.** In FY24 Utah appropriated **$7,061,033 ongoing**
+to opioid remediation and **it expires at the end of FY26**. The expiring programmes:
+PATH treatment for pregnant individuals **$933,333**, ED/urgent care MOUD induction
+**$1,200,000**, **MOUD in jails $1,000,000** which the state's own document says has
+**"no other funding"**, FQHC OUD treatment access **$1,300,000**, prevention
+**$2,627,700**. Total **$6,161,003**. Proposed replacement: **$1,600,000**. A **74
+percent** cut. On **5 March 2026** the Executive Appropriations Committee **rescinded**
+grants of **$150,000 to Fit to Recover** and **$100,000 to the School of Addiction
+Recovery**, and cut **Jacky's Recovery Support Services from $269,900 to $100,000**,
+**$419,900 removed from three recovery organisations in one sitting**. And the money is
+not gone but locked: **$543 million over 17 years**, with HB 10 (2025) restricting
+future spending to **interest only**. **The steelman is stated in the finding:** an
+endowment is a defensible design. **What it does is fund a person in 2041 and not the
+one in the jail programme now.** Chronology is stated precisely because the cuts came
+**before** the July poison control alert and death, and **no causal claim is made.**
+Corrects Finding 42 in one direction too: **Utah does fund treatment**, just less of it,
+in the same months it regulated a product for nothing and won a federal lawsuit about
+it. One state; twelve to seventeen other KCPA states unchecked, and the method now
+takes an hour.
+
 **2026-08-29, Finding 42: every government in this file acted on the molecule. None of
 them acted on a person.** **[I] SYNTHESIS**, no new primary evidence, built on Findings
 32, 34, 35, 36, 37, 39 and 41. **Drafted to complicate the reading that representatives

@@ -178,10 +178,17 @@ better: dozens of legislatures found the time to regulate the substance.** This 
 contains **no instance, at any level, of a corresponding measure funding treatment for
 the people using it.**
 
-**That absence is not proven, and it is the gap that matters most.** We have not
-searched for state treatment appropriations tied to these bills. **If a state passed a
-KCPA and funded treatment in the same session, that is the single most important
-missing fact in this finding**, and it would qualify section 3 substantially.
+**ANSWERED 2026-08-29 for one state. See Finding 43.** Utah's enacted kratom bill,
+S.B. 45, states **"Money Appropriated in this Bill: None"** and never uses the word
+"treatment." In the same session, **$6,161,003** of opioid treatment programmes were
+allowed to expire against a **$1,600,000** replacement, **$419,900** was rescinded or
+cut from three named recovery organisations on 5 March 2026, and the **$543 million**
+settlement principal had been locked the previous session so only interest may be
+spent. **Utah does fund treatment. It funded less of it in the same months it
+regulated the molecule for nothing and won a federal lawsuit about it.**
+
+**The hedge is closed for Utah and remains open for the other KCPA states**, which is
+Finding 43 section 9.
 - **We do not know why the federal action took the shape it did.** Cost is our
   inference. Jurisdictional limits, agency capacity, the FDCA's structure, and ordinary
   bureaucratic lag are all available explanations and none has been excluded.
