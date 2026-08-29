@@ -1,5 +1,5 @@
 # SEVENFOLD / FINDING 40
-## Four states, two companies, one playbook. And a public filing that prices the stake at half of revenue.
+## A public filing prices the stake at half of revenue, and warns of bankruptcy
 
 **Status:** CONFIRMED **[P]** from an SEC quarterly report filed 14 August 2026,
 obtained and hashed.
@@ -54,98 +54,48 @@ identified in the death reported on 30 July 2026 (Finding 29). Mitragynine
 pseudoindoxyl is the compound the industry argued against scheduling in the Utah
 litigation (Finding 37 §5).
 
-## 4. CORRECTION, 2026-08-29, before anything else in this section
+## 4. CORRECTED. See Finding 41.
 
-**Section 4 as originally written claimed a playbook "in four states." That was
-wrong and the error was ours.**
+**This section originally claimed a playbook "in four states." That was wrong and the
+error was ours.** The Missouri and Ohio complaints were pulled and read on 2026-08-29.
+**Neither is a kratom case:** Missouri HB 2641 is hemp (kratom 0 hits, hemp 189), and
+the Ohio SB 56 TRO order is intoxicating hemp (kratom 0 hits).
 
-The Missouri and Ohio complaints were pulled and read on 2026-08-29. **Neither is a
-kratom case.**
+**How it happened.** The LFTD 10-Q lists these actions in one litigation note without
+separating product lines. This finding read them into the kratom pattern and published
+before opening the pleadings. **That is an inference presented as a finding, and it is
+the same failure recorded in Finding 36 section 8 earlier the same day.**
 
-| Case | "kratom" hits | "hemp" hits | Actually about |
-|---|---|---|---|
-| *Mohemp Trade Association v. Kehoe*, W.D. Mo. | **0** | **189** | Missouri HB 2641, **hemp** |
-| *Delta Beverages v. Canepa*, N.D. Ohio (TRO order) | **0** | 16 | Ohio SB 56, **intoxicating hemp** |
-
-Missouri's complaint says so in its first line: HB 2641 "attempts to restrict and
-regulate the production and sale of **hemp and hemp products**."
-
-**How the error happened, recorded because this case records them.** The LFTD 10-Q
-lists these actions in its litigation note without separating product lines. This
-finding read them as part of the kratom pattern and did not check the underlying
-pleadings before publishing. **That is an inference presented as a finding, and it is
-the same failure recorded in Finding 36 section 8 eight hours earlier.**
-
-## 4a. What the record actually supports
-
-**The kratom playbook is two states, both brought by Botanic Tonics:**
+**What the record supports.** The kratom suits are **two**, both brought by Botanic
+Tonics:
 
 | Filed | Plaintiff | Defendants | Target |
 |---|---|---|---|
 | **2025-11-19** | Botanic Tonics | **Kent Leonhardt**, WV Agriculture Commissioner, **in his individual capacity** | WVDA registration refusal |
 | **2026-03-31** | Botanic Tonics **+ Global Kratom Coalition** | **Kelly Pherson**, **Amber Brown**, **Bradon Forsyth**, **AG Derek Brown** | Utah Kratom Regulation Act |
 
-**And a separate, genuinely interesting fact rather than the one we claimed.** The
-*same legal theory* is being run by a *different* company in two more states on an
-*adjacent* product:
+**Lifted Liquids runs the same legal theory in Missouri and Ohio on hemp**, which shows
+the tool is industry-standard across intoxicant categories rather than specific to
+kratom. **That is a weaker claim than the one made here originally.**
 
-| Filed | Plaintiffs | Defendants | Target |
-|---|---|---|---|
-| **2026-07-16** | **Lifted Liquids** + MoHemp Trade Association + MNG 2005 | **Gov. Mike Kehoe**, **AG Catherine Hanaway**, **Sarah Wilson**, Director, Missouri DHSS, all in official capacity | Missouri **HB 2641**, hemp |
-| **2026-07-30** | **Lifted Liquids** + 13 others incl. **Great Lakes Brewing Company** | **Jim Canepa** and what appears to be **most of Ohio's county prosecutors**, dozens of named defendants | Ohio **SB 56**, hemp |
-
-**The theories match across all four:** preemption, Dormant Commerce Clause,
-vagueness under Due Process. **What this shows is not a kratom conspiracy across four
-states. It is that preemption litigation against state officials is the standard
-industry tool across intoxicant categories, and the same company runs it on both its
-product lines.** That is a weaker claim than the one we made and it is the one the
-documents support.
-
-## 4b. And the outcome differs, which is the part worth keeping [P]
-
-**Utah, kratom, 4 May 2026: preliminary injunction DENIED** on state police powers
-(Finding 37).
-
-**Ohio, hemp, 7 August 2026: temporary restraining order GRANTED.** Judge Jeffrey J.
-Helmick denied the State of Ohio's motion to stay and granted the TRO. **It was
-extended on 19 August to 4 September 2026**, with preliminary-injunction responses due
-26 August.
-
-**As of this writing an Ohio statute is enjoined and a Utah statute is not.** Same
-theory, two products, two results, four months apart. **Whether that difference is
-about hemp versus kratom, about the Farm Bill's express federal definition of hemp
-having no kratom equivalent, or about the two courts, is not established here and is
-worth someone establishing.**
-
-
-
-The same filing discloses that this company is suing states too. Set against Findings
-37 and 38, the shape is unmistakable:
-
-| Filed | Plaintiff | Defendants | Target |
-|---|---|---|---|
-| **2025-11-19** | Botanic Tonics | **Kent Leonhardt**, WV Agriculture Commissioner, **in his individual capacity** | WVDA registration refusal |
-| **2026-03-31** | Botanic Tonics **+ Global Kratom Coalition** | **Kelly Pherson**, **Amber Brown**, **Bradon Forsyth** (Utah Ag and Food), **AG Derek Brown** | Utah Kratom Regulation Act |
-| **2026-07-16** | **Lifted Liquids** + MoHemp Trade Association + MNG 2005 | **Gov. Mike Kehoe**, **AG Catherine Hanaway**, **Sarah Wilson**, Director, Missouri Dept of Health and Senior Services | Missouri **HB 2641** |
-| **2026-07-30** | Lifted and others (*Delta Beverages v. Canepa*) | Ohio officials | Ohio **SB 56** |
-
-**The legal theories repeat almost word for word.** Missouri, per the filing:
-
-> "certain provisions of the statute are **preempted by federal law**, violate the
-> **Dormant Commerce Clause**, and are **unconstitutionally vague** under the Due
-> Process Clause."
-
-Compare Finding 38's West Virginia complaint: Dormant Commerce Clause, Supremacy
-Clause, Due Process. Compare Finding 37's Utah case: preemption, denied on state
-police powers.
-
-**Two different companies, four states, one argument: that federal law occupies the
-field and states may not go further.**
+**The correction produced something better than what it removed.** Reading those two
+documents showed that the industry is not winning on preemption at all. It is winning
+where states wrote **in-state-only** licensing clauses into their statutes, and losing
+where they did not. **That is Finding 41, and it is the most directly useful thing in
+this case file for a state official.**
 
 ## 5. Why that argument is the whole case in one sentence
 
 **The industry is asking federal courts to hold that the federal line is the only line
 that may be drawn.**
+
+> **Qualified by Finding 41.** That is what the industry *argues*. It is not what has
+> been *winning*. In Ohio the court decided on Commerce Clause discrimination and said
+> expressly that "absent discrimination, a State may exclude from its territory, or
+> prohibit the sale therein." **The preemption theory has not carried a decision in
+> either the kratom or the hemp cases so far.** What follows in this section is
+> therefore the stake if the argument ever succeeds, not a description of what has
+> happened.
 
 Finding 37 recorded the answer a federal judge gave in Utah on 4 May 2026: *"the
 historic police powers of the States were not to be superseded."*
@@ -163,7 +113,8 @@ concert.**
 
 ## 6. The officials being sued
 
-Across four states: an **Agriculture Commissioner sued personally for damages**, a
+Across the four actions set out in section 4 and Finding 41, **two on kratom and two on
+hemp**: an **Agriculture Commissioner sued personally for damages**, a
 **Governor**, two **Attorneys General**, a **Director of Health and Senior Services**,
 a state **Agriculture Commissioner and Deputy**, and a **division director who runs
 the product registry**.
@@ -280,8 +231,9 @@ LFTD Partners is one registrant, not the sector.
 
 **But it is the wrong picture to leave uncorrected**, and it explains something the
 simpler story does not. **A company with negative gross profit, a $34 million
-accumulated deficit and a written bankruptcy warning, suing four states on
-constitutional theories, is not acting from strength.** It is a business whose product
+accumulated deficit and a written bankruptcy warning, litigating against state
+officials in two states while its industry does the same in others, is not acting from
+strength.** It is a business whose product
 line is being closed off from several directions at once, litigating because the
 alternative is winding up.
 

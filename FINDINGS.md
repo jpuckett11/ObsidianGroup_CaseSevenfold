@@ -304,8 +304,27 @@ themselves. Applied to **42.4 million untreated**, the response has been to sche
 one molecule at a time, **managing the consequences of the abandonment rather than
 ending it.** Also added to the README.
 
-**2026-08-29, Finding 40: four states, two companies, one playbook, and a public
-filing that prices the stake at half of revenue.** **[P]** LFTD Partners Inc. (ticker
+**2026-08-29, Finding 41: the industry is not winning on preemption. It is winning
+where states wrote protectionist laws.** **[P]** Ohio TRO order and Missouri complaint,
+obtained and hashed. **Neither case is about kratom** (Missouri: kratom 0, hemp 189;
+Ohio TRO: kratom 0). They are in this file because **Lifted Liquids is a plaintiff in
+both**, the same company behind the Roxy 7-OH tablets in Finding 39. **Ohio SB 56 let a
+company hold a licence only if its products were "sourced, manufactured, and
+distributed solely within Ohio."** Judge Jeffrey J. Helmick granted a TRO on **7 August
+2026**, extended 19 August to **4 September**, on Commerce Clause discrimination, and
+stated the governing rule: **"absent discrimination, a State may exclude from its
+territory, or prohibit the sale therein."** Ohio's brief **"does not substantively
+respond"** to the motion. **Missouri HB 2641 has the identical defect**, products legal
+"only if such products are grown and manufactured entirely in Missouri." **Set against
+Utah, which banned combination products for everyone, wrote nothing about where they
+are made, and WON on state police powers (Finding 37).** **[I] The recommendation this
+finding exists to make: a state should restrict the product on its terms and write
+nothing about where it is made. The in-state licensing clause is not the price of
+protecting the public, it is the thing that loses the case.** Worth more to the
+officials being sued than anything else here.
+
+**2026-08-29, Finding 40: a public filing prices the stake at half of revenue, and
+warns of bankruptcy.** **[P]** LFTD Partners Inc. (ticker
 **LIFD**, CIK 0001391135) is the parent of **Lifted Made**, the registrant behind the
 **Roxy** 7-OH tablets on West Virginia's list (Finding 39). Because it is public, it
 must disclose. Its **Form 10-Q filed 14 August 2026** says the scheduling proposals
@@ -345,7 +364,8 @@ and the filing states in terms that "**Bankruptcy of the Company at some point i
 future is a possibility.**" Non-hemp products, the segment containing kratom, are
 **$9,137,589 or 51%** of H1 sales and **grew** as a share while hemp fell, though
 non-hemp is not a synonym for kratom-derived and the finding says so. **[I] A company
-with negative gross profit and a written bankruptcy warning, suing four states, is not
+with negative gross profit and a written bankruptcy warning, litigating against state
+officials, is not
 acting from strength.** Desperation explains the litigation volume at least as well as
 confidence does, and **this case should stop implying the second without evidence.**
 It sharpens rather than blunts the public-health point: a distressed seller with
