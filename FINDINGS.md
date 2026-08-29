@@ -1010,7 +1010,16 @@ agency review and posting. Comment period closes 2026-09-10.
 - [ ] Obtain the **Wyden letters** themselves, all three
 - [ ] Re-capture the five **blocked sources** (DEA, Public Citizen x2, congress.gov, Missouri Independent) via an alternate path
 - [ ] Determine whether Botanic Tonics itself sells any product above the 0.05% line
-- [ ] **Wyoming SOS: Konig Products LLC and Konig Kratom LLC.** Registration date, officers, organiser. The label names Konig as manufacturer and no enforcement action has reached it
+- [ ] **Konig Products LLC: routes that are not Wyoming SOS.** **Wyoming does not
+  disclose LLC members or managers and the SOS record will not name an owner.** It
+  yields only registered agent, filing date, status and principal office, and the
+  Sheridan address is a mass-domicile agent suite, so the agent is not a person of
+  interest either. **Do not spend effort there expecting principals.** The two routes
+  that can actually pierce it: **(a)** the **USPTO file wrapper for mark 99149373**,
+  because a trademark application carries a declaration signed by a named natural
+  person with a title, and **(b)** an **FDA FOIA for the recall file** behind
+  H-1107/H-1108-2026, which should contain the firm's own correspondence and its
+  food facility registration. FDA dealt with somebody at Konig by name
 - [ ] **USPTO TSDR primary for trademark 99149373 (KONIG PRODUCTS)**, filed 2025-04-22. Confirm owner and whether the basis is intent-to-use
 - [ ] **FDA NDI 1448 receipt date, not the posted date.** Finding 53 s7 cannot assert the post-ruling filing inference without it
 - [ ] **Thang Botanicals warning letter.** Retry over curl with a browser user agent, not WebFetch. Needed to confirm the Mitchell patent identity in Finding 07
