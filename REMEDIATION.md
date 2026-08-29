@@ -687,6 +687,37 @@ anyone's ethics:
 tracing ends, and it is a structure Congress built and maintains. Nobody broke a
 rule to use it. **The rules are the mechanism.**
 
+### Congress did act. It removed the barrier everyone named, and nothing moved.
+
+**The Mainstreaming Addiction Treatment Act eliminated the X-waiver** — the separate
+DEA registration a clinician needed before prescribing buprenorphine, and the barrier
+the field named for a decade. **This document credits that. It was a real act and
+advocates had asked for it for years.**
+
+Two evaluations found no effect:
+
+> "**No differences in either the level or trend of buprenorphine prescribers were
+> found**" after federal elimination, and removing statutory X-waiver references is
+> "**unlikely to expand access because structural barriers persist**."
+> *Am. J. Prev. Med.* 2026, DOI 10.1016/j.amepre.2026.108508
+
+> "**There was no change in the total buprenorphine prescriptions per month.**"
+> *JACEP Open* 2025 (Massachusetts), DOI 10.1016/j.acepjo.2025.100246
+
+**[I] The barrier was never the waiver, and this reframes the whole document.**
+
+The failure is not refusal to act. **It is that the actions taken were the ones that
+cost nothing.** Repealing a registration requirement is free. Scheduling a molecule
+is free. Both were done. **Funding prescriber capacity, coverage past the taper, and
+contingency management at effective incentive levels costs money every year, forever,
+and has not been tried.**
+
+Meanwhile the probability of dying before 70 from drug use disorders is **rising** in
+high-income countries, against a global trend of falling premature mortality
+(*Lancet* GBD 2025, DOI 10.1016/S0140-6736(25)01917-8).
+
+Full working, and four things it does not claim, in `FINDING_34_what_congress_did.md`.
+
 ### The people elected to speak for them did not mention them
 
 On **18 March 2026** eleven United States Senators wrote to the FDA Commissioner
