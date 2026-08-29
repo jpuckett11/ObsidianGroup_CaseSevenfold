@@ -41,6 +41,7 @@ ordinary practice, not misconduct.
 | 2026-08-28 | **Sen. Marsha Blackburn (R-TN)** | Web form, two messages | **Submitted.** Confirmation page returned. **No tracking number is issued**, so there is no way for a constituent to reference the submission later |
 | 2026-08-28 | **Sen. Marsha Blackburn (R-TN)** | Phone, Nashville office (629) 800-6600 | **Directed to the web form.** No substantive engagement; a request to reach a policy staffer was not fulfilled. [S] researcher's contemporaneous account |
 | 2026-08-28 | **Death Row Records** | Web contact form, deathrowrecords.com/contact | Submitted. Confirmation page returned "Thanks, we'll be in touch. Your inquiry has been received." **No reference number issued**, so there is no way to follow up or prove what was sent. Asks whether the label would point people at the case file. No endorsement, no money, refusable in one line |
+| 2026-08-29 | **West Virginia Tax Division**, Disclosure Officer | Email to `TaxHelp@WV.Gov`, the address published on tax.wv.gov | **FOIA filed** under W. Va. Code 29B-1-3 for **aggregate receipts of the 11% kratom privilege tax** under 19-12F-7 (Finding 46, 49). Sent to the published general address rather than a guessed personal one, after the Tampa Bay Times bounces. Confirmed in Sent over IMAP, no bounce. **Pre-empts the obvious refusal**: cites 11-10-5d, disclaims any taxpayer-identifying data, and offers broader aggregation if small filer counts would expose a single firm |
 
 ---
 

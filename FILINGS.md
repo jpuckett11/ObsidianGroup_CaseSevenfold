@@ -532,6 +532,37 @@ account.**
 
 ---
 
+### 4. FOIA, West Virginia Tax Division, kratom privilege tax, **FILED 2026-08-29**
+
+| | |
+|---|---|
+| Statute | **W. Va. Code 29B-1-1 et seq.**, state FOIA, not federal |
+| To | `TaxHelp@WV.Gov`, attn Disclosure Officer, **published address** |
+| Text | `deliverables/foia/FOIA_03_WV_TAX_kratom_privilege_tax.txt` |
+| Status | **Sent, confirmed in Sent over IMAP, no bounce.** No tracking number is issued under WV FOIA |
+
+**What it asks:** aggregate receipts of the **11 percent privilege tax** under
+19-12F-7, the amount transferred into the **Agricultural Fees Fund**, the count of
+filers, any aggregate collections report, and the MOUs between the Tax Commissioner,
+Agriculture and the Alcohol Beverage Control Administration.
+
+**Why it should be hard to refuse.** It names **W. Va. Code 11-10-5d** itself, states
+that no return or return information is sought, and offers in advance to accept a
+broader level of aggregation if a small filer count would otherwise disclose the
+business of a single firm. **The fallback is a smaller true number rather than a
+denial.** It also names the Department of Agriculture and the State Treasurer as
+alternative custodians, so a wrong-custodian answer redirects rather than ends it.
+
+**What it would settle.** Finding 49 section 4 currently estimates the yield at
+**$756,000 to $1,162,000** by scaling national market figures, and says plainly that
+it is soft. This request replaces that entire section with a number, or establishes
+that the state does not compute one.
+
+**Backups if no response:** fax **304-558-8728**; post to The Revenue Center, 1001 Lee
+Street East, Charleston WV 25301; Disclosure Officer **Harry Yates, Esq., 304-558-5330**.
+
+---
+
 ## STANDING
 
 - Public case file: github.com/jpuckett11/ObsidianGroup_CaseSevenfold

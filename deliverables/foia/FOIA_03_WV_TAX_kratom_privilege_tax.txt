@@ -1,0 +1,122 @@
+Subject: FOIA request, W. Va. Code 29B-1-3: aggregate receipts of the kratom privilege tax under W. Va. Code 19-12F-7
+
+To:   West Virginia Tax Division
+      Attn: Disclosure Officer
+      The Revenue Center, 1001 Lee Street East
+      Charleston, WV 25301
+
+From: Jay Puckett, Principal Security Researcher
+      Obsidian Watch Group
+      jay.puckett@obsidianwatchgroup.com
+
+Date: 29 August 2026
+
+Re:   Request under the West Virginia Freedom of Information Act,
+      W. Va. Code 29B-1-1 et seq.
+
+Dear Disclosure Officer,
+
+This is a request under the West Virginia Freedom of Information Act, W. Va. Code
+29B-1-1 et seq. It is directed to the Tax Division as the custodian of the records
+described, per 29B-1-3(b).
+
+BACKGROUND
+
+W. Va. Code 19-12F-7(a) levies "a privilege tax equal to 11 percent of the retail
+sales price of kratom or kratom products sold during the reporting period." Subsection
+(f) provides that all money received from that tax "shall be deposited into the
+Agricultural Fees Fund created by 19-1-4c of this code." The tax is payable quarterly
+to the Tax Commissioner under 19-12F-7(c).
+
+RECORDS REQUESTED
+
+For each fiscal year, or each quarterly reporting period, from the first period in
+which the tax was collected through the most recent period for which figures are
+available:
+
+1. The total dollar amount of privilege tax collected under W. Va. Code 19-12F-7,
+   stated in aggregate.
+
+2. The total dollar amount of that revenue transferred or deposited into the
+   Agricultural Fees Fund under 19-12F-7(f).
+
+3. The number of taxpayers filing returns under 19-12F-7, stated as a count only.
+
+4. Any report, summary, dashboard or internal accounting prepared by the Tax Division
+   that states aggregate collections under this section, including any submitted to
+   the Legislature, the Governor's Office, the Department of Agriculture, or the
+   Alcohol Beverage Control Administration.
+
+5. Any memorandum of understanding entered into under W. Va. Code 19-12F-7(h) or
+   19-12F-9(d) between the Tax Commissioner, the Commissioner of Agriculture, and the
+   Alcohol Beverage Control Administration Commissioner.
+
+WHAT IS NOT REQUESTED, STATED PLAINLY
+
+I am aware of W. Va. Code 11-10-5d and I am not asking the Division to violate it.
+
+I do not seek any return, any part of a return, or any return information. I do not
+seek information concerning the personal affairs of any individual or the business of
+any single firm or corporation. I do not seek taxpayer names, identification numbers,
+addresses, filing histories, or any figure attributable to a particular taxpayer.
+
+Items 1 through 3 are requested as aggregate figures across all filers.
+
+If for any period the number of filers is small enough that an aggregate figure would
+effectively disclose the business of a single firm within the meaning of 11-10-5d,
+I ask that the Division:
+
+   (a) provide the figure at a broader level of aggregation, for example annual rather
+       than quarterly, or combined across periods, that resolves the concern; or
+
+   (b) if no level of aggregation resolves it, say so, and state the number of periods
+       withheld on that basis and the number of filers involved.
+
+I would rather have a smaller true number than a denial.
+
+WHY THIS IS SOUGHT
+
+Obsidian Watch Group is an independent research organisation. It has published a case
+file on the federal 7-hydroxymitragynine scheduling action at
+github.com/jpuckett11/ObsidianGroup_CaseSevenfold, free and without paywall, including
+findings that rest on the West Virginia Department of Agriculture's own published
+Registered Kratom Products list.
+
+The specific question is simple and, so far as I can establish, unanswered anywhere in
+public: how much money does West Virginia raise from this tax, and therefore how much
+is flowing into the Agricultural Fees Fund for administering and enforcing Article 12F.
+The statute directs the revenue to a public fund for a public purpose. The size of it
+should not be a mystery to the people paying it, particularly since 19-12F-7(b)
+forbids retailers from showing the tax as a line item on a receipt.
+
+I hold no commercial interest of any kind in kratom, in any company in this sector, or
+in the outcome of any related proceeding.
+
+FORM AND FEES
+
+Electronic records in native format are preferred, sent to the address above. Under
+29B-1-3(c), if the records exist in magnetic, electronic or computer form, I ask that
+copies be provided on electronic media.
+
+I am willing to pay reasonable search and duplication fees. If fees are expected to
+exceed $50.00, please contact me first with an estimate.
+
+IF ANY PART IS DENIED
+
+If any portion of this request is denied, please state the specific exemption relied
+upon and identify the records withheld with sufficient particularity to allow the
+denial to be evaluated, as contemplated by 29B-1-3(5).
+
+If the Tax Division is not the correct custodian for any item, I would be grateful if
+you would say which body is. Items 2 and 4 may also be held by the Department of
+Agriculture or the State Treasurer, and I will direct a separate request there rather
+than burden this office with it.
+
+Thank you for your time and for the work of your office.
+
+Respectfully,
+
+Jay Puckett
+Principal Security Researcher
+Obsidian Watch Group
+jay.puckett@obsidianwatchgroup.com
