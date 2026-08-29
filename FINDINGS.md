@@ -292,6 +292,20 @@ Written down deliberately, so we test it instead of confirming it.
 
 
 
+
+**2026-08-29 — Finding 34: Congress DID act, and it did not work.** The
+**Mainstreaming Addiction Treatment Act removed the X-waiver**, the barrier the field
+named for a decade. Two evaluations find **no effect**: "no differences in either the
+level or trend of buprenorphine prescribers" (DOI 10.1016/j.amepre.2026.108508) and
+"no change in the total buprenorphine prescriptions per month" (DOI
+10.1016/j.acepjo.2025.100246), because "**structural barriers persist**." **[I] The
+barrier was never the waiver.** The reframe: the failure is not refusal to act, it is
+that **the actions taken were the ones that cost nothing.** Repealing a registration
+requirement is free; so is scheduling a molecule. Funding capacity and contingency
+management at effective levels is not, and has not been tried. Meanwhile premature
+mortality from drug use disorders is **rising** in high-income countries (Lancet GBD
+2025).
+
 **2026-08-29 — Finding 33: the recovery field is on this docket and it is split.**
 **Awakening Recovery, Inc.** (`-7588`), a named nonprofit running recovery homes,
 reports residents arriving **having overdosed on 7-OH** and asks for Schedule I. A
