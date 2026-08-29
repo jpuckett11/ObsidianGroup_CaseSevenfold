@@ -69,7 +69,7 @@ OK-02 2013-2023, US Senator 2023-2026, **Secretary of Homeland Security** from
 |---|---|---|
 | Holding | Botanic Tonics, LLC (Broken Arrow, OK) | [S] |
 | Range | **$500,001 - $1,000,000** | [S] |
-| Vehicle | OGE nomination filing, March 2026 | [S] — **the filing itself is NOT yet in our hands** |
+| Vehicle | OGE nomination filing, March 2026 | [S], **the filing itself is NOT yet in our hands** |
 | Acquisition date | **UNKNOWN.** Reporting states the documents do not show when he invested | [S] |
 | Public act | Appeared 2025-07-29 with RFK Jr. and FDA Commissioner Makary announcing federal action on 7-OH | [S] |
 | Quote | "It's an addiction that's ruining lives... it's truly killing people" | [S] |
@@ -294,7 +294,7 @@ Written down deliberately, so we test it instead of confirming it.
 
 
 
-**2026-08-28 — `REMEDIATION.md` s10, the principle underneath all of it.** In the
+**2026-08-28, `REMEDIATION.md` s10, the principle underneath all of it.** In the
 researcher's words: **"A unit is only as strong as its weakest member. So you
 strengthen the weakest member. You do not discard them."** Stated as operational
 logic rather than sentiment: removing the least capable component does not raise the
@@ -304,7 +304,7 @@ themselves. Applied to **42.4 million untreated**, the response has been to sche
 one molecule at a time, **managing the consequences of the abandonment rather than
 ending it.** Also added to the README.
 
-**2026-08-29 — Finding 40: four states, two companies, one playbook, and a public
+**2026-08-29, Finding 40: four states, two companies, one playbook, and a public
 filing that prices the stake at half of revenue.** **[P]** LFTD Partners Inc. (ticker
 **LIFD**, CIK 0001391135) is the parent of **Lifted Made**, the registrant behind the
 **Roxy** 7-OH tablets on West Virginia's list (Finding 39). Because it is public, it
@@ -316,11 +316,23 @@ Company's revenue, potentially by approximately half or more**," and that it boo
 number this case did not have.** The same filing discloses the company suing states:
 **Missouri Governor Mike Kehoe, AG Catherine Hanaway and Health Director Sarah Wilson**
 over HB 2641 (16 July 2026), and Ohio officials over SB 56 (30 July 2026), on
-**preemption, Dormant Commerce Clause and vagueness** — **the same theories Botanic
-Tonics used against West Virginia (Finding 38) and Utah (Finding 37).** Four states,
-an Agriculture Commissioner sued **personally for damages**, a sitting Governor, two
+**preemption, Dormant Commerce Clause and vagueness**, **the same theories Botanic
+Tonics used against West Virginia (Finding 38) and Utah (Finding 37).**
+
+**CORRECTED 2026-08-29, same day.** The Missouri and Ohio complaints were pulled and
+read, and **neither is a kratom case.** Missouri HB 2641 is hemp (**kratom 0 hits,
+hemp 189**); the Ohio SB 56 TRO order is intoxicating hemp (**kratom 0 hits**). **The
+four-state kratom playbook was our claim, built on the 10-Q's litigation note without
+reading the pleadings, and it was wrong.** What the documents support: **the kratom
+suits are two, both Botanic Tonics (WV and Utah)**, and the same preemption theory is
+run by **Lifted Liquids in two more states on hemp**. The tool is industry-standard
+across intoxicant categories, which is weaker than what we said. **The kept fact is
+the split outcome: Utah DENIED the kratom injunction on 4 May 2026 on state police
+powers, while Ohio GRANTED a hemp TRO on 7 August 2026, extended 19 August to 4
+September.** An Ohio statute is enjoined right now and a Utah one is not. An
+Agriculture Commissioner sued **personally for damages**, a sitting Governor, two
 Attorneys General. **The argument in all of them is that the federal line is the only
-line a state may draw** — which would make the July 2026 rule, one molecule scheduled
+line a state may draw**, which would make the July 2026 rule, one molecule scheduled
 and the leaf excluded, a ceiling and a floor at once. **[I] Convergent strategy, not
 proven concert**; the two companies are rivals and Finding 38 has one naming the
 other's products.
@@ -341,7 +353,7 @@ negative margins has every reason to move volume, and Finding 39 shows the volum
 210 mg, 150 mg and 100 mg, one line branded **Dopium**. Botanic Tonics is private and
 its finances are not in this record at all.
 
-**2026-08-29 — Finding 39: a state registry, dated six weeks after scheduling, lists
+**2026-08-29, Finding 39: a state registry, dated six weeks after scheduling, lists
 thirty 7-OH products by name. The biggest is 210 mg.** **[P]** West Virginia
 Department of Agriculture, **"Registered Kratom Products v 08/14/2026"**, 450 rows,
 obtained and hashed. The DEA action issued **1 July 2026**. This list postdates it by
@@ -358,7 +370,7 @@ registration is not approval, and administrative lag is a sufficient explanation
 the timing. **The next step is to buy a 210mg tablet and assay it**, which is under
 $100 and would settle it.
 
-**2026-08-29 — Finding 38: a competitor named the state-licensed 7-OH products, under
+**2026-08-29, Finding 38: a competitor named the state-licensed 7-OH products, under
 oath.** **[P]** *Botanic Tonics LLC v. Kent Leonhardt*, 2:25-cv-00680 (S.D. W. Va.),
 complaint filed 19 Nov 2025, 21pp, obtained. **West Virginia's Agriculture
 Commissioner was sued in his INDIVIDUAL CAPACITY for compensatory damages** under
@@ -373,7 +385,7 @@ assertion, since BT is a commercial rival of the products it names, and **checke
 against the state registry the same day** (Finding 39). The case ended after five
 docket entries with no responsive pleading.
 
-**2026-08-29 — Finding 37: the company sued the Utah agency that later warned the
+**2026-08-29, Finding 37: the company sued the Utah agency that later warned the
 public about a death.** **[P]** *Botanic Tonics, LLC v. Kelly Pherson*, 2:26-cv-267
 (D. Utah). **Botanic Tonics and the Global Kratom Coalition sued four Utah officials**
 to block Utah's Kratom Regulation Act: **Kelly Pherson, Commissioner of the Utah
@@ -394,14 +406,14 @@ pseudoindoxyl**, one of the four compounds Utah Poison Control named in July.
 Leonhardt**, and the Utah appeal is live at the Tenth Circuit. **[I]** The line the
 federal rule drew in July is the line the company had been litigating for since March.
 
-**2026-08-29 — Finding 36: the government won, then walked away twelve days later.**
+**2026-08-29, Finding 36: the government won, then walked away twelve days later.**
 CourtListener opened up and produced the primary document `FINDING_03` had recorded as
 blocked. **[P] On 10 December 2025 the court DENIED Botanic Tonics' motion to dismiss**
 the forfeiture action, holding that *"the Amended Complaint survives"* and that the
 facts *"support a reasonable belief that, if proven, the Government would be able to
 successfully meet its burden."* Gelpí, Circuit Judge, sitting by designation. That
 motion had been pending **two years and seven months**. **[S] Twelve days later, on 22
-December 2025, the government filed a Notice of Dismissal without prejudice** — sourced
+December 2025, the government filed a Notice of Dismissal without prejudice**, sourced
 only to the claimant's own press release, and labelled as such. **[P] And the operative
 amended complaint alleges what nobody in this case had seen: the United States told a
 federal court that KRATOM ITSELF, the leaf, was "adulterated within the meaning of 21
@@ -412,15 +424,15 @@ and six months later the federal rule drew exactly that line.** This complicates
 thesis and the finding says so: the failure here is not that the government did not act.
 It acted, prevailed, and abandoned it. Exhibits hashed in `exhibits/litigation/`.
 
-**2026-08-28 — Finding 35: the cap was real, and the agency blamed for it said it
+**2026-08-28, Finding 35: the cap was real, and the agency blamed for it said it
 never imposed it.** Contingency management is the one SUD treatment with a
 dose-response curve. A federal limit held it at **$15 per incentive, $75 per patient
 per year**. The only head-to-head magnitude trial, **Petry 2004** (DOI
 10.1111/j.1360-0443.2003.00642.x), ran arms at **$80 and $240**: *"Patients in the
 $240 CM condition achieved more abstinence than patients in the standard
-condition."* **The $80 arm did not** — and $80 is the closest experimental analogue
+condition."* **The $80 arm did not**, and $80 is the closest experimental analogue
 to the cap. The effective floor is roughly **$250 per 12-week course**. **[P] But
-Petry's patients actually earned $36 and $68 on average** — the arm that worked cost
+Petry's patients actually earned $36 and $68 on average**, the arm that worked cost
 **$68 a head, under the cap it violated.** The cap bound on the size of the available
 prize, not on spending, so **the saving was near zero and the cost was the entire
 effect.** **[P] And it was never required:** OIG stated in the preamble to its 2020
@@ -428,19 +440,19 @@ rule (85 FR 77,684 at 77,791-92) that its nominal-value policy **"does not impos
 $75 annual limit on CM incentives."** SAMHSA kept $75 until **January 2025**, then
 raised it to **$750**. Still half fixed: $750 exceeds the safe harbor (**$623 for
 2026**), the safe harbor excludes the gift cards SAMHSA mandates, and it reaches
-only SOR/TOR grants, not Medicaid — where California's pilot stops at **$599, set
+only SOR/TOR grants, not Medicaid, where California's pilot stops at **$599, set
 under the IRS 1099 threshold, a tax boundary standing in for a clinical one.**
-**[P] That $599 is OIG Advisory Opinion 22-04's ceiling** — OIG approved
+**[P] That $599 is OIG Advisory Opinion 22-04's ceiling**, OIG approved
 cash-equivalent CM incentives at $599/yr for one company, in an opinion that says it
 **"cannot be relied upon by any other person"** and turns on the requestor **not
 billing any federal health care program.** So the only federal sign-off on CM at a
 working dose is unavailable to any clinic billing Medicaid.
 **Congress ordered a safe harbor** in the CAA 2023, due **29 Dec 2024**; OIG opened
-**RIN 0936-AA13** for August 2024. **It has never published** — verified by RIN
+**RIN 0936-AA13** for August 2024. **It has never published**, verified by RIN
 against the Federal Register with controls (AA10 = 3 docs, AA15 = 1, AA16 = 1,
 **AA13 = 0**). Closes the open item flagged in `REMEDIATION.md` s5.
 
-**2026-08-28 — Finding 34: Congress DID act, and it did not work.** The
+**2026-08-28, Finding 34: Congress DID act, and it did not work.** The
 **Mainstreaming Addiction Treatment Act removed the X-waiver**, the barrier the field
 named for a decade. Two evaluations find **no effect**: "no differences in either the
 level or trend of buprenorphine prescribers" (DOI 10.1016/j.amepre.2026.108508) and
@@ -453,19 +465,19 @@ management at effective levels is not, and has not been tried. Meanwhile prematu
 mortality from drug use disorders is **rising** in high-income countries (Lancet GBD
 2025).
 
-**2026-08-28 — Finding 33: the recovery field is on this docket and it is split.**
+**2026-08-28, Finding 33: the recovery field is on this docket and it is split.**
 **Awakening Recovery, Inc.** (`-7588`), a named nonprofit running recovery homes,
 reports residents arriving **having overdosed on 7-OH** and asks for Schedule I. A
 recovery professional filing as **"A, R"** (`-18012`) argues **"recovery is fostered
-through treatment, stability, and human connection—not through expanding criminal
+through treatment, stability, and human connection, not through expanding criminal
 penalties."** Same population, opposite asks, neither wrong. Her framing appears in
 **13 of 27,053 comments**. **She reached the remediation argument six weeks before we
 did and the case says so.** She filed under initials; **we have not tried to identify
 her and will not.**
 
-**2026-08-28 — Finding 32: the letter that did not mention the people.** Eleven US
+**2026-08-28, Finding 32: the letter that did not mention the people.** Eleven US
 Senators, 18 March 2026, to the FDA Commissioner. **537 words. Twelve references to
-enforcement and scheduling. Zero to treatment, recovery or access to care** — the
+enforcement and scheduling. Zero to treatment, recovery or access to care**, the
 lone "clinic" match is `mayoclinic.org` in a footnote URL. Their only expansion
 beyond the pending action was to ask the Commissioner "to consider **scheduling the
 whole kratom leaf**." **None of the eleven took industry money** (F22), so this is
@@ -473,7 +485,7 @@ not a corruption finding. It is a record of what unbought legislators wrote abou
 while 42.4 million untreated Americans sat in the federal government's own survey.
 **Reproducible in five minutes with the PDF and a search box.**
 
-**2026-08-28 — Finding 31: they published the arbitrage themselves.** The
+**2026-08-28, Finding 31: they published the arbitrage themselves.** The
 manufacturer's own homepage states it "**figured out a way to extract an indole
 alkaloid from the Cat's Claw plant to mirror the effects of popular kratom
 products**," producing "a **non-kratom product with kratom-like effects**," and a
@@ -485,7 +497,7 @@ killing people as an opioid. Both brands Utah named, Buzzers and Homiez, are sol
 from the same site. **Five pages captured and SHA-256 hashed 2026-08-28 before they
 change.**
 
-**2026-08-28 — Finding 30: it is all still on the shelf, and stays there.** The
+**2026-08-28, Finding 30: it is all still on the shelf, and stays there.** The
 three federal instruments reach **four substances, all on the mitragynine
 scaffold**. **9-hydroxycorynantheidine** (a major human metabolite of the controlled
 substance), **corynoxine** (a mu-opioid **full agonist**), and **corynoxine B**
@@ -496,7 +508,7 @@ emergency rule and Utah's pure-leaf-only law are both **stricter than the federa
 instrument**. No purchase is needed to establish any of this; it is the rule text
 read against the compound list.
 
-**2026-08-28 — `REMEDIATION.md` s6 added on European rehabilitation evidence, and
+**2026-08-28, `REMEDIATION.md` s6 added on European rehabilitation evidence, and
 it cuts both ways.** EUDA reports **56% of clients entering European drug treatment
 are unemployed** and recommends housing, education and vocational training
 **embedded in treatment early**, while stating in its own words that "**evidence is
@@ -506,10 +518,10 @@ sparse**." Against that, a propensity-matched study
 document publishes the null result, and concludes that a certificate is not an
 occupation and that **the gap in the literature is a funding gap, not a finding.**
 
-**2026-08-28 — `REMEDIATION.md` given the scale, from the government's own survey.**
+**2026-08-28, `REMEDIATION.md` given the scale, from the government's own survey.**
 2024 NSDUH: **48.4M** with a substance use disorder, **52.6M** needed treatment,
 **10.2M** received it. Of the 10.2M, **4.2M had no disorder**, so only **6.0M with a
-disorder were treated** and **42.4 million received nothing — 87.6%**. Larger than the population
+disorder were treated** and **42.4 million received nothing, 87.6%**. Larger than the population
 of California. And 48.4M is an undercount by construction: SAMHSA's own notes say
 the measures "do not capture disorders arising solely from the use of **IMF**",
 illegally made fentanyl, and it is a household survey that structurally misses the
@@ -518,14 +530,14 @@ homeless and incarcerated. Annual economic burden **$425.0 billion**
 **dose-response relationship between magnitude and immediacy of reward and
 effectiveness** (DOI 10.1016/j.ypmed.2023.107647).
 
-**2026-08-28 — FIFTH comment FILED. Tracking `mtd-izm8-ql4p`.** Reports that the
+**2026-08-28, FIFTH comment FILED. Tracking `mtd-izm8-ql4p`.** Reports that the
 substitution earlier comments warned of **has already occurred**: the Utah Poison
 Control alert of 22 July 2026, the Utah death linked to mislabelled Buzzers-brand
 Cat's Claw tablets, and lawful products built on **corynoxine B**, a mu-opioid full
 agonist nothing covers. Argues **the label is the evasion**. States expressly that
 OWG does not seek restriction of genuine cat's claw and would oppose it.
 
-**2026-08-28 — Finding 29 CORRECTS Finding 28. The substitution already happened.**
+**2026-08-28, Finding 29 CORRECTS Finding 28. The substitution already happened.**
 The **Utah Poison Control Center** (22 July 2026) warns of smoke-shop products sold
 as **"Cat's Claw"** causing "life-threatening opioid overdose, dependence, or
 withdrawal," naming **Buzzers** and **Homiez** brands, adulterated with **7-OH,
@@ -536,7 +548,7 @@ B** to dodge the 7-OH scheduling. **Finding 28's reassurance is retracted:** it
 measured the plant and concluded about the products. See Finding 29 s6 for the full
 account of the error.
 
-**2026-08-28 — Finding 28: the rule's boundary is a genus name.** **Corynoxine is
+**2026-08-28, Finding 28: the rule's boundary is a genus name.** **Corynoxine is
 a mu-opioid receptor FULL agonist** (ACS Chem Neurosci 2021, DOI
 10.1021/acschemneuro.1c00149) and it has been isolated from ***Uncaria tomentosa***,
 cat's claw (J Chromatogr A 2015, DOI 10.1016/j.chroma.2015.02.028), sold as an
@@ -555,14 +567,14 @@ pentacyclic chemotype and the trade already selects away from the tetracyclics; 
 LDA shows **zero** filings on cat's claw or *Uncaria* against controls of 1,910 and
 298. **There is no cat's claw problem and this case says so.**
 
-**2026-08-28 — FOURTH comment FILED. Tracking `mtd-holx-p7i5`.** Corrects our own
+**2026-08-28, FOURTH comment FILED. Tracking `mtd-holx-p7i5`.** Corrects our own
 third comment. Puts on the federal record that **9-hydroxycorynantheidine is a
 major circulating human metabolite of the substance being scheduled**, that **10 g
 of ordinary unenhanced leaf already equals the 1.00 mg absolute limit** against
 FDA's own data, and that **the rule never defines "article"**, so forty pressed
 pills at 0.9 mg each are individually compliant and deliver 36 mg in one bag.
 
-**2026-08-28 — Findings 27 and the Finding 18 addendum, both filed as a fourth
+**2026-08-28, Findings 27 and the Finding 18 addendum, both filed as a fourth
 comment.** **9-hydroxycorynantheidine is a major circulating human metabolite of
 mitragynine** (Kanumuri 2026, clinical, DOI 10.1080/13880209.2026.2715806), not the
 "minor plant alkaloid" our own third comment called it. In rats it is a **major**
@@ -572,7 +584,7 @@ labelled as animal data). Separately, the rule's absolute limit turns on the wor
 individually compliant and deliver 36 mg in a bag. And against FDA's own leaf data,
 **10 g of average leaf already equals the 1.00 mg absolute limit.**
 
-**2026-08-28 — Finding 26: nobody else asked.** Of **27,053** comments on
+**2026-08-28, Finding 26: nobody else asked.** Of **27,053** comments on
 HHS-OASH-2026-0232, **zero** mention 9-hydroxycorynantheidine, corynanthe,
 Mitradyne, Atallah or divestiture. One mentions corynantheidine, in a passing
 alkaloid list. The two questions unique to this case in that entire record are the
@@ -588,7 +600,7 @@ the correct route, and the **Senate personal office issues no reference number o
 any kind** while its phone line routes callers back to the same form. Response time
 tracks whether an office has a duty to answer, not the quality of the material.
 
-**2026-08-28 — Constituent submission to Sen. Marsha Blackburn (R-TN)**, via her
+**2026-08-28, Constituent submission to Sen. Marsha Blackburn (R-TN)**, via her
 web form, two messages. Carries the corynantheidine gap, Mitradyne's claims 5, 6,
 8 and 11 for independent verification, and the three scope questions. Raises the
 Mullin holding once, with the sequencing that matters: **the nominee disclosure
@@ -598,16 +610,16 @@ industry. No tracking number is issued; the confirmation page is the receipt.
 **Note: an earlier email to `senator@blackburn.senate.gov` returned 550 User
 Unknown. There is no email route to a Senate office.**
 
-**2026-08-28 — Tennessee Division of Consumer Affairs complaint SENT and
+**2026-08-28, Tennessee Division of Consumer Affairs complaint SENT and
 ACKNOWLEDGED.** Reference **`104939`**, acknowledged 23 seconds after sending.
 Tennessee Consumer Protection Act, Tenn. Code Ann. §§ 47-18-101 et seq.
 
-**CORRECTION 2026-08-28 — the FDA FOIA was never filed.** It was recorded as SENT
+**CORRECTION 2026-08-28, the FDA FOIA was never filed.** It was recorded as SENT
 on 2026-08-27. FDA replied that it **does not accept FOIA requests by email** and
 must be filed through `accessdata.fda.gov` or `foia.gov`. The entry has been moved
 out of FILED. A send that leaves the outbox is not a filing.
 
-**2026-08-28 — THIRD comment filed to docket HHS-OASH-2026-0232**, the
+**2026-08-28, THIRD comment filed to docket HHS-OASH-2026-0232**, the
 corynantheidine gap. **Comment Tracking Number: `mtc-q9zv-dase`.** Five-page
 attachment, 1,251 words, box text 4,995 of 5,000 characters. Argues every covered
 substance sits on the mitragynine scaffold while **9-hydroxycorynantheidine sits
@@ -619,7 +631,7 @@ mitragynine. Fifth requested action asks whether scope was set on **natural
 abundance rather than manufacturability**. Status: submitted, pending agency
 review.
 
-**2026-08-27 — Public comment filed to docket HHS-OASH-2026-0232** (HHS OASH,
+**2026-08-27, Public comment filed to docket HHS-OASH-2026-0232** (HHS OASH,
 Request for Information on the 7-OH scheduling threshold).
 **Comment Tracking Number: `mtc-56yj-nmij`.** Eight sections, 2,268 words,
 submitted as `OWG_Comment_HHS-OASH-2026-0232.pdf`. Status: submitted, pending
