@@ -304,6 +304,33 @@ themselves. Applied to **42.4 million untreated**, the response has been to sche
 one molecule at a time, **managing the consequences of the abandonment rather than
 ending it.** Also added to the README.
 
+**2026-08-29, Finding 49: Tennessee and West Virginia appropriated nothing, and Utah's
+enforcement money alone would have treated 291 people.** **[P]** with a working
+control. Ran the Finding 48 check on both states: **neither has an appropriations act
+mentioning kratom.** The control matters because it is a negative, and Open States
+indexes full bill text for all three states, with **Tennessee's HB 2631/SB 2690
+"Appropriations, As enacted"** and **West Virginia's supplemental appropriations bills**
+both surfacing on other terms. **The instrument works; the money is not there.**
+**Tennessee is the sharper case:** Public Chapter 950 orders **every county medical
+examiner to test every suspected overdose decedent for kratom**, and physicians to test
+in suspected overdose and **neonatal abstinence syndrome**, and funds none of it. **An
+unfunded mandate on county coroners**, where Utah appropriated $286,800 to courts and
+$360,000 to crime labs for the same kind of cost. **West Virginia's fee revenue,
+computed from the actual registry (418 products, 31 registrants): $83,600 + $9,300 =
+~$92,900 a year, which treats fourteen people.** **[I]** The 11% privilege tax,
+scaled from national market estimates by population share and **labelled soft**, yields
+roughly **$756,000 to $1,162,000**, or **115 to 177 people**. **A FOIA to the WV Tax
+Commissioner replaces that estimate with a fact.** **The honest answer to whether these
+revenues could treat everyone is no**, and not close: WV's ~221,000 untreated would
+cost ~$1.45 billion, so the tax covers 0.08%. **But that is the wrong comparison and it
+lets the states off.** The right one: **Utah's $1,905,400 of kratom enforcement money
+would put 291 people on methadone for a year, and the state spent it on crime labs,
+prisons, parole and courts. The single Adult Probation and Parole line, $915,000, is
+140 people, appropriated in the same session Utah let 940 people's worth of treatment
+expire.** **Nobody had to find new money. The money was appropriated. It went somewhere
+else.** Caveats stated: "people treated" is medication cost only and a real slot costs
+more, and neither TN nor WV's general treatment appropriations are in this record.
+
 **2026-08-29, Finding 48: Utah DID pay for its kratom law. $1,905,400 a year, to crime
 labs, prisons, parole and courts.** **[P]** Utah H.B. 3 (2026), Enrolled Copy.
 **Corrects Finding 43**, which said Utah regulated the molecule for free. The kratom
