@@ -304,6 +304,35 @@ themselves. Applied to **42.4 million untreated**, the response has been to sche
 one molecule at a time, **managing the consequences of the abandonment rather than
 ending it.** Also added to the README.
 
+**2026-08-29, Finding 46: West Virginia taxes kratom at 11 percent and spends every
+dollar of it enforcing the kratom law.** **[P]** from the West Virginia Code. Third
+state under the Finding 43 method. The article sits in **Chapter 19, AGRICULTURE**, not
+the health code, and it is the same article that produces the 30-product 7-OH registry
+in Finding 39. **§19-12F-7 levies "a privilege tax equal to 11 percent of the retail
+sales price" of kratom, "in addition to all other applicable taxes"** and then forbids
+the retailer from showing it: **"shall not be added by the retailer as a separate
+charge or line item"** on any receipt. **The consumer pays it and is not permitted to
+see it.** Disposition, §19-12F-7(f): **"All money received from the privilege tax...
+shall be deposited into the Agricultural Fees Fund"**, which §19-12F-8 says is **"for
+the use of the commissioner for administering and enforcing the provisions of this
+article."** Same for the **$1,500** application fee, the **$300** annual fee and the
+**$200 per product** across **450 products**. **Every revenue stream in the article
+funds the article.** Checked across six sections: **treatment 0, substance abuse 0,
+recovery 0, prevention 0, abatement 0**, with kratom throughout as control. What it
+does build: **three state agencies plus state and local law enforcement conferring
+monthly** (§19-12F-9) and criminal fines of $1,000, $5,000 and $10,000 (§19-12F-11).
+**[I] Three states now, three different mechanisms, one result. Utah regulated and cut
+treatment 74%. Tennessee prohibited and appropriated zero. West Virginia taxes it and
+routes every dollar to enforcement. A state that prohibits, a state that regulates and
+a state that taxes all built enforcement and none built care. West Virginia is the
+sharpest because it is the only one that found money in kratom, and it spent it on
+kratom enforcement.** **Sweep blocked and the blockers are recorded rather than worked
+around:** LegiScan 403, **Open States needs a free API key we do not hold**, and
+NASHP's settlement tracker turned out to be dated **05-17-24** and about governance
+rather than spending, which was established only after pulling all 22 kratom states
+from it. **An Open States key unblocks the statute half across all fifty states in one
+pass.**
+
 **2026-08-29, Finding 45: what pulling these people up would be worth. About $90B a
 year, for about $13B, and it costs the same per person as treating kidney disease.**
 **[I] ESTIMATE**, every input sourced, every step of arithmetic shown so it can be
