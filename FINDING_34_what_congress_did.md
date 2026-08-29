@@ -104,3 +104,10 @@ capacity, post-taper coverage, contingency management at effective incentive lev
 has been enacted at a scale proportionate to **42.4 million untreated people**.
 
 **We looked and did not find it. If it exists, we will publish it.**
+
+**Partial update, 2026-08-28.** On the contingency management limb specifically, one
+such action was taken: SAMHSA raised the incentive cap from $75 to $750 per patient
+per year in January 2025. It is a real change and this finding records it. But it
+reaches only SOR and TOR grants rather than Medicaid, and the anti-kickback safe
+harbor Congress ordered in the Consolidated Appropriations Act, 2023, due 29
+December 2024, **has still never issued.** See **Finding 35**.

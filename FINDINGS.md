@@ -304,6 +304,29 @@ themselves. Applied to **42.4 million untreated**, the response has been to sche
 one molecule at a time, **managing the consequences of the abandonment rather than
 ending it.** Also added to the README.
 
+**2026-08-28 — Finding 35: the cap was real, and the agency blamed for it said it
+never imposed it.** Contingency management is the one SUD treatment with a
+dose-response curve. A federal limit held it at **$15 per incentive, $75 per patient
+per year**. The only head-to-head magnitude trial, **Petry 2004** (DOI
+10.1111/j.1360-0443.2003.00642.x), ran arms at **$80 and $240**: *"Patients in the
+$240 CM condition achieved more abstinence than patients in the standard
+condition."* **The $80 arm did not** — and $80 is the closest experimental analogue
+to the cap. The effective floor is roughly **$250 per 12-week course**. **[P] But
+Petry's patients actually earned $36 and $68 on average** — the arm that worked cost
+**$68 a head, under the cap it violated.** The cap bound on the size of the available
+prize, not on spending, so **the saving was near zero and the cost was the entire
+effect.** **[P] And it was never required:** OIG stated in the preamble to its 2020
+rule (85 FR 77,684 at 77,791-92) that its nominal-value policy **"does not impose a
+$75 annual limit on CM incentives."** SAMHSA kept $75 until **January 2025**, then
+raised it to **$750**. Still half fixed: $750 exceeds the safe harbor (**$623 for
+2026**), the safe harbor excludes the gift cards SAMHSA mandates, and it reaches
+only SOR/TOR grants, not Medicaid — where California's pilot stops at **$599, set
+under the IRS 1099 threshold, a tax boundary standing in for a clinical one.**
+**Congress ordered a safe harbor** in the CAA 2023, due **29 Dec 2024**; OIG opened
+**RIN 0936-AA13** for August 2024. **It has never published** — verified by RIN
+against the Federal Register with controls (AA10 = 3 docs, AA15 = 1, AA16 = 1,
+**AA13 = 0**). Closes the open item flagged in `REMEDIATION.md` s5.
+
 **2026-08-28 — Finding 34: Congress DID act, and it did not work.** The
 **Mainstreaming Addiction Treatment Act removed the X-waiver**, the barrier the field
 named for a decade. Two evaluations find **no effect**: "no differences in either the

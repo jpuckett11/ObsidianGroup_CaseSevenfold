@@ -209,13 +209,52 @@ than the community trials that worked.
 That is the investigator's hypothesis with an effect size attached. It is not a
 metaphor about investing in people. It is the literal finding.
 
-**Open item, flagged rather than asserted:** incentive values in US contingency
-management programmes have historically been constrained by federal anti-kickback
-rules. **This case has not verified the current limit and does not assert one.** If
-that constraint still binds below the doses the meta-analyses find effective, then
-the single intervention with a proven dose-response relationship is capped by
-regulation below its effective dose. **That is worth someone establishing on the
-record.**
+**CLOSED 2026-08-28. It did bind, and the answer is worse than the question.**
+The full account is **Finding 35**; the short version belongs here.
+
+A federal cap held CM at **$15 per incentive and $75 per patient per year**. The one
+trial that ever tested magnitudes head to head, Petry et al. 2004 in *Addiction*
+(DOI `10.1111/j.1360-0443.2003.00642.x`), randomised cocaine outpatients to standard
+care, CM at a maximum of $80, and CM at a maximum of $240. **The $240 arm beat
+standard care. The $80 arm did not.** The $80 arm is the closest thing that exists to
+a test of the cap itself. The effective floor in the wider literature is roughly
+**$250 per twelve-week course**, running to about $1,000. The cap sat at $75 a year.
+
+**Then the part that should be hard to read.** Petry also reported what patients
+actually earned: **$36 and $68 on average.** The arm that worked cost sixty-eight
+dollars a head, *under the cap it was breaking*. The cap never bound on what was
+spent. It bound on the size of the prize that could be won, which is the part that
+does the therapeutic work. SAMHSA now says the same of its replacement limit:
+*"very few patients will reach this limit."*
+
+**So the saving was near zero and the cost was the whole effect.**
+
+And it was not even required. In the preamble to its 2020 rule (85 Fed. Reg. 77,684
+at 77,791-92), **OIG stated that its 2016 nominal-value policy did not impose a $75
+annual limit on CM incentives.** SAMHSA kept $75 in its funding notices for four
+more years, until **January 2025**, when it raised the limit to **$750 per patient
+per year** — a level the evidence supports.
+
+It is still only half fixed. $750 sits **above** the anti-kickback safe harbor
+(**$623 per patient for 2026**), so programmes at that level operate on
+prosecutorial discretion rather than protection; the safe harbor excludes the gift
+cards SAMHSA instructs grantees to use; and the $750 reaches only State and Tribal
+Opioid Response grants, not Medicaid, which is the largest public funder of this
+treatment in most states. California's Medicaid pilot stops at **$599**, set just
+under the IRS 1099 threshold — **a tax-reporting boundary standing in for a clinical
+one.**
+
+Congress saw this. The Consolidated Appropriations Act, 2023 ordered OIG to review a
+contingency management safe harbor and report **by 29 December 2024**. OIG opened
+**RIN 0936-AA13** and scheduled a proposed rule for August 2024. **It has never
+published.** Verified against the Federal Register by RIN, with controls: 0936-AA10
+returns 3 documents, AA15 and AA16 return 1 each, **AA13 returns none.**
+
+**This is the hypothesis in one case study.** The intervention that works by paying
+people was held below its working dose for twenty years, for a saving that rounds to
+nothing, by a rule the responsible agency had already said it never made. It is not
+that the machine decided against these people. It is that nobody was assigned to
+notice, and so no one did.
 
 ## 6. Education and a trade: what the European evidence actually says
 
