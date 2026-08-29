@@ -304,6 +304,37 @@ themselves. Applied to **42.4 million untreated**, the response has been to sche
 one molecule at a time, **managing the consequences of the abandonment rather than
 ending it.** Also added to the README.
 
+**2026-08-29, Finding 50: every dollar any American state has appropriated for kratom
+is $1,925,400. All of it to enforcement, except $20,000 for a website. At full cost
+that is 88 people.** **[P]** national sweep via Open States, which indexes full bill
+text: **496 kratom bills across 49 jurisdictions.** Only **three** returned an
+appropriations act and **one was a false positive** (Kansas HB 2400, matched on
+"supplemental to the Kansas food, drug and cosmetic act"). **Forty-six jurisdictions
+have kratom legislation and no kratom appropriation of any kind.** Controlled: "Adult
+Probation and Parole" returns 44 bills in Tennessee **including its enacted
+Appropriations acts** and 58 in West Virginia **including its supplemental
+appropriations**, so the acts are indexed and simply do not mention kratom. **North
+Dakota is the only other state**, HB 1628, pending, hearing 2 Sept 2026: it creates a
+kratom fund **administered by the attorney general**, usable **"only for enforcement
+activities,"** and appropriates **$20,000** to health and human services for a **"public
+health awareness campaign, including the maintenance of kratom resources on the
+department's website."** Treatment: 0 mentions. **THE NATIONAL LEDGER: Utah $1,905,400
+to crime labs, prisons, parole and courts, minus $120,600 from the regulator. North
+Dakota $20,000 to a webpage. Tennessee $0. West Virginia $0 appropriated, 11% tax to
+"administering and enforcing." Forty-six others, $0. Total $1,925,400, and not one
+dollar of it treats anyone.** **FULL COST, as asked:** a complete package is **$21,802**
+a year, being NIDA's $6,552 methadone with psychosocial, **$750** contingency management
+at an effective dose (F35), **$10,500** for six months of recovery housing, and
+**$4,000** vocational training. **3.3x the medication-only figure used until now.**
+Recomputed: Utah's enforcement money is **87 people**, its probation line **42**, its
+expiring treatment **283**, WV's tax **53**, WV's fees **4**, North Dakota's webpage
+**1**, Tennessee **0**. **All US kratom appropriations together: 88 people.** And
+**Finding 45 recomputed at full cost still works**: 2.06 : 1 at the mid case, **1.55 :
+1 at the most pessimistic corner tested**. The sign does not change at 3.3x the cost.
+**Section 7 states the limits**, chiefly that the bundle is constructed rather than
+observed and that a state could fund enforcement in a line item that never says
+"kratom."
+
 **2026-08-29, Finding 49: Tennessee and West Virginia appropriated nothing, and Utah's
 enforcement money alone would have treated 291 people.** **[P]** with a working
 control. Ran the Finding 48 check on both states: **neither has an appropriations act
