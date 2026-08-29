@@ -304,6 +304,32 @@ themselves. Applied to **42.4 million untreated**, the response has been to sche
 one molecule at a time, **managing the consequences of the abandonment rather than
 ending it.** Also added to the README.
 
+**2026-08-29, Finding 47: only one company in America has to disclose anything about
+7-OH, and the question is now before the Sixth Circuit.** **[P]** SEC full-text search
+with a positive control, plus federal dockets. Collects the threads left open by
+Findings 39 to 46. **The industry is private.** Checked every registrant behind the
+thirty 7-OH products on West Virginia's registry: **Genrev Labs (210 mg), STNR
+Creations (100 mg), The Empire Distribution (Dopium), Real Botanicals, Prof Whyte's are
+all non-filers.** Control passes: LFTD returns CIK 0001391135. **SEC full-text search
+for "7-hydroxymitragynine" returns 5 filings and every one is LFTD Partners.** "STNR
+Creations" 0, "Dopium" 0, "Roxy Complex Alkaloid" 0. **[I] There is exactly one window
+into this industry's finances and Finding 40 used it. The company selling 210 mg
+tablets owes the public no accounting at all, and neither does the one selling a
+product called Dopium. That is a structural answer, not a research failure.** **The
+Ohio precedent is now on appeal.** *Titan Logistics Group LLC v. Tischler*,
+3:26-cv-01300 (N.D. Ohio), the decision Judge Helmick relied on for the hemp TRO, is
+before the **Sixth Circuit as 26-3648**, docketed 21 July 2026. **The Sixth Circuit
+covers Ohio, Michigan, Kentucky and Tennessee**, so a ruling on state authority over
+these products would be binding in **the state that banned kratom outright** (F44).
+Flagged carefully as inference: these are hemp cases and F41 was corrected once for
+blurring that line, but the doctrine is the same doctrine. **Two clocks converge:** the
+Ohio **TRO expires 4 September**, the **comment period closes 10 September**, six days
+apart, no connection claimed. **WV SB 534 obtained**: repeals and re-enacts Article 12F,
+carries the Agricultural Fees Fund disposition over unchanged, and establishes **"a
+licensing fund"** not a treatment fund. Finding 46 stands. **Torres settled**, final
+approval and judgment 20 October 2025 before Judge Chhabria. Section 6 lists every
+string that did not close and why.
+
 **2026-08-29, Finding 46: West Virginia taxes kratom at 11 percent and spends every
 dollar of it enforcing the kratom law.** **[P]** from the West Virginia Code. Third
 state under the Finding 43 method. The article sits in **Chapter 19, AGRICULTURE**, not
