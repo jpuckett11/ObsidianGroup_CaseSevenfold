@@ -304,6 +304,26 @@ themselves. Applied to **42.4 million untreated**, the response has been to sche
 one molecule at a time, **managing the consequences of the abandonment rather than
 ending it.** Also added to the README.
 
+**2026-08-29, Finding 42: every government in this file acted on the molecule. None of
+them acted on a person.** **[I] SYNTHESIS**, no new primary evidence, built on Findings
+32, 34, 35, 36, 37, 39 and 41. **Drafted to complicate the reading that representatives
+do not represent, and corrected by the investigator before it was published.** The
+first draft credited four state legislatures for acting. **Every action it credited was
+about a molecule.** Utah banned a combination product, West Virginia refused a
+registration, Missouri and Ohio restricted an intoxicant. **None is help for a person
+with a substance use disorder**, and crediting them was crediting the thing Finding 34
+showed does not work. **The corrected claim is harder: they do act, at every level, and
+the person is the object of none of it.** The mechanism is not free versus expensive,
+because Utah spent real money defending its statute. **It is that governments will
+spend on control and not on care.** Four states absorbed federal litigation to stop a
+sale; the cheapest care instrument in the file, a cap that cost **$68 a head** to make
+effective (F35), took twenty-five years and is still half fixed, and the safe harbour
+Congress ordered is twenty months late. **[S]** Roughly **13 to 18 states** have a KCPA
+and about **10 ban outright**, so this is the national picture rather than four unusual
+states, **which makes it worse.** The finding names its own decisive gap: **we have not
+checked whether any of those states funded treatment in the same session**, and that
+absence needs a control before section 3 stands.
+
 **2026-08-29, Finding 41: the industry is not winning on preemption. It is winning
 where states wrote protectionist laws.** **[P]** Ohio TRO order and Missouri complaint,
 obtained and hashed. **Neither case is about kratom** (Missouri: kratom 0, hemp 189;
