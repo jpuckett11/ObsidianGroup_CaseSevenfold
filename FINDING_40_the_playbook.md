@@ -143,3 +143,103 @@ in an individual capacity.**
 
 sha256 in `exhibits/SHA256SUMS.txt`. Source: SEC EDGAR, CIK 0001391135, accession
 0001096906-26-001233.
+
+---
+
+# ADDENDUM, 2026-08-29: the numbers, and what they do to the picture
+
+§2 quoted the company's estimate that scheduling could cut revenue "by approximately
+half or more." **The filings put figures against that, and they are not the figures
+this case was expecting.**
+
+## A1. The top line [P]
+
+**LFTD Partners Inc., Form 10-K filed 2026-04-01 and Form 10-Q filed 2026-08-14:**
+
+| Period | Net sales |
+|---|---|
+| FY2023 | **$51,610,562** |
+| FY2024 | $37,325,228 |
+| FY2025 | **$36,920,799** |
+| H1 2025 | $19,449,186 |
+| **H1 2026** | **$17,863,400** |
+| Q2 2026 | $8,705,194 (down 16% year on year) |
+
+**Revenue has fallen roughly 28 percent since 2023** and continued falling through the
+first half of 2026.
+
+## A2. The product split [P]
+
+For the six months ended 30 June 2026:
+
+| Segment | H1 2026 | Share | H1 2025 share |
+|---|---|---|---|
+| **Non-hemp products** | **$9,137,589** | **51%** | 48% |
+| Hemp products | $8,725,811 | 49% | 52% |
+| *Edibles (by product type)* | *$15,487,359* | *87%* | *76%* |
+
+**A caution that matters.** "Non-hemp" is **not** a synonym for kratom-derived. The
+company's own risk language covers "hemp-derived, kratom-derived, nicotine or other
+psychoactive products," so the non-hemp line includes more than kratom. **We are not
+asserting that $9.1 million is the 7-OH number.** What can be said is that the segment
+containing the kratom products **grew as a share of a shrinking business**, from 48% to
+51%, while hemp fell from 52% to 49%.
+
+## A3. The part that changes the picture [P]
+
+| | H1 2026 | H1 2025 |
+|---|---|---|
+| Net sales | $17,863,400 | $19,449,186 |
+| Cost of goods sold | **$18,918,247** | $13,985,399 |
+| **Gross profit** | **($1,054,847)** | $5,463,787 |
+
+**The company sold goods for a million dollars less than they cost.** Gross profit went
+from $5.46 million to negative $1.05 million in a year.
+
+And from the same filing:
+
+> "the Company had a history of recurring losses, which has resulted in an
+> **accumulated deficit of $34,444,821** as of June 30, 2026. **Bankruptcy of the
+> Company at some point in the future is a possibility.**"
+
+Shareholders' equity fell from $12,632,260 to $7,027,327 in six months. The
+$1,434,458 kratom inventory reserve from §2 sits inside that collapse.
+
+## A4. What this does to the argument, honestly
+
+**This case has been describing an industry that buys outcomes. One of the companies
+inside it is going broke.**
+
+That does not soften anything about Findings 22 through 24, which trace real money to
+real committees, or about Finding 39, which shows 210 mg products on a state registry.
+**Botanic Tonics is privately held and its finances are not in this record at all.**
+LFTD Partners is one registrant, not the sector.
+
+**But it is the wrong picture to leave uncorrected**, and it explains something the
+simpler story does not. **A company with negative gross profit, a $34 million
+accumulated deficit and a written bankruptcy warning, suing four states on
+constitutional theories, is not acting from strength.** It is a business whose product
+line is being closed off from several directions at once, litigating because the
+alternative is winding up.
+
+**[I] Inference, labelled.** Desperation is at least as good an explanation for the
+volume of litigation as confidence is. **This case should stop implying the second
+without evidence for it.**
+
+**And it sharpens the public-health point rather than blunting it.** A distressed
+seller with negative margins has every incentive to move volume, and Finding 39 shows
+what the volume looks like: 210 mg, 150 mg, 100 mg, thirty products, one of them
+branded **Dopium**.
+
+## A5. What is NOT established
+
+- **No 7-OH-specific revenue figure exists in these filings.** The segment tables stop
+  at hemp versus non-hemp and at product form. §A2's caution stands.
+- **We have not read the FY2025 10-K in full**, only searched it. A full read may
+  contain a customer or product concentration note that resolves §A2.
+- **Nothing here describes Botanic Tonics**, Genrev Labs, STNR Creations or The Empire
+  Distribution, which are the registrants behind the largest doses in Finding 39.
+  **Whether any of those are public has not been checked** and is listed in §8.
+
+**Added exhibit:** `exhibits/sec/lftd_partners_10k_20260401.htm`, sha256 in
+`exhibits/SHA256SUMS.txt`. SEC EDGAR CIK 0001391135, accession 0001096906-26-000454.

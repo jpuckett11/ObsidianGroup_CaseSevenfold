@@ -325,6 +325,22 @@ and the leaf excluded, a ceiling and a floor at once. **[I] Convergent strategy,
 proven concert**; the two companies are rivals and Finding 38 has one naming the
 other's products.
 
+**Addendum the same day, and it corrects our own tone.** The filings put numbers to
+"half or more" and they are not what this case expected. **H1 2026 net sales
+$17,863,400 against cost of goods sold of $18,918,247, so gross profit of NEGATIVE
+$1,054,847.** Revenue down about 28% since 2023. **Accumulated deficit $34,444,821**
+and the filing states in terms that "**Bankruptcy of the Company at some point in the
+future is a possibility.**" Non-hemp products, the segment containing kratom, are
+**$9,137,589 or 51%** of H1 sales and **grew** as a share while hemp fell, though
+non-hemp is not a synonym for kratom-derived and the finding says so. **[I] A company
+with negative gross profit and a written bankruptcy warning, suing four states, is not
+acting from strength.** Desperation explains the litigation volume at least as well as
+confidence does, and **this case should stop implying the second without evidence.**
+It sharpens rather than blunts the public-health point: a distressed seller with
+negative margins has every reason to move volume, and Finding 39 shows the volume is
+210 mg, 150 mg and 100 mg, one line branded **Dopium**. Botanic Tonics is private and
+its finances are not in this record at all.
+
 **2026-08-29 — Finding 39: a state registry, dated six weeks after scheduling, lists
 thirty 7-OH products by name. The biggest is 210 mg.** **[P]** West Virginia
 Department of Agriculture, **"Registered Kratom Products v 08/14/2026"**, 450 rows,
