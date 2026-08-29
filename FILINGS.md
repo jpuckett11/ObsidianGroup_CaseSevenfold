@@ -476,6 +476,14 @@ good; only the channel was ever wrong.**
 
 ### 2. FOIA — DOJ / EOUSA / USAO-NDOkla — **READY 2026-08-28**
 
+> **HOLD AND CHECK FIRST, added 2026-08-28.** CourtListener became reachable today
+> and the forfeiture docket is locatable: ***United States v. 250,000 filled bottles
+> of liquid product***, **4:23-cv-00168 (N.D. Okla.)**. This FOIA asks why the
+> United States dismissed that action. **A dismissal is docketed, and the answer may
+> already be public.** Read the docket before filing. If it answers the question the
+> FOIA becomes unnecessary; if it does not, the FOIA gets sharper by citing the
+> docket entry it failed to explain. See `LEADS.md` L-03.
+
 Dated, addressed, PDF built. `deliverables/foia/DOJ_PORTAL_GUIDE.txt` has the
 submission path.
 

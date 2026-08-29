@@ -101,3 +101,62 @@ first.
 2020 OIG preamble, the January 2025 change, the $623 safe harbor figure and the
 absence of the rule are all sourced independently. These would remove two hedges,
 not repair a hole.
+
+---
+
+## L-03 — The litigation record, newly reachable
+
+**Opened 2026-08-28. Status: OPEN, unworked, and the largest single unopened seam
+in this case.**
+
+CourtListener refused anonymous access on 2026-08-27 and this was recorded as a hard
+block. **It was rechecked on 2026-08-28 and the `/search/` endpoint now answers.**
+Nothing was chased; this entry exists so the seam is on the record as unworked.
+
+**Confirmed by case name, so not relying on search relevance:**
+
+| Case | Docket | Court | Filed |
+|---|---|---|---|
+| *United States v. 250,000 filled bottles of liquid product* | 4:23-cv-00168 | N.D. Okla. | 2023-04-26 |
+| *Torres v. Botanic Tonics, LLC* | 3:23-cv-01460 | N.D. Cal. | 2023-03-28 |
+| *Botanic Tonics v. Pherson* | 2:25-cv-00886 | D. Utah | 2025-10-03 |
+| *Botanic Tonics, LLC v. Pherson* | 2:26-cv-00267 | D. Utah | 2026-03-31 |
+| *Botanic Tonics v. Pherson* | **26-4060** | **10th Cir.** | 2026-05-05 |
+| *Botanic Tonics LLC v. Leonhardt* | 2:25-cv-00680 | S.D. W. Va. | 2025-11-19 |
+| *Botanic Tonics, LLC v. Outcast Distribution, LLC* | 2:25-cv-07448 | C.D. Cal. | 2025-08-11 |
+| *Botanic Tonics, LLC v. Outcast Distribution, LLC* | 2:25-cv-07449 | C.D. Cal. | 2025-08-11 |
+
+**Why this matters more than an ordinary lead.**
+
+**The forfeiture docket may answer what the DOJ FOIA asks.** That FOIA (`FILINGS.md`
+READY §2) asks why the United States dismissed its own forfeiture action after
+seizing roughly $3 million of product at FDA's request. A dismissal is usually
+docketed with a stipulation or an order, and sometimes with a reason. **We wrote a
+FOIA for a question the public record may already answer.** That is worth checking
+before the FOIA is filed, not after.
+
+**Botanic Tonics appears as plaintiff far more than as defendant.** Six of the eight
+confirmed cases have it suing someone. This case has so far characterised the company
+through its own litigation exposure. **We have not looked at what it does with
+litigation offensively, and we should not describe the company's posture until we
+have.** `[U]` — we have read none of these dockets, only their captions.
+
+**The Utah cluster is noted, and nothing is inferred from it.** Two D. Utah filings
+and a Tenth Circuit appeal, in the state where Poison Control issued the Buzzers
+alert and a death was reported (Finding 29). **This is a coincidence of venue until
+somebody reads the filings.** It is recorded so nobody later mistakes the fact that
+we noticed it for the claim that it means something.
+
+**Also seen and NOT relied on:** the same fuzzy search surfaced *United States v.
+Undetermined quantities of dietary supplements*, 4:25-cv-00917 (W.D. Mo., filed
+2025-11-21). **Its case name does not name any party in this case, we could not
+confirm any connection, and it may be an unrelated seizure.** `[U]` Recorded only
+because a second federal supplement seizure filed a month before the Oklahoma
+dismissal would matter if it were related, and confirming or killing it is cheap.
+
+**Method note.** CourtListener's `/search/` endpoint fuzzy-matches: a query for
+"Botanic Tonics" returned 37 hits including mattress litigation, a cooler recall and
+OpenAI. **Its result count is not a count of related cases**, and only case-name
+matches are used above. The `/dockets/` endpoint, which would allow a clean query,
+returns *"Authentication credentials were not provided."* **A free CourtListener
+token is the next step and has not been obtained.**
