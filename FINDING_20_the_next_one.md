@@ -2,7 +2,7 @@
 ## 9-hydroxycorynantheidine: the scaffold the scheduling order does not reach
 
 **Status:** CONFIRMED, with controls, from federal primaries.
-**Date:** 2026-08-28. **Opened at the investigator's direction.**
+**Date:** 2026-08-28. **Opened at the researcher's direction.**
 
 ---
 
@@ -68,7 +68,7 @@ family.** The same logic reaches 9-OH-corynantheidine and was not extended to it
 
 ### 6. There is no money on it yet, and that is the point
 
-The investigator asked whether the funding pattern matches 7-OH. **It does not,
+The researcher asked whether the funding pattern matches 7-OH. **It does not,
 because it has not started.** Zero lobbying filings. Zero docket activity. Zero
 adverse event reports.
 

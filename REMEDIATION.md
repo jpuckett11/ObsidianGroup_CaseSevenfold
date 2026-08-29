@@ -2,7 +2,7 @@
 ## Why this will keep happening, and the only thing that stops it
 
 **This document is argument, not finding.** Everything in the numbered findings is
-sourced and checkable. This is what the investigator concludes from them, stated
+sourced and checkable. This is what the researcher concludes from them, stated
 plainly and labelled as a conclusion so a reader can disagree with it without
 disputing the evidence.
 
@@ -138,7 +138,7 @@ Three more structural undercounts sit on top of that:
   interviewer at the door.
 
 **The real figure is higher than 48.4 million and nobody knows by how much.** The
-investigator's objection, that people in this condition do not report themselves,
+researcher's objection, that people in this condition do not report themselves,
 is the same objection that invalidated an earlier conclusion in this case
 (Finding 29 s6). It was right then and it is right here.
 
@@ -158,7 +158,7 @@ capacity. Prescriber supply, insurance coverage, and the months after a taper ar
 all set by federal policy. **The scale of the gap and the level of the lever are
 the same size, and that level is federal.**
 
-**The investigator's conclusion, stated as his:** *"we are leaving a large
+**The researcher's conclusion, stated as his:** *"we are leaving a large
 demographic to just waste away... that is what this government is throwing away.
 For what? A few to profit."*
 
@@ -178,7 +178,7 @@ Access is the binding constraint, and it is not a small gap at the margins. In t
 (*Substance Use & Addiction Journal*, 2026, DOI 10.1177/29767342261442456). That is
 the best-resourced case in the country. Everyone else does worse.
 
-The investigator got out. What it took:
+The researcher got out. What it took:
 
 - a physician who would prescribe
 - buprenorphine with naloxone, actually dispensed
@@ -206,7 +206,7 @@ than the community trials that worked.
 
 **Pay more, pay sooner, it works better. Pay less, pay later, it stops working.**
 
-That is the investigator's hypothesis with an effect size attached. It is not a
+That is the researcher's hypothesis with an effect size attached. It is not a
 metaphor about investing in people. It is the literal finding.
 
 **CLOSED 2026-08-28. It did bind, and the answer is worse than the question.**
@@ -263,7 +263,7 @@ notice, and so no one did.
 
 ## 6. Education and a trade: what the European evidence actually says
 
-The investigator raised the European rehabilitation literature, and the same
+The researcher raised the European rehabilitation literature, and the same
 approach applied to people with long criminal records, noting the two populations
 are largely the same people. Both points are correct. **The evidence is more
 complicated than the idea, and saying so is what makes the rest of this document
@@ -336,7 +336,7 @@ criminal justice outcomes, while outcomes overall were mixed. **The package show
 something. The single component did not.**
 
 **A trade is not a passion, and a certificate is not an occupation.** The
-investigator's phrase was about what fills the hours and gives the day a purpose.
+researcher's phrase was about what fills the hours and gives the day a purpose.
 The null result above is not evidence against that. It is evidence that a piece of
 paper is not the same thing, which was never the claim.
 
@@ -353,7 +353,7 @@ scheduled within months. The question of what happens to the person has been
 
 ## 7. Addicted to their passions
 
-**The investigator's hypothesis, in his words:**
+**The researcher's hypothesis, in his words:**
 
 > "They must be trained in their passion. It pulls them in. Their addiction is
 > satisfied by the endorphins of doing what they love, or fixing what they love."
@@ -425,7 +425,7 @@ was doing the work.
 
 ### Who these people actually are
 
-The investigator's observation: **an addict would make a formidable security
+The researcher's observation: **an addict would make a formidable security
 researcher, because the addict usually has ADHD as well.** Two parts. The first is
 established. The second is his hypothesis and is recorded as such.
 
@@ -471,7 +471,7 @@ them as "botanical supplementation" is the second betrayal, not the first.**
 ### The part that is hypothesis, and is labelled as one
 
 **[I] That this population is well-matched to technical investigative work is the
-investigator's hypothesis and is not established by anything cited here.** Searches
+researcher's hypothesis and is not established by anything cited here.** Searches
 for an evidence base on ADHD cognitive strengths in employment returned nothing
 usable.
 
@@ -489,7 +489,7 @@ it.
 
 ### Disclosure
 
-**The investigator is conducting his own test of this hypothesis.** That is stated
+**The researcher is conducting his own test of this hypothesis.** That is stated
 here, unprompted, because a reader is entitled to know it before weighing anything
 in this section.
 
@@ -584,7 +584,7 @@ and may fund use. **Trajectory is protective.** The authors' own recommendation 
 policy "focused on **vocational growth** in addition to employment benchmarks."
 
 Growth is what a passion produces and a job does not guarantee. This is the
-strongest single piece of evidence for the investigator's exact formulation
+strongest single piece of evidence for the researcher's exact formulation
 anywhere in this document.
 
 ### Programmes already built on it
@@ -629,7 +629,7 @@ programmes.
 contact with the grey literature: nobody has run a trial that trains people in what
 they already care about and measures relapse against a control.
 
-## 9. The investigator's conclusion, stated as his
+## 9. The researcher's conclusion, stated as his
 
 > "The machine doesn't care about true freedom or the people any more. It cares
 > about corporations and the machine."
@@ -664,7 +664,7 @@ required to notice.**
 
 ## 10. The principle underneath all of it
 
-The investigator's framing, and it is the clearest statement of the whole argument:
+The researcher's framing, and it is the clearest statement of the whole argument:
 
 > **A unit is only as strong as its weakest member. So you strengthen the weakest
 > member. You do not discard them.**
@@ -842,7 +842,7 @@ and a Senate office that routes callers back to it (`CONTACT_LOG.md`).
 Of **27,053 comments** on the open docket, the two questions that most needed asking
 were asked **once**, by one man in Columbia, Tennessee (F26).
 
-### The investigator's words, and this document ends on them
+### The researcher's words, and this document ends on them
 
 > "This entire case file is only possible because we are leaving our people behind.
 > Let people make money with tax holes where they keep it all. They are doing double
@@ -915,7 +915,7 @@ than paraphrased (s6, the null result on vocational certificates).
 
 ### What is opinion, and marked as such
 
-Section 9 is the investigator's conclusion, in quotation marks, with a line stating
+Section 9 is the researcher's conclusion, in quotation marks, with a line stating
 that no reader is asked to adopt it. **[I]** marks inference throughout. The
 "passion" mechanism in s7 is labelled as hypothesis, and the document states plainly
 that **no randomised trial of it exists**.
@@ -923,7 +923,7 @@ that **no randomised trial of it exists**.
 ### Where we have already been wrong, in this document
 
 - We first published the treatment gap as **80.6%** using SAMHSA's circular
-  "needed treatment" denominator. **The investigator challenged it. The corrected
+  "needed treatment" denominator. **The researcher challenged it. The corrected
   figure is 87.6% and is worse than what we published.** s4 now shows both and
   explains the difference.
 - We first described recovery capital as an unmeasurable construct. **Validated

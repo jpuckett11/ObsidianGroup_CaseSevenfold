@@ -47,7 +47,7 @@ or oxindole side becomes covered. On the day 7-OH is controlled, **a mu-opioid f
 agonist and a major human metabolite of the controlled substance remain lawful to
 manufacture, market and sell at federal level.**
 
-The investigator who documented this gap can walk into a smoke shop and buy the
+The researcher who documented this gap can walk into a smoke shop and buy the
 substitute over a counter, lawfully, while the rule restricting the original is
 still being written. **That is not a hypothetical about future substitution. It is
 the present condition.**

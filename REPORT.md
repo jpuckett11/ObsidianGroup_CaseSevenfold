@@ -343,7 +343,7 @@ across the field.
 There is one argument in this file that survives every concession we have made,
 and it is the one worth carrying out of here.
 
-The investigator's own case is close to a best case. He knew it was an opioid
+The researcher's own case is close to a best case. He knew it was an opioid
 before he took the first tablet. He chose the moment and the product. He had a
 physician who would see him, money for the prescription, a house to be ill in and
 another adult in it, and he intended from the start to stop and to write it down.

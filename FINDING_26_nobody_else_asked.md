@@ -111,7 +111,7 @@ Twenty-seven thousand people told the Department what they think. The Department
 must review that record.
 
 Inside it, two questions exist exactly once, and both are ours. Neither depends on
-anyone finding this case interesting, sharing it, or believing the investigator.
+anyone finding this case interesting, sharing it, or believing the researcher.
 They sit in the administrative record with tracking numbers attached, and they
 will still be sitting there when the comment period closes on 10 September 2026.
 

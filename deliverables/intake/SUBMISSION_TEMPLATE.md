@@ -46,8 +46,8 @@ section 4 (documented harm), before section 5.
 - Always give the denominator.
 - Never write "most users" or any population claim.
 - Never include an account whose respondent did not tick the docket box in H.
-- The investigator's own account (Finding 13) is disclosed separately as the
-  investigator's, or omitted. It is never folded in anonymously.
+- The researcher's own account (Finding 13) is disclosed separately as the
+  researcher's, or omitted. It is never folded in anonymously.
 
 ---
 

@@ -97,7 +97,7 @@ falsification criteria.
 We retracted a reassuring conclusion about cat's claw **within an hour** of
 publishing it. We corrected our own federal comment after finding the compound is a
 **major human metabolite**, not a minor plant alkaloid. We published a treatment-gap
-figure of 80.6% and corrected it to **87.6%** when the investigator challenged our
+figure of 80.6% and corrected it to **87.6%** when the researcher challenged our
 arithmetic — the correction went against us.
 
 **All three corrections are in the file with the reasoning intact.** That is the

@@ -6,7 +6,7 @@ Prepared 2026-08-28 for Jay Puckett, Obsidian Watch Group
 VERSION A - CONTACT FORM / DM  (1,180 characters, fits most web forms)
 -----------------------------------------------------------------------------
 
-I am a licensed private investigator in Tennessee. I am not pitching you music
+I am the principal security researcher at Obsidian Watch Group, in Tennessee. I am not pitching you music
 and I am not asking for money.
 
 For the last month I have documented what is being sold as "botanical
@@ -44,7 +44,7 @@ Subject: Free case file on what is being sold to your audience at gas stations
 
 To whom it concerns at Death Row Records,
 
-I am a licensed private investigator in Columbia, Tennessee. This is not a
+I am the principal security researcher at Obsidian Watch Group, in Columbia, Tennessee. This is not a
 booking enquiry, I am not asking for money, and I have nothing to sell.
 
 For the last month I have been documenting the products sold as "botanical

@@ -295,7 +295,7 @@ Written down deliberately, so we test it instead of confirming it.
 
 
 **2026-08-28 — `REMEDIATION.md` s10, the principle underneath all of it.** In the
-investigator's words: **"A unit is only as strong as its weakest member. So you
+researcher's words: **"A unit is only as strong as its weakest member. So you
 strengthen the weakest member. You do not discard them."** Stated as operational
 logic rather than sentiment: removing the least capable component does not raise the
 average, **it lowers the ceiling**, because everyone remaining learns what happens to

@@ -106,7 +106,7 @@ assuming.
 **b. We treated absence in CAERS as absence of harm.** Nine adverse event reports
 against 879 for kratom, with no dependence signal, was read as reassurance. **CAERS
 is a passive system.** It records people who call a poison centre. It does not
-record a dependent person who does not call anyone. **The investigator made this
+record a dependent person who does not call anyone. **The researcher made this
 objection immediately and was right**, from direct personal knowledge of what
 dependence on these products looks like from the inside.
 

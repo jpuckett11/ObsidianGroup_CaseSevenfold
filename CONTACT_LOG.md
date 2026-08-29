@@ -39,7 +39,7 @@ ordinary practice, not misconduct.
 | 2026-08-28 | **TN Division of Consumer Affairs** | Email to `consumer.affairs@ag.tn.gov`, a route the Division publishes | **Acknowledged in 23 seconds.** Reference `104939` |
 | 2026-08-28 | **Sen. Marsha Blackburn (R-TN)** | Email to `senator@blackburn.senate.gov` | **Bounced.** `550 5.1.1 User Unknown` from the Senate's own mail server. No senator publishes an email address; the official Senate directory lists none |
 | 2026-08-28 | **Sen. Marsha Blackburn (R-TN)** | Web form, two messages | **Submitted.** Confirmation page returned. **No tracking number is issued**, so there is no way for a constituent to reference the submission later |
-| 2026-08-28 | **Sen. Marsha Blackburn (R-TN)** | Phone, Nashville office (629) 800-6600 | **Directed to the web form.** No substantive engagement; a request to reach a policy staffer was not fulfilled. [S] investigator's contemporaneous account |
+| 2026-08-28 | **Sen. Marsha Blackburn (R-TN)** | Phone, Nashville office (629) 800-6600 | **Directed to the web form.** No substantive engagement; a request to reach a policy staffer was not fulfilled. [S] researcher's contemporaneous account |
 | 2026-08-28 | **Death Row Records** | Web contact form, deathrowrecords.com/contact | Submitted. Confirmation page returned "Thanks, we'll be in touch. Your inquiry has been received." **No reference number issued**, so there is no way to follow up or prove what was sent. Asks whether the label would point people at the case file. No endorsement, no money, refusable in one line |
 
 ---
@@ -140,7 +140,7 @@ Every row is verified, not assumed:
   acknowledgment, a tracking number, or a docket receipt. This rule was added
   after an FDA FOIA sat recorded as "sent" for a day when the agency had in fact
   refused it.
-- Phone contacts are recorded as **[S] the investigator's contemporaneous
+- Phone contacts are recorded as **[S] the researcher's contemporaneous
   account**, and labelled as such, because we did not record the calls.
 
 Corrections are welcome and will be published. If an office believes a row here is
