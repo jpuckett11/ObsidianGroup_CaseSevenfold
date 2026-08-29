@@ -304,6 +304,21 @@ themselves. Applied to **42.4 million untreated**, the response has been to sche
 one molecule at a time, **managing the consequences of the abandonment rather than
 ending it.** Also added to the README.
 
+**2026-08-29, Finding 54: the only kratom appropriation in the country is $20,000
+for a website, and it is being heard on Wednesday.** North Dakota's 69th Assembly,
+second special session. **HB 1628** (Heinert) regulates kratom, bans sale under 21,
+fines to **$15,000**, and appropriates **$20,000** to Health and Human Services for
+"a kratom public health awareness campaign, including the maintenance of kratom
+resources on the department's website." **SB 2408** (Axtman) puts 7-OH, **mitragynine
+pseudoindoxyl, MGM-15, MGM-16 and 7-acetoxymitragynine** on Schedule I and
+appropriates **nothing** (control: 0 hits "appropriat", 3 hits "penalt"). Both heard
+**2026-09-01** in Special Ad Hoc Policy, and **together 2026-09-02 at 10:30** in
+Joint Policy, room Pioneer. **[I] One $15,000 fine is three quarters of the entire
+appropriation, and $20,000 does not fund one person** at the Finding 50 package of
+$21,802. Nineteen states moved 73 kratom bills in 2026; four have acted since June;
+North Dakota is the only one hearing a scheduling bill and a funded bill in the same
+room on the same morning. **Re-pull after Wednesday.**
+
 **2026-08-29, Finding 53: FDA warned the CEO about the product in June 2025. In
 February 2026 that same product was recalled Class I for holding more 7-OH than its
 own label. The manufacturer printed on it has been enforced against by nobody.**

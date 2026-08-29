@@ -1,0 +1,84 @@
+{
+ "last_updated": "2026-08-28T23:47:09",
+ "assembly": "69th Legislative Assembly",
+ "bills": {
+  "1628": {
+   "title": "A BILL for an Act to create and enact chapter 51-38 of the North Dakota Century Code, relating to the regulation of kratom products; to amend and reenact section 12.1-31-03 of the North Dakota Century Code, relating to the sale of kratom to individuals under twenty-one years of age; to provide a penalty; to provide an appropriation; and to provide an effective date.",
+   "chamber": "House",
+   "hearings": [
+    {
+     "id": 44897,
+     "description": "Relating to the regulation of kratom products; to amend and reenact section 12.1-31-03 of the North Dakota Century Code, relating to the sale of kratom to individuals under twenty-one years of age; to provide a penalty; to provide an appropriation; and to provide an effective date.",
+     "type": "Bill Hearing",
+     "date": "2026-09-01T14:00:00",
+     "committee": {
+      "id": 2044,
+      "name": "Special Ad Hoc Policy Committee"
+     },
+     "room": "Roughrider"
+    },
+    {
+     "id": 44890,
+     "description": "Relating to the regulation of kratom products and the sale of kratom to individuals under twenty\u2011one years of age.",
+     "type": "Bill Hearing",
+     "date": "2026-09-02T10:30:00",
+     "committee": {
+      "id": 2036,
+      "name": "Joint Policy"
+     },
+     "room": "Pioneer"
+    }
+   ],
+   "actions": [
+    {
+     "id": 485265,
+     "description": "Committee Hearing 10:30",
+     "date": "2026-09-02T10:30:00",
+     "category": "Committee hearing",
+     "chamber": "House",
+     "bill_version": null,
+     "roll_call": {}
+    }
+   ]
+  },
+  "2408": {
+   "title": "A BILL for an Act to create and enact subdivision lll of subsection 3 of section 19-03.1-05 of the North Dakota Century Code, relating to the scheduling of mitragynine synthetic derivatives as a schedule I controlled substance; to amend and reenact section 19-03.1-22.3 and subsection 7 of section 19-03.1-23 of the North Dakota Century Code, relating to penalties for the use and possession of mitragynine synthetic derivatives; to provide a penalty; and to provide an effective date.",
+   "chamber": "Senate",
+   "hearings": [
+    {
+     "id": 44896,
+     "description": "Relating to penalties for the use and possession of mitragynine synthetic derivatives; to provide a penalty; and to provide an effective date.",
+     "type": "Bill Hearing",
+     "date": "2026-09-01T13:00:00",
+     "committee": {
+      "id": 2044,
+      "name": "Special Ad Hoc Policy Committee"
+     },
+     "room": "Roughrider"
+    },
+    {
+     "id": 44893,
+     "description": "Relating to the scheduling of mitragynine synthetic derivatives as a schedule I controlled substance.",
+     "type": "Bill Hearing",
+     "date": "2026-09-02T10:30:00",
+     "committee": {
+      "id": 2036,
+      "name": "Joint Policy"
+     },
+     "room": "Pioneer"
+    }
+   ],
+   "actions": [
+    {
+     "id": 485269,
+     "description": "Committee Hearing 10:30",
+     "date": "2026-09-02T10:30:00",
+     "category": "Committee hearing",
+     "chamber": "House",
+     "bill_version": null,
+     "roll_call": {}
+    }
+   ]
+  }
+ }
+}
