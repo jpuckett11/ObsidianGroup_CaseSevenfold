@@ -304,6 +304,36 @@ themselves. Applied to **42.4 million untreated**, the response has been to sche
 one molecule at a time, **managing the consequences of the abandonment rather than
 ending it.** Also added to the README.
 
+**2026-08-29, Finding 44: Tennessee's answer to a death was to criminalise the user and
+delete kratom from the treatment title.** **[P]** Public Chapter 950, "Matthew
+Davenport's Law," signed by Gov. Bill Lee, effective **1 July 2026**, named for a
+Chattanooga man who died in 2024. **Possession of kratom is now a Class A misdemeanor
+in Tennessee; sale is a Class C felony.** The definition reaches "any alkaloid or
+alkaloid derivative... created by chemical synthesis or biosynthetic means" and
+anything "substantially chemically equivalent." **The word "treatment" appears zero
+times in the act; "kratom" appears 14, so the control works. Appropriation: $0.** The
+companion bill, **HB 1647, would have made simple possession a Class D FELONY** and
+sale a Class B felony, which is the range the debate occupied. **[S]** The regulatory
+alternative, HB 2594, a Tennessee KCPA, never reached a floor vote. **Section 3 is the
+one that matters: the act deletes ", including Kratom" from TCA 33-2-1404(a)(8)**,
+which sits in **Title 33, Mental Health and Substance Abuse Services**, Part 14, the
+licensing statute for **nonresidential substitution-based treatment centers for opiate
+addiction**. **In the same act that made possession a crime, the legislature struck
+kratom out of the opioid treatment clinic statute.** **[U] The text of (a)(8) before
+deletion could not be obtained** (Justia 403, Casetext 410, FindLaw 403, LawServer
+307), so what the phrase was attached to is unknown and not guessed at. **That single
+subsection is the highest-value outstanding item here.** What the act does instead:
+mandatory kratom testing in overdose autopsies, in toxicology for suspected overdose
+and neonatal abstinence syndrome, and a drug-free-workplace definition. **Real data on
+the dead, nothing for the living.** **THE SCALE, which is the investigator's point.**
+Against the **$425.0 billion a year** estimated burden of opioid-related adverse events
+and undertreatment (range $164.5B to $1,215.5B, DOI 10.3389/fpubh.2026.1824038):
+Utah's entire expiring treatment line of **$6,161,003 is 0.0014%** of it, the
+**$1,600,000** replacement is **0.00038%**, and **Tennessee's appropriation is 0%**.
+**[I] These are not budget decisions at the scale of the problem, they are rounding.
+And the $425 billion is not a proposal, it is what is already being spent on the
+aftermath.**
+
 **2026-08-29, Finding 43: Utah answered it. Same session, molecule regulated for free,
 treatment cut by three quarters.** **[P]** from le.utah.gov. Finding 42 named this as
 its decisive unresolved question and Utah is the file's best-documented state.
